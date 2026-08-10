@@ -82,7 +82,9 @@ para un novato: círculos de estrellas girando sobre el paisaje.
 1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
    sur celeste, que no tiene estrella brillante — PhotoPills (modo "Noche" con
    realidad aumentada) te lo marca, o prolonga el brazo largo de la Cruz del
-   Sur unas 4,5 veces.
+   Sur unas 4,5 veces. El polo queda a una altura igual a tu latitud: en
+   Etosha, ~19° sobre el horizonte sur — el centro de los círculos cae bajo,
+   así que puedes meter un árbol o una silueta en el mismo encuadre.
 2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, reducción de ruido
    de larga exposición **OFF** (o cada foto irá seguida de 30 s a oscuras y
    los arcos saldrán cortados), enfoque a las estrellas como siempre.
