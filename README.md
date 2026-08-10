@@ -8,6 +8,9 @@ Pensadas para quien viene de hacer fotos sobre todo con el móvil (y algo de
 réflex/compacta): sin teoría — recetas con valores concretos, pasos numerados
 y tablas de "si la foto sale mal, toca esto".
 
+¿Con cuál quedarse? → [Comparativa A7 III vs 5D Mark III](comparativa.md):
+calidad, facilidad para novato y cómo repartirlas si viajan las dos.
+
 ## Sony A7 III
 
 0. [Del móvil a la A7 III](a7iii/00-de-movil-a-a7iii.md) — los 3 números que importan, los diales, RAW y 4 tardes de deberes antes del viaje.
