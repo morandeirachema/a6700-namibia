@@ -61,6 +61,8 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 
 ## 🧭 Guías comunes
 
+- 🕐 [Las mejores horas](comun/mejores-horas.md) — el día del safari hora a hora, la fauna que sí tiene horario y las noches del 1 al 15 de noviembre con su luna.
+- 📱 [Las apps del viaje](comun/apps-del-viaje.md) — PhotoPills, Stellarium y mapas offline: qué instalar antes de volar y cómo se usa cada una, paso a paso.
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.
@@ -75,3 +77,4 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - Mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 - Reserva Internacional de Cielo Oscuro NamibRand (DarkSky International): <https://darksky.org/places/namibrand-dark-sky-reserve/>
 - Charcas y campamentos de Etosha (NWR): <https://www.nwr.com.na/>
+- El dossier logístico del viaje (itinerario real, presupuesto y fuentes): <https://github.com/morandeirachema/namibia>

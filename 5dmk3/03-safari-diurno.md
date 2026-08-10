@@ -141,6 +141,10 @@ Y la regla de luz más rentable para empezar: **sol a tu espalda**, animal
 iluminado de frente. Los contraluces son para las siluetas del atardecer y el
 polvo dorado — buscados, no accidentales.
 
+El plan completo — el día hora a hora, la fauna que sí tiene horario y las
+noches de tu quincena con su luna — está en
+[las mejores horas](../comun/mejores-horas.md).
+
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>

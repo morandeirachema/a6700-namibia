@@ -132,7 +132,9 @@ salir a buscar primer plano, y dentro del recinto hay farolas y el resplandor
 de los focos de la charca.
 
 **La app: PhotoPills** (pago único, iOS/Android:
-<https://www.photopills.com/>). Las tres pantallas que vas a usar:
+<https://www.photopills.com/>; instalación, pins y manejo básico, en
+[las apps del viaje](../comun/apps-del-viaje.md)). Las tres pantallas que
+vas a usar:
 
 1. **Planificador**: pin sobre tu campamento (p. ej. Okaukuejo), activa la
    capa de Vía Láctea y mueve la barra de tiempo: te dibuja sobre el mapa

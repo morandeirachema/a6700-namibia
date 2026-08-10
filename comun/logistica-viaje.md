@@ -107,7 +107,7 @@ no en Etosha:
   bag (vacío) en la bolsa.
 - [ ] Todo el equipo va en **cabina**, nunca facturado.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
-  descargados.
+  descargados ([cómo, paso a paso](apps-del-viaje.md)).
 - [ ] Imprime la [chuleta](../5dmk3/chuleta.md) y la
   [lista de tomas](lista-de-tomas.md).
 
