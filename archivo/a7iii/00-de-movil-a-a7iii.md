@@ -119,14 +119,14 @@ que aparezca la gráfica):
   del borde**.
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
-[chuleta visual del histograma](../comun/histograma.md).
+[chuleta visual del histograma](../../comun/histograma.md).
 
 ## RAW (y cómo pasar fotos al móvil en el viaje)
 
 En el móvil, Google/Apple editan la foto por ti. El RAW es el negativo sin
 editar: colores planos al principio, pero recuperas cielos, sombras y ruido
 de una forma imposible con JPEG. La edición está explicada en la
-[guía de edición](../comun/edicion-basica.md).
+[guía de edición](../../comun/edicion-basica.md).
 
 - Configura **RAW+JPEG** si quieres compartir sobre la marcha: el RAW para
   editar en casa, el JPEG para enviar ya.
@@ -140,7 +140,7 @@ de una forma imposible con JPEG. La edición está explicada en la
 |---|---|
 | Una sola foto del momento bueno | Haz siempre 3; en fauna, ráfaga corta |
 | Salir por la mañana con el ISO 6400 de anoche | Las memorias 1/2 lo resuelven; aun así, mira ISO y obturación al empezar el día |
-| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en el ordenador. Lleva tarjetas de sobra ([logística](../comun/logistica-viaje.md)) |
+| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en el ordenador. Lleva tarjetas de sobra ([logística](../../comun/logistica-viaje.md)) |
 | Fiarse de la pantalla a pleno sol | Histograma (arriba) |
 | Horizontes torcidos | Activa el **nivel electrónico** (botón DISP hasta verlo) |
 | Limpiar la lente con la camiseta | Pera + microfibra, siempre en la mochila |
@@ -161,7 +161,7 @@ de una forma imposible con JPEG. La edición está explicada en la
 6. **La cámara a ciegas**: configura botones y memorias del
    [capítulo 1](01-configuracion-basica.md) y practica cambiar de memoria 1 a
    2 sin mirar. Después vuelca las fotos y prueba el
-   [flujo de edición](../comun/edicion-basica.md) con las de la tarde 5.
+   [flujo de edición](../../comun/edicion-basica.md) con las de la tarde 5.
 
 ## Referencias
 

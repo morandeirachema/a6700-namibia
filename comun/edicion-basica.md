@@ -43,13 +43,14 @@ De un safari salen 800 fotos y valen 30. Antes de editar nada:
 - **DxO PureRAW** como alternativa/complemento (procesa el RAW antes de
   editar): <https://www.dxo.com/dxo-pureraw/>
 - **darktable**: módulo "reducción de ruido (perfilada)", que ya conoce el
-  perfil de ruido de ambas cámaras.
+  perfil de ruido de la 5D3.
 
 Orden correcto: primero el denoise, después el revelado fino.
 
 ## Astro: apilado con Sequator, paso a paso
 
-Para las 10 tomas idénticas que hiciste siguiendo el capítulo 2 de tu cámara
+Para las 10 tomas idénticas que hiciste siguiendo el
+[capítulo 2](../5dmk3/02-astrofotografia-namibia.md)
 (Windows; en macOS, Starry Landscape Stacker funciona parecido:
 <https://sites.google.com/site/starrylandscapestacker/>).
 

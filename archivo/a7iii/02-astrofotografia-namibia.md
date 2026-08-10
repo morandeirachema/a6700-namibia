@@ -80,7 +80,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    los arcos).
 4. Batería llena al empezar; no toques nada hasta el final.
 5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
-   explicado en la [guía de edición](../comun/edicion-basica.md).
+   explicado en la [guía de edición](../../comun/edicion-basica.md).
 
 ## Apilado en casa
 
@@ -88,7 +88,7 @@ Dispara las 10 tomas del paso 8 y apílalas con Sequator (Windows, gratis:
 <https://sites.google.com/view/sequator/>) o Starry Landscape Stacker
 (macOS: <https://sites.google.com/site/starrylandscapestacker/>). Es la mejor
 mejora de calidad gratuita que existe en astro — el paso a paso está en la
-[guía de edición](../comun/edicion-basica.md).
+[guía de edición](../../comun/edicion-basica.md).
 
 ## Localizaciones destacadas
 

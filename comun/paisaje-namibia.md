@@ -1,7 +1,6 @@
 # Paisaje diurno en Namibia — dunas, Deadvlei, Kolmanskop y costa
 
-La mitad diurna del país que no es fauna. Vale para las dos cámaras; donde
-haya diferencia, se indica.
+La mitad diurna del país que no es fauna.
 
 ## Receta base de paisaje
 
@@ -42,7 +41,8 @@ plano mucho más de lo que te parece natural.
   fotos a ±2 EV, y fusiónalas después (HDR en Lightroom) o elige la mejor.
   Ambas cámaras lo tienen en el menú de exposición como "Bracketing/AEB".
 - Un cuerpo con el tele desde lejos (compresión duna-árboles) y otro con el
-  angular dentro del vlei es el reparto perfecto si lleváis las dos cámaras.
+  angular dentro del vlei es el reparto perfecto si va también la 650D de
+  respaldo.
 
 ## Kolmanskop (ciudad fantasma)
 
@@ -61,9 +61,8 @@ plano mucho más de lo que te parece natural.
 
 ## Costa: Walvis Bay y Swakopmund
 
-- **Flamencos en la laguna de Walvis Bay**: tele, receta de fauna diurna de tu
-  guía ([5D3](../5dmk3/03-safari-diurno.md) · [A7 III](../a7iii/03-safari-diurno.md)),
-  1/2000 s si vuelan. Agáchate: a la altura de sus patas la foto cambia.
+- **Flamencos en la laguna de Walvis Bay**: tele, la
+  [receta de fauna diurna](../5dmk3/03-safari-diurno.md), 1/2000 s si vuelan. Agáchate: a la altura de sus patas la foto cambia.
 - Niebla costera frecuente al amanecer: no es mal tiempo, es atmósfera —
   siluetas de dunas contra la niebla desde Sandwich Harbour.
 - Ojo con el salitre: limpia el objetivo al volver al coche.

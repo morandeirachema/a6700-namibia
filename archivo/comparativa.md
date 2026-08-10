@@ -6,7 +6,7 @@ móvil. Resumen: **la A7 III gana en calidad de imagen y en facilidad**; la
 
 > **Decisión tomada (agosto 2026): el viaje se hace con la 5D Mark III** —
 > cuerpo prestado + Samyang 14mm propio + tele por comprar, con lo que la
-> inversión se reduce al tele ([equipo](5dmk3/05-equipo-accesorios.md)). Su
+> inversión se reduce al tele ([equipo](../5dmk3/05-equipo-accesorios.md)). Su
 > guía es la principal del repo; esta comparativa queda como contexto.
 
 ## Calidad de imagen
@@ -20,7 +20,7 @@ móvil. Resumen: **la A7 III gana en calidad de imagen y en facilidad**; la
 
 - La diferencia grande es el **rango dinámico** del sensor: para Vía Láctea
   con primer plano y para contraluces del amanecer, la A7 III perdona y la
-  5D3 no tanto (el apilado del [capítulo 2](5dmk3/02-astrofotografia-namibia.md)
+  5D3 no tanto (el apilado del [capítulo 2](../5dmk3/02-astrofotografia-namibia.md)
   recorta la distancia, pero no la cierra).
 - Medidas objetivas de ambos sensores en DxOMark:
   <https://www.dxomark.com/Cameras/Sony/A7-III> ·

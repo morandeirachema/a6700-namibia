@@ -108,6 +108,48 @@ la 5D3 intervalómetro integrado y focus peaking. Funciona bien, pero es
 software no oficial: instálalo solo si te sientes cómodo asumiendo el riesgo,
 y nunca la semana antes del viaje.
 
+## Vía Láctea desde Etosha en noches sin luna
+
+Tu caso concreto: noches de luna nueva encerrado en el campamento (las
+puertas cierran del atardecer al amanecer). Es un escenario buenísimo — sin
+luna el núcleo galáctico luce al máximo — con dos peculiaridades: no puedes
+salir a buscar primer plano, y dentro del recinto hay farolas y el resplandor
+de los focos de la charca.
+
+**La app: PhotoPills** (pago único, iOS/Android:
+<https://www.photopills.com/>). Las tres pantallas que vas a usar:
+
+1. **Planificador**: pin sobre tu campamento (p. ej. Okaukuejo), activa la
+   capa de Vía Láctea y mueve la barra de tiempo: te dibuja sobre el mapa
+   hacia dónde y a qué altura estará el arco y el núcleo galáctico cada hora
+   de tu noche concreta. Hazlo en casa y apunta las horas buenas.
+2. **Noche AR** (realidad aumentada): ya en el campamento, levantas el móvil
+   y te superpone la Vía Láctea donde va a aparecer. Sirve para elegir el
+   rincón exacto y componer antes de que oscurezca.
+3. **Spot Stars**: los segundos máximos de exposición para tu combinación
+   (14 mm en full frame ≈ 20 s).
+
+Gratis como alternativa: Stellarium (<https://stellarium.org/>), sin AR ni
+planificador sobre mapa.
+
+**El plan sobre el terreno:**
+
+1. **Llega con luz** y recorre el recinto buscando el rincón más oscuro en la
+   dirección que te marcó el planificador, dando la espalda a las farolas y a
+   los focos de la charca. Los muros, depósitos y árboles del campamento te
+   sirven para bloquear luces directas.
+2. Sin luna no hay paisaje iluminado: compón con **siluetas** contra el cielo
+   (la línea de mopanes, el depósito de agua de Okaukuejo). No ilumines tú el
+   primer plano: en un campamento dormido no se hace.
+3. Ejecuta la receta y el enfoque a estrella de este capítulo, y las **10
+   tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
+4. Si el resplandor de las farolas mancha el cielo bajo, encuadra más alto o
+   inclúyelo asumido como "amanecer falso" naranja en el horizonte; la opción
+   `Reduce light pollution` de Sequator ([edición](../comun/edicion-basica.md))
+   limpia bastante el degradado.
+5. Remata la noche en el mirador de la charca ([capítulo 4](04-safari-nocturno-charcas.md)):
+   astro y rinocerontes en la misma salida.
+
 ## Localizaciones destacadas
 
 - **NamibRand / zona de Sossusvlei**: Reserva Internacional de Cielo Oscuro.

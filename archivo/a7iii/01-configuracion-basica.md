@@ -61,7 +61,7 @@ Así el cambio día/noche es girar el dial de modos a `1` o `2`.
 Activa la grabación simultánea de las fotos (RAW incluido) en las dos tarjetas:
 `Menú → Ajustes → Ajustes soporte grab. → Modo de grabación → Simultánea (fotos)`.
 Es tu primera copia de seguridad sin hacer nada — el sistema completo de
-copias del viaje está en la [guía de logística](../comun/logistica-viaje.md).
+copias del viaje está en la [guía de logística](../../comun/logistica-viaje.md).
 
 ## Si la cámara está en inglés
 

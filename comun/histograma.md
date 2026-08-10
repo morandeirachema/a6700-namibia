@@ -73,10 +73,8 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
   de campamento… o te has pasado de ISO.
 - Las estrellas son picos minúsculos a la derecha: normal, ignóralos.
 
-## Cómo verlo en tu cámara
+## Cómo verlo en la 5D Mark III
 
-- **5D Mark III**: en revisión (▶), botón INFO hasta la vista con histograma.
-  Activa además el aviso de altas luces en el menú de reproducción (parpadeo
-  de lo quemado; viene desactivado de fábrica).
-- **A7 III**: botón DISP hasta la vista con histograma (visor y pantalla); en
-  revisión, DISP de nuevo.
+En revisión (▶), botón INFO hasta la vista con histograma. Activa además el
+aviso de altas luces en el menú de reproducción (parpadeo de lo quemado;
+viene desactivado de fábrica).
