@@ -58,10 +58,6 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 - 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y los flamencos de Walvis Bay.
 - 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, polvo y condensación, seguridad nocturna y el simulacro del día antes.
 
-## 🗄️ Archivo
-
-La guía completa de la **Sony A7 III** (la alternativa que se descartó) y la [comparativa entre ambas cámaras](archivo/comparativa.md) se conservan en [`archivo/`](archivo/).
-
 ## 🔗 Referencias generales
 
 - Manual y soporte oficial de la EOS 5D Mark III: <https://www.canon.es/support/>
