@@ -1,44 +1,71 @@
-# Fotografía en Namibia con la Canon 5D Mark III
+<div align="center">
 
-Guía **práctica** para un viaje a Namibia: cielos oscuros para astrofotografía
-y safari diurno y nocturno en charcas (waterholes) como las de Etosha.
+# 🐘 Namibia con la Canon 5D Mark III
 
-Equipo del viaje: **5D Mark III** (prestada) + **Samyang 14mm f/2.8** propio +
-**Sigma 150-600 Contemporary** como única compra
-([equipo](5dmk3/05-equipo-accesorios.md)).
+### Safari y astrofotografía para quien empieza — recetas, no teoría
 
-Pensada para quien viene de hacer fotos sobre todo con el móvil (y algo de
-réflex/compacta): sin teoría — recetas con valores concretos, pasos numerados
-y tablas de "si la foto sale mal, toca esto".
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg/1920px-Elephants_rushing_to_water_%28Etosha%2C_2013%29.jpg" alt="Elefantes corriendo hacia una charca en Etosha" width="100%">
 
-## La guía
+<sub>Elefantes hacia el agua, Etosha — foto de [Yathin S. Krishnappa](https://commons.wikimedia.org/wiki/File:Elephants_rushing_to_water_(Etosha,_2013).jpg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
-0. [Del móvil a la 5D Mark III](5dmk3/00-de-movil-a-5dmk3.md) — los 3 números, los diales, el visor óptico y el histograma, RAW y deberes antes del viaje.
-1. [Configuración básica](5dmk3/01-configuracion-basica.md) — firmware, enfoque con el pulgar (back-button focus), modos C1/C2, doble tarjeta y glosario ES/EN.
-2. [Astrofotografía en Namibia](5dmk3/02-astrofotografia-namibia.md) — paso a paso con Live View x10, Vía Láctea sin luna desde Etosha, star trails, tabla de problemas y apilado.
-3. [Safari diurno](5dmk3/03-safari-diurno.md) — AI Servo y los casos de AF, la rutina de 10 segundos, composición de fauna, receta por escena y tabla de problemas.
-4. [Safari nocturno en charcas](5dmk3/04-safari-nocturno-charcas.md) — modo silencioso, AF en penumbra con el punto central, game drives con foco y etiqueta.
-5. [Equipo y accesorios](5dmk3/05-equipo-accesorios.md) — el tele budget que falta, tarjetas CF y accesorios (el Samyang 14mm ya está en casa).
+</div>
 
-- [Chuleta imprimible](5dmk3/chuleta.md) — todas las recetas y arreglos en una página para llevar en el coche.
-- [Verificación in situ](5dmk3/verificacion-in-situ.md) — checklists de campo por momento del día (mañana, escena, astro, charca, noche) y señales de alarma. Para imprimir.
+> **El equipo del viaje**: Canon 5D Mark III (prestada) · Samyang 14mm f/2.8 (astro, ya en casa) · Sigma 150-600 Contemporary (fauna, la única compra) — [por qué, con precios](5dmk3/05-equipo-accesorios.md).
 
-## Guías comunes
+Guía **práctica** en español para un viaje real: safari diurno, charcas
+nocturnas de Etosha y cielos de luna nueva. Escrita para quien viene del
+móvil (y algo de réflex/compacta): sin teoría — recetas con valores
+concretos, pasos numerados y tablas de *"si la foto sale mal, toca esto"*.
+Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 
-- [La lista de tomas](comun/lista-de-tomas.md) — las 12 fotos con las que hay que volver, para disparar con intención y no en reactivo.
-- [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca nocturna y astro, dibujado.
-- [Edición básica](comun/edicion-basica.md) — cribar, revelar el RAW, ruido por IA y apilado de astro y star trails paso a paso.
-- [Paisaje diurno en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y la costa de Walvis Bay.
-- [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad en ruta, energía y enchufes, polvo y condensación, seguridad nocturna.
+**¿Por dónde empiezo?**
 
-## Archivo
+- 🐣 *Nunca he manejado una réflex en serio* → [capítulo 0](5dmk3/00-de-movil-a-5dmk3.md), 10 minutos.
+- ✈️ *Salgo pronto* → imprime [las tres hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 6 tardes](5dmk3/00-de-movil-a-5dmk3.md#deberes-antes-del-viaje-6-tardes).
+- 🚙 *Ya estoy allí y algo no cuadra* → [verificación in situ](5dmk3/verificacion-in-situ.md), tabla de señales de alarma al final.
 
-- [`archivo/`](archivo/) — la guía completa de la Sony A7 III (la alternativa que se descartó) y la [comparativa entre ambas cámaras](archivo/comparativa.md).
+## 📖 La guía, capítulo a capítulo
 
-## Referencias generales
+| | Capítulo | Qué resuelve |
+|---|---|---|
+| 0️⃣ | [Del móvil a la 5D Mark III](5dmk3/00-de-movil-a-5dmk3.md) | Los 3 números, los diales, el visor óptico y el histograma, RAW, errores típicos y deberes antes del viaje |
+| 1️⃣ | [Configuración básica](5dmk3/01-configuracion-basica.md) | Firmware, enfoque con el pulgar, modos C1/C2, doble tarjeta y glosario ES/EN |
+| 2️⃣ | [Astrofotografía](5dmk3/02-astrofotografia-namibia.md) | La noche completa paso a paso, Vía Láctea sin luna desde el campamento, star trails y apilado |
+| 3️⃣ | [Safari diurno](5dmk3/03-safari-diurno.md) | AI Servo, la rutina de 10 segundos, composición de fauna, receta por escena y los interruptores del Sigma |
+| 4️⃣ | [Charcas nocturnas](5dmk3/04-safari-nocturno-charcas.md) | Okaukuejo y Halali con foco, modo silencioso, AF en penumbra y game drives |
+| 5️⃣ | [Equipo y accesorios](5dmk3/05-equipo-accesorios.md) | El tele budget, tarjetas CF, baterías, polvo y la 650D de respaldo |
+
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Rock_Arch_At_Night_%28224612485%29.jpeg" alt="El arco de roca de Spitzkoppe bajo la Vía Láctea" width="72%">
+
+<sub>El arco de Spitzkoppe bajo el cielo namibio — la foto que persigue el [capítulo 2](5dmk3/02-astrofotografia-namibia.md). Foto de [Dominik Angstwurm](https://commons.wikimedia.org/wiki/File:Rock_Arch_At_Night_(224612485).jpeg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
+
+</div>
+
+## 🖨️ Para imprimir y llevar en el coche
+
+| Hoja | Para qué |
+|---|---|
+| 📋 [Chuleta](5dmk3/chuleta.md) | Todas las recetas y arreglos rápidos en una página |
+| ✅ [Verificación in situ](5dmk3/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías (f/00, Err 01…) |
+| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver — disparar con intención, no en reactivo |
+
+## 🧭 Guías comunes
+
+- 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
+- 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA y apilado paso a paso.
+- 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y los flamencos de Walvis Bay.
+- 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, polvo y condensación, seguridad nocturna y el simulacro del día antes.
+
+## 🗄️ Archivo
+
+La guía completa de la **Sony A7 III** (la alternativa que se descartó) y la [comparativa entre ambas cámaras](archivo/comparativa.md) se conservan en [`archivo/`](archivo/).
+
+## 🔗 Referencias generales
 
 - Manual y soporte oficial de la EOS 5D Mark III: <https://www.canon.es/support/>
-- PhotoPills (planificación de Vía Láctea, sol y luna): <https://www.photopills.com/>
+- PhotoPills, el planificador de Vía Láctea, sol y luna: <https://www.photopills.com/>
 - Mapa de contaminación lumínica: <https://www.lightpollutionmap.info/>
 - Reserva Internacional de Cielo Oscuro NamibRand (DarkSky International): <https://darksky.org/places/namibrand-dark-sky-reserve/>
 - Charcas y campamentos de Etosha (NWR): <https://www.nwr.com.na/>
