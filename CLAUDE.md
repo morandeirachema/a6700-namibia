@@ -4,22 +4,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Qué es este repo
 
-Tutoriales de fotografía en **español** para un viaje a Namibia (astrofotografía y safari diurno/nocturno en las charcas de Etosha). Solo Markdown: no hay build, lint ni tests. Publicar = commit y push a `main` (https://github.com/morandeirachema/a7tutorial).
+Guía de fotografía en **español** de la **Canon 5D Mark III** para un viaje a Namibia: safari diurno, charcas nocturnas de Etosha y astrofotografía (el viaje coincide con luna nueva). Solo Markdown más los PDF generados de las hojas de campo: no hay build, lint ni tests. Publicar = commit y push a `main` (https://github.com/morandeirachema/5dmk3-namibia).
+
+Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyang 14mm f/2.8 EF propio (sin contactos: la cámara marca f/00) + Sigma 150-600 Contemporary EF como única compra + Canon 650D como posible respaldo.
 
 ## Estructura
 
-Dos guías paralelas, una por cámara, con los mismos seis capítulos numerados:
+- `5dmk3/` — capítulos `00`–`05` (móvil→cámara, configuración, astro, safari diurno, charcas nocturnas, equipo) + dos hojas de campo imprimibles: `chuleta.md` y `verificacion-in-situ.md`.
+- `comun/` — guías transversales: lista de tomas, histograma por escenario, edición básica, paisaje de Namibia y logística del viaje.
+- `pdf/` — versiones PDF maquetadas de las hojas de campo (chuleta, verificación in situ, lista de tomas), generadas desde el Markdown; al editar una hoja, regenerar su PDF.
+- `README.md` — índice con fotos CC de Wikimedia Commons (mantener la atribución al editarlas).
 
-- `a7iii/` — Sony A7 III (montura E)
-- `5dmk3/` — Canon 5D Mark III (montura EF)
-- Capítulos `00`–`05` en cada una: móvil→cámara, configuración, astro, safari diurno, charcas nocturnas, equipo. `README.md` es el índice de ambas.
-
-Al tocar un capítulo, valora si el cambio aplica también al capítulo homólogo de la otra cámara — las guías deben mantenerse en paralelo, pero **adaptadas a las capacidades reales de cada cuerpo**, no copiadas (p. ej. la 5D3 no tiene Eye AF, focus peaking ni intervalómetro integrado; la A7 III no sufre bandas con el obturador mecánico).
+Existió una guía paralela de la Sony A7 III y una comparativa: fueron **borradas a petición del autor** (quedan solo en el historial de git, hasta el commit `3975191`). No reintroducir contenido de la A7 III.
 
 ## Contrato editorial (fijado por el autor)
 
 - **Audiencia**: novato que viene sobre todo del móvil. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Cada capítulo sigue ese patrón — mantenerlo en contenido nuevo.
 - **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
 - **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.
-- Los enlaces entre capítulos son relativos dentro de la carpeta de cada cámara (`[capítulo 1](01-configuracion-basica.md)`); los del README llevan el prefijo de carpeta.
-- Datos técnicos de cámara (menús, límites de firmware, comportamiento del AF): verificar antes de afirmar — hay peculiaridades ya documentadas deliberadamente (sin compensación de exposición en M+ISO Auto en la 5D3, ranura SD lenta de la 5D3, banding del obturador electrónico de la A7 III bajo focos LED).
+- Los enlaces entre capítulos son relativos (`[capítulo 1](01-configuracion-basica.md)` dentro de `5dmk3/`, `../comun/...` entre carpetas); los del README llevan el prefijo de carpeta.
+- **Datos técnicos: verificar antes de afirmar** (todo el contenido actual pasó un fact-check con fuentes en agosto de 2026). Peculiaridades ya verificadas y documentadas a propósito — no "corregirlas": sin compensación de exposición en M+ISO Auto en la 5D3; ranura SD sin soporte UHS (lenta, el RAW va a la CF); el Samyang marca f/00 (sin contactos, apertura en su anillo); selector del Sigma con tres posiciones AF/MO/MF y limitador FULL/10m–∞/2,8–10m; el obturador mecánico reduce pero no elimina los artefactos de focos LED parpadeantes.
