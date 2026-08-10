@@ -70,12 +70,34 @@ seca— la Vía Láctea es visible gran parte de la noche.
 | Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/2.8 a f/3.2–3.5 si molesta mucho |
 | Puntos rojos/calientes en exposiciones largas | Píxeles calientes, normales en un sensor de 2012. El apilado y el NR por IA los eliminan |
 
+## Star trails (circumpolares del sur)
+
+El plan B perfecto para noches con algo de luna, y un éxito casi garantizado
+para un novato: círculos de estrellas girando sobre el paisaje.
+
+1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
+   sur celeste, que no tiene estrella brillante — PhotoPills (modo "Noche" con
+   realidad aumentada) te lo marca, o prolonga el brazo largo de la Cruz del
+   Sur unas 4,5 veces.
+2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, enfoque a las
+   estrellas como siempre.
+3. Encadenar las tomas, dos maneras:
+   - Con el **intervalómetro de cable**: exposición 30 s, intervalo 31 s.
+   - **El truco sin intervalómetro**: modo ráfaga + obturación 30 s + cable
+     disparador simple **bloqueado**: la cámara encadena una foto de 30 s tras
+     otra sin hueco hasta que lo sueltes.
+4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
+   Batería llena al empezar y no toques nada hasta el final.
+5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
+   explicado en la [guía de edición](../comun/edicion-basica.md).
+
 ## Apilado en casa
 
 Apila las 10 tomas del paso 7 con Sequator (Windows, gratis:
 <https://sites.google.com/site/sequatorglobal/>) o Starry Landscape Stacker
 (macOS: <https://sites.google.com/site/starrylandscapestacker/>). En la 5D3
-es la diferencia entre un cielo ruidoso y uno limpio.
+es la diferencia entre un cielo ruidoso y uno limpio — el paso a paso está en
+la [guía de edición](../comun/edicion-basica.md).
 
 ## Opcional avanzado: Magic Lantern
 

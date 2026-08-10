@@ -59,6 +59,32 @@ ajustas algo sobre la marcha (p. ej. subes el ISO en la charca) y apagas la
 cámara, al volver a C2 recupera lo guardado. Es una ventaja: nunca heredas
 ajustes raros de la noche anterior.
 
+## Doble tarjeta: copia de seguridad automática
+
+Activa la grabación en las dos tarjetas:
+`Menú → Selec. función grab.+tarjeta → Función grab. → Grabar en múltiples`
+(RAW a la CF rápida, copia a la SD). Es tu primera copia de seguridad sin
+hacer nada — el sistema completo de copias del viaje está en la
+[guía de logística](../comun/logistica-viaje.md).
+
+## Si la cámara está en inglés
+
+| Español (este tutorial) | Inglés (menú) |
+|---|---|
+| Obturación | Shutter speed |
+| Apertura | Aperture |
+| Medición puntual | Spot metering |
+| Ráfaga alta | High-speed continuous |
+| Balance de blancos | White balance |
+| Punto único | Single-point AF |
+| Punto único expandido | AF point expansion |
+| Zona | Zone AF |
+| Silencioso individual | Silent single shooting |
+| Bloqueo de espejo | Mirror lockup |
+| Aviso altas luces | Highlight alert |
+| Simulación de exposición | Exposure simulation |
+| Controles personalizados | Custom Controls |
+
 ## Referencias
 
 - Manual de instrucciones oficial (PDF, en soporte Canon): <https://www.canon.es/support/>

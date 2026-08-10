@@ -37,7 +37,7 @@ seca— la Vía Láctea es visible gran parte de la noche.
    silueta de la tienda).
 5. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
    1. Apunta el punto central a la estrella más brillante que veas.
-   2. Botón de **lupa de enfoque** y amplía al máximo.
+   2. Botón **AF-ON** (lupa de enfoque, asignada en el [capítulo 1](01-configuracion-basica.md)) y amplía al máximo.
    3. Gira el anillo de enfoque despacio hasta que la estrella sea el punto
       **más pequeño y fino posible** (si se hincha, te has pasado).
    4. Fija el anillo con un trozo de cinta. No lo toques más en toda la noche.
@@ -62,12 +62,31 @@ seca— la Vía Láctea es visible gran parte de la noche.
 | Cielo naranja/verde raro | Balance de blancos: pon 3900 K. En RAW también se cambia después sin perder nada |
 | Esquinas con estrellas "estiradas" | Es el objetivo (coma), no eres tú. Cierra de f/1.8 a f/2.2 si te molesta mucho |
 
+## Star trails (circumpolares del sur)
+
+El plan B perfecto para noches con algo de luna, y un éxito casi garantizado
+para un novato: círculos de estrellas girando sobre el paisaje.
+
+1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
+   sur celeste, que no tiene estrella brillante — PhotoPills (modo "Noche" con
+   realidad aumentada) te lo marca, o prolonga el brazo largo de la Cruz del
+   Sur unas 4,5 veces.
+2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, enfoque a las
+   estrellas como siempre.
+3. `Func. disparo intervalos`: exposición 30 s, intervalo 31 s (el hueco
+   mínimo), **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos
+   los arcos).
+4. Batería llena al empezar; no toques nada hasta el final.
+5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
+   explicado en la [guía de edición](../comun/edicion-basica.md).
+
 ## Apilado en casa
 
 Dispara las 10 tomas del paso 8 y apílalas con Sequator (Windows, gratis:
 <https://sites.google.com/site/sequatorglobal/>) o Starry Landscape Stacker
 (macOS: <https://sites.google.com/site/starrylandscapestacker/>). Es la mejor
-mejora de calidad gratuita que existe en astro.
+mejora de calidad gratuita que existe en astro — el paso a paso está en la
+[guía de edición](../comun/edicion-basica.md).
 
 ## Localizaciones destacadas
 

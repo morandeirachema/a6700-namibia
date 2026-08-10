@@ -54,6 +54,30 @@ y paciencia. Info de campamentos: <https://www.etoshanationalpark.org/>
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto central, o enfoque manual prefijado a la orilla (paso 4) |
 | Ruido brutal a ISO 6400+ | Normal en un sensor de 2012. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/denoise.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
 
+## Variante: game drive nocturno con foco
+
+Los campamentos de NWR ofrecen salidas nocturnas guiadas en vehículo abierto
+con un foco barriendo el monte (<https://www.nwr.com.na/>). Cambia todo
+respecto al mirador: vas a pulso y la luz se mueve.
+
+| Parámetro | Valor |
+|---|---|
+| Obturación | 1/125 s (vehículo parado) · 1/250 s (en marcha) |
+| Apertura | La más baja |
+| ISO | Manual 6400–12800 (tope práctico de la 5D3) |
+| Medición | **Puntual** sobre el animal iluminado |
+| Enfoque | AI Servo, **punto central** (el más sensible en poca luz) sobre lo iluminado |
+| Estabilizador del objetivo | **ON** (sin trípode) |
+
+- La escena engaña al medidor al revés que de día: todo negro alrededor → la
+  cámara aclara → el animal iluminado **se quema**. Medición puntual sobre el
+  animal; y recuerda que en M con ISO Auto la 5D3 no deja compensar — por eso
+  aquí el ISO va en manual.
+- Dispara en las paradas; en marcha casi nada sale — usa ese tiempo para
+  ajustar.
+- Etiqueta: no pidas mantener el foco sobre animales nocturnos (búhos,
+  chacales, gatos monteses) más que unos segundos.
+
 ## Etiqueta en la charca
 
 - **Flash prohibido** — y aunque no lo estuviera, nunca con fauna nocturna.

@@ -51,6 +51,29 @@ y paciencia. Info de campamentos: <https://www.etoshanationalpark.org/>
 | Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s o disparo suave |
 | Ruido brutal a ISO 12800+ | Normal. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/denoise.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
 
+## Variante: game drive nocturno con foco
+
+Los campamentos de NWR ofrecen salidas nocturnas guiadas en vehículo abierto
+con un foco barriendo el monte (<https://www.nwr.com.na/>). Cambia todo
+respecto al mirador: vas a pulso y la luz se mueve.
+
+| Parámetro | Valor |
+|---|---|
+| Obturación | 1/125 s (vehículo parado) · 1/250 s (en marcha) |
+| Apertura | La más baja |
+| ISO | Auto, tope 25600 |
+| Medición | **Puntual** sobre el animal iluminado |
+| Enfoque | AF-C, punto flexible sobre lo que ilumina el foco |
+| SteadyShot | **ON** (sin trípode) |
+
+- La escena engaña al medidor al revés que de día: todo negro alrededor → la
+  cámara aclara → el animal iluminado **se quema**. Medición puntual sobre el
+  animal, o compensación −1/−2 si te quedas en medición normal.
+- Dispara en las paradas; en marcha casi nada sale — usa ese tiempo para
+  ajustar.
+- Etiqueta: no pidas mantener el foco sobre animales nocturnos (búhos,
+  chacales, gatos monteses) más que unos segundos.
+
 ## Etiqueta en la charca
 
 - **Flash prohibido** — y aunque no lo estuviera, nunca con fauna nocturna.

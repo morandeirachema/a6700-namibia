@@ -40,6 +40,9 @@ Una asignación pensada para este viaje:
   aparece en el menú normal. Fundamental para astro.
 - **C4** → Modo silencioso ON/OFF.
 - **AEL** → Eye AF (con firmware ≥3.0 detecta también ojos de animales).
+- **AF-ON** → **Lupa de enfoque**: la ampliación para enfocar estrellas a mano
+  ([capítulo 2](02-astrofotografia-namibia.md)). De día no lo echarás de menos:
+  el AF va en el disparador.
 - **Botón central** → Estándar de enfoque (mover el punto AF).
 
 ## Memorias de cámara (posiciones 1 y 2 del dial)
@@ -52,6 +55,31 @@ Guarda dos configuraciones completas con `Menú → Cámara 1 → Memoria`:
   peaking alto en rojo, SteadyShot OFF, temporizador 2s, RAW sin comprimir.
 
 Así el cambio día/noche es girar el dial de modos a `1` o `2`.
+
+## Doble ranura: copia de seguridad automática
+
+Activa la grabación simultánea del RAW en las dos tarjetas:
+`Menú → Ajustes → Ajustes soporte grab. → Modo de grabación → Simultánea (RAW)`.
+Es tu primera copia de seguridad sin hacer nada — el sistema completo de
+copias del viaje está en la [guía de logística](../comun/logistica-viaje.md).
+
+## Si la cámara está en inglés
+
+| Español (este tutorial) | Inglés (menú) |
+|---|---|
+| Obturación | Shutter Speed |
+| Apertura | Aperture |
+| Área de enfoque | Focus Area |
+| Punto flexible | Flexible Spot |
+| Amplia + seguimiento | Wide + Tracking |
+| Medición puntual | Spot Metering |
+| Ráfaga Hi | Cont. Shooting: Hi |
+| Balance de blancos | White Balance |
+| Modo silencioso | Silent Shooting |
+| Monitorización lumin. | Bright Monitoring |
+| Lupa de enfoque | Focus Magnifier |
+| Func. disparo intervalos | Interval Shoot Func. |
+| Ajuste AF cara/ojo | Face/Eye AF Set. |
 
 ## Referencias
 

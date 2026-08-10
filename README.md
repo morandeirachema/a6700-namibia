@@ -20,6 +20,8 @@ calidad, facilidad para novato y cómo repartirlas si viajan las dos.
 4. [Safari nocturno en charcas](a7iii/04-safari-nocturno-charcas.md) — charcas iluminadas de Etosha: preparación en 10 minutos, prueba de franjas, tabla de problemas y etiqueta.
 5. [Equipo y accesorios](a7iii/05-equipo-accesorios.md) — objetivos budget para astro y fauna en montura E, trípode, baterías y polvo.
 
+- [Chuleta imprimible](a7iii/chuleta.md) — todas las recetas y arreglos en una página para llevar en el coche.
+
 ## Canon 5D Mark III
 
 0. [Del móvil a la 5D Mark III](5dmk3/00-de-movil-a-5dmk3.md) — los 3 números, los diales, el visor óptico y el histograma, RAW y deberes antes del viaje.
@@ -28,6 +30,15 @@ calidad, facilidad para novato y cómo repartirlas si viajan las dos.
 3. [Safari diurno](5dmk3/03-safari-diurno.md) — AI Servo y los casos de AF, la pega del ISO Auto en M, receta por escena y tabla de problemas.
 4. [Safari nocturno en charcas](5dmk3/04-safari-nocturno-charcas.md) — modo silencioso, AF en penumbra con el punto central, tabla de problemas y etiqueta.
 5. [Equipo y accesorios](5dmk3/05-equipo-accesorios.md) — objetivos budget en montura EF (nuevo y segunda mano), tarjetas CF y accesorios.
+
+- [Chuleta imprimible](5dmk3/chuleta.md) — todas las recetas y arreglos en una página para llevar en el coche.
+
+## Guías comunes (valen para las dos cámaras)
+
+- [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca nocturna y astro, dibujado.
+- [Edición básica](comun/edicion-basica.md) — cribar, revelar el RAW, ruido por IA y apilado de astro y star trails paso a paso.
+- [Paisaje diurno en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y la costa de Walvis Bay.
+- [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad en ruta, energía y enchufes, polvo y condensación, seguridad nocturna.
 
 ## Referencias generales
 

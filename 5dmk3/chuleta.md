@@ -1,0 +1,44 @@
+# Chuleta 5D Mark III — para imprimir y llevar en el coche
+
+## Recetas
+
+| | Safari (C1) | Charca nocturna | Game drive con foco | Astro (C2) | Paisaje |
+|---|---|---|---|---|---|
+| Modo | M + ISO Auto | M | M | M | Av |
+| Obturación | 1/1000 | 1/60 | 1/125–1/250 | 15–20 s | (auto) |
+| Apertura | mínima | mínima | mínima | mínima | f/8 |
+| ISO | Auto 100–12800 | 3200–6400→ sube | Manual 6400–12800 | 3200 | 100 |
+| Enfoque | AI Servo, Zona, AF-ON pulgar | One Shot punto único | AI Servo punto central | MF a estrella (Live View x10) | One Shot |
+| Estabilizador | ON | OFF (trípode) | ON | OFF | ON / OFF en trípode |
+| Extra | ráfaga alta, RAW a CF | avance silencioso | medición puntual | temporizador 2 s, WB 3900 K | nivel electrónico |
+
+## Obturación por escena (safari)
+
+quieto **1/500** · caminando **1/1000** · corriendo/agua **1/2000** · aves en vuelo **1/2500+** · atardecer quieto **1/250**
+
+## Histograma (detalle: comun/histograma.md) — revisa tras CADA cambio de luz
+
+safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
+
+## Arreglos rápidos
+
+| Sale… | Toca… |
+|---|---|
+| Animal movido | Obturación ↑ (rueda principal) |
+| Animal oscuro, fondo claro | ISO manual +1 paso o medición puntual (M+Auto ISO no compensa) |
+| AF al arbusto | M-Fn → punto único expandido + joystick |
+| Ojo desenfocado | Punto AF a la cabeza, no al cuerpo |
+| Ráfaga atascada | RAW solo a la CF rápida |
+| Naranja de noche | WB Kelvin → 3200–3900 K |
+| Estrellas alargadas | Segundos ↓ (20 → 15 → 13) |
+| Estrellas gordas | Reenfocar en Live View x10 |
+| Astro oscuro | ISO ↑ un paso, no los segundos |
+| Foto nocturna quemada (foco) | Medición puntual sobre el animal |
+
+## Antes de arrancar cada día
+
+Volver a C1 (restaura todo) · batería + repuesto · CF con hueco · cargador de pared en la maleta (no carga por USB) · pera y microfibra · bean bag
+
+## Enfocar una estrella (resumen)
+
+C2 → Live View → recuadro a estrella brillante → lupa + hasta x10 → anillo hasta punto mínimo → cinta en el anillo → prueba → histograma primer tercio.
