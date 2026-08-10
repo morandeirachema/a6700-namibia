@@ -26,7 +26,9 @@ reportaje y no con un carrete de pruebas.
 7. **Rinoceronte (o lo que venga) en la charca iluminada**
    ([capítulo 4](../5dmk3/04-safari-nocturno-charcas.md)).
 8. **Vía Láctea con silueta** en noche sin luna
-   ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)).
+   ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)) — en tu noviembre,
+   solo al anochecer del 1 al 9 y baja al OSO; el plan A del cielo son las
+   **Nubes de Magallanes** ([mejora, parte 1](../mejora/parte-1-principiante.md)).
 9. **Star trails** girando sobre un primer plano (mismo capítulo).
 
 ## Paisaje

@@ -54,6 +54,11 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 
 Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran desde el Markdown.
 
+## 🚀 Mejora — de la foto correcta a la foto buena
+
+- [Parte 1 · principiante](mejora/parte-1-principiante.md) — el plan de charcas por luz y hora, comportamiento anticipable, las lecciones de los maestros, la estrategia de noviembre y tu cielo real (Nubes de Magallanes, núcleo al anochecer, Táuridas).
+- [Parte 2 · avanzado](mejora/parte-2-avanzado.md) — AI Servo a medida, el combo puntual+✱, botonera de francotirador, el punto dulce del Sigma y el plan de la noche completa hora a hora.
+
 ## 🧭 Guías comunes
 
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.

@@ -5,6 +5,15 @@ primera Reserva Internacional de Cielo Oscuro de África, certificada en
 categoría Gold). De mayo a septiembre —estación seca— la Vía Láctea es
 visible gran parte de la noche.
 
+> **Tu viaje es en noviembre y el cielo cambia**: el núcleo galáctico solo
+> asoma bajo, al OSO, los primeros ~45–75 min de oscuridad y **solo del 1 al
+> 9** (luego entra la luna en ese cielo); las protagonistas pasan a ser las
+> **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
+> al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
+> **plan de tus noches concretas** está en
+> [Mejora, parte 1](../mejora/parte-1-principiante.md) y el fino en la
+> [parte 2](../mejora/parte-2-avanzado.md).
+
 ## Receta rápida
 
 | Parámetro | Valor de partida |
