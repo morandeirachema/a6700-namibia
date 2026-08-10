@@ -59,6 +59,12 @@ Rutina diaria de 5 minutos que salva el equipo:
    mochila cerrada** 20–30 minutos; no la limpies mientras suda.
 5. Bolsas zip grandes: una por cuerpo para trayectos de grava con las
    ventanillas bajadas.
+6. **Noviembre añade la lluvia**: una funda impermeable de cámara (~10 €, o
+   una bolsa de basura resistente con un agujero para el objetivo) por si una
+   tormenta te pilla en el mirador — las de la tarde descargan fuerte y corto.
+7. **Seguro**: comprueba antes de salir que tu seguro de viaje cubre el
+   equipo — incluida una cámara **prestada** (no siempre entran los bienes de
+   terceros; pregúntalo explícitamente).
 
 ## Seguridad nocturna (importa para el plan fotográfico)
 

@@ -48,6 +48,30 @@ Info de campamentos: <https://www.nwr.com.na/>
 - Sé conservador con el ISO: la 5D3 rinde bien hasta 6400; 12800 es el límite
   práctico y 25600 solo para foto-recuerdo. El NR por IA (abajo) recupera mucho.
 
+## ¿Hasta qué ISO puedes subir? — la cuenta
+
+Tres números que multiplicados dan tu techo real:
+
+1. **Lo que pide la escena**: con el Sigma clavado en f/6.3 y la receta de
+   1/60 s, una charca iluminada exige ISO **6400** con el animal cerca de los
+   focos y **12800–25600** en el borde del haz. No es elección: es la luz que
+   hay con un objetivo f/6.3.
+2. **Lo que aguanta el sensor**: nativo, la 5D3 va bien hasta **6400**; a
+   **12800** el ruido es evidente pero la foto vive; **25600** queda muy
+   castigado (ruido de color y banding en sombras). Los ISO expandidos
+   **H1/H2 (51200–102400) ni tocarlos**: son un empujón digital de 25600 —
+   mismo ruido, peor color.
+3. **Lo que devuelve la IA**: la reducción de ruido por IA (Lightroom
+   Denoise, DxO PureRAW) recupera **en torno a 2 pasos** según el propio DxO
+   y las reviews: un 12800 procesado queda como un ~3200 nativo, y un 25600
+   como un ~6400.
+
+**Conclusión práctica**: techo de trabajo **12800** (con Denoise después,
+foto totalmente presentable), **25600 solo como rescate** de un momento
+irrepetible, y expandidos nunca. Y antes de cruzar de 12800, recuerda el
+orden del capítulo: con el animal quieto y trípode, **baja antes la
+obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
+
 ## Si la foto sale…
 
 | Problema | Solución |

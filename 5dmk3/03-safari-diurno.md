@@ -122,7 +122,8 @@ Cinco reglas que no requieren técnica, solo acordarse:
 
 ## Práctica desde el coche
 
-- **Bean bag** en la ventanilla (mejor que trípode dentro del coche). Llévalo
+- **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
+  y cómo se usa: [equipo](05-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
 - **Motor apagado** en las tomas importantes: la vibración se nota a 500 mm.
 - Cámara encendida con el tele montado **siempre en el regazo**: los leopardos

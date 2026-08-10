@@ -27,6 +27,9 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Aviso de altas luces ON** (menú de reproducción; viene desactivado de
   fábrica). *Por qué:* lo quemado parpadea en la revisión — es tu alarma de
   exposición más rápida.
+- [ ] **Microajuste de AF limpio** (`menú AF → Microajuste AF` → desactivado
+  o todos a 0). *Por qué:* la cámara es prestada — su dueño pudo dejar
+  correcciones guardadas para SUS objetivos, que desenfocarían los tuyos.
 
 ## 2 · El día que llegue el tele usado (20 min, una sola vez)
 
@@ -53,8 +56,9 @@ devolución:
 
 - [ ] Dial en **C1**. *Por qué:* restaura ISO, obturación y AF buenos aunque
   anoche lo cambiaras todo en la charca.
-- [ ] Batería puesta cargada + repuesto en el **bolsillo** (no en la mochila:
-  el frío de la madrugada las agota y el bolsillo las mantiene calientes).
+- [ ] Batería puesta cargada + repuesto **a mano**. En tu noviembre el
+  problema es el calor: ni baterías ni tarjetas al sol del coche. (Solo en
+  madrugadas frías de invierno el repuesto iría al bolsillo, por el frío.)
 - [ ] Las **dos** tarjetas dentro y con hueco (un RAW de la 5D3 ocupa
   ~25–30 MB: haz la cuenta de tu tarjeta y sabrás cuántas fotos le caben).
 - [ ] **Interruptores del objetivo** — se mueven solos rozando en la mochila,

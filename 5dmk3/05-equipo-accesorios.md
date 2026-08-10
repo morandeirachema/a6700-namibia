@@ -53,7 +53,17 @@ el ISO alto.
   encontrarlas en tienda física. La SD, solo como copia de seguridad JPEG.
 - **Trípode**: uno de viaje estable es suficiente (K&F Concept, Manfrotto
   Element, ~100–150 €). Imprescindible para astro y charca nocturna.
-- **Bean bag** para la ventanilla del coche (llévalo vacío, rellénalo allí).
+- **Bean bag — qué es**: un saco de tela con cremallera relleno de legumbres
+  o arroz (piensa en un cojín pequeño y denso, tipo saco de "peluche pesado").
+  Se pone **a caballo sobre la ventanilla medio subida** y el objetivo se
+  apoya encima: el relleno se moldea a la forma del tele, absorbe la
+  vibración y da una estabilidad que un trípode no puede dar dentro de un
+  coche. Es EL soporte del safari a 600 mm. Cómo se usa: ventanilla a media
+  altura, saco encima, objetivo descansando sobre él y presiona la cámara
+  suavemente hacia abajo mientras disparas. Cuesta 15–25 € vacío (busca
+  "camera bean bag"), o hazlo tú: una funda pequeña de cojín con cremallera.
+  Viaja **vacío** (pesa 1,5–2 kg lleno) y se rellena allí con arroz o alubias
+  del primer supermercado; se vacía antes de volver.
 - **2 baterías LP-E6 extra**: baratas incluso originales de segunda mano; las
   compatibles de marca conocida funcionan bien. La 5D3 **no carga por USB**:
   no olvides el cargador de pared y un adaptador de enchufe tipo D/M (Namibia).
