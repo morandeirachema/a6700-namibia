@@ -1,9 +1,11 @@
 # 4. Safari nocturno en charcas con la 5D Mark III — paso a paso
 
-Varias charcas de Etosha están **iluminadas con focos toda la noche** y tienen
-mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche),
-Halali y el hide de Olifantsrus. Es fauna con muy poca luz: trípode, ISO alto
-y paciencia. Info de campamentos: <https://www.etoshanationalpark.org/>
+Dos charcas de Etosha están **iluminadas con focos toda la noche** y tienen
+mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche)
+y Halali (charca Moringa). El hide de Olifantsrus, en el oeste, abre 24 h pero
+se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
+estética. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
+Info de campamentos: <https://www.nwr.com.na/>
 
 ## Receta rápida
 
@@ -23,8 +25,10 @@ y paciencia. Info de campamentos: <https://www.etoshanationalpark.org/>
 1. Monta el trípode en un lateral, sin bloquear a nadie.
 2. Pon el avance en **modo silencioso**: el espejo de la 5D3 es ruidoso y en
    un mirador de noche se oye todo. El modo silencioso lo amortigua mucho
-   (baja a ~3 fps, irrelevante aquí). Al ser obturador mecánico, **no hay
-   problema de bandas con los focos LED**, a diferencia de las mirrorless.
+   (baja a ~3 fps, irrelevante aquí). El obturador mecánico evita las franjas
+   finas que sufren las mirrorless con obturador electrónico; si los focos
+   parpadean, a velocidades rápidas aún puede variar la luz entre fotos —
+   a 1/60 s apenas se nota.
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
    Suele quedar entre 3200 y 4000 K.
@@ -52,13 +56,15 @@ y paciencia. Info de campamentos: <https://www.etoshanationalpark.org/>
 | El animal movido, el fondo nítido | Es el animal moviéndose: espera el momento quieto o sube a 1/125 s (y el ISO con ello) |
 | Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s y bloqueo de espejo si el caso es extremo |
 | El AF caza y suelta sin fijar | Poca luz para el AF: punto central, o enfoque manual prefijado a la orilla (paso 4) |
-| Ruido brutal a ISO 6400+ | Normal en un sensor de 2012. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/denoise.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
+| Ruido brutal a ISO 6400+ | Normal en un sensor de 2012. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/enhance-details.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
 
 ## Variante: game drive nocturno con foco
 
-Los campamentos de NWR ofrecen salidas nocturnas guiadas en vehículo abierto
-con un foco barriendo el monte (<https://www.nwr.com.na/>). Cambia todo
-respecto al mirador: vas a pulso y la luz se mueve.
+Los campamentos de NWR (Okaukuejo, Halali, Namutoni) ofrecen salidas
+nocturnas guiadas en vehículo abierto con un foco barriendo el monte — la
+única forma legal de estar fuera del recinto de noche (~750 N$ por persona,
+se reserva en la recepción del campamento: <https://www.nwr.com.na/>). Cambia
+todo respecto al mirador: vas a pulso y la luz se mueve.
 
 | Parámetro | Valor |
 |---|---|

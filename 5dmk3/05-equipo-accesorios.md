@@ -1,32 +1,42 @@
 # 5. Equipo y accesorios para la 5D Mark III (enfoque budget)
 
-Selección para montura **Canon EF** priorizando precio. Ventaja de la EF: es
-una montura veterana con un mercado de segunda mano enorme
+Situación de partida de este viaje: **cuerpo prestado + Samyang 14mm f/2.8 EF
+ya en casa** → la única compra imprescindible es el tele de fauna. Ventaja de
+la montura EF: es veterana y tiene un mercado de segunda mano enorme
 (<https://www.mpb.com/>), donde casi todo baja un 30–50 %.
 
-## Objetivo para astrofotografía
+## Astrofotografía: ya está resuelta
+
+El **Samyang 14mm f/2.8 ED UMC** es el clásico budget de astro en EF desde
+hace una década — no hace falta comprar nada. Tres notas al pasarlo de la
+650D (APS-C) a la 5D3 (full frame):
+
+- Ganas todo el campo real de 14 mm (en la 650D lo veías recortado a ~22 mm
+  equivalentes): mucho más cielo, justo lo que quiere la Vía Láctea.
+- En full frame asoman defectos que el recorte escondía: distorsión de bigote
+  en el horizonte (se corrige con el perfil del objetivo en edición) y coma en
+  las esquinas a f/2.8 (cierra a f/3.2 si molesta).
+- La marca de infinito de los Samyang suele venir descalibrada: irrelevante
+  con el método de enfoque a estrella del [capítulo 2](02-astrofotografia-namibia.md),
+  pero haz una noche de prueba para localizar el infinito real de tu unidad.
+
+Alternativas solo por si algún día amplías: Irix 15mm f/2.4 Firefly (~400 €,
+anillo de bloqueo de enfoque y clic en infinito: <https://irixlens.com/>) o
+Samyang 24mm f/1.4 (~500 €, un paso más de luz pero menos cielo).
+
+## Objetivo para fauna: la única compra
 
 | Objetivo | Precio aprox. | Notas |
 |---|---|---|
-| **Samyang 14mm f/2.8 ED UMC** ⭐ | ~300 € nuevo / ~200 € usado | El clásico budget de astro en EF desde hace una década. Enfoque manual (para astro da igual). Distorsión fuerte pero corregible. <https://www.samyanglens.com/> |
-| Irix 15mm f/2.4 Firefly | ~450 € | Mejor construcción, anillo de bloqueo de enfoque (muy útil de noche), clic en infinito. <https://irixlens.com/> |
-| Samyang 24mm f/1.4 | ~500 € | Un paso más de luz; encuadra menos cielo que un 14–15 mm |
-
-**Recomendación**: Samyang 14mm f/2.8. Es la vía más barata a la Vía Láctea
-con calidad decente, y a 14 mm aguantas ~20 s de exposición sin trazas, lo que
-compensa el f/2.8 frente a objetivos más luminosos y caros.
-
-## Objetivo para fauna
-
-| Objetivo | Precio aprox. | Notas |
-|---|---|---|
-| **Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary** ⭐ | ~900 € nuevo / ~600 € usado | El rey del safari budget en EF: alcance enorme, estabilizador, nitidez sorprendente. 1,9 kg: pide bean bag. <https://www.sigma-global.com/> |
-| Tamron 150-600mm f/5-6.3 Di VC USD G2 | ~1.200 € / ~700 € usado | Alternativa equivalente, estabilizador algo mejor. <https://www.tamron.eu/> |
+| **Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary** ⭐ | ~950 € nuevo / 600–800 € usado | El rey del safari budget en EF: alcance enorme, estabilizador, nitidez sorprendente. 1,9 kg: pide bean bag. <https://www.sigma-global.com/> |
+| Tamron 150-600mm f/5-6.3 Di VC USD G2 | ~1.050 € / 850–1.100 € usado | Alternativa equivalente, estabilizador algo mejor. <https://www.tamron.eu/> |
 | Canon EF 100-400mm f/4.5-5.6L IS II (usado) | ~1.100–1.300 € usado | Óptica superior y más ligero, pero se queda en 400 mm y solo compensa de segunda mano |
 
-**Recomendación**: Sigma 150-600 Contemporary, mejor aún de segunda mano. En
-Etosha los 600 mm reales se agradecen (la 5D3 no tiene modo recorte como las
-mirrorless, aunque los 22 Mpx permiten recortar después).
+**Recomendación**: Sigma 150-600 Contemporary de segunda mano (600–800 € en
+mpb.com según estado). En Etosha los 600 mm reales se agradecen (la 5D3 no
+tiene modo recorte como las mirrorless, aunque los 22 Mpx permiten recortar
+después). Bonus a futuro: el EF se adapta bien a Sony E (Sigma MC-11) y a
+Canon RF, así que el tele sobrevive a un cambio de cámara.
 
 **Limitación a tener en cuenta**: f/5-6.3 es lento para la charca nocturna:
 allí trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
@@ -51,3 +61,8 @@ el ISO alto.
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa.
 - **Frontal con luz roja** para no arruinar la visión nocturna (ni la de los
   vecinos de mirador).
+- **La 650D, si sigue viva, va en la maleta**: es el plan B si a la 5D3
+  prestada le pasa algo, y como segundo cuerpo evita cambiar objetivos con
+  polvo (Samyang fijo en una, tele en la otra). Con el 150-600 se convierte
+  además en un 240–960 mm equivalente para animal quieto con buena luz — su
+  AF y su ISO alto no dan para más.

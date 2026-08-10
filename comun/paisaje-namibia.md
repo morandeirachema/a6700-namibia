@@ -47,8 +47,10 @@ plano mucho más de lo que te parece natural.
 ## Kolmanskop (ciudad fantasma)
 
 - Interiores de casas engullidas por la arena, cerca de Lüderitz. Para entrar
-  antes de las horas normales de visita (la luz buena) hace falta el
-  **photo permit**, que se compra por adelantado: <https://www.kolmanskuppe.com/>
+  fuera del horario de visitas (la luz buena) hace falta el **photo permit**
+  (~480 N$): da acceso de amanecer a atardecer y se compra en la web oficial,
+  en la puerta o en Lüderitz. **No** hay foto nocturna: es zona restringida de
+  diamantes. <https://www.kolmanskuppe.com/>
 - La foto típica: habitación en penumbra + puerta/ventana quemada por el sol.
   Horquillado ±2 EV de nuevo, o expón para las altas luces y levanta sombras
   en RAW.
@@ -60,7 +62,7 @@ plano mucho más de lo que te parece natural.
 ## Costa: Walvis Bay y Swakopmund
 
 - **Flamencos en la laguna de Walvis Bay**: tele, receta de fauna diurna de tu
-  guía ([A7 III](../a7iii/03-safari-diurno.md) · [5D3](../5dmk3/03-safari-diurno.md)),
+  guía ([5D3](../5dmk3/03-safari-diurno.md) · [A7 III](../a7iii/03-safari-diurno.md)),
   1/2000 s si vuelan. Agáchate: a la altura de sus patas la foto cambia.
 - Niebla costera frecuente al amanecer: no es mal tiempo, es atmósfera —
   siluetas de dunas contra la niebla desde Sandwich Harbour.

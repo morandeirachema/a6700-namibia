@@ -39,7 +39,7 @@ De un safari salen 800 fotos y valen 30. Antes de editar nada:
 ## Paso 3 — Ruido (las fotos de ISO alto de la charca)
 
 - **Lightroom**: botón **Denoise** (IA), intensidad 30–50. Los resultados a
-  ISO 12800 parecen de ISO 1600. <https://helpx.adobe.com/lightroom-cc/using/denoise.html>
+  ISO 12800 parecen de ISO 1600. <https://helpx.adobe.com/lightroom-cc/using/enhance-details.html>
 - **DxO PureRAW** como alternativa/complemento (procesa el RAW antes de
   editar): <https://www.dxo.com/dxo-pureraw/>
 - **darktable**: módulo "reducción de ruido (perfilada)", que ya conoce el
@@ -53,7 +53,7 @@ Para las 10 tomas idénticas que hiciste siguiendo el capítulo 2 de tu cámara
 (Windows; en macOS, Starry Landscape Stacker funciona parecido:
 <https://sites.google.com/site/starrylandscapestacker/>).
 
-1. Descarga Sequator: <https://sites.google.com/site/sequatorglobal/>
+1. Descarga Sequator: <https://sites.google.com/view/sequator/>
 2. `Star images` → añade las 10 tomas (los RAW directamente).
 3. `Base image` → elige una del medio de la serie.
 4. `Output` → nombre del archivo final (TIFF).

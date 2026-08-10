@@ -58,8 +58,8 @@ Así el cambio día/noche es girar el dial de modos a `1` o `2`.
 
 ## Doble ranura: copia de seguridad automática
 
-Activa la grabación simultánea del RAW en las dos tarjetas:
-`Menú → Ajustes → Ajustes soporte grab. → Modo de grabación → Simultánea (RAW)`.
+Activa la grabación simultánea de las fotos (RAW incluido) en las dos tarjetas:
+`Menú → Ajustes → Ajustes soporte grab. → Modo de grabación → Simultánea (fotos)`.
 Es tu primera copia de seguridad sin hacer nada — el sistema completo de
 copias del viaje está en la [guía de logística](../comun/logistica-viaje.md).
 
@@ -83,5 +83,5 @@ copias del viaje está en la [guía de logística](../comun/logistica-viaje.md).
 
 ## Referencias
 
-- Guía oficial de ayuda (todos los menús explicados): <https://helpguide.sony.net/ilc/1710/v1/en/index.html>
-- Guía de ajustes de la A7 III de Mark Galer (embajador Sony): <https://www.markgaler.com/sony-alpha-setup-guides/>
+- Guía oficial de ayuda (todos los menús explicados): <https://helpguide.sony.net/ilc/1720/v1/en/index.html>
+- Guías de ajustes Sony Alpha de Mark Galer (embajador Sony): <https://www.markgaler.com/learning-resources>

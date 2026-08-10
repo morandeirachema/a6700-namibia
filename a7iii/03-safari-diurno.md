@@ -24,8 +24,10 @@ el movimiento, y la **compensación de exposición** (rueda de la esquina).
 ## Configurar una sola vez
 
 1. **Eye AF de animales**: `Menú → Cámara 1 → Ajuste AF cara/ojo → Detección
-   de sujeto → Animal`. Funciona muy bien con mamíferos; con aves la A7 III
-   no lo soporta (para aves, punto flexible y puntería).
+   de sujeto → Animal`. Sony solo lo garantiza oficialmente para perros y
+   gatos, pero en la práctica engancha el ojo de muchos mamíferos salvajes; si
+   con alguno no salta, punto flexible al ojo. Con aves no funciona en la
+   A7 III (puntería manual).
 2. **Ráfaga Hi, no Hi+**: Hi (8 fps) mantiene visión real entre fotos y puedes
    seguir al animal; Hi+ (10 fps) te enseña la foto anterior y lo pierdes.
 3. **RAW comprimido**: el buffer aguanta ráfagas largas; sin comprimir se
@@ -71,4 +73,4 @@ animales beben a cualquier hora — apárcate en una y espera.
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
-- Guía práctica de fotografía de safari: <https://photographylife.com/how-to-photograph-african-wildlife>
+- Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>

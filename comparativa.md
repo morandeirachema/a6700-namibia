@@ -4,6 +4,11 @@ Comparativa pensada para este viaje: astro + safari, fotógrafo que viene del
 móvil. Resumen: **la A7 III gana en calidad de imagen y en facilidad**; la
 5D Mark III sigue siendo muy capaz y tiene sus puntos fuertes.
 
+> **Decisión tomada (agosto 2026): el viaje se hace con la 5D Mark III** —
+> cuerpo prestado + Samyang 14mm propio + tele por comprar, con lo que la
+> inversión se reduce al tele ([equipo](5dmk3/05-equipo-accesorios.md)). Su
+> guía es la principal del repo; esta comparativa queda como contexto.
+
 ## Calidad de imagen
 
 | Situación | A7 III (2018) | 5D Mark III (2012) |
@@ -40,9 +45,10 @@ errores evitan: eliminan de golpe el fallo de exposición y el de enfoque.
   necesita repuestos (aunque carga por USB con power bank).
 - **Ergonomía y robustez**: cuerpo grande, agarre cómodo con teles pesados,
   sellado veterano.
-- **Charca nocturna sin sustos**: obturador mecánico = cero bandas con los
-  focos LED (la A7 III necesita la prueba de franjas del
-  [capítulo 4](a7iii/04-safari-nocturno-charcas.md)).
+- **Charca nocturna con menos sustos**: su obturador mecánico evita las
+  franjas finas del obturador electrónico (la A7 III necesita la prueba de
+  franjas del [capítulo 4](a7iii/04-safari-nocturno-charcas.md)); el parpadeo
+  de los focos solo le afecta a velocidades rápidas.
 - **Objetivos EF de segunda mano** baratísimos (<https://www.mpb.com/>).
 
 ## Veredicto

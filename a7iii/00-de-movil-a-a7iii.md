@@ -131,7 +131,7 @@ de una forma imposible con JPEG. La edición está explicada en la
 - Configura **RAW+JPEG** si quieres compartir sobre la marcha: el RAW para
   editar en casa, el JPEG para enviar ya.
 - Para pasar fotos al móvil en el viaje: app **Imaging Edge Mobile** de Sony
-  por wifi (<https://support.d-imaging.sony.co.jp/app/iem/>). Transfiere los
+  por wifi (<https://support.d-imaging.sony.co.jp/app/iemobile/en/>). Transfiere los
   JPEG; los RAW se quedan para casa.
 
 ## Errores típicos de novato (y su antídoto)
@@ -165,6 +165,6 @@ de una forma imposible con JPEG. La edición está explicada en la
 
 ## Referencias
 
-- Manual de ayuda oficial de la A7 III (buscable): <https://helpguide.sony.net/ilc/1710/v1/en/index.html>
-- Imaging Edge Mobile (pasar fotos al móvil): <https://support.d-imaging.sony.co.jp/app/iem/>
+- Manual de ayuda oficial de la A7 III (buscable): <https://helpguide.sony.net/ilc/1720/v1/en/index.html>
+- Imaging Edge Mobile (pasar fotos al móvil): <https://support.d-imaging.sony.co.jp/app/iemobile/en/>
 - dzoom, tutoriales prácticos de fotografía en español: <https://www.dzoom.org.es/>

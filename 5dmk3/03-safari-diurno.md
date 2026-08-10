@@ -77,5 +77,5 @@ animales beben a cualquier hora — apárcate en una y espera.
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
-- Guía práctica de fotografía de safari: <https://photographylife.com/how-to-photograph-african-wildlife>
+- Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>
 - Guía del sistema AF de 61 puntos (Canon Learning): <https://www.usa.canon.com/learning>

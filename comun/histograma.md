@@ -75,7 +75,8 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
 ## Cómo verlo en tu cámara
 
+- **5D Mark III**: en revisión (▶), botón INFO hasta la vista con histograma.
+  Activa además el aviso de altas luces en el menú de reproducción (parpadeo
+  de lo quemado; viene desactivado de fábrica).
 - **A7 III**: botón DISP hasta la vista con histograma (visor y pantalla); en
   revisión, DISP de nuevo.
-- **5D Mark III**: en revisión (▶), botón INFO hasta la vista con histograma.
-  Activa además el aviso de altas luces (parpadeo de lo quemado).

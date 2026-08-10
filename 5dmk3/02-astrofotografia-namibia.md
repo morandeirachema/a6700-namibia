@@ -1,8 +1,9 @@
 # 2. Astrofotografía en Namibia con la 5D Mark III — paso a paso
 
-Namibia tiene algunos de los cielos más oscuros del planeta (la reserva
-NamibRand es Dark Sky Sanctuary certificado). De mayo a septiembre —estación
-seca— la Vía Láctea es visible gran parte de la noche.
+Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
+primera Reserva Internacional de Cielo Oscuro de África, certificada en
+categoría Gold). De mayo a septiembre —estación seca— la Vía Láctea es
+visible gran parte de la noche.
 
 ## Receta rápida
 
@@ -79,8 +80,9 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    sur celeste, que no tiene estrella brillante — PhotoPills (modo "Noche" con
    realidad aumentada) te lo marca, o prolonga el brazo largo de la Cruz del
    Sur unas 4,5 veces.
-2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, enfoque a las
-   estrellas como siempre.
+2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, reducción de ruido
+   de larga exposición **OFF** (o cada foto irá seguida de 30 s a oscuras y
+   los arcos saldrán cortados), enfoque a las estrellas como siempre.
 3. Encadenar las tomas, dos maneras:
    - Con el **intervalómetro de cable**: exposición 30 s, intervalo 31 s.
    - **El truco sin intervalómetro**: modo ráfaga + obturación 30 s + cable
@@ -94,7 +96,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
 ## Apilado en casa
 
 Apila las 10 tomas del paso 7 con Sequator (Windows, gratis:
-<https://sites.google.com/site/sequatorglobal/>) o Starry Landscape Stacker
+<https://sites.google.com/view/sequator/>) o Starry Landscape Stacker
 (macOS: <https://sites.google.com/site/starrylandscapestacker/>). En la 5D3
 es la diferencia entre un cielo ruidoso y uno limpio — el paso a paso está en
 la [guía de edición](../comun/edicion-basica.md).
@@ -108,14 +110,17 @@ y nunca la semana antes del viaje.
 
 ## Localizaciones destacadas
 
-- **NamibRand / zona de Sossusvlei**: cielo certificado Dark Sky.
-  <https://darksky.org/places/namibrand-nature-reserve/>
-- **Spitzkoppe**: arcos de granito como primer plano y acampada dentro.
-- **Deadvlei/Sossusvlei**: acceso nocturno restringido; hay que alojarse en
-  Sesriem (dentro de la primera puerta) o pedir permiso especial.
+- **NamibRand / zona de Sossusvlei**: Reserva Internacional de Cielo Oscuro.
+  <https://darksky.org/places/namibrand-dark-sky-reserve/>
+- **Spitzkoppe**: arcos de granito como primer plano y acampada dentro
+  (camping comunitario: <https://spitzkoppe.com/>).
+- **Deadvlei/Sossusvlei**: la foto nocturna dentro está en la práctica vetada
+  (el permiso especial es muy difícil de conseguir); alojarse dentro de la
+  primera puerta (camping de Sesriem) solo adelanta la entrada ~1 h antes del
+  amanecer. Para la Vía Láctea, mejor Spitzkoppe o la zona de NamibRand.
 - **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo austral.
 
 ## Referencias
 
 - Lonely Speck, práctica de astrofotografía: <https://www.lonelyspeck.com/>
-- Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/fotografiar-via-lactea/>
+- Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>

@@ -11,14 +11,16 @@ Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
    **no se formatea hasta estar en casa** con todo volcado.
 2. **Doble ranura = primera copia automática**. Configúralo antes de salir:
    - **A7 III**: `Menú → Ajustes → Ajustes soporte grab. → Modo de grabación →
-     Simultánea (RAW)` — cada RAW se escribe a la vez en las dos tarjetas.
+     Simultánea (fotos)` — cada foto (RAW incluido) se escribe a la vez en las
+     dos tarjetas.
    - **5D Mark III**: `Menú → Selec. función grab.+tarjeta → Función grab. →
      Grabar en múltiples` — RAW a la CF y copia a la SD (o RAW+JPEG repartido
      si la SD se queda corta).
 3. **Volcado cada noche** a un disco: portátil + SSD externo, o directamente
    **móvil/tablet USB-C + lector de tarjetas + SSD** (sin portátil: se copia
    de tarjeta a SSD desde la app de archivos). Un SSD de 1 TB tipo Samsung T7
-   ronda los 100 €.
+   ronda los 110–150 € (los precios de memoria están subiendo en 2026: no lo
+   dejes para el final).
 4. Reparte las copias físicamente: tarjetas llenas en la mochila que va
    contigo, SSD en la maleta/coche. Nunca todo en el mismo sitio.
 
