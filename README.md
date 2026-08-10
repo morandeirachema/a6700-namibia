@@ -34,6 +34,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 | 3️⃣ | [Safari diurno](5dmk3/03-safari-diurno.md) | AI Servo, la rutina de 10 segundos, composición de fauna, receta por escena y los interruptores del Sigma |
 | 4️⃣ | [Charcas nocturnas](5dmk3/04-safari-nocturno-charcas.md) | Okaukuejo y Halali con foco, modo silencioso, AF en penumbra y game drives |
 | 5️⃣ | [Equipo y accesorios](5dmk3/05-equipo-accesorios.md) | El tele budget, tarjetas CF, baterías, polvo y la 650D de respaldo |
+| ➕ | [Anexo: la 650D](5dmk3/anexo-650d.md) | Sus tres diferencias (recorte 1.6x, techo de ISO, batería LP-E8), configuración espejo y sus dos papeles buenos |
 
 <div align="center">
 
@@ -49,7 +50,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 |---|---|---|
 | 📋 [Chuleta](5dmk3/chuleta.md) | Todas las recetas y arreglos rápidos en una página | [PDF](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](5dmk3/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías (f/00, Err 01…) | [PDF](pdf/verificacion-in-situ.pdf) |
-| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
+| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 
 Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran desde el Markdown.
 
@@ -57,7 +58,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
-- 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA y apilado paso a paso.
+- 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.
 - 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y los flamencos de Walvis Bay.
 - 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, polvo y condensación, seguridad nocturna y el simulacro del día antes.
 - 🧼 [Limpieza en campo](comun/limpieza-en-campo.md) — cómo limpiar objetivo, lentes y cuerpo con el polvo de Etosha: kit, orden correcto y las peculiaridades del Samyang y el Sigma.

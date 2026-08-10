@@ -91,6 +91,27 @@ apílalas en **StarStaX** (gratis, modo *Lighten* — también tiene *Gap
 filling* si hay microhuecos entre tomas):
 <https://markus-enzweiler.de/software/starstax/>
 
+## Montar un timelapse en vídeo
+
+Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24
+fotogramas por segundo):
+
+1. Revela **una** foto de la serie y sincroniza/pega el ajuste a todas
+   (misma exposición fija en cámara = mismo revelado para todas).
+2. Exporta la serie a JPEG, lado largo 1920 px (o 3840 para 4K), a una
+   carpeta vacía y con numeración ordenada.
+3. Móntalo gratis con **ffmpeg** (<https://ffmpeg.org/>), un solo comando
+   desde esa carpeta:
+   `ffmpeg -framerate 24 -pattern_type glob -i '*.jpg' -c:v libx264 -pix_fmt yuv420p timelapse.mp4`
+   (en Windows, cambia el patrón: `-i img%04d.jpg`).
+   Alternativa con interfaz: **DaVinci Resolve** gratis
+   (<https://www.blackmagicdesign.com/products/davinciresolve>) importa la
+   carpeta como "image sequence".
+4. ¿Parpadeo entre fotogramas (*flicker*)? Con todo en manual (exposición,
+   ISO, WB fijos — como manda la receta) apenas habrá; si molesta, la
+   herramienta especializada es **LRTimelapse** (de pago:
+   <https://lrtimelapse.com/>).
+
 ## Exportar para compartir
 
 - JPEG, lado largo **2048 px**, espacio de color **sRGB** (si no, los colores

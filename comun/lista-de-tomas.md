@@ -37,6 +37,20 @@ reportaje y no con un carrete de pruebas.
 12. **Silueta al atardecer**: acacia o animal en negro contra el cielo
     naranja — la postal africana, sale todos los días.
 
+## Extras de noviembre (tu quincena)
+
+13. **El elefante fantasma**: blanco de calcreta tras el baño de barro,
+    saliendo de la charca a última hora. El icono de Etosha, y noviembre
+    (antes de las lluvias) aún lo da. Pide paciencia al mediodía y convierte
+    de lujo a blanco y negro.
+14. **Fauna bajo cielo de tormenta**: las primeras tormentas de noviembre
+    montan fondos de nubes negras con luz lateral sobre la sabana — la "luz
+    de tormenta" que los guías del parque consideran inigualable. Subexpón
+    −2/3 para dramatizar el cielo.
+15. **Un ave migratoria**: noviembre es el mejor mes de rapaces y llegan los
+    abejarucos europeos a los cables y ramas — tele a 600 mm, 1/2500 s si
+    vuelan.
+
 ## Cómo usarla
 
 - Imprímela con la [chuleta](../5dmk3/chuleta.md) y llévala en el coche.

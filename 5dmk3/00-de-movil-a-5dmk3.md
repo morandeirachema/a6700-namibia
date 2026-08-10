@@ -159,14 +159,16 @@ una forma imposible con JPEG. La edición está explicada en la
 | Limpiar la lente con la camiseta | Pera + microfibra, siempre en la mochila |
 | Buscar al animal a 600 mm y no encontrarlo | Abre los dos ojos: uno al visor y otro a la escena; localiza a 150 mm y luego amplía |
 
-## Deberes antes del viaje (6 tardes)
+## Deberes antes del viaje (7 tardes)
 
 1. **Apertura**: modo Av en un parque. La misma foto a f/2.8 (o la mínima de
    tu objetivo) y a f/8. Mira el fondo.
 2. **Obturación**: modo Tv con coches, bicis o un perro. 1/60 vs 1/1000.
 3. **Enfoque en movimiento**: AI Servo + ráfaga con un perro corriendo hacia
    ti, moviendo tú el punto AF al ojo. Cuenta cuántas del total salen nítidas;
-   repite hasta pasar del 50 %. Es el ejercicio más importante de esta cámara.
+   repite hasta pasar del 50 %. Es el ejercicio más importante de esta cámara
+   — y en cuanto tengas el Sigma, **repítelo con él montado**: encontrar y
+   seguir al perro a 400–600 mm es otro deporte, y ahí es donde se entrena.
 4. **Compensación e histograma**: fotografía a alguien contra una ventana y
    contra una pared oscura (modo Av). Corrige con la rueda trasera hasta que
    el histograma quede despegado de los bordes.
@@ -177,6 +179,12 @@ una forma imposible con JPEG. La edición está explicada en la
    [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.
    Después vuelca las fotos y prueba el
    [flujo de edición](../comun/edicion-basica.md) con las de la tarde 5.
+7. **Charca nocturna de ensayo**: busca una fuente o estatua **iluminada con
+   focos** en tu ciudad, de noche: trípode, M, 1/60 s, f/6.3, ISO 6400, y
+   ajusta el balance de blancos en K hasta que la piedra no salga naranja.
+   Es, ajuste por ajuste, el mirador de Okaukuejo
+   ([capítulo 4](04-safari-nocturno-charcas.md)) — mejor descubrir los
+   problemas en tu barrio que con un rinoceronte delante.
 
 ## Referencias
 
