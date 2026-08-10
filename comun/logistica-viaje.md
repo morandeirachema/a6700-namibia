@@ -69,6 +69,27 @@ Rutina diaria de 5 minutos que salva el equipo:
 - Deja dicho en el alojamiento dónde vas a estar si te alejas para el astro, y
   lleva el móvil (sin cobertura en muchas zonas: descarga mapas offline antes).
 
+## El simulacro del día antes de volar
+
+Una hora con todo el equipo junto, para que el primer fallo pase en casa y
+no en Etosha:
+
+- [ ] Tele montado en la 5D3: ráfaga en RAW, revisa nitidez y que la CF traga.
+- [ ] El Samyang puesto: una foto a infinito de prueba (y recuerda dónde cae
+  su infinito real, de la noche de práctica).
+- [ ] Baterías todas cargadas; fecha y hora de la cámara en hora local.
+- [ ] **Copia de seguridad hecha de todo lo que haya en las tarjetas — y
+  entonces** formatearlas EN la cámara (nunca en el ordenador).
+- [ ] C1/C2 revisados: safari y astro tal como los dejaste.
+- [ ] Ensaya el volcado tarjeta → SSD una vez, con cronómetro.
+- [ ] Lentes limpias; pera, microfibra, frontal rojo, intervalómetro y bean
+  bag (vacío) en la bolsa.
+- [ ] Todo el equipo va en **cabina**, nunca facturado.
+- [ ] PhotoPills con los pins de los campamentos creados y mapas offline
+  descargados.
+- [ ] Imprime la [chuleta](../5dmk3/chuleta.md) y la
+  [lista de tomas](lista-de-tomas.md).
+
 ## Referencias
 
 - Namibia Wildlife Resorts (campamentos, puertas, reservas): <https://www.nwr.com.na/>

@@ -12,9 +12,15 @@
 | Estabilizador | ON | OFF (trípode) | ON | OFF | ON / OFF en trípode |
 | Extra | ráfaga alta, RAW a CF | avance silencioso | medición puntual | temporizador 2 s, WB 3900 K | nivel electrónico |
 
+## Rutina de 10 s al llegar a una escena
+
+C1 → obturación según escena → ¿luz nueva? foto de prueba + histograma → punto AF **al ojo** → ráfaga corta
+
 ## Obturación por escena (safari)
 
 quieto **1/500** · caminando **1/1000** · corriendo/agua **1/2000** · aves en vuelo **1/2500+** · atardecer quieto **1/250**
+
+A pulso, nunca por debajo de ~1/focal (600 mm → **1/640**); la tabla asume bean bag o apoyo.
 
 ## Histograma (detalle: comun/histograma.md) — revisa tras CADA cambio de luz
 

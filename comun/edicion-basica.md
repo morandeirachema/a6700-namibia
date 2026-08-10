@@ -12,6 +12,20 @@ teoría de color: un flujo que funciona, en orden.
 
 Los pasos de abajo valen para ambos; los nombres exactos cambian un poco.
 
+## El repaso de cada noche (10 minutos, sin editar)
+
+El hábito que hace que mejores *durante* el viaje, no al volver. Tras el
+volcado de seguridad ([logística](logistica-viaje.md)), con las fotos del día:
+
+1. Elige tus **3 mejores** del día. Solo eso — cría el ojo y la moral.
+2. Busca el **error que se repite**: ¿movidas? → obturación corta la próxima
+   vez. ¿Animales oscuros? → compensación. ¿Ojo blando? → punto AF. Las
+   tablas de "si la foto sale…" de cada capítulo dan la corrección.
+3. Decide **una sola cosa** que harás distinto mañana. Una, no cinco.
+4. Marca en la [lista de tomas](lista-de-tomas.md) las conseguidas y elige
+   la que persigues mañana.
+5. **No borres nada.**
+
 ## Paso 1 — Cribar (no edites lo que no vale)
 
 De un safari salen 800 fotos y valen 30. Antes de editar nada:

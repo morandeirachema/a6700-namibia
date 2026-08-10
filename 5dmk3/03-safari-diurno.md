@@ -22,6 +22,17 @@ Con esto, el 80 % del safari es mantener el pulgar en AF-ON, seguir al animal
 y ráfagas cortas. Sobre la marcha ajustas la **obturación** (rueda principal)
 según el movimiento.
 
+## La rutina de 10 segundos (cada vez que llegas a una escena)
+
+Fíjala hasta que sea automática — es lo que evita que el leopardo te pille
+con los ajustes de anoche:
+
+1. ¿Dial en **C1**? (restaura todo lo bueno).
+2. Obturación según la escena (tabla de abajo).
+3. ¿Ha cambiado la luz desde la última vez? → foto de prueba + histograma.
+4. Punto AF donde va a estar **el ojo**.
+5. Ráfaga corta y reevalúa.
+
 ## La pega del ISO Auto en M (y cómo vivir con ella)
 
 La 5D3 **no permite compensar la exposición en M con ISO Auto** (eso llegó en
@@ -46,6 +57,12 @@ modelos posteriores). En la práctica:
 | Aves en vuelo | 1/2500–1/3200 s |
 | Atardecer, poca luz, animal quieto | Baja a 1/250 s para contener el ISO |
 
+**Y a pulso, la regla 1/focal**: sin apoyo, no bajes de ~1/lo-que-marque-el-
+zoom aunque el animal duerma — con el 150-600 extendido, ~1/640 s (el
+estabilizador da margen, pero no lo apures con un objetivo prestado de 2 kg).
+Sobre bean bag o ventanilla puedes usar la tabla tal cual; la fila de
+1/250 s del atardecer es **siempre con apoyo**.
+
 ## Si la foto sale…
 
 | Problema | Solución |
@@ -57,6 +74,26 @@ modelos posteriores). En la práctica:
 | Borroso "que tiembla" a lo lejos a mediodía | *Heat haze*: aire caliente vibrando. No es la cámara — acércate o espera a que refresque |
 | Ráfaga que se atasca enseguida | Estás grabando en la SD (lenta en esta cámara) o la CF es antigua: RAW solo a una CF UDMA 7, y ráfagas de 1–2 s |
 | Ojo del animal desenfocado, cuerpo nítido | La 5D3 no tiene Eye AF: pon el punto único **sobre la cabeza**, no sobre el cuerpo |
+
+## Composición: de foto de recuerdo a foto decente
+
+Cinco reglas que no requieren técnica, solo acordarse:
+
+1. **Aire hacia donde mira**: deja espacio delante de la mirada o del
+   movimiento del animal, no detrás. Un león pegado al borde hacia el que
+   camina "se sale" de la foto.
+2. **A la altura de su ojo**: dispara desde lo más bajo que el coche permita
+   (ventanilla baja, no por la escotilla del techo). El picado desde arriba
+   es la firma de la foto de turista.
+3. **Mira el fondo antes de disparar**: una rama "saliendo" de la cabeza o un
+   coche detrás arruinan la foto. Medio metro de coche adelante o atrás
+   suele limpiar el fondo — pídelo.
+4. **El ojo nítido o no hay foto**: si el punto AF no está en el ojo, lo
+   demás da igual. Es la regla número uno de la [rutina](#la-rutina-de-10-segundos-cada-vez-que-llegas-a-una-escena).
+5. **Alterna encuadres**: de cada escena buena saca el retrato a 600 mm **y**
+   el plano abierto a 150–200 mm con el animal en su paisaje. El zoom sirve
+   para elegir encuadre, no solo para acercar. La
+   [lista de tomas](../comun/lista-de-tomas.md) te recuerda cuáles te faltan.
 
 ## Práctica desde el coche
 
