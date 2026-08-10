@@ -10,13 +10,13 @@ visible gran parte de la noche.
 | Parámetro | Valor de partida |
 |---|---|
 | Modo | M (o directamente **C2**, [capítulo 1](01-configuracion-basica.md)) |
-| Apertura | La más baja del objetivo (f/2.8 típico en budget) |
+| Apertura | f/2.8 — en el Samyang habitual (sin contactos electrónicos) se elige girando el **anillo del propio objetivo**, y la cámara marcará **f/00**: es normal, no está roto |
 | Obturación | 15–20 s con un 14 mm |
 | ISO | 3200; sube a 6400 si queda oscura |
-| Balance de blancos | Manual (K), 3900 K |
+| Balance de blancos | 3900 K (elige el modo **K** dentro del menú de balance de blancos y ajusta ahí el número) |
 | Formato | RAW |
-| Enfoque | Manual (interruptor AF/MF del objetivo en **MF**) |
-| Estabilizador del objetivo | OFF (estás en trípode) |
+| Enfoque | Manual — el Samyang **solo** enfoca a mano; no busques interruptor AF/MF |
+| Estabilizador | El Samyang no tiene: nada que apagar (con cualquier otro objetivo sobre trípode, OFF) |
 | Disparo | Temporizador 2 s |
 | Reducción ruido larga exposición | OFF |
 
@@ -39,6 +39,9 @@ visible gran parte de la noche.
    - Foto de reconocimiento "sucia": 5 s a ISO 25600. Sale horrible, pero te
      enseña el encuadre en 5 segundos. Ajusta y repite.
    - Live View con `Simulación de exposición` ON y la pantalla al máximo brillo.
+
+   En luna nueva prueba también el encuadre **vertical**: el núcleo de la Vía
+   Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
 4. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
    1. Objetivo en **MF**, estabilizador OFF.
    2. Activa **Live View**, apunta el recuadro a la estrella más brillante.

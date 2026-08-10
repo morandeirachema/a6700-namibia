@@ -13,6 +13,13 @@ La mitad diurna del país que no es fauna.
 | Estabilizador | ON a pulso, OFF en trípode |
 | Nivel electrónico | Activado (horizontes de desierto = delatores) |
 
+Con la poca luz del amanecer, f/8 a ISO 100 da obturaciones lentas: trípode,
+o sube el ISO hasta que la obturación pase de ~1/focal a pulso.
+
+¿Filtros? Ninguno imprescindible en este viaje: el polarizador oscurece el
+cielo de forma desigual en un 14 mm, y en el tele su rosca de 95 mm cuesta un
+dineral. Ahórratelo.
+
 Composición mínima que funciona: algo interesante **delante** (una acacia,
 una cresta de duna, huellas), horizonte fuera del centro (arriba o abajo,
 nunca partiendo la foto en dos), y con el gran angular acércate al primer
@@ -37,9 +44,10 @@ plano mucho más de lo que te parece natural.
 - Los árboles muertos de 900 años sobre la arcilla blanca: llega con la
   primera luz, cuando la duna de fondo está encendida y el vlei aún en sombra
   — el contraste naranja/blanco/negro es la foto clásica.
-- Ese contraste es brutal para el sensor: usa el **horquillado (AEB)**, 3
-  fotos a ±2 EV, y fusiónalas después (HDR en Lightroom) o elige la mejor.
-  Ambas cámaras lo tienen en el menú de exposición como "Bracketing/AEB".
+- Ese contraste es brutal para el sensor: usa el **horquillado (AEB)** —
+  `Menú → Comp. exp./AEB`, 3 fotos a ±2 EV, disparadas con el temporizador de
+  2 s para no moverlas — y fusiónalas después (HDR en Lightroom) o quédate
+  con la mejor.
 - Un cuerpo con el tele desde lejos (compresión duna-árboles) y otro con el
   angular dentro del vlei es el reparto perfecto si va también la 650D de
   respaldo.

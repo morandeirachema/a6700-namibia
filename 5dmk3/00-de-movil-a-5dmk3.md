@@ -66,6 +66,14 @@ se entrena (deberes, abajo).
 - **Rueda principal** (junto al disparador): obturación en M. **Rueda grande
   trasera**: apertura en M, compensación de exposición en Av/Tv.
 - **Joystick trasero**: mover el punto de enfoque.
+- **Botón ISO** (arriba, junto al disparador): púlsalo y gira la rueda
+  principal. Con ISO Auto no lo tocas.
+- **Botón Q**: abre la pantalla rápida con todos los ajustes a la vista y
+  editables. Cuando no encuentres cómo cambiar algo, casi seguro está ahí.
+- **La ruedecita de dioptrías** (pegada al visor): si ves el visor borroso
+  aunque la foto salga enfocada, gírala hasta ver nítidos los números. En una
+  cámara **prestada** estará ajustada al ojo de otra persona — es lo primero
+  que debes tocar el día que te la den.
 - **Cómo sujetarla**: mano izquierda **debajo** del objetivo (no encima),
   codos pegados al cuerpo, visor contra la ceja. Con el tele, apóyate siempre
   en algo: ventanilla, bean bag, poste. Cada punto de apoyo es una foto menos

@@ -21,6 +21,7 @@ y tablas de "si la foto sale mal, toca esto".
 5. [Equipo y accesorios](5dmk3/05-equipo-accesorios.md) — el tele budget que falta, tarjetas CF y accesorios (el Samyang 14mm ya está en casa).
 
 - [Chuleta imprimible](5dmk3/chuleta.md) — todas las recetas y arreglos en una página para llevar en el coche.
+- [Verificación in situ](5dmk3/verificacion-in-situ.md) — checklists de campo por momento del día (mañana, escena, astro, charca, noche) y señales de alarma. Para imprimir.
 
 ## Guías comunes
 

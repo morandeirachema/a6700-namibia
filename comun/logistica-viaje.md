@@ -76,7 +76,8 @@ no en Etosha:
 
 - [ ] Tele montado en la 5D3: ráfaga en RAW, revisa nitidez y que la CF traga.
 - [ ] El Samyang puesto: una foto a infinito de prueba (y recuerda dónde cae
-  su infinito real, de la noche de práctica).
+  su infinito real, de la noche de práctica). Si la cámara marca **f/00** con
+  él, es normal: la apertura se elige en el anillo del objetivo.
 - [ ] Baterías todas cargadas; fecha y hora de la cámara en hora local.
 - [ ] **Copia de seguridad hecha de todo lo que haya en las tarjetas — y
   entonces** formatearlas EN la cámara (nunca en el ordenador).
