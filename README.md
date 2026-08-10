@@ -59,6 +59,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA y apilado paso a paso.
 - 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y los flamencos de Walvis Bay.
 - 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, polvo y condensación, seguridad nocturna y el simulacro del día antes.
+- 🧼 [Limpieza en campo](comun/limpieza-en-campo.md) — cómo limpiar objetivo, lentes y cuerpo con el polvo de Etosha: kit, orden correcto y las peculiaridades del Samyang y el Sigma.
 
 ## 🔗 Referencias generales
 
