@@ -1,8 +1,9 @@
 # 4. Safari nocturno en charcas con la 5D Mark III — paso a paso
 
 Dos charcas de Etosha están **iluminadas con focos toda la noche** y tienen
-mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche)
-y Halali (charca Moringa). El hide de Olifantsrus, en el oeste, abre 24 h pero
+mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche,
+con ventana típica entre las **21:00 y la medianoche** — fiable también en
+noviembre) y Halali (charca Moringa). El hide de Olifantsrus, en el oeste, abre 24 h pero
 se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
 estética. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
 Info de campamentos: <https://www.nwr.com.na/>

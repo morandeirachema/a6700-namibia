@@ -33,8 +33,14 @@ Y la regla ya dicha en los capítulos 0: **no se borra nada en cámara**.
   olvides) y 2 LP-E6 de repuesto.
 - En el coche de alquiler: los puertos USB cargan power banks y móvil de día;
   si vas a acampar, valora un pequeño inversor de 12 V para el cargador de la 5D3.
-- El frío nocturno del desierto (bajo cero en junio-agosto) tumba las
-  baterías: la de repuesto duerme en el bolsillo interior, no en la mochila.
+- **En tu quincena (1–15 de noviembre) el enemigo es el calor, no el frío**:
+  en Etosha, días de 33–36 °C (con picos de 40) y noches suaves de ~20 °C.
+  Las baterías no sufrirán frío, pero **no dejes equipo al sol dentro del
+  coche** (el habitáculo aparcado supera con mucho los 40 °C): mochila en el
+  suelo a la sombra, nunca en la bandeja. Sol de tu quincena: ~06:11–06:16 /
+  19:03–19:10 — las puertas van con ello.
+- Si el itinerario incluye noches frías de desierto en otra época (junio a
+  agosto baja de cero), la batería de repuesto duerme en el bolsillo interior.
 
 ## Polvo, arena y condensación
 
