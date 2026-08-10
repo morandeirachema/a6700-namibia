@@ -31,7 +31,7 @@ safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho 
 | Sale… | Toca… |
 |---|---|
 | Animal movido | Obturación ↑ (rueda principal) |
-| Animal oscuro, fondo claro | ISO manual +1 paso o medición puntual (M+Auto ISO no compensa) |
+| Animal oscuro, fondo claro | ✱ sobre el animal congela el ISO; o ISO manual +1, o puntual (M+Auto ISO no compensa) |
 | AF al arbusto | M-Fn → punto único expandido + joystick |
 | Ojo desenfocado | Punto AF a la cabeza, no al cuerpo |
 | Ráfaga atascada | RAW solo a la CF rápida |

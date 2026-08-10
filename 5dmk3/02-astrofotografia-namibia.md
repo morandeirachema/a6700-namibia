@@ -18,6 +18,7 @@ visible gran parte de la noche.
 | Enfoque | Manual — el Samyang **solo** enfoca a mano; no busques interruptor AF/MF |
 | Estabilizador | El Samyang no tiene: nada que apagar (con cualquier otro objetivo sobre trípode, OFF) |
 | Disparo | Temporizador 2 s |
+| Silencioso Live View | **Modo 1** (primera cortinilla electrónica: dispara sin ninguna pieza en movimiento — cero vibración, mejor que el bloqueo de espejo) |
 | Reducción ruido larga exposición | OFF |
 
 ## Antes de salir (checklist)

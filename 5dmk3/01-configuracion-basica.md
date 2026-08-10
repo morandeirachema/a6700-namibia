@@ -21,6 +21,7 @@ Canon: <https://www.canon.es/support/> (busca "EOS 5D Mark III").
 | Reducción ruido larga exposición | OFF | Duplica el tiempo entre fotos de astro |
 | Reducción ruido alta sens. ISO | OFF/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
 | Pitido AF | OFF | Silencio en charcas y hides |
+| Auto Lighting Optimizer | OFF | No toca el RAW, pero maquilla el histograma y el aviso de altas luces — engaña justo a lo que usas para exponer |
 | Simulación de exposición (Live View) | ON | Ver la exposición real en pantalla (astro) |
 
 ## Enfoque con el pulgar (back-button focus)

@@ -39,8 +39,12 @@ La 5D3 **no permite compensar la exposición en M con ISO Auto** (eso llegó en
 modelos posteriores). En la práctica:
 
 - Con luz normal, el medidor acierta y no lo notarás.
-- Animal oscuro sobre fondo claro (calcreta blanca al sol): la cámara
-  subexpondrá al animal. Solución rápida: pasa el ISO de Auto a **manual**
+- **El truco del botón ✱** (documentado en el manual, p. 167): en M con ISO
+  Auto, pulsar **✱ (AE lock)** congela el ISO medido en ese instante. Llena
+  el centro con el animal, pulsa ✱, reencuadra contra el fondo claro y
+  dispara — la calcreta blanca ya no engaña al medidor. Es lo más parecido a
+  compensar que tiene esta cámara en M+ISO Auto.
+- Si el ✱ se te olvida en el momento: pasa el ISO de Auto a **manual**
   (botón ISO + rueda) y súbelo un paso respecto a lo que marcaba, o cambia la
   medición a **puntual** (botón de medición) y mide sobre el animal.
 - Alternativa si esto te agobia: modo **Tv** a 1/1000 s, donde sí funciona la
@@ -87,7 +91,7 @@ Sobre bean bag o ventanilla puedes usar la tabla tal cual; la fila de
 | Problema | Solución |
 |---|---|
 | Movida/borrosa el animal | Obturación más rápida (rueda principal). Fallo nº 1 |
-| El animal oscuro, el fondo bien | ISO manual un paso arriba o medición puntual (ver arriba) |
+| El animal oscuro, el fondo bien | ✱ sobre el animal (congela el ISO), ISO manual un paso arriba o medición puntual (ver arriba) |
 | El AF se va al arbusto de delante | Pasa de Zona a **punto único expandido** (botón M-Fn) y ponlo tú sobre el animal con el joystick; Case 2 ayuda a no soltar al animal |
 | Todo lejísimos | La 5D3 no tiene modo recorte: encuadra bien y **recorta en edición** (los 22 Mpx dan margen para un recorte del 50 %) |
 | Borroso "que tiembla" a lo lejos a mediodía | *Heat haze*: aire caliente vibrando. No es la cámara — acércate o espera a que refresque |
