@@ -43,6 +43,10 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 - Espía las charcas antes del viaje: hay **webcam en directo de la charca de
   Okaukuejo** (busca "Okaukuejo waterhole live cam") — sirve para calibrar
   expectativas y horas.
+- Y el consejo de reserva que se deduce de toda esta guía: **duerme en
+  Okaukuejo las noches clave** — la charca de los rinos queda a un paseo de
+  tu cama, y en noviembre ya es temporada baja (más fácil y más barato).
+  Reservas: <https://www.nwr.com.na/>
 
 ## Comportamiento que puedes anticipar (= fotos que puedes esperar)
 
@@ -89,8 +93,11 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 
 Lo primero: **tus fechas son buenas de verdad** — luna nueva el **9 de
 noviembre de 2026**: todos los anocheceres del 1 al 9 sin luna, y las noches
-completas más oscuras del **7 al 10**. La oscuridad total llega ~75 min tras
-la puesta (≈ **20:25**) y dura hasta ≈ 04:55. Y lo segundo: tu cielo no es
+completas más oscuras del **7 al 10**. Del 10 al 15 tampoco pierdes la noche:
+la luna creciente se pone entre ~1 h (día 10) y ~4,5 h (día 15) después del
+sol — mira su hora exacta en PhotoPills y a partir de ahí el cielo vuelve a
+ser tuyo. La oscuridad total llega ~75 min tras la puesta (≈ **20:25**) y
+dura hasta ≈ 04:55. Y lo segundo: tu cielo no es
 el de las postales de agosto — es **mejor en otras cosas**:
 
 - **El núcleo de la Vía Láctea, solo del 1 al 9 y al anochecer**: cuando

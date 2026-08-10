@@ -26,6 +26,10 @@ A pulso, nunca por debajo de ~1/focal (600 mm → **1/640**); la tabla asume bea
 
 día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · Olifantsrus rojo: da igual, será mono
 
+## Plan de la noche (1–15 nov)
+
+**20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 9**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes)
+
 ## Histograma (detalle: comun/histograma.md) — revisa tras CADA cambio de luz
 
 safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo

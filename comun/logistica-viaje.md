@@ -80,6 +80,14 @@ Rutina diaria de 5 minutos que salva el equipo:
   al suelo, y sacude las botas por la mañana.
 - Deja dicho en el alojamiento dónde vas a estar si te alejas para el astro, y
   lleva el móvil (sin cobertura en muchas zonas: descarga mapas offline antes).
+- Dentro del parque, **prohibido bajarse del coche** salvo en los puntos
+  señalizados (miradores marcados y el Etosha Lookout sobre el pan, de los
+  pocos donde se permite). La ventanilla es tu hide: úsala.
+- **Mosquitos y malaria**: con las primeras lluvias de noviembre arranca la
+  temporada — repelente y manga larga en las sesiones nocturnas del mirador,
+  y consulta a tu médico la profilaxis antipalúdica (Etosha es zona de
+  riesgo estacional). Recomendaciones oficiales de viaje:
+  <https://www.exteriores.gob.es/>
 
 ## El simulacro del día antes de volar
 
