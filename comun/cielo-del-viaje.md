@@ -35,6 +35,9 @@ el anochecer ya es sin luna.)
 - **Receta**: la estándar (15–20 s · f/2.8 · ISO 3200 · WB 3900 K), y como
   está tumbado, la composición es de **banda diagonal con silueta** o la
   **panorámica de 3–4 verticales** ([mejora · parte 2](../mejora/parte-2-avanzado.md)).
+  El arte de meter el objeto en tierra — elegirlo, enfocarlo, repartir el
+  encuadre — tiene guía propia:
+  [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg/1280px-085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg" alt="La Vía Láctea sobre el paisaje del Namib-Naukluft" width="100%">
 
@@ -88,7 +91,9 @@ el anochecer ya es sin luna.)
   equilátero que forma con las dos Nubes.
 - **Receta**: 30 s · f/2.8 · ISO 1600, 90–180 tomas encadenadas, NR de larga
   exposición OFF ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md));
-  apilado en StarStaX ([edición](edicion-basica.md)).
+  apilado en StarStaX ([edición](edicion-basica.md)). Componer el remolino
+  sobre un objeto — dirección, margen, la tierra durante la serie — está a
+  fondo en [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 - **Ojo**: la Cruz del Sur **no está** en tus anocheceres (vuelve de
   madrugada, baja al sureste antes del alba).
 

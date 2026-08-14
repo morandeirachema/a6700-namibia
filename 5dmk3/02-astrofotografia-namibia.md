@@ -86,6 +86,10 @@ visible gran parte de la noche.
 | Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/2.8 a f/3.2–3.5 si molesta mucho |
 | Puntos rojos/calientes en exposiciones largas | Píxeles calientes, normales en un sensor de 2012. El apilado y el NR por IA los eliminan |
 
+La versión a fondo de las dos fotos con primer plano — la postal (cielo
+fijo con silueta) y los círculos sobre un objeto — está en
+[Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
+
 ## Star trails (circumpolares del sur)
 
 El plan B perfecto para noches con algo de luna, y un éxito casi garantizado

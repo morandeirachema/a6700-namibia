@@ -33,7 +33,7 @@ sale solo:
 |---|---|---|---|
 | **1 · Básico** — los tres números y que todo funcione | [Capítulo 0](5dmk3/00-de-movil-a-5dmk3.md), [el histograma](comun/histograma.md) y las 4 primeras tardes de deberes | [Nivel básico de su guía](comun/gopro-mission-1.md): microSD, firmware, tres gestos y una noche de prueba | [Las apps](comun/apps-del-viaje.md), instaladas y probadas |
 | **2 · El viaje** — las recetas de cada escenario | Capítulos [1](5dmk3/01-configuracion-basica.md) a [5](5dmk3/05-equipo-accesorios.md), los deberes 5–7 y el [simulacro](comun/logistica-viaje.md) | Las recetas del viaje y [la lista de tomas del vídeo-recuerdo](comun/gopro-mission-1.md) | [Mejores horas](comun/mejores-horas.md), [balance de blancos](comun/balance-de-blancos.md), [edición](comun/edicion-basica.md), [paisaje](comun/paisaje-namibia.md), [logística](comun/logistica-viaje.md), [limpieza](comun/limpieza-en-campo.md) y [la lista de tomas](comun/lista-de-tomas.md) |
-| **3 · Avanzado** — de la foto correcta a la foto buena | [Mejora parte 1](mejora/parte-1-principiante.md), [parte 2](mejora/parte-2-avanzado.md) y [Safari a fondo](mejora/safari-a-fondo.md) | El nivel avanzado de su guía: open gate, RAW y star trails con criterio | [El cielo del viaje](comun/cielo-del-viaje.md) completo, con el plan noche a noche de las dos cámaras |
+| **3 · Avanzado** — de la foto correcta a la foto buena | [Mejora parte 1](mejora/parte-1-principiante.md), [parte 2](mejora/parte-2-avanzado.md), [Safari a fondo](mejora/safari-a-fondo.md) y [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | El nivel avanzado de su guía: open gate, RAW y star trails con criterio | [El cielo del viaje](comun/cielo-del-viaje.md) completo, con el plan noche a noche de las dos cámaras |
 
 ## 📖 La guía, capítulo a capítulo
 
@@ -70,6 +70,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - [Parte 1 · principiante](mejora/parte-1-principiante.md) — el plan de charcas por luz y hora, comportamiento anticipable, las lecciones de los maestros, la estrategia de noviembre y tu cielo real (Nubes de Magallanes, núcleo al anochecer, Táuridas).
 - [Parte 2 · avanzado](mejora/parte-2-avanzado.md) — AI Servo a medida, el combo puntual+✱, botonera de francotirador, el punto dulce del Sigma y el plan de la noche completa hora a hora.
 - [Safari a fondo](mejora/safari-a-fondo.md) — luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como ajustes: el antídoto contra la típica foto plana y sin vida.
+- [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) — la postal (cielo fijo con silueta: objeto, enfoque con primer plano, reparto del encuadre) y los círculos (star trails sobre el objeto: dónde cae el remolino, la serie y su montaje).
 
 ## 🧭 Guías comunes
 
