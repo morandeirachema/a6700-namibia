@@ -110,6 +110,10 @@ no en Etosha:
 - [ ] Todo el equipo va en **cabina**, nunca facturado.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](apps-del-viaje.md)).
+- [ ] **Seestar**: la noche de prueba en casa ya hecha (app emparejada, un
+  objetivo apilado 15 min), batería cargada, su cable USB-C y el filtro
+  solar dentro de la funda ([su guía](seestar-s30-pro.md)). Va en cabina,
+  como todo.
 - [ ] Imprime la [chuleta](../5dmk3/chuleta.md) y la
   [lista de tomas](lista-de-tomas.md).
 
