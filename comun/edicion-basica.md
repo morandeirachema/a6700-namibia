@@ -116,6 +116,36 @@ fotogramas por segundo):
    herramienta especializada es **LRTimelapse** (de pago:
    <https://lrtimelapse.com/>).
 
+## Montar el vídeo-recuerdo (DaVinci para novatos)
+
+El cierre del viaje: los clips de la GoPro convertidos en un vídeo de 3–5
+minutos. El guion ya lo rodaste — los capítulos de la
+[lista de tomas del vídeo](gopro-mission-1.md): ida, carretera, desierto,
+costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
+**DaVinci Resolve** (gratis:
+<https://www.blackmagicdesign.com/products/davinciresolve>):
+
+1. Proyecto nuevo → importa la carpeta de clips del viaje (ya volcados por
+   días al SSD).
+2. Arrastra a la línea de tiempo **en el orden del guion**, no en el orden
+   de grabación: la historia manda.
+3. Recorta cada clip a sus **3–6 segundos buenos** (herramienta de corte;
+   los 5 s quietos que dejaste al grabar son el margen). Fuera todo lo que
+   dude: mejor 3 minutos redondos que 8 regulares.
+4. Los timelapses y star trails de la GoPro ya vienen montados: entran como
+   un clip más. Los de la 5D3, como los exportaste
+   ([arriba](#montar-un-timelapse-en-vídeo)).
+5. **Música**: una sola canción sin copyright (la biblioteca de audio de
+   YouTube Studio, por ejemplo) marca el ritmo de los cortes. Baja el sonido
+   ambiente de los clips — salvo donde ES la escena: las focas, la tormenta,
+   el león de noche.
+6. Exporta con el preajuste **YouTube 1080p** de la pestaña Deliver y
+   listo: ese archivo es el recuerdo.
+
+La alternativa exprés: la app **Quik** de GoPro monta un borrador
+automático con música en 5 minutos — vale como tráiler mientras te animas
+con el montaje bueno.
+
 ## Exportar para compartir
 
 - JPEG, lado largo **2048 px**, espacio de color **sRGB** (si no, los colores

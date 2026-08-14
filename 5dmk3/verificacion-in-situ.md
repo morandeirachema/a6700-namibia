@@ -72,6 +72,9 @@ devolución:
   arena encima (raya el cristal).
 - [ ] Bean bag en la ventanilla, cámara encendida en el regazo, tapa quitada.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
+- [ ] **GoPro**: batería y Volta 2 cargadas, microSD con hueco, **anclaje
+  apretado** (*por qué:* la tabla de lavar de la grava afloja cualquier
+  rosca) y lente repasada con la pera.
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 

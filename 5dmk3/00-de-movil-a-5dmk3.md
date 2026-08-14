@@ -189,7 +189,9 @@ una forma imposible con JPEG. La edición está explicada en la
    problemas en tu barrio que con un rinoceronte delante.
 
 Cuando estas siete salgan solas: [Safari a fondo](../mejora/safari-a-fondo.md)
-propone tres tardes monográficas más (contraluces, barridos y fondos).
+propone tres tardes monográficas más (contraluces, barridos y fondos). Y la
+segunda cámara del viaje, la GoPro, tiene su propia puesta en marcha desde
+cero en [su guía](../comun/gopro-mission-1.md).
 
 ## Referencias
 

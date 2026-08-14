@@ -51,7 +51,7 @@ safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho 
 
 ## Antes de arrancar cada día
 
-Volver a C1 (restaura todo) · batería + repuesto · CF con hueco · interruptores del Sigma: **AF · OS 1 · limitador 10m–∞** · cargador de pared en la maleta (no carga por USB) · pera y microfibra · bean bag
+Volver a C1 (restaura todo) · batería + repuesto · CF con hueco · interruptores del Sigma: **AF · OS 1 · limitador 10m–∞** · cargador de pared en la maleta (no carga por USB) · pera y microfibra · bean bag · GoPro: batería/Volta 2 · microSD · **anclaje apretado**
 
 ## Enfocar una estrella (resumen)
 

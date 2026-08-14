@@ -8,7 +8,9 @@ Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
 
 1. **Tarjetas de sobra para no reutilizar ninguna**: calcula ~64 GB por día
    intenso de RAW y compra el doble. Una tarjeta llena se guarda como copia y
-   **no se formatea hasta estar en casa** con todo volcado.
+   **no se formatea hasta estar en casa** con todo volcado. La GoPro va
+   aparte y su vídeo come más que el RAW: **microSD de 256 GB** (V30) y sus
+   clips entran en el mismo volcado nocturno al SSD.
 2. **Doble tarjeta = primera copia automática**. Configúralo antes de salir:
    `Menú → Selec. función grab.+tarjeta → Función grab. → Grabar en múltiples`
    — RAW a la CF y copia a la SD (o RAW+JPEG repartido si la SD se queda
@@ -102,6 +104,7 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 | Samyang 14mm y la 650D, cada uno en su compartimento | Bean bag **vacío** |
 | **Todas** las baterías (LP-E6, LP-E8), la Volta 2 de la GoPro y el power bank | Cargadores, regleta y adaptadores D/M |
 | Tarjetas (CF y SD) y el SSD | Kit de limpieza, bolsas zip, cinta |
+| La GoPro (con su microSD dentro) | Anclajes y arnés de pecho del bundle |
 | Lector de tarjetas, intervalómetro, pera y una microfibra | Frontal y ropa alrededor de todo, haciendo de acolchado |
 
 **Baterías: la parte con normativa.** Las baterías de litio de repuesto están

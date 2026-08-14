@@ -125,6 +125,9 @@ noches. El procedimiento, siempre igual:
   cuerpo a cuerpo del sendero; 4K60 + HyperSmooth y listo. El viaje te
   habrá enseñado ya todos sus menús.
 
+> **Para el coche**: todo lo operativo de esta guía cabe en una hoja — la
+> [chuleta GoPro](chuleta-gopro.md), imprimible junto a las otras tres.
+
 ## El vídeo-recuerdo: la lista de tomas, con sus ajustes
 
 El objetivo: volver con material para montar en casa un vídeo de 3–5
