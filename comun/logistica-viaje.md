@@ -64,7 +64,8 @@ Rutina diaria de 5 minutos que salva el equipo:
    tormenta te pilla en el mirador — las de la tarde descargan fuerte y corto.
 7. **Seguro**: comprueba antes de salir que tu seguro de viaje cubre el
    equipo — incluida una cámara **prestada** (no siempre entran los bienes de
-   terceros; pregúntalo explícitamente).
+   terceros; pregúntalo explícitamente) y el **telescopio**, que a veces no
+   encaja en la categoría "cámara" de la póliza.
 
 ## Seguridad nocturna (importa para el plan fotográfico)
 
@@ -107,7 +108,11 @@ no en Etosha:
 - [ ] Ensaya el volcado tarjeta → SSD una vez, con cronómetro.
 - [ ] Lentes limpias; pera, microfibra, frontal rojo, intervalómetro y bean
   bag (vacío) en la bolsa.
-- [ ] Todo el equipo va en **cabina**, nunca facturado.
+- [ ] Todo el equipo va en **cabina**, nunca facturado — y **pésalo**: con
+  el Seestar (1,65 kg), el tele (2 kg), los cuerpos y los cargadores, la
+  mochila ronda los 7–8 kg y muchas aerolíneas topan justo ahí. Revisa la
+  franquicia de mano de tus vuelos; si te pasas, la válvula clásica es una
+  chaqueta de bolsillos grandes (baterías y cuerpo pequeño encima).
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](apps-del-viaje.md)).
 - [ ] **Seestar**: la noche de prueba en casa ya hecha (app emparejada, un

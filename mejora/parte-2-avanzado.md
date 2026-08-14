@@ -95,6 +95,7 @@ sobre la marcha en vez de memorizar Casos.
 | 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/2.8 · ISO 3200 |
 | 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
 | Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
+| En paralelo, toda la noche | **El Seestar apilando cielo profundo** | Arranca primero (2 min) y trabaja solo; objetivos por franja en [su guía](../comun/seestar-s30-pro.md) |
 | Alba del 14 | **Conjunción Júpiter–Marte** al este | Tele corto o 14 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina

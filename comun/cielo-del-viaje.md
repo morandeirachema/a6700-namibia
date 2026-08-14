@@ -39,7 +39,7 @@ el anochecer ya es sin luna.)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg/1280px-085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg" alt="La Vía Láctea sobre el paisaje del Namib-Naukluft" width="100%">
 
-<sub>La banda con paisaje desde el Namib-Naukluft — la composición diagonal con silueta que pide tu núcleo de noviembre. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: vertical, con el horizonte abajo del todo — un quinto de suelo, cuatro quintos de cielo — y la banda subiendo desde las montañas como una columna. El primer plano son matas apenas insinuadas: de noche el suelo se cuenta con siluetas, no con detalle. Tu núcleo de noviembre es esta misma idea girada 90°: banda baja y tumbada sobre el OSO, mismo reparto de pesos pero en panorámica. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:085_Milky_way_seen_from_Namib-Naukluft_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 ### 2 · La luz zodiacal — la pirámide fantasma (primeras noches)
 
@@ -52,7 +52,7 @@ el anochecer ya es sin luna.)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Zodiacal_Light_over_La_Silla.jpg/1280px-Zodiacal_Light_over_La_Silla.jpg" alt="El cono de luz zodiacal sobre el horizonte" width="100%">
 
-<sub>Así se ve: el cono lechoso inclinado sobre el horizonte oeste tras el crepúsculo (aquí sobre La Silla, Chile — mismo cielo austral). Foto de [ESO/Y. Beletsky](https://commons.wikimedia.org/wiki/File:Zodiacal_Light_over_La_Silla.jpg), CC BY 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el cono nace ancho del resplandor del horizonte y se va estrechando hacia arriba — así la distingues de una farola lejana, que haría una cúpula, no una pirámide inclinada. En esta foto (La Silla, Chile — mismo cielo austral) hay pueblos encendidos en la base; en Etosha tu base estará limpia y el cono, más evidente. Es tenue: búscala en la foto revelada, no a simple vista. Foto de [ESO/Y. Beletsky](https://commons.wikimedia.org/wiki/File:Zodiacal_Light_over_La_Silla.jpg), CC BY 4.0, vía Wikimedia Commons</sub>
 
 ### 3 · Las Nubes de Magallanes — las protagonistas (todas las noches)
 
@@ -70,7 +70,7 @@ el anochecer ya es sin luna.)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Magellanic_Clouds_over_Paranal_%28dave-jones-9%29.jpg/1280px-Magellanic_Clouds_over_Paranal_%28dave-jones-9%29.jpg" alt="Las dos Nubes de Magallanes sobre el horizonte" width="100%">
 
-<sub>Tus protagonistas: la Grande (abajo) y la Pequeña (arriba), dos galaxias a simple vista como jirones de nube que no se mueven. Foto de [Dave Jones/ESO](https://commons.wikimedia.org/wiki/File:Magellanic_Clouds_over_Paranal_(dave-jones-9).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: la mancha grande y azulada del centro es la Nube **Grande**; la **Pequeña** está abajo a la izquierda, casi hundida en el resplandor naranja del horizonte — que no es contaminación lumínica: es **airglow**, el mismo que saldrá en tus fotos. Fíjate en lo tenues que son comparadas con las estrellas: por eso se apilan 15–20 tomas. Las cúpulas en silueta hacen aquí el papel que en tu encuadre hará el depósito de agua o un mopane. Foto de [Dave Jones/ESO](https://commons.wikimedia.org/wiki/File:Magellanic_Clouds_over_Paranal_(dave-jones-9).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
 
 ### 4 · Cielo profundo con el Seestar — galaxias y cúmulos de encargo
 
@@ -105,7 +105,7 @@ el anochecer ya es sin luna.)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_trails_over_La_Silla_%28eso_la_silla-cc%29.jpg/1280px-Star_trails_over_La_Silla_%28eso_la_silla-cc%29.jpg" alt="Círculos de estrellas girando alrededor del polo sur celeste" width="100%">
 
-<sub>El objetivo de la serie: círculos girando alrededor del polo sur celeste — en Etosha el centro cae a solo ~19° de altura, así que entra con silueta delante. Foto de [G. Lambert/ESO](https://commons.wikimedia.org/wiki/File:Star_trails_over_La_Silla_(eso_la_silla-cc).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el centro de giro (el polo sur celeste) queda dentro del encuadre, arriba a la derecha, y los arcos se alargan cuanto más lejos de él — por eso conviene decidir dónde cae el polo ANTES de encuadrar. La caseta iluminada da escala y ancla la foto (tu versión: un árbol o el depósito, con el polo a solo ~19° sobre el sur). Mira los colores: los arcos azules y naranjas son los colores reales de las estrellas, y la rayita recta que cruza a la izquierda es un satélite o un bólido — una serie larga los caza sola (Táuridas). Foto de [G. Lambert/ESO](https://commons.wikimedia.org/wiki/File:Star_trails_over_La_Silla_(eso_la_silla-cc).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
 
 ### 7 · Las Táuridas — bólidos de regalo
 
@@ -182,7 +182,7 @@ foco no depende del cielo ([capítulo 4](../5dmk3/04-safari-nocturno-charcas.md)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/White_rhinos_at_Okaukuejo_waterhole_at_night_%283687260675%29.jpg/1280px-White_rhinos_at_Okaukuejo_waterhole_at_night_%283687260675%29.jpg" alt="Rinocerontes en la charca iluminada de Okaukuejo de noche" width="100%">
 
-<sub>El plan a prueba de nubes: la charca iluminada de Okaukuejo, con rinocerontes casi cada noche entre las 21:00 y la medianoche. Foto de [Greg Willis](https://commons.wikimedia.org/wiki/File:White_rhinos_at_Okaukuejo_waterhole_at_night_(3687260675).jpg), CC BY-SA 2.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: la charca de Okaukuejo tal cual la verás — el foco enciende la orilla de calcreta, los rinocerontes se doblan en su reflejo sobre el agua negra, y al fondo, apenas rozada por la luz, una jirafa espera su turno (el siguiente acto de la función). El 80 % del encuadre es negro y así debe quedarse: es la masa izquierda del histograma que no hay que "arreglar". Receta del capítulo 4: 1/60 · apertura mínima · ISO 6400 y esperar el momento quieto. Foto de [Greg Willis](https://commons.wikimedia.org/wiki/File:White_rhinos_at_Okaukuejo_waterhole_at_night_(3687260675).jpg), CC BY-SA 2.0, vía Wikimedia Commons</sub>
 
 ## Referencias
 

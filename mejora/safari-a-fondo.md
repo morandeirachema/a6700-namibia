@@ -31,7 +31,7 @@ minuto de maniobra cambia la foto entera.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Giraffe_at_sunset_%2823890747878%29.jpg/1280px-Giraffe_at_sunset_%2823890747878%29.jpg" alt="Silueta de jirafa contra el cielo del atardecer" width="100%">
 
-<sub>La fila "silueta" de la tabla, ejecutada: perfil reconocible, animal en negro total, horizonte limpio, −1/−2 EV midiendo al cielo. Foto de [Sonse](https://commons.wikimedia.org/wiki/File:Giraffe_at_sunset_(23890747878).jpg), CC BY 2.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: contraluz de última hora con el sol dentro del encuadre — y no revienta la foto porque la calima de Etosha hace de difusor natural. La jirafa funciona en silueta porque su perfil es inconfundible y va entera contra el cielo, con aire hacia donde camina; la pista cruza el encuadre como línea que te lleva hasta ella. Réplica: −1/−2 EV midiendo al cielo, horizonte bajo y esperar a que el animal se separe de los arbustos. Foto de [Sonse](https://commons.wikimedia.org/wiki/File:Giraffe_at_sunset_(23890747878).jpg), CC BY 2.0, vía Wikimedia Commons</sub>
 
 **El detalle que separa vivo de muerto: la chispa en el ojo.** Un ojo con un
 puntito de luz reflejada (*catchlight*) hace al animal presente; un ojo negro
@@ -150,11 +150,11 @@ fría*.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Etosha_pan_with_Gemsbok.jpg/1280px-Etosha_pan_with_Gemsbok.jpg" alt="Órix diminuto contra el vacío blanco del pan de Etosha" width="100%">
 
-<sub>Espacio negativo: el órix diminuto contra el vacío del pan dice "desierto" mejor que cualquier retrato — y el aire va en la dirección de su marcha. Foto de [Hans Hillewaert](https://commons.wikimedia.org/wiki/File:Etosha_pan_with_Gemsbok.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: cuatro franjas horizontales — hierba dorada, calcreta blanca, línea oscura de monte, cielo — y un solo punto de interés cuyos cuernos lo hacen reconocible a 300 m. Es luz de mediodía y aun así funciona, porque el sujeto ES el vacío (espacio negativo). Réplica: tele desde lejos para comprimir las franjas, horizonte recto con el nivel electrónico, y resiste la tentación de acercarte — el aire alrededor es la foto. Foto de [Hans Hillewaert](https://commons.wikimedia.org/wiki/File:Etosha_pan_with_Gemsbok.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg" alt="Primer plano apretado de la cara de un elefante en Etosha" width="100%">
 
-<sub>El otro extremo que también funciona: muy cerca, recortando por dentro de la figura — piel, mirada y nada más. La distancia media entre ambos es la foto plana. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el otro extremo — el encuadre corta por dentro de la cabeza y no deja nada de sobra: la foto va de textura (el barro de calcreta seco y agrietado, el "elefante fantasma" de cerca) y de los dos ojos con pestañas que la convierten en retrato. Luz suave sin sombras duras, y el blanco y negro remata la clave alta que el barro blanco ya empezó. Réplica: 600 mm, punto AF en un ojo, animal parado de frente. La distancia media entre esta foto y la del órix es donde viven las fotos planas. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 ## 6 · El momento: la vida está en el gesto
 
@@ -174,7 +174,7 @@ señales concretas:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/097_African_bush_elephant_dust_bathing_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-097_African_bush_elephant_dust_bathing_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg" alt="Elefante bañándose en polvo en Etosha, la nube de polvo iluminada" width="100%">
 
-<sub>El gesto anunciado: tras el baño, el elefante se reboza — la nube de polvo encendida por la luz ES la foto, y sabías que venía. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:097_African_bush_elephant_dust_bathing_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el gesto anunciado de la tabla, cazado — fíjate en el barro aún mojado alrededor del ojo y la oreja: acaba de salir del agua, así que el baño de polvo era cuestión de segundos. La nube dibuja el movimiento alrededor de un cuerpo casi quieto, el fondo claro hace legible cada mota, y el B/N se queda con la textura. Réplica: encuadre listo ANTES de que empiece, 1/2000 y ráfaga en el lanzamiento. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:097_African_bush_elephant_dust_bathing_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 Y el consejo de volumen de Lanting ([parte 1](parte-1-principiante.md)):
 cuando el gesto llegue, **trabaja la escena** — variaciones de encuadre,

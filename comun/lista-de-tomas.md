@@ -1,4 +1,4 @@
-# La lista de tomas — vuelve con estas 12 fotos
+# La lista de tomas — vuelve con estas 12 fotos (+5 extras)
 
 Un novato dispara en reactivo: ve algo, dispara, y vuelve con 3.000 fotos
 parecidas y ninguna redonda. Esta lista es la brújula: léela cada mañana,
@@ -52,6 +52,18 @@ reportaje y no con un carrete de pruebas.
 15. **Un ave migratoria**: noviembre es el mejor mes de rapaces y llegan los
     abejarucos europeos a los cables y ramas — tele a 600 mm, 1/2500 s si
     vuelan.
+
+## Las del cielo automático (tus dos prioridades nuevas)
+
+16. **La foto del espacio**: la nebulosa de la Tarántula o 47 Tucanae
+    apiladas 30–45 min con el Seestar en una noche sin luna
+    ([su guía](seestar-s30-pro.md), tabla de objetivos por franja). Se
+    consigue "sola" — el fallo posible es no arrancarlo: por eso va primero
+    en la [rutina de astro](../5dmk3/verificacion-in-situ.md).
+17. **El timelapse nocturno con silueta**: el cielo girando sobre un árbol,
+    el molino o el depósito de agua — con el Seestar en modo pon-y-olvida o
+    con la 5D3 + intervalómetro en la noche estrella
+    ([las tres vías](seestar-s30-pro.md)).
 
 ## Cómo usarla
 

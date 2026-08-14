@@ -50,7 +50,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 |---|---|---|
 | 📋 [Chuleta](5dmk3/chuleta.md) | Todas las recetas y arreglos rápidos en una página | [PDF](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](5dmk3/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías (f/00, Err 01…) | [PDF](pdf/verificacion-in-situ.pdf) |
-| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
+| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre y 2 del cielo automático) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 
 Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran desde el Markdown.
 

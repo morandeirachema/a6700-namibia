@@ -75,6 +75,22 @@ plano mucho más de lo que te parece natural.
   siluetas de dunas contra la niebla desde Sandwich Harbour.
 - Ojo con el salitre: limpia el objetivo al volver al coche.
 
+## Timelapse diurno (dunas y tormentas)
+
+Los dos sujetos de tu viaje que se mueven despacio y lucen acelerados:
+
+- **La tormenta de la tarde creciendo** (noviembre las regala): 5D3 en
+  trípode o bean bag, **modo M con todo fijo** (exposición, ISO y WB fijos =
+  sin parpadeo), intervalómetro a **un disparo cada 3–5 s**, 300 tomas ≈
+  12 s de clip.
+- **Las sombras barriendo las dunas** a primera/última hora: igual, pero a
+  un disparo cada **20–30 s** durante 30–60 min.
+- La versión sin esfuerzo: el **modo timelapse del móvil** apoyado en una
+  piedra — para redes, sobra.
+
+El montaje del clip (ffmpeg o DaVinci) es el mismo que el del timelapse
+nocturno: [edición](edicion-basica.md).
+
 ## Atardeceres y siluetas
 
 La postal africana barata de conseguir: **expón para el cielo** (compensación
