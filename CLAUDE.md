@@ -12,7 +12,7 @@ Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyan
 
 - `5dmk3/` — capítulos `00`–`05` (móvil→cámara, configuración, astro, safari diurno, charcas nocturnas, equipo), el anexo de la 650D de respaldo (`anexo-650d.md`) + dos hojas de campo imprimibles: `chuleta.md` y `verificacion-in-situ.md`.
 - `comun/` — guías transversales: lista de tomas, mejores horas, el cielo del viaje (catálogo astro de la quincena, `cielo-del-viaje.md`), la guía de la GoPro por niveles (`gopro-mission-1.md`, con la lista de tomas del vídeo-recuerdo), apps del viaje, histograma, balance de blancos, edición básica, paisaje de Namibia, logística y limpieza en campo. El README ordena todo esto como ruta de aprendizaje en tres niveles.
-- `mejora/` — el salto "de la foto correcta a la foto buena": `parte-1-principiante.md` (plan de charcas, comportamiento, el cielo real de noviembre), `parte-2-avanzado.md` (AF a medida, plan de la noche hora a hora), `safari-a-fondo.md` (luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas) y `estrellas-con-tierra.md` (cielo con primer plano: la postal y los star trails sobre un objeto).
+- `mejora/` — el salto "de la foto correcta a la foto buena": `parte-1-principiante.md` (plan de charcas, comportamiento, el cielo real de noviembre), `parte-2-avanzado.md` (AF a medida, plan de la noche hora a hora), `safari-a-fondo.md` (luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas) y `estrellas-con-tierra.md` (cielo con primer plano desde cero, en tres noches: la base, la postal y los círculos).
 - `pdf/` — versiones PDF maquetadas de las hojas de campo (chuleta, verificación in situ, lista de tomas), generadas desde el Markdown; al editar una hoja, regenerar su PDF.
 - `README.md` — índice con fotos CC de Wikimedia Commons (mantener la atribución al editarlas).
 
@@ -20,7 +20,7 @@ Existió una guía paralela de la Sony A7 III y una comparativa: fueron **borrad
 
 ## Contrato editorial (fijado por el autor)
 
-- **Audiencia**: novato que viene sobre todo del móvil. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Cada capítulo sigue ese patrón — mantenerlo en contenido nuevo.
+- **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Cada capítulo sigue ese patrón — mantenerlo en contenido nuevo. Toda guía (también las de `mejora/`) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
 - **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
 - **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.
 - Los enlaces entre capítulos son relativos (`[capítulo 1](01-configuracion-basica.md)` dentro de `5dmk3/`, `../comun/...` entre carpetas); los del README llevan el prefijo de carpeta.

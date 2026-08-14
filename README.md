@@ -70,7 +70,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - [Parte 1 · principiante](mejora/parte-1-principiante.md) — el plan de charcas por luz y hora, comportamiento anticipable, las lecciones de los maestros, la estrategia de noviembre y tu cielo real (Nubes de Magallanes, núcleo al anochecer, Táuridas).
 - [Parte 2 · avanzado](mejora/parte-2-avanzado.md) — AI Servo a medida, el combo puntual+✱, botonera de francotirador, el punto dulce del Sigma y el plan de la noche completa hora a hora.
 - [Safari a fondo](mejora/safari-a-fondo.md) — luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como ajustes: el antídoto contra la típica foto plana y sin vida.
-- [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) — la postal (cielo fijo con silueta: objeto, enfoque con primer plano, reparto del encuadre) y los círculos (star trails sobre el objeto: dónde cae el remolino, la serie y su montaje).
+- [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) — **desde cero, en tres noches de práctica**: tu primera foto de estrellas (la base completa, incluida), la postal (cielo con silueta) y los círculos (el cielo girando sobre un objeto).
 
 ## 🧭 Guías comunes
 

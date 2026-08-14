@@ -1,173 +1,236 @@
-# Estrellas con la tierra dentro — la postal y los círculos
+# Estrellas con la tierra dentro — desde cero, en tres noches
 
-El [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) te enseña a que las
-estrellas salgan nítidas. Esta guía va del salto siguiente: que la foto sea
-**de un lugar**, no solo de un cielo — un árbol, un molino, una roca o el
-depósito de agua ahí abajo, anclando el firmamento. Dos variantes, cada una
-con su parte:
+Esta guía te lleva **desde nunca haber fotografiado una estrella** hasta las
+dos fotos nocturnas grandes del viaje: la **postal** (la Vía Láctea o las
+Nubes con un árbol, un molino o una roca en silueta) y los **círculos** (el
+cielo girando sobre ese objeto). Sin teoría: tres noches de práctica, cada
+una construida sobre la anterior. Las dos primeras puedes hacerlas en
+cualquier sitio oscuro cerca de casa; la tercera pide un rato largo.
 
-- **A · La postal**: cielo fijo (Vía Láctea, Nubes) con silueta en tierra.
-- **B · Los círculos**: el cielo girando sobre el objeto (star trails).
+Una sola idea de contexto y ya está: las estrellas "se mueven" porque la
+Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
+1 y 2); si encadenas fotos durante una hora o más, dibujan **arcos**
+(noche 3). Todo lo demás son recetas.
 
-Prerrequisitos: la receta y el enfoque a estrella del capítulo 2 ya
-dominados (deberes, tarde 5). Ambas se hacen con la 5D3 + Samyang + trípode.
+## Lo que necesitas
 
-## ¿Cuál toca esta noche?
+- **La 5D3 con el Samyang 14mm**. Recuerda sus dos rarezas (no están
+  rotas): la apertura se elige girando **el anillo del propio objetivo** (la
+  cámara marcará **f/00**) y **solo** enfoca a mano.
+- **Trípode**. Sin trípode no hay foto nocturna: las exposiciones duran
+  segundos.
+- **Frontal de luz roja** (no arruina la visión nocturna) y un trozo de
+  **cinta adhesiva**.
+- Para la noche 3: el **intervalómetro de cable** (~25 €,
+  [equipo](../5dmk3/05-equipo-accesorios.md)) o un cable disparador simple.
+- Batería llena. Siempre.
 
-| La noche | La foto |
-|---|---|
-| Luna nueva, Vía Láctea o Nubes lucen (1–10 nov) | **La postal** primero (20:25–22:00, cuando el cielo manda), y los círculos después, corriendo solos |
-| Algo de luna (31 oct–4 y 11–14 nov) | **Los círculos**: la luna lava las galaxias pero ilumina GRATIS tu objeto en tierra |
-| Ya tienes la postal de ese sitio | Círculos — cada campamento da una |
+**Ajustes que se ponen una vez** (y se quedan): calidad **RAW** ·
+`Reducción ruido larga exposición` **OFF** (importantísimo: si está ON,
+cada foto va seguida de la misma pausa a oscuras) · `Simulación de
+exposición` **ON** en Live View · disparo con **temporizador de 2 s** (para
+no mover la cámara al pulsar). Todo está en el
+[capítulo 1](../5dmk3/01-configuracion-basica.md), o directamente en el
+modo **C2**, que ya lo guarda.
 
-## Parte A — la postal: cielo fijo con objeto en tierra
+## Noche 1 — tu primera foto de estrellas (la base, completa)
 
-### 1 · Elegir el objeto (con luz de día)
+El objetivo de esta noche: UNA foto con las estrellas como puntos nítidos.
+Nada más.
 
-- **Perfil simple y reconocible contra el cielo**: un árbol suelto, el
-  molino, el depósito de Okaukuejo, una roca de Hoada. Una masa de arbustos
-  no lee como nada — mejor un objeto que un montón.
-- **Despegado**: recorre el sitio hasta que el objeto quede recortado
-  contra cielo, no pegado a otros bultos ni al resplandor de farolas.
-- **A más de 3 metros de ti** — importa para el enfoque (siguiente punto).
-- Decide ya el hueco del cielo: ¿dónde estará la Vía Láctea o las Nubes a la
-  hora buena? La realidad aumentada de PhotoPills te lo pinta encima
-  ([apps](../comun/apps-del-viaje.md)).
+**La receta de partida** — ponla tal cual:
 
-### 2 · El enfoque con primer plano (la física amable del 14 mm)
-
-La buena noticia: a 14 mm y f/2.8, **enfocado a las estrellas, todo lo que
-esté a más de ~2,5–3 m sale también nítido**. Es la hiperfocal trabajando
-para ti. La regla práctica:
-
-- Objeto a **más de 3 m** → un solo enfoque (a la estrella, con el método
-  del capítulo 2) y no tocas nada. Es el caso normal.
-- ¿Lo quieres más cerca de ti? **No reenfoques: sepárate tú.** Reenfocar al
-  objeto te desenfocaría las estrellas — y en esta foto, las estrellas
-  mandan.
-
-### 3 · El reparto del encuadre
-
-- **Un quinto o un cuarto de suelo, el resto cielo.** El horizonte, bajo y
-  **recto** (nivel electrónico: de noche un horizonte torcido no se ve por
-  el visor, y arruina la foto).
-- **Vertical** para el núcleo o una Nube con su silueta debajo (la columna);
-  **horizontal** para la banda tumbada de noviembre o las dos Nubes juntas.
-- La composición de van Oosten ([mejora 1](parte-1-principiante.md)): la
-  franja estelar como **diagonal que entra por una esquina y no corta** tu
-  objeto — el objeto a un lado, el cielo fluyendo al otro.
-- El ejemplo leído, foto incluida, está en
-  [el cielo del viaje](../comun/cielo-del-viaje.md) (la Vía Láctea del
-  Namib-Naukluft).
-
-### 4 · Exponer: la silueta se queda negra
-
-- Receta estándar del capítulo 2 (15–20 s · f/2.8 · ISO 3200) y el
-  histograma de astro de siempre. En luna nueva **no hay luz para la
-  tierra: la silueta va negra y ESA es la estética** — no subas el ISO
-  "para sacar el árbol": solo conseguirás un cielo lavado.
-- Las **10 tomas para apilar** de siempre; en Sequator, la opción
-  `Freeze ground` alinea las estrellas sin emborronar tu objeto
-  ([edición](../comun/edicion-basica.md)) — está pensada exactamente para
-  esta foto.
-- **Con la creciente fina (11–14 nov)**: la luna baja ilumina la tierra sin
-  matar el cielo — tu objeto sale con volumen y color. Baja a ISO
-  1600–3200 y celebra: es la postal fácil.
-
-### 5 · Opcional avanzado: suelo con detalle en luna nueva
-
-Si quieres tierra CON textura sin luna, dos caminos honestos:
-
-1. **Doble toma sin mover el trípode**: la del cielo (receta normal) y una
-   del suelo mucho más larga (60–120 s · ISO 1600) o hecha al crepúsculo
-   desde la misma posición; se funden en edición con una máscara por el
-   horizonte.
-2. **Light painting con el frontal** — método y ética en
-   [mejora 2](parte-2-avanzado.md): solo en granjas y campings, nunca en
-   miradores de campamento.
-
-### Si la postal sale mal…
-
-| Problema | Causa | Arreglo |
+| Ajuste | Valor | Dónde |
 |---|---|---|
-| El objeto, borroso; estrellas bien | Está a menos de ~3 m | Sepárate tú; no toques el enfoque |
-| Estrellas borrosas; objeto bien | Reenfocaste al objeto | Enfoque a estrella otra vez (cap. 2) y cinta |
-| Silueta con "halo" naranja | Farola o resplandor detrás | Muévete hasta recortarlo contra cielo limpio |
-| El suelo, emborronado al apilar | Apilado sin fijar la tierra | Sequator con `Freeze ground` |
-| Horizonte torcido | De noche no se ve | Nivel electrónico antes de la primera toma |
-| El árbol "no se lee", mancha confusa | Objeto mal elegido o pegado a otros | Objeto suelto y simple, elegido con luz de día |
+| Modo | M (o el dial en **C2**) | Dial superior |
+| Apertura | f/2.8 | **El anillo del Samyang** (la cámara dirá f/00: normal) |
+| Obturación | 20 segundos ("20"") | Rueda principal |
+| ISO | 3200 | Botón ISO + rueda |
+| Balance de blancos | K = 3900 | Menú → Balance de blancos → K |
+| Enfoque | Manual (el Samyang no tiene otro) | El anillo de enfoque, en el paso 3 |
 
-## Parte B — los círculos: el cielo girando sobre el objeto
+**Los pasos**:
 
-### 1 · Decide dónde cae el remolino (antes de encuadrar)
+1. **Monta el trípode** firme, patas bien abiertas. Cuelga la mochila del
+   gancho central si hay viento.
+2. **Apunta al cielo** y encuadra a ojo. Para ver qué estás encuadrando en
+   plena oscuridad, haz una **"foto sucia"**: sube el ISO a 25600, dispara
+   5 s, mira la pantalla — sale horrible, pero te enseña el encuadre.
+   Ajusta, repite, y devuelve el ISO a 3200.
+3. **Enfoca a una estrella** (la parte delicada; 2 minutos):
+   1. Activa **Live View** (la pantalla).
+   2. Mueve el recuadro a la estrella más brillante que veas.
+   3. Pulsa la **lupa (+)** hasta el aumento x10.
+   4. Gira el anillo de enfoque **despacio** hasta que la estrella sea el
+      punto **más pequeño y fino posible**. Si se hincha, te pasaste:
+      vuelve.
+   5. **Fija el anillo con la cinta.** No se toca más en toda la noche.
+4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
+5. **Mira el histograma**, no la foto (botón ▶ e INFO hasta ver la
+   gráfica): la montaña debe estar en el **primer tercio izquierdo,
+   despegada del borde**. ¿Pegada al borde? Sube a ISO 6400. La pantalla a
+   oscuras engaña: el histograma no.
+6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
+   tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
+7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar
+   nada. En casa se apilan con un programa gratis y el ruido baja
+   muchísimo ([cómo, paso a paso](../comun/edicion-basica.md)).
 
-Todo gira alrededor del **polo sur celeste**: plano sur, a solo **~19° de
-altura** en Etosha — lo clavas con la realidad aumentada de PhotoPills o
-con el triángulo de las dos Nubes ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)).
-Esa altura tan baja es un regalo: el centro del remolino cabe **justo
-encima de tu objeto**. La dirección decide el dibujo:
+| Si la foto sale… | Toca… |
+|---|---|
+| Muy oscura | ISO 3200 → 6400 (no alargues los segundos) |
+| Estrellas alargadas | Menos segundos: 20 → 15 → 13 |
+| Estrellas gordas/borrosas | Enfoque: repite el paso 3 con calma |
+| Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
+| Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
+
+Esto es, resumido, el [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) —
+allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
+te salga entera sin mirar la guía, pasa a la siguiente.
+
+## Noche 2 — añade la tierra: la postal
+
+Misma técnica, un ingrediente nuevo: **algo reconocible en la parte baja
+del encuadre**. La diferencia entre una foto de cielo y una foto de un
+lugar.
+
+### 1 · Elige el objeto (con luz de día)
+
+- **Un perfil simple y suelto** que se lea en negro contra el cielo: un
+  árbol solo, un molino, una torre, una roca. Un montón de arbustos no se
+  lee como nada. En el viaje: el depósito de agua de Okaukuejo, los
+  mopanes, el granito de Hoada.
+- Camina alrededor hasta que quede **recortado contra cielo limpio**, sin
+  farolas ni otros bultos detrás.
+- Y a **más de 3 metros de ti**. ¿Por qué? Siguiente punto.
+
+### 2 · El enfoque no cambia (la magia del 14 mm)
+
+Buena noticia para novatos: con este objetivo tan angular, **enfocado a las
+estrellas, todo lo que esté a más de ~3 metros sale nítido también**. Es
+decir: haces el mismo enfoque a estrella de la noche 1 **y ya está** — el
+árbol cae dentro del foco solo.
+
+La única regla: **nunca reenfoques al objeto**. Si lo quieres más grande en
+el encuadre, no te acerques a menos de 3 m: llévate el trípode un paso
+atrás o asume el tamaño.
+
+### 3 · Reparte el encuadre
+
+- **Un quinto de suelo, el resto cielo.** El cielo es el protagonista; la
+  tierra, el ancla.
+- Horizonte **bajo y recto** — activa el **nivel electrónico** (botón INFO
+  hasta verlo): de noche, un horizonte torcido no se ve por el visor y
+  arruina la foto.
+- **Vertical** si el cielo sube como columna sobre el objeto; horizontal si
+  es una banda tumbada. En tu noviembre: banda baja al anochecer, así que
+  mucha foto horizontal ([el cielo del viaje](../comun/cielo-del-viaje.md)).
+- El truco de composición que usan los maestros: la franja de estrellas
+  como **diagonal que entra por una esquina y no corta tu objeto**
+  ([mejora 1](parte-1-principiante.md)).
+
+### 4 · Expón igual — y deja la silueta negra
+
+Receta de la noche 1 tal cual. En noche sin luna **no hay luz para la
+tierra: el objeto sale negro y ESA es la estética** — no subas el ISO "para
+sacar el árbol", solo lavarías el cielo. Las 10 tomas para apilar, también
+igual (en Sequator, marca `Freeze ground`: apila las estrellas sin
+emborronar tu objeto).
+
+¿Y con algo de luna? Regalo: la luna ilumina la tierra gratis. Baja a ISO
+1600–3200 y tendrás objeto CON volumen y estrellas — en el viaje, eso pasa
+solo los días 11–14.
+
+| Si la postal sale… | Toca… |
+|---|---|
+| Objeto borroso, estrellas bien | Está a menos de 3 m: atrás con el trípode |
+| Estrellas borrosas, objeto bien | Reenfocaste al objeto: enfoque a estrella otra vez |
+| Silueta con halo naranja | Farola detrás: muévete hasta cielo limpio |
+| Suelo emborronado al apilar | `Freeze ground` en Sequator |
+| El objeto "no se lee" | Mal elegido: perfil simple y suelto, decidido de día |
+
+**Nivel extra, para cuando lo anterior aburra**: tierra con textura sin
+luna — o doble toma sin mover el trípode (una para el cielo con la receta
+normal + una para el suelo de 60–120 s a ISO 1600, fundidas en edición), o
+un barrido suave de frontal sobre el objeto
+([light painting, con su ética](parte-2-avanzado.md): solo en granjas y
+campings, nunca en miradores).
+
+## Noche 3 — el cielo girando: los círculos
+
+Ahora dejamos que las estrellas dibujen. Encadenarás **90–180 fotos de
+30 segundos** (de 45 minutos a 2 horas) y un programa gratis las fundirá en
+arcos. Es la foto nocturna más agradecida para un novato: casi no puede
+salir mal si la serie corre.
+
+### 1 · Antes de encuadrar: ¿dónde está el centro del remolino?
+
+Todo gira alrededor de un punto fijo del cielo (el polo celeste). En el
+hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: a ~19°
+sobre el horizonte** — cabe justo encima de tu objeto. Lo encuentras con la
+**realidad aumentada de PhotoPills** ([apps](../comun/apps-del-viaje.md)) o,
+en tus noches, con el triángulo que forma con las dos Nubes de Magallanes
+([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)). Y la dirección
+decide el dibujo:
 
 | Miras hacia… | El cielo dibuja… |
 |---|---|
-| **Sur** (el polo en el encuadre) | El remolino completo — círculos cerrados sobre el objeto. La foto clásica |
-| **Este u oeste** | Arcos en diagonal barriendo el encuadre — más dinámico, menos "diana" |
-| **Norte** | Arcos suaves y abiertos, casi rectos — elegante con la banda tumbada |
+| **Sur** (el centro dentro del encuadre) | El remolino completo sobre el objeto — la clásica |
+| Este u oeste | Arcos en diagonal barriendo el encuadre |
+| Norte | Arcos suaves, casi rectos |
 
 ### 2 · Componer con el objeto
 
-- **El objeto no tapa el centro de giro**: debajo o a un lado del polo,
-  nunca encima (la lección de la foto de La Silla, leída en
-  [el cielo del viaje](../comun/cielo-del-viaje.md)).
-- **Deja margen**: las estelas "crecen" hacia fuera con las horas; lo que
-  ahora parece aire de sobra, en dos horas está lleno de arcos.
-- Honestidad del 14 mm: tan angular, el remolino sale **pequeño** en el
-  encuadre. Compón bajo (el polo a 19° ayuda) y acepta que la escena manda
-  sobre el primer plano — o asume arcos finos y elegantes.
+- El objeto **debajo o a un lado del centro de giro, nunca tapándolo**.
+- **Deja aire**: los arcos crecen con las horas; lo que ahora sobra, en dos
+  horas está lleno.
+- Honestidad del 14 mm: el remolino sale pequeño en un angular. Compón bajo
+  (el centro a 19° ayuda) y acepta arcos finos y elegantes.
 
-### 3 · Ejecutar la serie
+### 3 · La receta y la serie
 
-Receta y mecánica, las del [capítulo 2](../5dmk3/02-astrofotografia-namibia.md):
-30 s · f/2.8 · ISO 1600 · NR de larga exposición **OFF** · 90–180 tomas
-encadenadas (intervalómetro, o el truco del cable bloqueado en ráfaga). Lo
-que añade el primer plano:
+| Ajuste | Valor |
+|---|---|
+| Obturación | 30 s |
+| Apertura | f/2.8 (el anillo) |
+| ISO | 1600 |
+| WB | K = 3900 |
+| Reducción ruido larga exposición | **OFF** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
+| Enfoque | A estrella, como siempre, y cinta |
 
-1. **Enfoca como en la postal** (estrella; el objeto a más de 3 m ya cae
-   dentro).
-2. **La primera toma es sagrada**: revísala a fondo (encuadre, horizonte,
-   histograma) porque será la base del suelo en el montaje. Si quieres
-   tierra con detalle, haz ANTES una toma larga del suelo (60–120 s) sin
-   mover nada.
-3. **Las farolas del campamento pintarán tu objeto** a lo largo de la
-   serie. A veces es el regalo (el depósito suavemente iluminado), a veces
-   la ruina (naranja quemado): compruébalo en la toma 5 y recoloca si hace
-   falta — mejor perder 3 minutos que 2 horas.
-4. Duración = longitud de arco: **45 min** para arcos discretos, **2 h+**
-   para el remolino serio. Batería llena al empezar; con la creciente de
-   los días 11–14, la tierra sale iluminada de serie.
-5. Montaje en **StarStaX** (modo Lighten, `Gap filling` si hay microhuecos),
-   usando tu toma de suelo como base ([edición](../comun/edicion-basica.md)).
+1. **La primera toma es sagrada**: revísala a fondo (encuadre, nivel,
+   histograma) — será la base del suelo en el montaje.
+2. **Encadena**: con el intervalómetro (exposición 30 s, intervalo 31 s) o
+   con el truco sin él — modo ráfaga + cable disparador simple
+   **bloqueado**: la cámara dispara una foto de 30 s tras otra hasta que lo
+   sueltes.
+3. A la **toma 5, un vistazo**: ¿alguna farola está pintando tu objeto de
+   naranja? Mejor perder 3 minutos recolocándote que 2 horas de serie.
+4. Y ya: **no toques nada** hasta el final. 90 tomas = 45 min de arcos
+   discretos; 180+ = remolino serio. Tú, mientras, a la charca o a dormir —
+   la serie no te necesita.
+5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
+   microhuecos), con tu primera toma como base
+   ([edición](../comun/edicion-basica.md)).
 
-### Si los círculos salen mal…
-
-| Problema | Causa | Arreglo |
+| Si los círculos salen… | Causa | Toca… |
 |---|---|---|
-| Arcos a rayitas, con huecos | NR de larga exposición ON, o intervalo largo | NR OFF; intervalo 1 s; `Gap filling` en StarStaX |
-| La serie se corta a mitad | Batería o tarjeta | Batería llena SIEMPRE al empezar; CF con hueco de sobra |
-| El objeto, quemado de naranja | Farola pintándolo 2 horas | Recolócate en la toma 5, o asume y vira a B/N |
-| Remolino descentrado o fuera | El polo no estaba donde creías | AR de PhotoPills ANTES de encuadrar; triángulo de las Nubes |
-| Estelas pobres, cielo vacío | Pocas tomas | Más tiempo (90–180 tomas), no más ISO |
-| Todo movido a partir de cierta toma | Viento, o tocaste el trípode | Mochila colgada del gancho; revisa y reinicia la serie |
-| Una raya recta cruza los arcos | Satélite o bólido de las Táuridas | El satélite se clona en edición; el bólido se enmarca 🙂 |
+| Arcos a rayitas con huecos | NR larga exposición ON o intervalo largo | NR OFF · intervalo 1 s · `Gap filling` |
+| La serie muere a mitad | Batería o tarjeta | Batería llena SIEMPRE; tarjeta con hueco de sobra |
+| Objeto quemado de naranja | Una farola, 2 horas pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
+| Remolino descentrado | El polo no estaba donde creías | AR de PhotoPills ANTES de encuadrar |
+| Arcos pobres | Serie corta | Más tomas, no más ISO |
+| Una raya recta cruza | Satélite (se clona) o bólido de las Táuridas (¡se enmarca!) | — |
 
-## Las dos en una misma noche (el plan redondo)
+## En el viaje: las dos en la misma noche
 
-En las noches gordas (7–12 nov) caben las dos sin conflicto, porque los
-círculos no te necesitan: **postal primero** (20:25–22:00, con las Nubes y
-el núcleo servidos), y al terminar recolocas el trípode mirando al sur,
-lanzas la serie de círculos **y te vas a la charca o a dormir** — el plan
-hora a hora está en [mejora 2](parte-2-avanzado.md) y el reparto por noche
-en [el cielo del viaje](../comun/cielo-del-viaje.md). La GoPro, mientras,
-hace su propia versión en la otra dirección.
+En las noches gordas de Etosha (7–12 nov) caben ambas sin conflicto:
+**postal primero** (20:25–22:00, con las Nubes y el núcleo servidos), luego
+recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
+charca de los rinos o a la cama. El reparto exacto por noche está en
+[el cielo del viaje](../comun/cielo-del-viaje.md) y el plan hora a hora en
+[mejora 2](parte-2-avanzado.md). La GoPro, mientras, hace su propia versión
+en otra dirección ([su guía](../comun/gopro-mission-1.md)).
 
 ## Referencias
 

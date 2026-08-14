@@ -174,7 +174,9 @@ una forma imposible con JPEG. La edición está explicada en la
    el histograma quede despegado de los bordes.
 5. **Noche en trípode**: modo M en el balcón: f/2.8, 10 s, ISO 1600. Juega con
    los segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
-   ejecuta la [receta de astro](02-astrofotografia-namibia.md) completa una vez.
+   sigue la escalera de tres noches de
+   [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md) —
+   empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y los modos C1/C2 del
    [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.
    Después vuelca las fotos y prueba el
