@@ -161,6 +161,11 @@ una forma imposible con JPEG. La edición está explicada en la
 
 ## Deberes antes del viaje (7 tardes)
 
+> Estas tardes, junto con todo lo demás que hay que practicar (las
+> monográficas, las noches de estrellas, la GoPro), están puestas en
+> calendario real — semana a semana hasta el avión — en el
+> [plan de entrenamiento](../comun/plan-de-entrenamiento.md).
+
 1. **Apertura**: modo Av en un parque. La misma foto a f/2.8 (o la mínima de
    tu objetivo) y a f/8. Mira el fondo.
 2. **Obturación**: modo Tv con coches, bicis o un perro. 1/60 vs 1/1000.

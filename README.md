@@ -21,7 +21,8 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 **¿Por dónde empiezo?**
 
 - 🐣 *Nunca he manejado una réflex en serio* → [capítulo 0](5dmk3/00-de-movil-a-5dmk3.md), 10 minutos.
-- ✈️ *Salgo pronto* → imprime [las tres hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 7 tardes](5dmk3/00-de-movil-a-5dmk3.md#deberes-antes-del-viaje-7-tardes).
+- 📅 *Tengo semanas por delante y quiero aprovecharlas* → el [plan de entrenamiento](comun/plan-de-entrenamiento.md): las 11 semanas hasta el avión, con las lunas nuevas de práctica y el ensayo general en Cabárceno.
+- ✈️ *Salgo pronto* → imprime [las cuatro hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 7 tardes](5dmk3/00-de-movil-a-5dmk3.md#deberes-antes-del-viaje-7-tardes).
 - 🚙 *Ya estoy allí y algo no cuadra* → [verificación in situ](5dmk3/verificacion-in-situ.md), tabla de señales de alarma al final.
 
 ## 🎓 La ruta: de aficionado básico a avanzado
@@ -85,6 +86,7 @@ Los PDF están maquetados para A4 (las chuletas caben en una cara cada una) y se
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.
 - 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, la costa (flamencos, focas de Cape Cross, pecios y niebla) y las paradas de tu ruta: Spreetshoogte, Terrace Bay y Hoada.
+- 📅 [El plan de entrenamiento](comun/plan-de-entrenamiento.md) — las 11 semanas hasta el avión, semana a semana: los ejercicios del repo en calendario, las dos lunas nuevas de práctica, el ensayo general en Cabárceno y la lista de "estás listo cuando…".
 - 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, el equipo en el avión (cabina, bodega y baterías), polvo y condensación, seguridad nocturna y el simulacro del día antes.
 - 🧼 [Limpieza en campo](comun/limpieza-en-campo.md) — cómo limpiar objetivo, lentes y cuerpo con el polvo de Etosha: kit, orden correcto y las peculiaridades del Samyang y el Sigma.
 
