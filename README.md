@@ -10,7 +10,7 @@
 
 </div>
 
-> **El equipo del viaje**: Canon 5D Mark III (prestada) · Samyang 14mm f/2.8 (astro, ya en casa) · Sigma 150-600 Contemporary (fauna) · Seestar S30 Pro (el cielo en automático, [su guía](comun/seestar-s30-pro.md)) — [por qué, con precios](5dmk3/05-equipo-accesorios.md).
+> **El equipo del viaje**: Canon 5D Mark III (prestada) · Samyang 14mm f/2.8 (astro, ya en casa) · Sigma 150-600 Contemporary (fauna, la única compra) — [por qué, con precios](5dmk3/05-equipo-accesorios.md).
 
 Guía **práctica** en español para un viaje real: safari diurno, charcas
 nocturnas de Etosha y cielos de luna nueva. Escrita para quien viene del
@@ -50,7 +50,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 |---|---|---|
 | 📋 [Chuleta](5dmk3/chuleta.md) | Todas las recetas y arreglos rápidos en una página | [PDF](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](5dmk3/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías (f/00, Err 01…) | [PDF](pdf/verificacion-in-situ.pdf) |
-| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre y 2 del cielo automático) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
+| 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre y el timelapse) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 
 Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran desde el Markdown.
 
@@ -65,7 +65,6 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - 🕐 [Las mejores horas](comun/mejores-horas.md) — el día del safari hora a hora, la fauna que sí tiene horario y las noches del 1 al 15 de noviembre con su luna.
 - 🌌 [El cielo del viaje](comun/cielo-del-viaje.md) — el catálogo astro completo del 31 de octubre al 14 de noviembre: cada foto posible, con su fecha, su aparato y su receta.
 - 📱 [Las apps del viaje](comun/apps-del-viaje.md) — PhotoPills, Stellarium y mapas offline: qué instalar antes de volar y cómo se usa cada una, paso a paso.
-- 🔭 [El Seestar S30 Pro](comun/seestar-s30-pro.md) — el telescopio inteligente del viaje: qué hace solo, qué no esperar de él, la primera sesión paso a paso y los objetivos de tus noches.
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.

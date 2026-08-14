@@ -183,15 +183,6 @@ planificador sobre mapa.
 - **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo
   austral. Tampoco cae en esta ruta — al sur, para otro viaje.
 
-## El segundo tirador: el Seestar S30 Pro
-
-Este viaje lleva además un telescopio inteligente que trabaja solo: mientras
-tú haces la charca o el cielo con paisaje con la 5D3, él apila cielo profundo
-(la Tarántula, 47 Tucanae, las Nubes de Magallanes) desde el propio
-campamento, y su cámara ancha hace timelapses nocturnos con primer plano sin
-tocar el trípode grande. Qué hace, qué no, y el plan de objetivos de tus
-noches: [la guía del Seestar S30 Pro](../comun/seestar-s30-pro.md).
-
 ## Referencias
 
 - Lonely Speck, práctica de astrofotografía: <https://www.lonelyspeck.com/>

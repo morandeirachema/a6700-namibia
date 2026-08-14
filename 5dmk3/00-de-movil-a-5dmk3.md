@@ -187,10 +187,7 @@ una forma imposible con JPEG. La edición está explicada en la
    problemas en tu barrio que con un rinoceronte delante.
 
 Cuando estas siete salgan solas: [Safari a fondo](../mejora/safari-a-fondo.md)
-propone tres tardes monográficas más (contraluces, barridos y fondos). Y no
-olvides la **noche de prueba del Seestar** en casa
-([su guía](../comun/seestar-s30-pro.md)) — está también en el
-[simulacro](../comun/logistica-viaje.md).
+propone tres tardes monográficas más (contraluces, barridos y fondos).
 
 ## Referencias
 

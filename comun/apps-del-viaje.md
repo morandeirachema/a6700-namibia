@@ -12,7 +12,6 @@ Allí solo se consulta.
 | [PhotoPills](https://www.photopills.com/) (iOS/Android) | Sol, luna y Vía Láctea de cada día y lugar — el planificador del viaje | ~11 €, pago único | **Sí** (los cálculos, siempre; el mapa solo si lo viste antes con wifi) |
 | [Stellarium](https://stellarium.org/) (PC) / [Stellarium Web](https://stellarium-web.org/) / [móvil](https://stellarium-labs.com/) | Ver cómo será el cielo de una fecha y hora — para ensayar en casa | Gratis (versión de pago opcional en móvil) | La de PC/móvil sí; la web no |
 | [Organic Maps](https://organicmaps.app/) o [Google Maps](https://www.google.com/maps) | Mapas offline y GPS en ruta | Gratis | **Sí**, si descargas Namibia antes |
-| [Seestar](https://eu.seestar.com/) (iOS/Android) | Controlar el Seestar S30 Pro: apuntado, apilado en vivo y descarga de fotos ([su guía](seestar-s30-pro.md)) | Gratis (viene con el telescopio) | **Sí** — el telescopio crea su propia wifi; firmware y app se actualizan en casa |
 | [Light Pollution Map](https://www.lightpollutionmap.info/) (web) | Comprobar lo oscuro que es un sitio | Gratis | No (se usa en casa) |
 
 Las de ordenador para después (revelado, apilados, timelapse: darktable,

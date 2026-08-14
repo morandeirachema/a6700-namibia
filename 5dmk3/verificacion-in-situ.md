@@ -123,10 +123,6 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 7 · Antes de la sesión de astro (5 min, en orden)
 
-- [ ] **El Seestar arranca primero** (2 min y trabaja solo mientras montas
-  la 5D3): suelo firme con el sur despejado, a sotavento de un muro o del
-  coche, nivelar desde la app y GoTo al objetivo de la noche
-  ([su tabla](../comun/seestar-s30-pro.md)).
 - [ ] Dial en **C2** · RAW · reducción de ruido de larga exposición **OFF**
   (*por qué:* con ella ON, cada foto va seguida de otros tantos segundos a
   oscuras — adiós timelapse y arcos de star trails).
@@ -154,8 +150,6 @@ El repaso que separa "creo que la tengo" de "la tengo":
   con toques suaves **sin girar nada**.
 - [ ] Batería: al primer parpadeo cámbiala **entre** series, nunca a mitad de
   una (pierdes el encuadre del apilado). La de repuesto, del bolsillo caliente.
-- [ ] Un vistazo a la app del Seestar al pasar: ¿sigue apilando? ¿batería?
-  (Si la app se desconectó, él sigue solo: reconecta, no lo reinicies.)
 
 ## 9 · Al llegar al mirador de la charca (10 min)
 
@@ -195,8 +189,6 @@ El repaso que separa "creo que la tengo" de "la tengo":
   → **una** corrección concreta para mañana (una, no cinco).
 - [ ] [Lista de tomas](../comun/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
-- [ ] Seestar: apagado y a su funda; cada 2–3 noches, descarga sus fotos al
-  móvil (es su copia de seguridad) y recárgalo por USB-C.
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
@@ -219,5 +211,3 @@ El repaso que separa "creo que la tengo" de "la tengo":
 | Parpadeos blancos en la revisión | Aviso de altas luces: zonas quemadas | Baja exposición / compensa − / puntual |
 | Visor borroso pero fotos nítidas | Dioptrías movidas | Ruedecita del visor |
 | La cámara "no responde" tras una ráfaga larga | Buffer volcando a tarjeta ("busy") | Espera unos segundos; no apagues ni saques tarjeta |
-| El Seestar descarta tomas o las estrellas salen movidas | Viento o apoyo blando | Parapeto (muro/coche), suelo firme y renivelar |
-| La app del Seestar pierde la conexión | Te alejaste: es normal | Él sigue apilando solo — reconecta al volver, no lo reinicies |

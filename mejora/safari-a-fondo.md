@@ -207,8 +207,9 @@ viaje; la secuencia de cinco te chequea cada escena.
   obturación 1/50**, ISO en Auto, **enfoca antes en Live View y no toques
   más** (el AF de vídeo de 2012 no sigue nada: prefija y deja quieto), clips
   de 10–20 segundos, sin zoomear ni reencuadrar durante la toma.
-- Los timelapses nocturnos tienen guía propia:
-  [Seestar y compañía](../comun/seestar-s30-pro.md).
+- Los timelapses nocturnos tienen receta propia en el
+  [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) y el
+  [catálogo del cielo](../comun/cielo-del-viaje.md).
 
 ## Si tu foto sale plana… (el diagnóstico)
 

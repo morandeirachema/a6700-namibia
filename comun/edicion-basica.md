@@ -91,18 +91,6 @@ apílalas en **StarStaX** (gratis, modo *Lighten* — también tiene *Gap
 filling* si hay microhuecos entre tomas):
 <https://markus-enzweiler.de/software/starstax/>
 
-## Las fotos del Seestar (JPEG listos, FITS para exprimir)
-
-El Seestar guarda dos cosas por objetivo ([su guía](seestar-s30-pro.md)):
-
-- El **JPEG apilado**, ya terminado: para compartir tal cual, o con un
-  retoque ligero en Lightroom/darktable (contraste + reducción de ruido
-  suave). Para el 95 % de los casos, es la foto.
-- Los **FITS** (las tomas en bruto): en casa se pueden reapilar y estirar a
-  mano con **Siril** (gratis y libre: <https://siril.org/>) para sacar más
-  detalle y color que el apilado automático. Es un hobby en sí mismo —
-  guárdalos todos y decide a la vuelta si te pica.
-
 ## Montar un timelapse en vídeo
 
 Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24

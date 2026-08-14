@@ -4,9 +4,8 @@ Este es el catálogo completo: **cada foto de astro que tu ventana puede dar**,
 con su fecha, su dirección, su aparato y su receta. Las otras piezas del
 puzle: el plan noche a noche con la luna está en
 [las mejores horas](mejores-horas.md), el plan de una noche hora a hora en
-[mejora · parte 2](../mejora/parte-2-avanzado.md), la técnica base en el
-[capítulo 2](../5dmk3/02-astrofotografia-namibia.md) y el telescopio en
-[su guía](seestar-s30-pro.md).
+[mejora · parte 2](../mejora/parte-2-avanzado.md) y la técnica base en el
+[capítulo 2](../5dmk3/02-astrofotografia-namibia.md).
 
 Por qué tu ventana es excepcional: cielos **Bortle 1–2**, luna nueva el
 **9 de noviembre**, y el cielo austral de principios de verano — las Nubes de
@@ -59,12 +58,10 @@ el anochecer ya es sin luna.)
 - **Cuándo**: cada noche desde el anochecer; noviembre es su gran mes.
 - **Dónde**: hacia el **sur** — la Pequeña ya a ~33° al caer la oscuridad,
   la Grande subiendo hasta ~27° hacia las 23:00. Dos galaxias a simple vista.
-- **Con qué**: las tres armas a la vez —
+- **Con qué**:
   - **5D3 + Samyang**: las dos con paisaje en un encuadre; son tenues:
     **apila 15–20 tomas** (20 s · f/2.8 · ISO 3200) con Sequator
     ([edición](edicion-basica.md)).
-  - **Seestar**: la Pequeña en mosaico, y dentro de la Grande, la
-    **nebulosa de la Tarántula** — el plato fuerte ([guía](seestar-s30-pro.md)).
   - **Prismáticos 8x42**: el paseo por dentro de las Nubes es el mejor
     descanso entre serie y serie.
 
@@ -72,24 +69,16 @@ el anochecer ya es sin luna.)
 
 <sub>**Léela**: la mancha grande y azulada del centro es la Nube **Grande**; la **Pequeña** está abajo a la izquierda, casi hundida en el resplandor naranja del horizonte — que no es contaminación lumínica: es **airglow**, el mismo que saldrá en tus fotos. Fíjate en lo tenues que son comparadas con las estrellas: por eso se apilan 15–20 tomas. Las cúpulas en silueta hacen aquí el papel que en tu encuadre hará el depósito de agua o un mopane. Foto de [Dave Jones/ESO](https://commons.wikimedia.org/wiki/File:Magellanic_Clouds_over_Paranal_(dave-jones-9).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
 
-### 4 · Cielo profundo con el Seestar — galaxias y cúmulos de encargo
-
-- **Cuándo**: cualquier noche, en paralelo a lo que hagas con la 5D3.
-- **El menú de tu quincena**: 47 Tucanae al anochecer, la Tarántula hasta
-  medianoche, la galaxia del Escultor antes de que culmine, M42 (Orión) de
-  medianoche en adelante y Eta Carinae de madrugada — la tabla completa con
-  horas está en [su guía](seestar-s30-pro.md).
-
-### 5 · Saturno — el faro de la noche
+### 4 · Saturno — el faro de la noche
 
 - **Cuándo**: toda la ventana, recién pasada su oposición: el "lucero" fijo
   y amarillento, altísimo hacia las 22:30–23:00 (culmina por el noreste).
 - **Con qué**: como **ancla de composición** en las fotos de cielo con el
-  14 mm — un punto brillante que ordena el encuadre. Ni el Seestar ni los
+  14 mm — un punto brillante que ordena el encuadre. Ni el tele ni los
   prismáticos lo convierten en foto de anillos: asúmelo como estrella de lujo.
 - (Venus y Mercurio no están en tus anocheceres; no los busques.)
 
-### 6 · Star trails — el valor seguro de todas las noches
+### 5 · Star trails — el valor seguro de todas las noches
 
 - **Cuándo**: cualquier noche, incluso con algo de luna (es el plan B
   perfecto de las noches 1–4 y 11–14).
@@ -107,7 +96,7 @@ el anochecer ya es sin luna.)
 
 <sub>**Léela**: el centro de giro (el polo sur celeste) queda dentro del encuadre, arriba a la derecha, y los arcos se alargan cuanto más lejos de él — por eso conviene decidir dónde cae el polo ANTES de encuadrar. La caseta iluminada da escala y ancla la foto (tu versión: un árbol o el depósito, con el polo a solo ~19° sobre el sur). Mira los colores: los arcos azules y naranjas son los colores reales de las estrellas, y la rayita recta que cruza a la izquierda es un satélite o un bólido — una serie larga los caza sola (Táuridas). Foto de [G. Lambert/ESO](https://commons.wikimedia.org/wiki/File:Star_trails_over_La_Silla_(eso_la_silla-cc).jpg), CC BY 4.0, vía Wikimedia Commons</sub>
 
-### 7 · Las Táuridas — bólidos de regalo
+### 6 · Las Táuridas — bólidos de regalo
 
 - **Cuándo**: activas toda la ventana; picos de las del Sur ~5 nov y de las
   del Norte ~9–12 — justo tus noches más oscuras. Pocas (~10/h entre ambas)
@@ -117,7 +106,7 @@ el anochecer ya es sin luna.)
   bien alto de madrugada
   (<https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>).
 
-### 8 · La "otra" Vía Láctea — Orión, Sirio y Canopus (de 23:00 en adelante)
+### 7 · La "otra" Vía Láctea — Orión, Sirio y Canopus (de 23:00 en adelante)
 
 - **Cuándo**: desde ~23:00 sube por el **este** la banda de verano austral —
   más tenue que el núcleo, preciosa pasada la medianoche, con Sirio y
@@ -125,7 +114,7 @@ el anochecer ya es sin luna.)
 - **Receta**: la estándar de Vía Láctea; funciona muy bien de segundo plato
   cuando el núcleo ya se fue.
 
-### 9 · La Luna como sujeto (los extremos de la quincena)
+### 8 · La Luna como sujeto (los extremos de la quincena)
 
 - **La menguante del alba, 1–4 nov**: colgada al amanecer — el día 4, sobre
   las dunas en el madrugón de Deadvlei: paisaje con luna, receta normal de
@@ -141,7 +130,7 @@ el anochecer ya es sin luna.)
 - El 13, desde Windhoek, la creciente sobre el horizonte oeste es la foto de
   despedida.
 
-### 10 · La conjunción Júpiter–Marte — el alba del 14
+### 9 · La conjunción Júpiter–Marte — el alba del 14
 
 - **Cuándo**: la madrugada del **14 de noviembre**, ya de vuelta en Windhoek:
   los dos planetas muy juntos por el **este** en el crepúsculo.
@@ -149,18 +138,18 @@ el anochecer ya es sin luna.)
   con el Sigma corto. Exposición de crepúsculo (prueba + histograma), no de
   noche cerrada.
 
-### 11 · Timelapses del cielo — con árbol, casa o molino delante
+### 10 · Timelapses del cielo — con árbol, casa o molino delante
 
-Tu foto en movimiento, por tres vías (de menos a más esfuerzo): el
-**Seestar con su cámara ancha** (pon-y-olvida), el **Pixel** (el modo astro
-regala un mini-timelapse) y la versión de máxima calidad con **5D3 +
-intervalómetro** (15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo).
-Detalle y reparto en [la guía del Seestar](seestar-s30-pro.md) y el montaje
-en [edición](edicion-basica.md). Las siluetas buenas: la línea de mopanes y
+Tu foto en movimiento, por dos vías: el **Pixel** (el modo astro regala un
+mini-timelapse sin montar nada — móvil quieto sobre una piedra) y la versión
+de máxima calidad con **5D3 + intervalómetro** (15 s de foto / intervalo
+17 s / 300 tomas ≈ 10 s de vídeo, receta en el
+[capítulo 2](../5dmk3/02-astrofotografia-namibia.md) y montaje en
+[edición](edicion-basica.md)). Las siluetas buenas: la línea de mopanes y
 el depósito de agua de Okaukuejo, el granito de Hoada, el molino o los
 tejados de la granja de Spreetshoogte.
 
-### 12 · Los bonus que salen sin buscarlos
+### 11 · Los bonus que salen sin buscarlos
 
 - **Airglow**: bandas verdosas/rojizas en tus fotos — real y frecuente en
   Namibia, no es un fallo del sensor. Decide en edición si es estética o

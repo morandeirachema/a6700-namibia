@@ -43,21 +43,6 @@ allí trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de rui
 por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)). La alternativa
 luminosa (70-200 f/2.8) se sale de presupuesto; el enfoque budget es asumir
 el ISO alto.
-
-## El cielo en automático: Seestar S30 Pro
-
-La incorporación de última hora: un telescopio inteligente de ~600 € que
-apunta, sigue y apila él solo mientras tú disparas con la 5D3. Cubre lo único
-que este equipo no podía hacer — **cielo profundo con seguimiento** (galaxias,
-nebulosas, cúmulos) — y además hace timelapses nocturnos con su cámara ancha.
-Viaja con su propio trípode de mesa: no toca el trípode grande. Guía completa,
-con la primera sesión paso a paso y los objetivos de tus noches:
-[el Seestar S30 Pro](../comun/seestar-s30-pro.md).
-
-Las opciones budget de la misma familia, si los ~600 € duelen: Seestar S30
-(en torno a 350 €) y Seestar S50 (en torno a 500 €) — misma app y mismos
-modos con sensor y óptica menores (<https://eu.seestar.com/>).
-
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,
