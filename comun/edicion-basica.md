@@ -169,3 +169,10 @@ con el montaje bueno.
 De cada sesión de edición deben salir **pocas fotos rematadas**, no muchas a
 medias: tres redondas por día de viaje son un reportaje espectacular de
 cuarenta y cinco.
+
+## Referencias
+
+- Lightroom: <https://www.adobe.com/products/photoshop-lightroom.html> · darktable: <https://www.darktable.org/>
+- Sequator: <https://sites.google.com/view/sequator/> · StarStaX: <https://markus-enzweiler.de/software/starstax/>
+- DxO PureRAW: <https://www.dxo.com/dxo-pureraw/>
+- ffmpeg: <https://ffmpeg.org/> · DaVinci Resolve: <https://www.blackmagicdesign.com/products/davinciresolve> · LRTimelapse: <https://lrtimelapse.com/>
