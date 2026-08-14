@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Guía de fotografía en **español** de la **Canon 5D Mark III** para un viaje a Namibia: safari diurno, charcas nocturnas de Etosha y astrofotografía (el viaje coincide con luna nueva). Solo Markdown más los PDF generados de las hojas de campo: no hay build, lint ni tests. Publicar = commit y push a `main` (https://github.com/morandeirachema/5dmk3-namibia).
 
-Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyang 14mm f/2.8 EF propio (sin contactos: la cámara marca f/00) + Sigma 150-600 Contemporary EF + GoPro MISSION 1 con empuñadura-batería Volta 2, para vídeo, timelapses nocturnos y bici (ojo, la "Hero 14" no existe) + Canon 650D como posible respaldo. El móvil del viaje es un Pixel 10 Pro. El autor valoró y **descartó** un Seestar S30 Pro — no reintroducir contenido de telescopios inteligentes.
+Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyang 14mm f/2.8 EF propio (sin contactos: la cámara marca f/00) + Sigma 150-600 Contemporary EF + GoPro MISSION 1 con empuñadura-batería Volta 2, para vídeo, timelapses nocturnos y bici (ojo, la "Hero 14" no existe) + Canon 650D como posible respaldo. El móvil del viaje es un Pixel 10 Pro. Un Seestar S30 Pro está **en evaluación** (compra probable, no confirmada): su integración completa está preparada en la rama `seestar` — cuando el autor confirme, se fusiona a `main`; hasta entonces, no añadir contenido Seestar aquí.
 
 ## Estructura
 
