@@ -67,9 +67,10 @@ la **Volta 2** (139,99 $): empuñadura con **5.800 mAh** integrados —
 hasta 9 h de 4K30 y, para lo que importa aquí, un Night Lapse de toda la
 noche sin power bank ni cables sueltos. Compatible con la MISSION 1 tras
 una actualización de firmware gratuita (hazla en casa). En los modos
-nocturnos la batería interna sola da del orden de hora y media según la
-propia GoPro — la Volta 2 es lo que convierte "una serie" en "toda la
-noche".
+nocturnos, cuenta con del orden de hora y media por batería interna (la
+cifra de la guía nocturna de GoPro, medida en la gama Hero; la de la
+MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
+"toda la noche".
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,

@@ -12,7 +12,7 @@ medio (las recetas del viaje) y avanzado (sacarle el jugo).
 | Sensor | **1"** — el mayor del mercado de action cams; fotos de 50 Mpx (8192×6144), también en RAW |
 | Vídeo | 8K30 · 4K120 · 1080p240; graba "open gate" (el sensor 4:3 entero: de un clip salen recorte horizontal Y vertical) |
 | Modos nocturnos | **Night Lapse** (timelapse de noche), **Star Trails** (círculos montados en cámara), Light Painting, Vehicle Lights |
-| Batería | Enduro 2 de 2.150 mAh; en modos nocturnos, del orden de **1,5 h** según GoPro |
+| Batería | Enduro 2 de 2.150 mAh. Cifras oficiales (vídeo): hasta 5 h a 1080p30, ~1,5 h a 8K30. Para los modos nocturnos cuenta con ~**1,5 h** (la cifra de la guía nocturna de GoPro, medida en la gama Hero; esta batería es algo mayor) |
 | **Volta 2** | Empuñadura-batería de **5.800 mAh** (139,99 $): hasta 9 h de 4K30 — la noche entera de Night Lapse. Requiere actualizar el firmware (gratis, en casa) |
 | Cuerpo | 207 g, sumergible 20 m sin carcasa |
 | Kit del viaje | **Mountain Bike Bundle**: anclaje manillar/tija + arnés de pecho (la bici resuelta; el de manillar sirve en la ventanilla del coche) |
