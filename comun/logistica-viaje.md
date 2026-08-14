@@ -23,7 +23,31 @@ Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
 4. Reparte las copias físicamente: tarjetas llenas en la mochila que va
    contigo, SSD en la maleta/coche. Nunca todo en el mismo sitio.
 
-Y la regla ya dicha en los capítulos 0: **no se borra nada en cámara**.
+Y la regla ya dicha en los capítulos 0: **no se borra nada en cámara** —
+con una excepción deliberada: los **clips de vídeo** de la GoPro sí se
+criban al volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
+
+### La cuenta del espacio (haz tus números con esta tabla)
+
+| Cámara | Lo que ocupa | El día/sesión tipo | Qué llevar |
+|---|---|---|---|
+| **5D3 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | CF de 128 GB ×2 mínimo (y no se reutilizan hasta volcar); la SD espeja: mismo tamaño o RAW+JPEG repartido |
+| **5D3 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ya cubierto por las CF de arriba |
+| **GoPro (vídeo)** | H.265 con tope oficial de **240 Mbps** ≈ 108 GB/hora al máximo (8K); en 4K, bastante menos | La cuenta segura: una microSD de **256 GB** garantiza 2+ h incluso al bitrate máximo, y varias horas en 4K | microSD 256 GB V30 (obligatorio V30/UHS-3) + volcado nocturno |
+| **GoPro (timelapses)** | Salen como clips MP4 cortos | Despreciable frente al vídeo | — |
+
+**El SSD**: con el vídeo de la GoPro, el viaje completo puede irse a
+500 GB–1 TB. El SSD de 1 TB va **justo**: o subes a 2 TB, o aplicas la
+excepción de arriba (cribar clips al volcar) con disciplina. Decide antes de
+comprar, no en Etosha.
+
+### La cuenta de la energía
+
+| Aparato | Autonomía | El plan |
+|---|---|---|
+| **5D3** | ≈ 950 disparos por LP-E6 (dato CIPA por visor) | Con 3 baterías (la suya + 2), un día entero de safari + noche sobra; cargador de pared cada noche (no carga por USB) |
+| **GoPro MISSION 1** | Oficial: hasta 5 h a 1080p30 · 3+ h a 4K30 · 1,5 h a 8K30; en modos nocturnos, ~1,5 h (cifra de la guía nocturna de GoPro en la gama Hero) | La **Volta 2** (5.800 mAh, oficial: 9 h de 4K30) para las noches enteras; ambas al USB-C al dormir |
+| **Móvil + power bank** | — | El power bank se carga de día en el USB del coche; de él beben móvil y GoPro si hace falta |
 
 ## Energía
 

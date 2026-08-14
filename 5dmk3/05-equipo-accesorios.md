@@ -71,6 +71,7 @@ nocturnos, cuenta con del orden de hora y media por batería interna (la
 cifra de la guía nocturna de GoPro, medida en la gama Hero; la de la
 MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
 "toda la noche".
+
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,
