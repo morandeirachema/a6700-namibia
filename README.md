@@ -10,7 +10,7 @@
 
 </div>
 
-> **El equipo del viaje**: Canon 5D Mark III (prestada) · Samyang 14mm f/2.8 (astro, ya en casa) · Sigma 150-600 Contemporary (fauna, la única compra) — [por qué, con precios](5dmk3/05-equipo-accesorios.md).
+> **El equipo del viaje**: Canon 5D Mark III (prestada) · Samyang 14mm f/2.8 (astro, ya en casa) · Sigma 150-600 Contemporary (fauna) · Seestar S30 Pro (el cielo en automático, [su guía](comun/seestar-s30-pro.md)) — [por qué, con precios](5dmk3/05-equipo-accesorios.md).
 
 Guía **práctica** en español para un viaje real: safari diurno, charcas
 nocturnas de Etosha y cielos de luna nueva. Escrita para quien viene del
@@ -21,7 +21,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 **¿Por dónde empiezo?**
 
 - 🐣 *Nunca he manejado una réflex en serio* → [capítulo 0](5dmk3/00-de-movil-a-5dmk3.md), 10 minutos.
-- ✈️ *Salgo pronto* → imprime [las tres hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 6 tardes](5dmk3/00-de-movil-a-5dmk3.md#deberes-antes-del-viaje-6-tardes).
+- ✈️ *Salgo pronto* → imprime [las tres hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 7 tardes](5dmk3/00-de-movil-a-5dmk3.md#deberes-antes-del-viaje-7-tardes).
 - 🚙 *Ya estoy allí y algo no cuadra* → [verificación in situ](5dmk3/verificacion-in-situ.md), tabla de señales de alarma al final.
 
 ## 📖 La guía, capítulo a capítulo
@@ -40,7 +40,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Rock_Arch_At_Night_%28224612485%29.jpeg" alt="El arco de roca de Spitzkoppe bajo la Vía Láctea" width="72%">
 
-<sub>El arco de Spitzkoppe bajo el cielo namibio — la foto que persigue el [capítulo 2](5dmk3/02-astrofotografia-namibia.md). Foto de [Dominik Angstwurm](https://commons.wikimedia.org/wiki/File:Rock_Arch_At_Night_(224612485).jpeg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
+<sub>El arco de Spitzkoppe bajo el cielo namibio. Spitzkoppe no cae en la ruta de este viaje, pero el cielo es el mismo que espera en Etosha — el que persigue el [capítulo 2](5dmk3/02-astrofotografia-namibia.md). Foto de [Dominik Angstwurm](https://commons.wikimedia.org/wiki/File:Rock_Arch_At_Night_(224612485).jpeg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
 
 </div>
 
@@ -58,11 +58,14 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 
 - [Parte 1 · principiante](mejora/parte-1-principiante.md) — el plan de charcas por luz y hora, comportamiento anticipable, las lecciones de los maestros, la estrategia de noviembre y tu cielo real (Nubes de Magallanes, núcleo al anochecer, Táuridas).
 - [Parte 2 · avanzado](mejora/parte-2-avanzado.md) — AI Servo a medida, el combo puntual+✱, botonera de francotirador, el punto dulce del Sigma y el plan de la noche completa hora a hora.
+- [Safari a fondo](mejora/safari-a-fondo.md) — luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como ajustes: el antídoto contra la típica foto plana y sin vida.
 
 ## 🧭 Guías comunes
 
 - 🕐 [Las mejores horas](comun/mejores-horas.md) — el día del safari hora a hora, la fauna que sí tiene horario y las noches del 1 al 15 de noviembre con su luna.
+- 🌌 [El cielo del viaje](comun/cielo-del-viaje.md) — el catálogo astro completo del 31 de octubre al 14 de noviembre: cada foto posible, con su fecha, su aparato y su receta.
 - 📱 [Las apps del viaje](comun/apps-del-viaje.md) — PhotoPills, Stellarium y mapas offline: qué instalar antes de volar y cómo se usa cada una, paso a paso.
+- 🔭 [El Seestar S30 Pro](comun/seestar-s30-pro.md) — el telescopio inteligente del viaje: qué hace solo, qué no esperar de él, la primera sesión paso a paso y los objetivos de tus noches.
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.

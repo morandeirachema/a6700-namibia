@@ -108,8 +108,9 @@ sobre la marcha en vez de memorizar Casos.
   ~2–3 s → ISO absurdo y cien tomas para poco). El camino real: 14 mm
   apilado y recorte generoso (22 Mpx dan margen), o apuntar una montura de
   seguimiento ligera para otro viaje.
-- **Light painting con cabeza** (método van Oosten, para acampadas tipo
-  Spitzkoppe, nunca en miradores de campamento): frontal al mínimo, barrido
+- **Light painting con cabeza** (método van Oosten, para tus noches de granja
+  y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
+  campamento): frontal al mínimo, barrido
   de 1–2 s sobre el árbol/roca durante la exposición, desde un lateral;
   revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
   vecinos.

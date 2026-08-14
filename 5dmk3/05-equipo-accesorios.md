@@ -44,6 +44,20 @@ por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)). La alternativa
 luminosa (70-200 f/2.8) se sale de presupuesto; el enfoque budget es asumir
 el ISO alto.
 
+## El cielo en automático: Seestar S30 Pro
+
+La incorporación de última hora: un telescopio inteligente de ~600 € que
+apunta, sigue y apila él solo mientras tú disparas con la 5D3. Cubre lo único
+que este equipo no podía hacer — **cielo profundo con seguimiento** (galaxias,
+nebulosas, cúmulos) — y además hace timelapses nocturnos con su cámara ancha.
+Viaja con su propio trípode de mesa: no toca el trípode grande. Guía completa,
+con la primera sesión paso a paso y los objetivos de tus noches:
+[el Seestar S30 Pro](../comun/seestar-s30-pro.md).
+
+Las opciones budget de la misma familia, si los ~600 € duelen: Seestar S30
+(en torno a 350 €) y Seestar S50 (en torno a 500 €) — misma app y mismos
+modos con sensor y óptica menores (<https://eu.seestar.com/>).
+
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,
@@ -71,6 +85,15 @@ el ISO alto.
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa.
 - **Frontal con luz roja** para no arruinar la visión nocturna (ni la de los
   vecinos de mirador).
+- **Prismáticos 8x42 (budget)**: en safari se mira mucho más de lo que se
+  dispara, y unos prismáticos ahorran cientos de levantamientos del tele de
+  2 kg (y en el coche rinden en pareja: uno busca, otro fotografía). Para
+  empezar, 8x42 mejor que 10x42: más campo para encontrar al animal, más
+  luminosos al atardecer y menos temblor. Budget que funciona: Celestron
+  Nature DX 8x42 (~100–130 €, <https://www.celestron.com/>) o Nikon
+  Prostaff P3 8x42 (~120–160 €, <https://www.nikon.es/>). Bonus nocturno:
+  con la luna nueva, las Nubes de Magallanes y los cúmulos australes con
+  unos 8x42 son un espectáculo por sí solos.
 - **La 650D, si sigue viva, va en la maleta**: es el plan B si a la 5D3
   prestada le pasa algo, y como segundo cuerpo evita cambiar objetivos con
   polvo (Samyang fijo en una, tele en la otra). Con el 150-600 se convierte

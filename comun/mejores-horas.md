@@ -105,7 +105,9 @@ Reglas generales de la noche namibia en tu quincena:
   ([mejora · parte 1](../mejora/parte-1-principiante.md)).
 - En Etosha, de **21:00 a medianoche** manda la charca (rinos); la madrugada
   es de círculos de estrellas y Nubes de Magallanes. El plan de la noche
-  completa, hora a hora, está en [mejora · parte 2](../mejora/parte-2-avanzado.md).
+  completa, hora a hora, está en [mejora · parte 2](../mejora/parte-2-avanzado.md);
+  el catálogo de todo lo fotografiable en tu ventana, en
+  [el cielo del viaje](cielo-del-viaje.md).
 
 Y la luna de cada noche, cruzada con dónde duermes según el
 [itinerario real del viaje](https://github.com/morandeirachema/namibia)

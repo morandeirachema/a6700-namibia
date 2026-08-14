@@ -145,6 +145,10 @@ El plan completo — el día hora a hora, la fauna que sí tiene horario y las
 noches de tu quincena con su luna — está en
 [las mejores horas](../comun/mejores-horas.md).
 
+Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
+velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
+ajustes — está en [Safari a fondo](../mejora/safari-a-fondo.md).
+
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>

@@ -75,9 +75,11 @@ Rutina diaria de 5 minutos que salva el equipo:
   charca, dentro del recinto. <https://www.nwr.com.na/>
 - No salgas del recinto vallado a pie de noche, tampoco "un momento a por la
   toma": los campamentos están vallados por algo.
-- **Spitzkoppe** (acampada libre para el astro): sin vallas pero sin
-  depredadores grandes; el riesgo real son escorpiones — bota cerrada, frontal
-  al suelo, y sacude las botas por la mañana.
+- **Fuera de Etosha** (Spreetshoogte, Sesriem, Hoada): granjas y campings
+  donde sí saldrás a cielo abierto de noche. Pregunta al llegar hasta dónde
+  conviene alejarse (por la zona de Hoada pueden rondar elefantes); el riesgo
+  cotidiano son los escorpiones — bota cerrada, frontal al suelo y sacude las
+  botas por la mañana.
 - Deja dicho en el alojamiento dónde vas a estar si te alejas para el astro, y
   lleva el móvil (sin cobertura en muchas zonas: descarga mapas offline antes).
 - Dentro del parque, **prohibido bajarse del coche** salvo en los puntos

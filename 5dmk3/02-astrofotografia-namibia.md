@@ -11,8 +11,10 @@ visible gran parte de la noche.
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
-> [Mejora, parte 1](../mejora/parte-1-principiante.md) y el fino en la
-> [parte 2](../mejora/parte-2-avanzado.md).
+> [Mejora, parte 1](../mejora/parte-1-principiante.md), el fino en la
+> [parte 2](../mejora/parte-2-avanzado.md), y el catálogo completo de lo
+> fotografiable en tu ventana, objetivo a objetivo, en
+> [el cielo del viaje](../comun/cielo-del-viaje.md).
 
 ## Receta rápida
 
@@ -172,12 +174,22 @@ planificador sobre mapa.
 - **NamibRand / zona de Sossusvlei**: Reserva Internacional de Cielo Oscuro.
   <https://darksky.org/places/namibrand-dark-sky-reserve/>
 - **Spitzkoppe**: arcos de granito como primer plano y acampada dentro
-  (camping comunitario: <https://spitzkoppe.com/>).
+  (camping comunitario: <https://spitzkoppe.com/>). No cae en la ruta de este
+  viaje — apuntada para el siguiente.
 - **Deadvlei/Sossusvlei**: la foto nocturna dentro está en la práctica vetada
   (el permiso especial es muy difícil de conseguir); alojarse dentro de la
   primera puerta (camping de Sesriem) solo adelanta la entrada ~1 h antes del
   amanecer. Para la Vía Láctea, mejor Spitzkoppe o la zona de NamibRand.
 - **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo austral.
+
+## El segundo tirador: el Seestar S30 Pro
+
+Este viaje lleva además un telescopio inteligente que trabaja solo: mientras
+tú haces la charca o el cielo con paisaje con la 5D3, él apila cielo profundo
+(la Tarántula, 47 Tucanae, las Nubes de Magallanes) desde el propio
+campamento, y su cámara ancha hace timelapses nocturnos con primer plano sin
+tocar el trípode grande. Qué hace, qué no, y el plan de objetivos de tus
+noches: [la guía del Seestar S30 Pro](../comun/seestar-s30-pro.md).
 
 ## Referencias
 

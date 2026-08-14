@@ -6,12 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Guía de fotografía en **español** de la **Canon 5D Mark III** para un viaje a Namibia: safari diurno, charcas nocturnas de Etosha y astrofotografía (el viaje coincide con luna nueva). Solo Markdown más los PDF generados de las hojas de campo: no hay build, lint ni tests. Publicar = commit y push a `main` (https://github.com/morandeirachema/5dmk3-namibia).
 
-Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyang 14mm f/2.8 EF propio (sin contactos: la cámara marca f/00) + Sigma 150-600 Contemporary EF como única compra + Canon 650D como posible respaldo.
+Equipo real del viaje (condiciona las recomendaciones): cuerpo prestado + Samyang 14mm f/2.8 EF propio (sin contactos: la cámara marca f/00) + Sigma 150-600 Contemporary EF + Seestar S30 Pro (telescopio inteligente, para el cielo en automático) + Canon 650D como posible respaldo. El móvil del viaje es un Pixel 10 Pro.
 
 ## Estructura
 
-- `5dmk3/` — capítulos `00`–`05` (móvil→cámara, configuración, astro, safari diurno, charcas nocturnas, equipo) + dos hojas de campo imprimibles: `chuleta.md` y `verificacion-in-situ.md`.
-- `comun/` — guías transversales: lista de tomas, histograma por escenario, edición básica, paisaje de Namibia y logística del viaje.
+- `5dmk3/` — capítulos `00`–`05` (móvil→cámara, configuración, astro, safari diurno, charcas nocturnas, equipo), el anexo de la 650D de respaldo (`anexo-650d.md`) + dos hojas de campo imprimibles: `chuleta.md` y `verificacion-in-situ.md`.
+- `comun/` — guías transversales: lista de tomas, mejores horas, el cielo del viaje (catálogo astro de la quincena, `cielo-del-viaje.md`), apps del viaje, histograma, balance de blancos, edición básica, paisaje de Namibia, logística, limpieza en campo y la guía del Seestar S30 Pro (`seestar-s30-pro.md`).
+- `mejora/` — el salto "de la foto correcta a la foto buena": `parte-1-principiante.md` (plan de charcas, comportamiento, el cielo real de noviembre), `parte-2-avanzado.md` (AF a medida, plan de la noche hora a hora) y `safari-a-fondo.md` (luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas).
 - `pdf/` — versiones PDF maquetadas de las hojas de campo (chuleta, verificación in situ, lista de tomas), generadas desde el Markdown; al editar una hoja, regenerar su PDF.
 - `README.md` — índice con fotos CC de Wikimedia Commons (mantener la atribución al editarlas).
 
