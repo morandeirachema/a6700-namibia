@@ -28,7 +28,7 @@ día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atarde
 
 ## Plan de la noche (1–15 nov)
 
-**20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 9**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes)
+**GoPro corriendo primero** (Night Lapse o Star Trails sobre la Volta 2, silueta en el encuadre) · **20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 9**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes)
 
 ## Histograma (detalle: comun/histograma.md) — revisa tras CADA cambio de luz
 

@@ -67,3 +67,6 @@ reportaje y no con un carrete de pruebas.
   elige cuál persigues mañana.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —
   la segunda vez ya sabes qué falló.
+- El **vídeo** tiene su propia lista de tomas (avión, carretera, dunas,
+  focas, noche…) con los ajustes de cada una: en la
+  [guía de la GoPro](gopro-mission-1.md).

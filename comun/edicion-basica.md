@@ -93,6 +93,10 @@ filling* si hay microhuecos entre tomas):
 
 ## Montar un timelapse en vídeo
 
+(Los de la GoPro salen ya montados de cámara — esto es para las series de
+la 5D3; los clips y archivos de la GoPro tienen su apartado en
+[su guía](gopro-mission-1.md).)
+
 Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24
 fotogramas por segundo):
 

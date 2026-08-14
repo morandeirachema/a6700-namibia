@@ -100,16 +100,17 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 |---|---|
 | 5D3 (con el Sigma montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
 | Samyang 14mm y la 650D, cada uno en su compartimento | Bean bag **vacío** |
-| **Todas** las baterías (LP-E6, LP-E8) y el power bank | Cargadores, regleta y adaptadores D/M |
+| **Todas** las baterías (LP-E6, LP-E8), la Volta 2 de la GoPro y el power bank | Cargadores, regleta y adaptadores D/M |
 | Tarjetas (CF y SD) y el SSD | Kit de limpieza, bolsas zip, cinta |
 | Lector de tarjetas, intervalómetro, pera y una microfibra | Frontal y ropa alrededor de todo, haciendo de acolchado |
 
 **Baterías: la parte con normativa.** Las baterías de litio de repuesto están
 **prohibidas en bodega** — siempre en cabina, con los contactos protegidos
 (su tapa, cinta o una bolsita por batería). Todo lo tuyo pasa sin papeleo:
-las LP-E6/LP-E8 rondan los 13 Wh y un power bank normal queda por debajo de
-los 100 Wh del límite. El power bank **nunca** se factura. Normativa para
-comprobar dudas: <https://www.seguridadaerea.gob.es/> · <https://www.iata.org/>
+las LP-E6/LP-E8 rondan los 13 Wh, la Volta 2 de la GoPro (5.800 mAh) y un
+power bank normal quedan por debajo de los 100 Wh del límite. Ni el power
+bank ni la Volta 2 se facturan **nunca** (son baterías de litio). Normativa
+para comprobar dudas: <https://www.seguridadaerea.gob.es/> · <https://www.iata.org/>
 
 **El peso.** La franquicia de mano típica son 8 kg y tu mochila completa
 (dos cuerpos, el tele de 2 kg, el Samyang, baterías y datos) ronda los 6–7:
@@ -156,6 +157,9 @@ no en Etosha:
   cuello y chaqueta de bolsillos grandes.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](apps-del-viaje.md)).
+- [ ] **GoPro**: firmware actualizado (lo necesita para la Volta 2), un
+  Night Lapse de prueba hecho una noche en casa, y Volta 2 y batería
+  cargadas.
 - [ ] Imprime la [chuleta](../5dmk3/chuleta.md) y la
   [lista de tomas](lista-de-tomas.md).
 

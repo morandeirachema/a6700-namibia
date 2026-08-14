@@ -58,12 +58,18 @@ al catálogo 2026: la "Hero 14" **no existe**; GoPro renombró su gama alta a
 | GoPro Hero 13 Black | ~350–430 € | La vía budget nueva: la misma familia de modos nocturnos con sensor menor (1/1.9"). Si el uso es timelapse + clips y no vídeo premium, es media MISSION 1 de precio |
 | **GoPro Hero 11 Black (usada)** | ~150–250 € | **El suelo del timelapse nocturno "bueno"**: es el modelo donde debutaron los Night Effects (Star Trails, Light Painting, Vehicle Lights) y estrenó el sensor 1/1.9" de 27 Mpx que heredan la 12 y la 13. Más antigua que esta, no: las anteriores solo tienen Night Lapse básico, sin Star Trails y con sensores menores |
 
-**Recomendación**: la MISSION 1 estándar si el vídeo del safari importa
-(para foto nocturna, star trails y timelapse es idéntica a la PRO); la
-**Hero 11 usada** si solo se busca el timelapse nocturno — hace los mismos
-modos por la cuarta parte del precio. En los modos nocturnos una batería da
-del orden de hora y media según la propia GoPro: para series de toda la
-noche, alimentación por USB-C desde el power bank.
+**La elección de este viaje: MISSION 1 + Volta 2.** La MISSION 1 estándar
+(para foto nocturna, star trails y timelapse es idéntica a la PRO), en el
+**Mountain Bike Bundle** si encaja el precio — trae anclaje de
+manillar/tija y arnés de pecho: bici resuelta, y el anclaje sirve para la
+ventanilla en el safari. Y como empuñadura y batería en un solo accesorio,
+la **Volta 2** (139,99 $): empuñadura con **5.800 mAh** integrados —
+hasta 9 h de 4K30 y, para lo que importa aquí, un Night Lapse de toda la
+noche sin power bank ni cables sueltos. Compatible con la MISSION 1 tras
+una actualización de firmware gratuita (hazla en casa). En los modos
+nocturnos la batería interna sola da del orden de hora y media según la
+propia GoPro — la Volta 2 es lo que convierte "una serie" en "toda la
+noche".
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,

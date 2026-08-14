@@ -123,6 +123,9 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 7 · Antes de la sesión de astro (5 min, en orden)
 
+- [ ] **La GoPro arranca primero** (1 min y trabaja sola mientras montas la
+  5D3): sobre la Volta 2, silueta en el encuadre, Night Lapse o Star Trails
+  y no se toca más ([plan noche a noche](../comun/cielo-del-viaje.md)).
 - [ ] Dial en **C2** · RAW · reducción de ruido de larga exposición **OFF**
   (*por qué:* con ella ON, cada foto va seguida de otros tantos segundos a
   oscuras — adiós timelapse y arcos de star trails).
@@ -189,6 +192,8 @@ El repaso que separa "creo que la tengo" de "la tengo":
   → **una** corrección concreta para mañana (una, no cinco).
 - [ ] [Lista de tomas](../comun/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
+- [ ] GoPro y Volta 2 al cargador USB-C; descarga sus clips al móvil o SSD
+  cada 2–3 noches.
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
