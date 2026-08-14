@@ -35,6 +35,8 @@ sale solo:
 | **2 · El viaje** — las recetas de cada escenario | Capítulos [1](5dmk3/01-configuracion-basica.md) a [5](5dmk3/05-equipo-accesorios.md), los deberes 5–7 y el [simulacro](comun/logistica-viaje.md) | Las recetas del viaje y [la lista de tomas del vídeo-recuerdo](comun/gopro-mission-1.md) | [Mejores horas](comun/mejores-horas.md), [balance de blancos](comun/balance-de-blancos.md), [edición](comun/edicion-basica.md), [paisaje](comun/paisaje-namibia.md), [logística](comun/logistica-viaje.md), [limpieza](comun/limpieza-en-campo.md) y [la lista de tomas](comun/lista-de-tomas.md) |
 | **3 · Avanzado** — de la foto correcta a la foto buena | [Mejora parte 1](mejora/parte-1-principiante.md), [parte 2](mejora/parte-2-avanzado.md), [Safari a fondo](mejora/safari-a-fondo.md) y [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | El nivel avanzado de su guía: open gate, RAW y star trails con criterio | [El cielo del viaje](comun/cielo-del-viaje.md) completo, con el plan noche a noche de las dos cámaras |
 
+Todas las guías comparten el mismo esqueleto — qué resuelve → receta → pasos → *"si sale mal…"* → referencias — y son autocontenidas: cada una puede seguirse desde cero, con los enlaces como ampliación.
+
 ## 📖 La guía, capítulo a capítulo
 
 | | Capítulo | Qué resuelve |

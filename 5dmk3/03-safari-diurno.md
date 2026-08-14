@@ -149,6 +149,14 @@ Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
 velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
 ajustes — está en [Safari a fondo](../mejora/safari-a-fondo.md).
 
+## Y la GoPro, mientras tanto
+
+Ella también hace el safari, sin quitarte atención: anclada en la barra del
+reposacabezas grabando **4K60**, o en Time Lapse (intervalo 5 s) apuntando a
+la charca durante la espera. Un vistazo a su anclaje en cada parada y nada
+más — recetas y tomas en [su chuleta](../comun/chuleta-gopro.md) y
+[su guía](../comun/gopro-mission-1.md).
+
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>

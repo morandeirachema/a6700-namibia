@@ -20,7 +20,8 @@ Existió una guía paralela de la Sony A7 III y una comparativa: fueron **borrad
 
 ## Contrato editorial (fijado por el autor)
 
-- **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Cada capítulo sigue ese patrón — mantenerlo en contenido nuevo. Toda guía (también las de `mejora/`) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
+- **Audiencia**: novato que viene sobre todo del móvil — **a todos los niveles**. Nada de teoría: recetas con valores concretos, pasos numerados y tablas de "si la foto sale mal, toca esto". Toda guía (también las de `mejora/`) debe ser **autocontenida desde lo básico**: la base imprescindible va resumida dentro, y los enlaces a otros capítulos son para ampliar, nunca requisito para empezar.
+- **Esqueleto común de toda guía** (mantenerlo en contenido nuevo): qué resuelve (1 párrafo) → receta/tabla rápida → pasos numerados → tabla "si sale mal…" → Referencias con URLs. Excepciones deliberadas: las hojas de campo (chuletas, verificación, lista de tomas) son ultracompactas, e `histograma.md` es una chuleta visual. Los capítulos de escenario (2, 3 y 4) incluyen además una sección "Y la GoPro, mientras tanto" — el papel en paralelo de la segunda cámara.
 - **Equipo**: siempre opciones **budget**, con precio orientativo y mención de segunda mano (mpb.com) cuando compense.
 - **Enlaces externos**: toda referencia (apps, software, localizaciones, fabricantes) lleva su URL. No inventar URLs profundas; ante la duda, enlazar la página raíz del sitio.
 - Los enlaces entre capítulos son relativos (`[capítulo 1](01-configuracion-basica.md)` dentro de `5dmk3/`, `../comun/...` entre carpetas); los del README llevan el prefijo de carpeta.

@@ -88,7 +88,9 @@ visible gran parte de la noche.
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
+[Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md). Y la
+GoPro trabaja en paralelo cada noche: Night Lapse o Star Trails sobre la
+Volta 2, en otra dirección ([su chuleta](../comun/chuleta-gopro.md)).
 
 ## Star trails (circumpolares del sur)
 

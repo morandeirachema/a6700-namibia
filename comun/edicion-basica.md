@@ -151,3 +151,21 @@ con el montaje bueno.
 - JPEG, lado largo **2048 px**, espacio de color **sRGB** (si no, los colores
   se ven lavados en el móvil de quien lo recibe).
 - Para imprimir o archivar: JPEG a tamaño completo, calidad 90+.
+
+## Si te atascas…
+
+| Problema | Solución |
+|---|---|
+| 800 fotos y no sabes por dónde empezar | No edites: **criba** primero (paso 1). Editar sin cribar es el atasco número 1 |
+| El Denoise tarda una eternidad | Es normal (es IA): pásalo solo a las supervivientes de la criba, nunca al día entero |
+| Sequator no traga los archivos | Dale los RAW (.CR2) directamente; si protesta, convierte antes a TIFF y repite |
+| El apilado sale con el suelo emborronado | Falta `Freeze ground` en Composition |
+| El comando de ffmpeg falla en Windows | El patrón `*.jpg` no funciona ahí: usa `-i img%04d.jpg` con los archivos numerados |
+| El timelapse parpadea (flicker) | ¿Algo quedó en auto (ISO, WB)? Con todo fijo apenas ocurre; si molesta, LRTimelapse |
+| Los colores del vídeo/foto se ven lavados al compartir | Exportaste fuera de sRGB (foto) o el móvil del receptor hace lo suyo: exporta sRGB y preajuste YouTube 1080p |
+
+## La regla final
+
+De cada sesión de edición deben salir **pocas fotos rematadas**, no muchas a
+medias: tres redondas por día de viaje son un reportaje espectacular de
+cuarenta y cinco.

@@ -111,3 +111,10 @@ noche".
   polvo (Samyang fijo en una, tele en la otra). Con el 150-600 se convierte
   además en un 240–960 mm equivalente para animal quieto con buena luz — su
   AF y su ISO alto no dan para más.
+
+## Referencias
+
+- Mercado de segunda mano de confianza: <https://www.mpb.com/>
+- Sigma 150-600 Contemporary (ficha y manuales): <https://www.sigma-global.com/>
+- GoPro (gama MISSION 1, Volta 2 y bundles): <https://gopro.com/>
+- Soporte oficial Canon (5D Mark III y 650D): <https://www.canon.es/support/>

@@ -86,6 +86,17 @@ hacer nada — el sistema completo de copias del viaje está en la
 | Simulación de exposición | Exposure simulation |
 | Controles personalizados | Custom Controls |
 
+## Si algo no cuadra…
+
+| Problema | Solución |
+|---|---|
+| No encuentro un ajuste en los menús | Botón **Q**: casi todo lo del día a día está en esa pantalla, editable |
+| El dial de modos no gira | Tiene **botón de bloqueo en el centro**: púlsalo mientras giras |
+| Cambié algo en C1/C2 y al volver ha desaparecido | Es su diseño: los modos C recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Menú → Ajustes → Modo disparo personalizado`) |
+| AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos de Controles personalizados: disparador = solo medición Y AF-ON = inicio de AF |
+| El joystick no mueve el punto AF | Falta activarlo: Controles personalizados → Multicontrolador → Selección directa punto AF |
+| El menú está en inglés y me pierdo | La tabla de traducción de arriba; o `Menu → Language → Español` |
+
 ## Referencias
 
 - Manual de instrucciones oficial (PDF, en soporte Canon): <https://www.canon.es/support/>

@@ -33,3 +33,8 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
   neutraliza precisamente el color que da carácter a la foto.
 - Si se te olvidó cambiarlo: no pasa nada — es RAW. Corrígelo en el
   [revelado](edicion-basica.md) con el cuentagotas sobre algo neutro o a ojo.
+
+## Referencias
+
+- El balance de blancos en el manual oficial (soporte Canon): <https://www.canon.es/support/>
+- Tutoriales de balance de blancos en español (dzoom): <https://www.dzoom.org.es/>

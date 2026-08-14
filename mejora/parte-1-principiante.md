@@ -167,3 +167,10 @@ contra el pan, y guarda el 14 mm para el cielo.
 Planifica la charca según la luz, espera el momento quieto, exprime los
 días sin lluvia — y de noche, apunta al sur: tus galaxias son las Nubes de
 Magallanes.
+
+## Referencias
+
+- Reservas y campamentos de Etosha (NWR): <https://www.nwr.com.na/>
+- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Calendario de lluvias de meteoros (AMS): <https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>
+- Stellarium, para ensayar tu cielo desde casa: <https://stellarium.org/>

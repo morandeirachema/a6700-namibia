@@ -116,9 +116,22 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 - Modo silencioso y hablar en susurros: el mirador de Okaukuejo funciona toda
   la noche y la gente duerme a 50 metros.
 
+## Y la GoPro, mientras tanto
+
+Dos papeles esa misma noche: quieta en el murete del mirador grabando al
+rino en **vídeo 4K30** (la toma 12 del vídeo-recuerdo) mientras tú disparas
+la 5D3 — en silencio, como todo aquí —, o en la zona oscura del campamento
+haciendo su Night Lapse sobre la Volta 2
+([su chuleta](../comun/chuleta-gopro.md)).
+
 ## Combinar con astro
 
 Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
 realista: charca al anochecer y de madrugada, Vía Láctea desde la zona oscura
 del campamento entre medias ([capítulo 2](02-astrofotografia-namibia.md)).
-Fase lunar en PhotoPills: <https://www.photopills.com/>
+
+## Referencias
+
+- Campamentos, miradores y night drives (NWR): <https://www.nwr.com.na/>
+- Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
+- Fase lunar y planificación nocturna (PhotoPills): <https://www.photopills.com/>

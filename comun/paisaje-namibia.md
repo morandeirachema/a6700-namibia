@@ -130,6 +130,17 @@ La postal africana barata de conseguir: **expón para el cielo** (compensación
 −1 a −2, o mide puntual al cielo) y deja la acacia/animal en silueta negra
 total. Funciona todos los días del viaje.
 
+## Si el paisaje sale mal…
+
+| Problema | Solución |
+|---|---|
+| Duna plana, sin volumen | Es la hora, no tú: con el sol alto no hay foto de dunas — vuelve a primera/última hora (mitad luz, mitad sombra) |
+| Horizonte torcido | Nivel electrónico visible SIEMPRE en paisaje (botón INFO) |
+| Cielo quemado o sombra negra: no cabe todo | La escena supera al sensor: AEB ±2 EV con temporizador 2 s y fusiona en edición |
+| Todo blando en las esquinas | ¿Bajaste de f/8 sin querer, o moviste la cámara? f/8 · ISO 100 · apoyo |
+| Huellas en la arena de la foto | Camina por la cresta o la cara de sombra — y mira ANTES de pisar |
+| Niebla en la costa "estropea" el plan | No es mal tiempo, es atmósfera: siluetas y minimalismo — cambia el chip, no el sitio |
+
 ## Referencias
 
 - Horarios y reservas de parques (NWR): <https://www.nwr.com.na/>
