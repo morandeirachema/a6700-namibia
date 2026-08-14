@@ -1,4 +1,4 @@
-# Logística del viaje — copias de seguridad, energía, polvo y seguridad
+# Logística del viaje — copias de seguridad, energía, avión, polvo y seguridad
 
 Lo que no es hacer fotos pero decide si vuelves con ellas.
 
@@ -92,6 +92,52 @@ Rutina diaria de 5 minutos que salva el equipo:
   riesgo estacional). Recomendaciones oficiales de viaje:
   <https://www.exteriores.gob.es/>
 
+## El equipo en el avión
+
+La regla de oro: **óptica, cuerpos, baterías y datos van en cabina; a bodega
+solo lo que aguanta golpes y se puede reemplazar.** El reparto:
+
+| En cabina (mochila fotográfica) | En bodega (maleta facturada) |
+|---|---|
+| 5D3 (con el Sigma montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
+| Samyang 14mm y la 650D, cada uno en su compartimento | Bean bag **vacío** |
+| Seestar en su funda | Cargadores, regleta y adaptadores D/M |
+| **Todas** las baterías (LP-E6, LP-E8) y el power bank | Kit de limpieza, bolsas zip, cinta |
+| Tarjetas (CF y SD) y el SSD | Frontal, intervalómetro de repuesto si hay |
+| Lector de tarjetas, intervalómetro, pera y una microfibra | Ropa alrededor de todo, haciendo de acolchado |
+
+**Baterías: la parte con normativa.** Las baterías de litio de repuesto están
+**prohibidas en bodega** — siempre en cabina, con los contactos protegidos
+(su tapa, cinta o una bolsita por batería). Todo lo tuyo pasa sin papeleo:
+las LP-E6/LP-E8 rondan los 13 Wh, un power bank normal queda por debajo de
+los 100 Wh del límite, y la batería del Seestar va integrada en el aparato
+(también muy por debajo). El power bank **nunca** se factura. Normativa para
+comprobar dudas: <https://www.seguridadaerea.gob.es/> · <https://www.iata.org/>
+
+**El peso, que ahora es lo justo.** La franquicia de mano típica son 8 kg y
+tu mochila completa ronda los 7–8: pésala en el
+[simulacro](#el-simulacro-del-día-antes-de-volar) y revisa la franquicia
+exacta de tu aerolínea antes de hacerla. Las válvulas de escape, por orden:
+la 5D3 **colgada al cuello** no suele computar, la chaqueta de bolsillos
+grandes traga baterías y el intervalómetro, y si tu billete admite bolso
+además de la mochila, el Seestar en su funda viaja como artículo personal.
+
+**En el aeropuerto.** En el control, saca la electrónica grande si la piden
+(cuenta con ello: una mochila así siempre llama al escáner). Y si en la
+puerta de un vuelo lleno obligan a facturar la mochila (*gate check*), no
+discutas la mochila: **saca cuerpos, objetivos, baterías y tarjetas** y
+súbelos encima — la tela puede viajar en bodega, el equipo no.
+
+**A la vuelta, las fotos mandan.** Las tarjetas llenas y el SSD son lo único
+irreemplazable del viaje: en cabina y **repartidos** (tarjetas en un bolsillo
+tuyo, SSD en la mochila), nunca juntos ni facturados.
+
+**La mochila en sí**, si aún no la tienes: una fotográfica de 25–30 L con
+interior acolchado configurable y medidas de equipaje de mano (Lowepro,
+K&F Concept, ~60–120 €: <https://www.lowepro.com/>). Compra con el equipo
+delante: el Sigma montado en la 5D3 pide profundidad, y el hueco del Seestar
+conviene probarlo antes de volar.
+
 ## El simulacro del día antes de volar
 
 Una hora con todo el equipo junto, para que el primer fallo pase en casa y
@@ -108,11 +154,12 @@ no en Etosha:
 - [ ] Ensaya el volcado tarjeta → SSD una vez, con cronómetro.
 - [ ] Lentes limpias; pera, microfibra, frontal rojo, intervalómetro y bean
   bag (vacío) en la bolsa.
-- [ ] Todo el equipo va en **cabina**, nunca facturado — y **pésalo**: con
-  el Seestar (1,65 kg), el tele (2 kg), los cuerpos y los cargadores, la
-  mochila ronda los 7–8 kg y muchas aerolíneas topan justo ahí. Revisa la
-  franquicia de mano de tus vuelos; si te pasas, la válvula clásica es una
-  chaqueta de bolsillos grandes (baterías y cuerpo pequeño encima).
+- [ ] Mochila hecha con el reparto de
+  [el equipo en el avión](#el-equipo-en-el-avión): óptica, cuerpos, baterías
+  y datos en cabina; trípode, bean bag y cargadores a la maleta. Y
+  **pésala**: con el Seestar (1,65 kg) y el tele (2 kg) ronda los 7–8 kg,
+  justo donde topan muchas franquicias — revisa la de tus vuelos; si te
+  pasas, cámara al cuello y chaqueta de bolsillos grandes.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](apps-del-viaje.md)).
 - [ ] **Seestar**: la noche de prueba en casa ya hecha (app emparejada, un
