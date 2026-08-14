@@ -180,7 +180,8 @@ planificador sobre mapa.
   (el permiso especial es muy difícil de conseguir); alojarse dentro de la
   primera puerta (camping de Sesriem) solo adelanta la entrada ~1 h antes del
   amanecer. Para la Vía Láctea, mejor Spitzkoppe o la zona de NamibRand.
-- **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo austral.
+- **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo
+  austral. Tampoco cae en esta ruta — al sur, para otro viaje.
 
 ## El segundo tirador: el Seestar S30 Pro
 

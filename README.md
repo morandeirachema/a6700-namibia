@@ -69,7 +69,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.
 - 🎨 [Edición básica](comun/edicion-basica.md) — el repaso de cada noche, cribar, revelar, ruido por IA, apilados y montar el timelapse en vídeo.
-- 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, Kolmanskop y los flamencos de Walvis Bay.
+- 🏜️ [Paisaje en Namibia](comun/paisaje-namibia.md) — dunas de Sossusvlei, Deadvlei, la costa (flamencos, focas de Cape Cross, pecios y niebla) y las paradas de tu ruta: Spreetshoogte, Terrace Bay y Hoada.
 - 🧳 [Logística del viaje](comun/logistica-viaje.md) — copias de seguridad, enchufes y energía, el equipo en el avión (cabina, bodega y baterías), polvo y condensación, seguridad nocturna y el simulacro del día antes.
 - 🧼 [Limpieza en campo](comun/limpieza-en-campo.md) — cómo limpiar objetivo, lentes y cuerpo con el polvo de Etosha: kit, orden correcto y las peculiaridades del Samyang y el Sigma.
 

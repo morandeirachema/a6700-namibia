@@ -186,6 +186,12 @@ una forma imposible con JPEG. La edición está explicada en la
    ([capítulo 4](04-safari-nocturno-charcas.md)) — mejor descubrir los
    problemas en tu barrio que con un rinoceronte delante.
 
+Cuando estas siete salgan solas: [Safari a fondo](../mejora/safari-a-fondo.md)
+propone tres tardes monográficas más (contraluces, barridos y fondos). Y no
+olvides la **noche de prueba del Seestar** en casa
+([su guía](../comun/seestar-s30-pro.md)) — está también en el
+[simulacro](../comun/logistica-viaje.md).
+
 ## Referencias
 
 - Manual y soporte oficial de la EOS 5D Mark III: <https://www.canon.es/support/>

@@ -54,6 +54,9 @@ plano mucho más de lo que te parece natural.
 
 ## Kolmanskop (ciudad fantasma)
 
+> No cae en la ruta de este viaje (queda al sur, junto a Lüderitz) — esta
+> sección se queda como referencia para el siguiente.
+
 - Interiores de casas engullidas por la arena, cerca de Lüderitz. Para entrar
   fuera del horario de visitas (la luz buena) hace falta el **photo permit**
   (~480 N$): da acceso de amanecer a atardecer y se compra en la web oficial,
@@ -90,6 +93,36 @@ Los dos sujetos de tu viaje que se mueven despacio y lucen acelerados:
 
 El montaje del clip (ffmpeg o DaVinci) es el mismo que el del timelapse
 nocturno: [edición](edicion-basica.md).
+
+## Las paradas de tu ruta que casi nadie fotografía (y tú sí)
+
+- **Paso de Spreetshoogte (noches 1 y 2)**: la escarpa que cae al desierto
+  del Namib — el mirador da atardecer y amanecer sin moverte del
+  alojamiento. Con el **tele**, comprime las llanuras y las montañas en
+  capas azuladas (receta de abstractos de duna de
+  [mejora · parte 2](../mejora/parte-2-avanzado.md)); con el angular, un
+  primer plano de rocas y el vacío detrás. Y de noche, el estreno del
+  Samyang ([las noches, día a día](mejores-horas.md)).
+- **De Swakopmund a Terrace Bay (días 5–7), la Costa de los Esqueletos**:
+  - **Cape Cross**: decenas de miles de lobos marinos — llega preparado
+    para el olor y el ruido. Receta de fauna diurna con tele, agáchate a su
+    altura en la pasarela, y busca el caos gráfico: la colonia entera como
+    textura a 600 mm. Esa noche toca limpieza por salitre
+    ([limpieza](limpieza-en-campo.md)).
+  - **El pecio Zeila** (junto a Henties Bay): el barco varado y oxidado con
+    cormoranes encima. Con niebla es la foto: silueta gris sobre gris;
+    con sol, mejor al atardecer y con las olas rompiendo (1/15 s apoyado
+    para sedarlas, o 1/1000 para congelarlas).
+  - **Terrace Bay**: desolación en serio — niebla, playas vacías, chatarra
+    oxidada. Aquí el paisaje es **minimalismo**: horizonte plano, un objeto
+    solo, mucho espacio negativo (la lección del órix de
+    [Safari a fondo](../mejora/safari-a-fondo.md) aplicada al paisaje).
+    Campamento de NWR: <https://www.nwr.com.na/>
+- **Hoada (noche 8)**: bolas de granito entre mopanes, en Damaraland. Al
+  atardecer la roca se enciende naranja — súbete a una bola (bota cerrada:
+  escorpiones) y usa otra de primer plano. Es además el ensayo general del
+  cielo de Etosha, con el granito de silueta.
+- Turismo e info general de estas zonas: <https://www.namibiatourism.com.na/>
 
 ## Atardeceres y siluetas
 
