@@ -43,6 +43,27 @@ allí trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de rui
 por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)). La alternativa
 luminosa (70-200 f/2.8) se sale de presupuesto; el enfoque budget es asumir
 el ISO alto.
+
+## Vídeo y timelapses: la GoPro
+
+La segunda compra del viaje: una action cam para lo que la 5D3 no hace —
+vídeo del safari desde el coche y timelapses nocturnos "pon y olvida". Ojo
+al catálogo 2026: la "Hero 14" **no existe**; GoPro renombró su gama alta a
+**MISSION 1** (<https://gopro.com/>):
+
+| Modelo | Precio aprox. | Notas |
+|---|---|---|
+| **GoPro MISSION 1** ⭐ | 599 $ (~550–600 €) | Sensor de 1" y fotos de 50 Mpx; vídeo 8K30/4K120; modos **Night Lapse, Star Trails, Light Painting y Vehicle Lights**; 207 g, sumergible 20 m |
+| GoPro MISSION 1 PRO | 699 $ | **Mismo sensor, mismas fotos y mismos modos nocturnos**: los 100 $ extra compran solo framerates de vídeo (8K60, 4K240, 1080p a 960 fps). Para timelapse y noche, no aportan nada |
+| GoPro Hero 13 Black | ~350–430 € | La vía budget nueva: la misma familia de modos nocturnos con sensor menor (1/1.9"). Si el uso es timelapse + clips y no vídeo premium, es media MISSION 1 de precio |
+| **GoPro Hero 11 Black (usada)** | ~150–250 € | **El suelo del timelapse nocturno "bueno"**: es el modelo donde debutaron los Night Effects (Star Trails, Light Painting, Vehicle Lights) y estrenó el sensor 1/1.9" de 27 Mpx que heredan la 12 y la 13. Más antigua que esta, no: las anteriores solo tienen Night Lapse básico, sin Star Trails y con sensores menores |
+
+**Recomendación**: la MISSION 1 estándar si el vídeo del safari importa
+(para foto nocturna, star trails y timelapse es idéntica a la PRO); la
+**Hero 11 usada** si solo se busca el timelapse nocturno — hace los mismos
+modos por la cuarta parte del precio. En los modos nocturnos una batería da
+del orden de hora y media según la propia GoPro: para series de toda la
+noche, alimentación por USB-C desde el power bank.
 ## Accesorios
 
 - **Intervalómetro de cable** (conector N3): imprescindible para timelapses,

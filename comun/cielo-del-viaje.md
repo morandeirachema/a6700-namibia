@@ -140,14 +140,23 @@ el anochecer ya es sin luna.)
 
 ### 10 · Timelapses del cielo — con árbol, casa o molino delante
 
-Tu foto en movimiento, por dos vías: el **Pixel** (el modo astro regala un
-mini-timelapse sin montar nada — móvil quieto sobre una piedra) y la versión
-de máxima calidad con **5D3 + intervalómetro** (15 s de foto / intervalo
-17 s / 300 tomas ≈ 10 s de vídeo, receta en el
-[capítulo 2](../5dmk3/02-astrofotografia-namibia.md) y montaje en
-[edición](edicion-basica.md)). Las siluetas buenas: la línea de mopanes y
-el depósito de agua de Okaukuejo, el granito de Hoada, el molino o los
-tejados de la granja de Spreetshoogte.
+Tu foto en movimiento, por tres vías (de menos a más esfuerzo):
+
+1. **La GoPro**: modos **Night Lapse** (vídeo timelapse de la noche) y
+   **Star Trails** (los círculos, ya montados en cámara) — la dejas
+   encuadrada con la silueta y se acabó tu trabajo. Una batería da del orden
+   de hora y media en estos modos: para toda la noche, power bank por USB-C
+   ([equipo](../5dmk3/05-equipo-accesorios.md)).
+2. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
+   móvil quieto sobre una piedra.
+3. **5D3 + intervalómetro**, la versión de máxima calidad: 15 s de foto /
+   intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
+   [capítulo 2](../5dmk3/02-astrofotografia-namibia.md), montaje en
+   [edición](edicion-basica.md)). Resérvala para la noche estrella.
+
+Las siluetas buenas: la línea de mopanes y el depósito de agua de Okaukuejo,
+el granito de Hoada, el molino o los tejados de la granja de Spreetshoogte,
+la muralla blanca del fuerte de Namutoni.
 
 ### 11 · Los bonus que salen sin buscarlos
 
@@ -161,6 +170,32 @@ tejados de la granja de Spreetshoogte.
   borrosa" espectacular en prismáticos), M42 en la espada de Orión pasada la
   medianoche, y la Vía Láctea entera de horizonte a horizonte. Apunta lo que
   veas: el ojo también viaja.
+
+## Noche a noche: tú con la 5D3, la GoPro trabajando sola
+
+El [itinerario real](https://github.com/morandeirachema/namibia) cruzado con
+la luna de cada noche ([detalle](mejores-horas.md)): qué disparas tú y qué
+dejas corriendo. La GoPro trabaja **en paralelo** — se enciende, se encuadra
+la silueta y no se toca más; siempre dentro del recinto y cerca de ti, con
+el power bank si la serie es larga.
+
+| Noche | Duermes en | Tú, con la 5D3 | La GoPro, sola |
+|---|---|---|---|
+| sáb 31 oct | Windhoek | Dormir: jet lag y cielo urbano | Nada — cárgala y familiarízate con los menús |
+| dom 1 | Spreetshoogte | Estreno del Samyang: núcleo bajo al OSO al anochecer (nº 1 del catálogo) | Timelapse del atardecer→noche desde el mirador de la escarpa |
+| lun 2 | Spreetshoogte | Repite corrigiendo errores + primera panorámica de la banda | **Star Trails** sobre el molino o los tejados de la granja |
+| mar 3 | Sesriem | Nubes de Magallanes apiladas (15–20 tomas) y pronto a la cama: el 4 se madruga | **Night Lapse** junto a la tienda mientras duermes (power bank) |
+| mié 4 | Sesriem | La foto es al alba: la menguante sobre las dunas en el madrugón de Deadvlei | Timelapse del amanecer en Deadvlei; por la noche, descanso |
+| jue 5 | Walvis Bay | Si la niebla respeta, Nubes; si no, dormir | Timelapse de la niebla del Benguela entrando al atardecer |
+| vie 6 | Walvis Bay | Ídem — cielo poco fiable en la costa | Ídem, o Night Lapse si la noche abre |
+| sáb 7 | Terrace Bay | Descanso (al día siguiente, paliza de grava); si abre, star trails cortos | Timelapse de olas y niebla — su hábitat natural |
+| dom 8 | Hoada | El ensayo general de Etosha: Nubes + núcleo con el granito de silueta | Star Trails sobre las bolas de granito |
+| lun 9 | Okaukuejo · **luna nueva** | La gran noche: charca con foco (rinos 21:00–24:00) y Vía Láctea desde el rincón oscuro | Night Lapse con el depósito de agua de silueta, trabajando a tu lado |
+| mar 10 | Halali | Charca Moringa al anochecer + Nubes el resto | Star Trails entre los mopanes del campamento |
+| mié 11 | Namutoni | Noche de cielo y Táuridas: serie larga de star trails con la 5D3 | Night Lapse toda la noche con power bank — más red para cazar bólidos |
+| jue 12 | Namutoni | El gran nocturno: lo que falte de la [lista](lista-de-tomas.md) (pano, Nubes con silueta) | Star Trails con la muralla blanca del fuerte |
+| vie 13 | Windhoek | La creciente con luz cenicienta al 600 mm tras el ocaso, y a dormir | Timelapse del atardecer urbano con la creciente poniéndose |
+| sáb 14 | Vuelo | — | — |
 
 ## El día malo: nubes
 

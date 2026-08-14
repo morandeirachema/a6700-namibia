@@ -198,9 +198,11 @@ viaje; la secuencia de cinco te chequea cada escena.
 
 ## 8 · ¿Y vídeo? (el clip del elefante, sin engañarse)
 
-- **Regla general: los clips, con el móvil.** El Pixel estabiliza, enfoca
-  solo y comparte al momento — para el vídeo-recuerdo desde el coche es
-  mejor herramienta que la réflex.
+- **Regla general: los clips, con la GoPro o el móvil.** La GoPro enganchada
+  a la ventanilla o al salpicadero graba el ambiente del safari sin que la
+  toques ([equipo](../5dmk3/05-equipo-accesorios.md)); el Pixel estabiliza,
+  enfoca solo y comparte al momento. Para el vídeo-recuerdo, cualquiera de
+  los dos es mejor herramienta que la réflex.
 - La 5D3 **puede** grabar (1080p) y tiene su hueco: la escena estática a
   600 mm que el móvil no alcanza — el rinoceronte bebiendo, los elefantes en
   la charca. Receta mínima: cámara sobre el bean bag, **1080 a 25 fps,
