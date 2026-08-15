@@ -1,4 +1,4 @@
-# 4. Safari nocturno en charcas con la 5D Mark III — paso a paso
+# 4. Safari nocturno en charcas con la a6700 — paso a paso
 
 Dos charcas de Etosha están **iluminadas con focos toda la noche** y tienen
 mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche,
@@ -13,30 +13,35 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Parámetro | Valor de partida |
 |---|---|
 | Modo | M |
-| Apertura | La más baja del objetivo |
+| Apertura | La más baja del objetivo (f/6.3 con el zoom a tope) |
 | Obturación | 1/60 s (animal bebiendo quieto) |
 | ISO | Empieza en 3200–6400 y sube lo que haga falta |
 | Balance de blancos | Manual (K) ~3500 K, ajusta mirando la revisión |
-| Enfoque | One Shot, punto único sobre el animal (AF-ON) |
-| Estabilizador del objetivo | OFF (trípode) |
-| Modo de disparo | **Silencioso individual** (menú de avance: "Silencioso") |
+| Enfoque | AF-S, punto único sobre el animal (AF-ON) |
+| Estabilizador | OFF los dos: interruptor VC del objetivo y SteadyShot del cuerpo (trípode) |
+| Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 ## Al llegar al mirador (10 minutos de preparación)
 
 1. Monta el trípode en un lateral, sin bloquear a nadie.
-2. Pon el avance en **modo silencioso**: el espejo de la 5D3 es ruidoso y en
-   un mirador de noche se oye todo. El modo silencioso lo amortigua mucho
-   (baja a ~3 fps, irrelevante aquí). El obturador mecánico evita las franjas
-   finas que sufren las mirrorless con obturador electrónico; si los focos
-   parpadean, a velocidades rápidas aún puede variar la luz entre fotos —
-   a 1/60 s apenas se nota.
+2. Pon el obturador en **Electrónico** (`Menú → Disparo → Obturador/Silencioso
+   → Tipo de obturador`): la cámara dispara **sin mover una sola pieza** — en
+   un mirador de noche se oye todo, y así no haces ningún ruido. El peaje:
+   con focos LED parpadeantes el obturador electrónico puede sacar **franjas
+   finas** (banding). Revisa las primeras fotos ampliadas: si aparecen, pasa
+   a obturador **mecánico** (ya es discreto de por sí) — a 1/60 s el
+   parpadeo apenas se nota, y el anti-parpadeo del menú ayuda a afinar.
 3. **Prueba de color**: foto a la zona iluminada, revisa en pantalla y ajusta
    el balance de blancos en Kelvin hasta que el agua no salga naranja butano.
-   Suele quedar entre 3200 y 4000 K.
-4. **Prueba de AF**: el AF de la 5D3 en penumbra funciona mejor por el visor
-   que en Live View. Usa el **punto central** (es el más sensible) sobre una
-   zona con contraste iluminada por el foco. Si el AF patina, enfoca en manual
-   con Live View + lupa x10 a la orilla donde beben, y deja el objetivo en MF.
+   Suele quedar entre 3200 y 4000 K. (El visor electrónico ya te enseña la
+   exposición y el color reales antes de disparar; aun así, la prueba manda.)
+4. **Prueba de AF**: en esta cámara el AF es el mismo por el visor que en la
+   pantalla (mide en el propio sensor). En penumbra usa **punto único** sobre
+   una zona con contraste iluminada por el foco; el reconocimiento de
+   **Animal** puede engancharse si el animal está bajo el foco, pero no te
+   fíes de él en penumbra profunda. Si el AF patina, enfoca en manual con la
+   **lupa (Focus Magnifier) + peaking** a la orilla donde beben, y deja el
+   enfoque en MF clavado ahí.
 5. Espera. Los animales llegan a la luz; tú ya estás listo.
 
 ## La toma
@@ -45,22 +50,22 @@ Info de campamentos: <https://www.nwr.com.na/>
   Con trípode y un animal quieto bebiendo, 1/60 s basta; haz varias porque
   alguna saldrá movida por el propio animal.
 - Ráfagas cortas de 3–4 fotos en los momentos quietos (cabeza agachada bebiendo).
-- Sé conservador con el ISO: la 5D3 rinde bien hasta 6400; 12800 es el límite
-  práctico y 25600 solo para foto-recuerdo. El NR por IA (abajo) recupera mucho.
+- Sé conservador con el ISO: la a6700 rinde muy bien hasta 6400; 12800 es el
+  techo práctico y 25600 solo para foto-recuerdo. El NR por IA (abajo)
+  recupera mucho.
 
 ## ¿Hasta qué ISO puedes subir? — la cuenta
 
 Tres números que multiplicados dan tu techo real:
 
-1. **Lo que pide la escena**: con el Sigma clavado en f/6.3 y la receta de
+1. **Lo que pide la escena**: con el Tamron clavado en f/6.3 y la receta de
    1/60 s, una charca iluminada exige ISO **6400** con el animal cerca de los
    focos y **12800–25600** en el borde del haz. No es elección: es la luz que
    hay con un objetivo f/6.3.
-2. **Lo que aguanta el sensor**: nativo, la 5D3 va bien hasta **6400**; a
-   **12800** el ruido es evidente pero la foto vive; **25600** queda muy
-   castigado (ruido de color y banding en sombras). Los ISO expandidos
-   **H1/H2 (51200–102400) ni tocarlos**: son un empujón digital de 25600 —
-   mismo ruido, peor color.
+2. **Lo que aguanta el sensor**: la a6700 va limpia hasta **3200** y muy bien
+   a **6400**; a **12800** el ruido es evidente pero la foto vive; **25600**
+   queda castigado (ruido de color en las sombras). Los ISO expandidos por
+   encima **ni tocarlos**: son un empujón digital — mismo ruido, peor color.
 3. **Lo que devuelve la IA**: la reducción de ruido por IA (Lightroom
    Denoise, DxO PureRAW) recupera **en torno a 2 pasos** según el propio DxO
    y las reviews: un 12800 procesado queda como un ~3200 nativo, y un 25600
@@ -78,10 +83,11 @@ obturación** (1/60 → 1/40 → 1/30) — es luz gratis sin ruido.
 |---|---|
 | Oscura | Sube ISO (6400 → 12800). Una foto ruidosa se arregla; una oscura, a medias |
 | Naranja intenso | Balance de blancos en Kelvin, baja hacia 3200 K |
+| **Franjas horizontales** en la foto | Focos LED + obturador electrónico: pasa a obturador **mecánico** (paso 2) |
 | El animal movido, el fondo nítido | Es el animal moviéndose: espera el momento quieto o sube a 1/125 s (y el ISO con ello) |
-| Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s y bloqueo de espejo si el caso es extremo |
-| El AF caza y suelta sin fijar | Poca luz para el AF: punto central, o enfoque manual prefijado a la orilla (paso 4) |
-| Ruido brutal a ISO 6400+ | Normal en un sensor de 2012. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/enhance-details.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
+| Todo movido | Tocaste la cámara o vibra el trípode: temporizador 2 s y no la toques durante la toma |
+| El AF caza y suelta sin fijar | Poca luz para el AF: punto único a una zona con contraste, o enfoque manual prefijado a la orilla (paso 4) |
+| Ruido brutal a ISO 6400+ | Normal con tan poca luz. Se recupera de forma espectacular con reducción de ruido por IA: Lightroom Denoise (<https://helpx.adobe.com/lightroom-cc/using/enhance-details.html>) o DxO PureRAW (<https://www.dxo.com/dxo-pureraw/>) |
 
 ## Variante: game drive nocturno con foco
 
@@ -95,15 +101,17 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 |---|---|
 | Obturación | 1/125 s (vehículo parado) · 1/250 s (en marcha) |
 | Apertura | La más baja |
-| ISO | Manual 6400–12800 (tope práctico de la 5D3) |
-| Medición | **Puntual** sobre el animal iluminado |
-| Enfoque | AI Servo, **punto central** (el más sensible en poca luz) sobre lo iluminado |
-| Estabilizador del objetivo | **ON** (sin trípode) |
+| ISO | Manual 6400–12800 (tope práctico de la a6700) |
+| Medición | **Puntual vinculada al punto de enfoque** (`Punto de medición puntual → Vínculo punto enfoque`) |
+| Enfoque | AF-C, punto único (o reconocimiento de Animal) sobre lo iluminado |
+| Estabilizador | **ON los dos: VC del objetivo y SteadyShot** (sin trípode) |
 
 - La escena engaña al medidor al revés que de día: todo negro alrededor → la
   cámara aclara → el animal iluminado **se quema**. Medición puntual sobre el
-  animal; y recuerda que en M con ISO Auto la 5D3 no deja compensar — por eso
-  aquí el ISO va en manual.
+  animal. Con el foco moviéndose, el ISO **manual** es lo robusto (el medidor
+  baila con cada barrido); la alternativa moderna: M + ISO Auto con
+  compensación a **−1** — en esta cámara la compensación sí funciona en
+  M+ISO Auto.
 - Dispara en las paradas; en marcha casi nada sale — usa ese tiempo para
   ajustar.
 - Etiqueta: no pidas mantener el foco sobre animales nocturnos (búhos,
@@ -113,14 +121,14 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 
 - **Flash prohibido** — y aunque no lo estuviera, nunca con fauna nocturna.
 - Frontal solo en **luz roja** y hacia el suelo.
-- Modo silencioso y hablar en susurros: el mirador de Okaukuejo funciona toda
-  la noche y la gente duerme a 50 metros.
+- Obturador electrónico y hablar en susurros: el mirador de Okaukuejo
+  funciona toda la noche y la gente duerme a 50 metros.
 
 ## Y la GoPro, mientras tanto
 
 Dos papeles esa misma noche: quieta en el murete del mirador grabando al
 rino en **vídeo 4K30** (la toma 12 del vídeo-recuerdo) mientras tú disparas
-la 5D3 — en silencio, como todo aquí —, o en la zona oscura del campamento
+la a6700 — en silencio, como todo aquí —, o en la zona oscura del campamento
 haciendo su Night Lapse sobre la Volta 2
 ([su chuleta](../comun/chuleta-gopro.md)).
 

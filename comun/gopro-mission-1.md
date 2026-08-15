@@ -1,7 +1,7 @@
 # La GoPro MISSION 1 — de cero a avanzado
 
 La segunda cámara del viaje, con tres papeles: **vídeo del safari** (anclada,
-sin que la toques), **timelapses y nocturna** en paralelo a la 5D3, y la
+sin que la toques), **timelapses y nocturna** en paralelo a la a6700, y la
 **bici** cuando vuelvas. Esta guía va por niveles: básico (que funcione),
 medio (las recetas del viaje) y avanzado (sacarle el jugo).
 
@@ -28,7 +28,7 @@ Tienda y fichas oficiales: <https://gopro.com/>
    nunca allí ([apps del viaje](apps-del-viaje.md)).
 3. Aprende **tres gestos** y olvida el resto: encender+grabar con un botón
    (QuikCapture), cambiar de modo deslizando, y parar. En el coche no hay
-   tiempo de menús — igual que con la 5D3.
+   tiempo de menús — igual que con la a6700.
 4. **Una noche de prueba en casa**: Night Lapse desde el balcón o el patio,
    sobre la Volta 2, y déjalo una hora. Verás el resultado, la batería que
    gasta y dónde están los ajustes — mejor en tu casa que en Okaukuejo
@@ -46,7 +46,7 @@ Tienda y fichas oficiales: <https://gopro.com/>
   calientan la cámara y comen tarjeta.
 - Anclaje de manillar **en la ventanilla** o en la barra del asiento,
   encuadre ancho y a rodar: ella estabiliza (HyperSmooth) y tú te olvidas —
-  tu atención es para la 5D3. Revisa el horizonte al montarla y no la
+  tu atención es para la a6700. Revisa el horizonte al montarla y no la
   toques más.
 - El arnés de **pecho**, para las caminatas permitidas (miradores, dunas,
   Deadvlei): manos libres y punto de vista natural.
@@ -66,7 +66,7 @@ Tienda y fichas oficiales: <https://gopro.com/>
   acaba chorreada de polvo. En pista, todo dentro.
 - **Revísala en cada parada**: la tabla de lavar de la grava afloja
   cualquier rosca. Apretar el anclaje entra en la rutina de arrancar, junto
-  a los interruptores del Sigma.
+  a los mandos del Tamron.
 
 ### Las carreteras de tu ruta que piden cámara
 
@@ -89,7 +89,7 @@ clips 4K60 en los momentos buenos:
   creciendo; largo (10–30 s) para sombras barriendo dunas o el trajín del
   campamento. Sale montado en cámara: cero edición.
 - Las mismas escenas que la [guía de paisaje](paisaje-namibia.md) da para
-  la 5D3, pero en versión "pon y olvida".
+  la a6700, pero en versión "pon y olvida".
 
 ### Nocturna (el papel estrella, cada noche del plan)
 
@@ -113,7 +113,7 @@ noches. El procedimiento, siempre igual:
   en edición si el clip es horizontal (para pantalla) o vertical (para
   compartir) — dos vídeos del mismo momento.
 - **Fotos en RAW**: las fotos fijas (50 Mpx) también salen en RAW y entran
-  en el mismo revelado que la 5D3 ([edición](edicion-basica.md)). Para
+  en el mismo revelado que la a6700 ([edición](edicion-basica.md)). Para
   paisajes con la GoPro de trípode improvisado, merece la pena.
 - **Star Trails con criterio**: la lección del
   [catálogo del cielo](cielo-del-viaje.md) aplica igual — decide dónde cae
@@ -135,7 +135,7 @@ minutos que cuente el viaje entero. La regla de oro: **muchos clips cortos**
 (5–10 segundos rodando de verdad por toma) valen infinitamente más que
 pocos clips eternos — el montaje se hace con variedad, no con metraje.
 Marca las conseguidas como en la [lista de tomas](lista-de-tomas.md) de la
-5D3.
+a6700.
 
 ### El guion, por capítulos del viaje
 
@@ -153,10 +153,10 @@ Marca las conseguidas como en la [lista de tomas](lista-de-tomas.md) de la
 | 9 | **La espera en la charca** | Anclada a la ventanilla, encuadre ancho fijo de la charca | Time Lapse, intervalo 5 s: las oleadas de animales entrando y saliendo |
 | 10 | **Elefantes junto al coche** | Anclada, sin sacarla por la ventanilla; el gran angular hace enormes las cosas cercanas | Vídeo 4K30, dejar rodar sin mover |
 | 11 | **La acción congelable** | Salpicaduras al beber, aves despegando, polvo | Vídeo 4K120 y decide en edición si va a cámara lenta |
-| 12 | **El rino de noche** | En el murete del mirador, quieta, mientras TÚ disparas la 5D3 | Vídeo 4K30 (el sensor de 1" saca la charca iluminada); en silencio |
+| 12 | **El rino de noche** | En el murete del mirador, quieta, mientras TÚ disparas la a6700 | Vídeo 4K30 (el sensor de 1" saca la charca iluminada); en silencio |
 | 13 | **El cielo girando** | El [plan noche a noche](cielo-del-viaje.md): silueta en el encuadre, Volta 2 | Night Lapse (vídeo) o Star Trails (foto de círculos) |
 | 14 | **Montar el campamento** | En una mesa o el capó, apuntando a la tienda | Time Lapse, intervalo 2 s — el clásico que nunca falla |
-| 15 | **El "making of"** | Tú con la 5D3 y el 150-600 en acción, el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5 s |
+| 15 | **El "making of"** | Tú con la a6700 y el 50-400 en acción, el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5 s |
 | 16 | **La vida pequeña** | Café al amanecer en la puerta, el braai, la ducha de campamento, el mapa sobre el capó | Vídeo 4K30 — estas tomas "tontas" son las que más se agradecen al montar |
 | 17 | **El aterrizaje en casa** | Ventanilla otra vez | Time Lapse 2 s: el cierre del círculo |
 
@@ -177,7 +177,7 @@ Marca las conseguidas como en la [lista de tomas](lista-de-tomas.md) de la
   ([logística](logistica-viaje.md)), una carpeta por día. El montaje final,
   en casa con DaVinci Resolve (gratis, ya en la
   [guía de edición](edicion-basica.md)) o automático con la app Quik.
-- Las fotos RAW: al mismo flujo de revelado que la 5D3.
+- Las fotos RAW: al mismo flujo de revelado que la a6700.
 
 ## Si sale mal…
 

@@ -11,6 +11,7 @@ Allí solo se consulta.
 |---|---|---|---|
 | [PhotoPills](https://www.photopills.com/) (iOS/Android) | Sol, luna y Vía Láctea de cada día y lugar — el planificador del viaje | ~11 €, pago único | **Sí** (los cálculos, siempre; el mapa solo si lo viste antes con wifi) |
 | [Stellarium](https://stellarium.org/) (PC) / [Stellarium Web](https://stellarium-web.org/) / [móvil](https://stellarium-labs.com/) | Ver cómo será el cielo de una fecha y hora — para ensayar en casa | Gratis (versión de pago opcional en móvil) | La de PC/móvil sí; la web no |
+| [Sony Creators' App](https://creatorsapp.sony.net/) (iOS/Android) | La app de la a6700: pasar los JPEG al móvil y disparo remoto | Gratis | **Sí** (wifi/Bluetooth directo cámara-móvil) — pero emparéjala en casa |
 | [Organic Maps](https://organicmaps.app/) o [Google Maps](https://www.google.com/maps) | Mapas offline y GPS en ruta | Gratis | **Sí**, si descargas Namibia antes |
 | [Light Pollution Map](https://www.lightpollutionmap.info/) (web) | Comprobar lo oscuro que es un sitio | Gratis | No (se usa en casa) |
 
@@ -46,13 +47,13 @@ Organic Maps te sobra para esta ruta).
 3. Para la noche: activa la **capa de Vía Láctea** y mueve la barra de
    tiempo — el arco y el núcleo se dibujan sobre el mapa hora a hora. Las
    tres pantallas de astro, explicadas con el plan completo, están en el
-   [capítulo 2](../5dmk3/02-astrofotografia-namibia.md).
+   [capítulo 2](../a6700/02-astrofotografia-namibia.md).
 
 ### Las otras dos pastillas que usarás
 
-- **Spot Stars**: elige la 5D Mark III y la focal (14 mm) y te da los
+- **Spot Stars**: elige la a6700 (APS-C) y la focal (12 mm) y te da los
   segundos máximos sin trazas (~20 s). Ya aplicado en las recetas del
-  [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) — la calculadora es
+  [capítulo 2](../a6700/02-astrofotografia-namibia.md) — la calculadora es
   para cuando cambies de encuadre o de focal.
 - **RA Noche (realidad aumentada)**: apuntas con el móvil al cielo y te
   superpone la Vía Láctea y el polo sur celeste — la forma fácil de orientar
@@ -86,7 +87,7 @@ del Sur no se aprenden a oscuras y con sueño:
 
 En la ruta no te hace falta — todo el viaje discurre por cielos Bortle 1–2,
 de los más oscuros del planeta. Úsala en casa para elegir el sitio de las
-[noches de práctica](../5dmk3/00-de-movil-a-5dmk3.md) antes del viaje: busca
+[noches de práctica](../a6700/00-de-movil-a-la-a6700.md) antes del viaje: busca
 tu zona en <https://www.lightpollutionmap.info/> y vete a lo más oscuro que
 tengas a menos de una hora.
 
@@ -104,6 +105,7 @@ tengas a menos de una hora.
 ## Referencias
 
 - PhotoPills, con sus tutoriales oficiales: <https://www.photopills.com/>
+- Sony Creators' App: <https://creatorsapp.sony.net/>
 - Stellarium (escritorio): <https://stellarium.org/> · web: <https://stellarium-web.org/> · móvil: <https://stellarium-labs.com/>
 - Organic Maps: <https://organicmaps.app/>
 - Tracks4Africa: <https://tracks4africa.co.za/>

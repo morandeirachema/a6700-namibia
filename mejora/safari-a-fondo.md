@@ -1,6 +1,6 @@
 # Safari a fondo — que la foto no salga plana
 
-El [capítulo 3](../5dmk3/03-safari-diurno.md) te garantiza la foto *correcta*:
+El [capítulo 3](../a6700/03-safari-diurno.md) te garantiza la foto *correcta*:
 nítida, bien expuesta, el ojo enfocado. Esta guía va del siguiente problema,
 el que nadie te avisa: la foto correcta **y muerta**. El animal centrado, a
 mediodía, visto desde arriba, quieto, con luz frontal — técnicamente
@@ -10,7 +10,7 @@ La foto plana casi siempre es la suma de cinco decisiones que la cámara tomó
 por ti: la luz que había, la altura de tus ojos, el primer encuadre que
 salió, el momento en que pasabas y el ajuste "seguro". Esta guía repasa las
 cinco, cada una con receta. Prerrequisitos: la
-[rutina de 10 segundos](../5dmk3/03-safari-diurno.md) automatizada y el plan
+[rutina de 10 segundos](../a6700/03-safari-diurno.md) automatizada y el plan
 de charcas de la [parte 1](parte-1-principiante.md).
 
 ## 1 · La luz ES la foto (la dirección, no la cantidad)
@@ -24,7 +24,7 @@ minuto de maniobra cambia la foto entera.
 |---|---|---|
 | **Frontal** (sol a tu espalda) | Segura: todo iluminado, colores limpios… y sin sombras = sin volumen | La de empezar. Válida siempre, memorable pocas veces |
 | **Lateral** (sol a un costado) | Modela: cada músculo y arruga del elefante tiene su sombra. La luz de los retratos serios | Primera/última hora. Coloca el coche para que la luz cruce al animal de lado; expón normal y deja las sombras oscuras (no las levantes luego a tope) |
-| **Contraluz** (sol detrás del animal) | El borde del animal se enciende (*rim light*), el polvo se vuelve oro | Sol bajo, **−1 EV** (en M+ISO Auto: ✱ midiendo al cielo, o ISO manual un paso abajo), 1/2000 si hay acción. Busca animales con contorno peludo o polvo en el aire |
+| **Contraluz** (sol detrás del animal) | El borde del animal se enciende (*rim light*), el polvo se vuelve oro | Sol bajo, **−1 EV** de compensación (funciona también en M+ISO Auto), 1/2000 si hay acción. Busca animales con contorno peludo o polvo en el aire |
 | **Silueta** | Forma pura contra el cielo naranja | **−1 a −2 EV** midiendo al cielo; el animal, negro total. Necesita un perfil reconocible (jirafa, acacia, cuernos) y horizonte limpio |
 | **Dura de mediodía** | Sombras negras verticales, ojos apagados | No luches: **clave alta B/N** (+2/3 a +1 sobre la calcreta blanca, [parte 1](parte-1-principiante.md)) o guarda el tele y busca detalles a la sombra |
 | **De tormenta** (noviembre) | Sol lateral contra fondo de nubes negras: la luz más dramática del viaje | **−2/3 EV** para conservar el cielo oscuro; dispara al claro entre nubes que "enciende" al animal |
@@ -48,8 +48,8 @@ es defensa. El ataque es usar la obturación para **decir movimiento**:
 - **El barrido (panning)**: animal caminando o corriendo en paralelo a ti,
   obturación lenta, y tú siguiéndolo con la cámara — el animal nítido, el
   fondo convertido en líneas de velocidad. La receta:
-  1. Modo **Tv, 1/30–1/60 s, ISO 100 fijo** (no Auto), AI Servo, ráfaga.
-  2. **OS del Sigma en modo 2** (estabiliza solo la vertical: está hecho
+  1. Modo **S, 1/30–1/60 s, ISO 100 fijo** (no Auto), AF-C, ráfaga.
+  2. **VC del Tamron en modo 2** (estabiliza solo la vertical: está hecho
      exactamente para esto).
   3. Gira **desde la cintura**, acompañando al animal antes, durante y
      después de disparar, como un golpe de golf.
@@ -68,25 +68,27 @@ es defensa. El ataque es usar la obturación para **decir movimiento**:
 
 ## 3 · La apertura como lenguaje (aislar o contar)
 
-Con el Sigma casi siempre irás a plena apertura por necesidad — pero cuando
-la luz sobra, la apertura vuelve a ser una decisión:
+Con el Tamron casi siempre irás a plena apertura por necesidad (f/4.5 en
+50 mm, f/6.3 en 400 mm) — pero cuando la luz sobra, la apertura vuelve a ser
+una decisión:
 
-- **f/5.6–6.3 = aislar**: retrato a 500–600 mm, fondo derretido. Para que el
-  fondo se derrita del todo, busca **fondo lejano** (el pan, matorral a 100 m)
-  — a 600 mm, 20 m de distancia entre animal y fondo hacen más que cualquier
-  apertura.
-- **f/8–f/11 = contar**: el "animal en su paisaje" a 150–200 mm quiere que
-  el entorno se reconozca. Y en grupos: **a 600 mm y 10 m el foco mide unos
-  10 cm** (a 20 m, ~40 cm) — dos animales en planos distintos no caben en
+- **f/5.6–6.3 = aislar**: retrato a 300–400 mm (450–600 mm eq), fondo
+  derretido. Para que el fondo se derrita del todo, busca **fondo lejano**
+  (el pan, matorral a 100 m) — a 400 mm, 20 m de distancia entre animal y
+  fondo hacen más que cualquier apertura.
+- **f/8–f/11 = contar**: el "animal en su paisaje" a 50–100 mm quiere que
+  el entorno se reconozca. Y en grupos: **a 400 mm y 10 m el foco mide unos
+  15 cm** (a 20 m, ~60 cm) — dos animales en planos distintos no caben en
   f/6.3. O esperas a que se alineen, o cierras a f/8–f/11 y subes ISO sin
   miedo.
 - **Disparar a través**: hierba o ramas **pegadas a ti** + plena apertura =
   marco difuminado de color alrededor del animal (el "velo" de las fotos de
-  leones en hierba dorada). Punto AF único al ojo (la Zona se irá a la
-  hierba: [capítulo 3](../5dmk3/03-safari-diurno.md)) y en su caso el
-  interruptor **MO** del Sigma para acercar el foco a mano
+  leones en hierba dorada). El reconocimiento se irá a la hierba: pasa a
+  **punto único al ojo** o toca al animal en pantalla
+  ([capítulo 3](../a6700/03-safari-diurno.md)); y el modo de enfoque **DMF**
+  te deja acercar el foco a mano sin salir del AF
   ([parte 2](parte-2-avanzado.md)).
-- El punto dulce del Sigma (f/7.1–f/8 en el extremo largo) y cuándo pagarlo
+- El punto dulce del Tamron (f/7.1–f/8 en el extremo largo) y cuándo pagarlo
   están en la [parte 2](parte-2-avanzado.md).
 
 ## 4 · El Kelvin como pincel (el color es un ajuste creativo)
@@ -106,7 +108,7 @@ fría*.
   **blanco y negro mental**: busca contraste, textura y forma, y convierte
   en edición ([flujo](../comun/edicion-basica.md)). El WB da igual: es RAW.
 - **Noche de charca**: los 2800–4000 K de la
-  [prueba de color](../5dmk3/04-safari-nocturno-charcas.md) buscan piel
+  [prueba de color](../a6700/04-safari-nocturno-charcas.md) buscan piel
   natural; si el ambiente pide misterio, deja 3000 K y asume el tono frío
   azulado del fondo — también es una decisión, no un fallo.
 
@@ -114,9 +116,10 @@ fría*.
 
 - **La altura lo cambia todo** (la regla nº 1 elevada al máximo): cada 10 cm
   que baja la cámara, el animal gana presencia. Ventanilla abajo del todo,
-  cámara apoyada en el marco inferior; en la charca del mirador, busca el
-  punto más bajo del murete. El picado de la escotilla del techo es la firma
-  de la foto plana.
+  cámara apoyada en el marco inferior — la pantalla abatible de la a6700 te
+  deja encuadrar sin retorcerte; en la charca del mirador, busca el punto
+  más bajo del murete. El picado de la escotilla del techo es la firma de la
+  foto plana.
 - **Fondo primero, animal después**: el ojo del espectador va al animal; el
   tuyo, antes de disparar, al fondo. Rama "clavada" en la cabeza, coche al
   fondo, horizonte cortando el cuello → medio metro de coche y desaparecen.
@@ -126,18 +129,20 @@ fría*.
   [parte 1](parte-1-principiante.md)) dice "desierto" mejor que cualquier
   primer plano. Deja MUCHO más aire del que te pide el instinto, y en la
   dirección de la mirada.
-- **Capas**: a 150–200 mm, una manada en profundidad — cebra nítida delante,
+- **Capas**: a 50–100 mm, una manada en profundidad — cebra nítida delante,
   el resto desdibujándose — da tres dimensiones a un formato que solo tiene
-  dos. Busca diagonales: la fila india hacia el agua ES una diagonal.
+  dos. Busca diagonales: la fila india hacia el agua ES una diagonal. Este
+  zoom baja hasta 75 mm equivalentes: las capas salen sin cambiar de
+  objetivo.
 - **La distancia media es la muerte**: o **muy cerca** (retrato apretado,
   detalle de piel, el ojo llenando el encuadre — recortar por dentro de la
   figura es válido: frente y orejas pueden salirse) o **muy lejos** (animal
   pequeño en su paisaje). El término medio — animal entero flotando en el
   centro con aire uniforme — es la foto de inventario.
 - **Vertical existe**: cuello de jirafa, elefante de frente, árbol con
-  leopardo. Una escena buena merece la versión horizontal Y la vertical
-  (con el punto AF ya cambiado si configuraste el
-  [punto por orientación](parte-2-avanzado.md)).
+  leopardo. Una escena buena merece la versión horizontal Y la vertical —
+  el reconocimiento sigue al animal cuando giras la cámara, sin
+  reconfigurar nada.
 - **Reflejos**: charca en calma = simetría gratis. Cámara al ras del murete
   o de la ventanilla, animal Y reflejo enteros en el encuadre (o solo el
   reflejo, girado luego en edición: nadie lo sabrá). Las charcas del
@@ -154,7 +159,7 @@ fría*.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg" alt="Primer plano apretado de la cara de un elefante en Etosha" width="100%">
 
-<sub>**Léela**: el otro extremo — el encuadre corta por dentro de la cabeza y no deja nada de sobra: la foto va de textura (el barro de calcreta seco y agrietado, el "elefante fantasma" de cerca) y de los dos ojos con pestañas que la convierten en retrato. Luz suave sin sombras duras, y el blanco y negro remata la clave alta que el barro blanco ya empezó. Réplica: 600 mm, punto AF en un ojo, animal parado de frente. La distancia media entre esta foto y la del órix es donde viven las fotos planas. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el otro extremo — el encuadre corta por dentro de la cabeza y no deja nada de sobra: la foto va de textura (el barro de calcreta seco y agrietado, el "elefante fantasma" de cerca) y de los dos ojos con pestañas que la convierten en retrato. Luz suave sin sombras duras, y el blanco y negro remata la clave alta que el barro blanco ya empezó. Réplica: zoom a tope (600 mm eq), enfoque en un ojo, animal parado de frente. La distancia media entre esta foto y la del órix es donde viven las fotos planas. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 ## 6 · El momento: la vida está en el gesto
 
@@ -166,8 +171,8 @@ señales concretas:
 |---|---|---|
 | León/leopardo bosteza | Se levantará y estirará en 1–2 min (el bostezo es el aviso) | Encuadre listo, ráfaga en el estirón |
 | Elefante saliendo del agua | Se rebozará en polvo: el "elefante fantasma" | 1/2000, sigue su marcha, el polvo a contraluz |
-| Jirafa parada ante el agua, mirando a los lados | El compás de patas — puede pensárselo 5 min | Punto AF ya en la cabeza, espera el descenso |
-| Cebras en fila nerviosa hacia el agua | Estampida de vuelta al primer susto | La tensión de la fila ya es foto; 1/2000 para el arranque |
+| Jirafa parada ante el agua, mirando a los lados | El compás de patas — puede pensárselo 5 min | Encuadre listo y reconocimiento sobre ella, espera el descenso |
+| Cebras en fila nerviosa hacia el agua | Estampida de vuelta al primer susto | La tensión de la fila india ya es foto; 1/2000 para el arranque |
 | Dos machos (impalas, órix) midiéndose | Choque breve | Ráfaga larga, no dejes de seguirlos |
 | Pájaro que deja de acicalarse y "se comprime" | Despegue inminente | 1/2500 (o 1/320 para el aleteo vivo), aire hacia donde despega |
 | Cualquier animal deja de hacer lo que hacía y fija la mirada | Algo entra en escena — a veces la escena entera | Sigue su mirada con los prismáticos: te está haciendo de ojeador |
@@ -186,9 +191,9 @@ tomas de Deadvlei no eran indecisión: eran oficio.
 Un reportaje no es 40 retratos: es variedad deliberada. De cada escena buena,
 intenta salir con cinco fotos distintas — en cualquier orden:
 
-1. **El escenario** (150 mm): dónde pasa.
-2. **El retrato** (600 mm): quién.
-3. **El detalle** (600 mm como lupa): piel, cuerno, pezuña en el barro.
+1. **El escenario** (50–100 mm): dónde pasa.
+2. **El retrato** (400 mm): quién.
+3. **El detalle** (400 mm como lupa): piel, cuerno, pezuña en el barro.
 4. **El gesto**: qué pasó.
 5. **La salida**: el animal yéndose — la foto melancólica que cierra la
    serie (y el contraluz de despedida si el sol acompaña).
@@ -200,17 +205,19 @@ viaje; la secuencia de cinco te chequea cada escena.
 
 - **Regla general: los clips, con la GoPro o el móvil.** La GoPro enganchada
   a la ventanilla o al salpicadero graba el ambiente del safari sin que la
-  toques ([equipo](../5dmk3/05-equipo-accesorios.md)); el Pixel estabiliza,
+  toques ([equipo](../a6700/05-equipo-accesorios.md)); el Pixel estabiliza,
   enfoca solo y comparte al momento. Para el vídeo-recuerdo, cualquiera de
-  los dos es mejor herramienta que la réflex.
-- La 5D3 **puede** grabar (1080p) y tiene su hueco: la escena estática a
-  600 mm que el móvil no alcanza — el rinoceronte bebiendo, los elefantes en
-  la charca. Receta mínima: cámara sobre el bean bag, **1080 a 25 fps,
-  obturación 1/50**, ISO en Auto, **enfoca antes en Live View y no toques
-  más** (el AF de vídeo de 2012 no sigue nada: prefija y deja quieto), clips
-  de 10–20 segundos, sin zoomear ni reencuadrar durante la toma.
+  los dos es mejor herramienta que dividir tu atención.
+- La a6700, eso sí, **es una cámara de vídeo seria** (4K con AF de
+  seguimiento y reconocimiento de animales), y tiene su hueco: la escena
+  estática a 600 mm equivalentes que ni el móvil ni la GoPro alcanzan — el
+  rinoceronte bebiendo, los elefantes en la charca. Receta mínima: cámara
+  sobre el bean bag, **4K a 25 fps, obturación 1/50**, ISO en Auto, AF-C con
+  reconocimiento de animal (o enfoque prefijado a la orilla si la luz es
+  mala), clips de 10–20 segundos, sin zoomear ni reencuadrar durante la
+  toma.
 - Los timelapses nocturnos tienen receta propia en el
-  [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) y el
+  [capítulo 2](../a6700/02-astrofotografia-namibia.md) y el
   [catálogo del cielo](../comun/cielo-del-viaje.md).
 
 ## Si tu foto sale plana… (el diagnóstico)
@@ -222,20 +229,21 @@ viaje; la secuencia de cinco te chequea cada escena.
 | Como vista por un turista de pie | Cámara alta | Ventanilla abajo, cámara al marco inferior; a la altura del ojo del animal o más bajo |
 | Ojo apagado, animal "disecado" | Sin catchlight | Espera el giro de cabeza hacia la luz; elige en la ráfaga la toma con chispa |
 | Todo nítido y todo igual de importante | Sin jerarquía | Plena apertura + fondo lejano; o marco difuminado disparando a través de hierba |
-| Congelada pero estática, sin sensación de movimiento | 1/2000 "seguro" en escena de movimiento | Barrido a 1/40, o aleteo a 1/320: deja que algo se mueva |
+| Congelada pero estática, sin sensación de movimiento | 1/2000 "seguro" en escena de movimiento | Barrido a 1/40 con VC en modo 2, o aleteo a 1/320: deja que algo se mueva |
 | El color, anodino | AWB neutralizándolo todo | 5200 K fijo en la hora dorada; 6000 K si quieres incendio; azul del alba respetado |
 | Un montón de animales sin foto | Multitud sin geometría | Espera el impar, la diagonal, la X de cuellos, la interacción — o aísla a uno |
 | Bonita pero igual a las otras 400 | Solo disparaste el retrato | La secuencia de cinco; y repasa qué falta en la [lista de tomas](../comun/lista-de-tomas.md) |
 
 ## El entrenamiento (una tarde por tema, antes de volar)
 
-A los [deberes del capítulo 0](../5dmk3/00-de-movil-a-5dmk3.md) añade tres
+A los [deberes del capítulo 0](../a6700/00-de-movil-a-la-a6700.md) añade tres
 tardes monográficas — en el parque, con perros, patos o palomas:
 
 1. **Tarde de contraluces**: solo fotos con el sol de frente. Siluetas,
    −1 EV, bordes encendidos. Prohibida la luz frontal toda la tarde.
 2. **Tarde de barridos**: solo panning a 1/30–1/60 con corredores, bicis o
-   perros. Cuenta tu porcentaje de aciertos; sube cuando pases del 10 %.
+   perros, VC en modo 2. Cuenta tu porcentaje de aciertos; sube cuando pases
+   del 10 %.
 3. **Tarde de fondos**: cada foto, media vuelta alrededor del sujeto antes
    de disparar buscando el fondo más limpio. Es el hábito que en Etosha se
    convierte en "mueve el coche medio metro".

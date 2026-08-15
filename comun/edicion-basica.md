@@ -57,14 +57,14 @@ De un safari salen 800 fotos y valen 30. Antes de editar nada:
 - **DxO PureRAW** como alternativa/complemento (procesa el RAW antes de
   editar): <https://www.dxo.com/dxo-pureraw/>
 - **darktable**: módulo "reducción de ruido (perfilada)", que ya conoce el
-  perfil de ruido de la 5D3.
+  perfil de ruido de la a6700.
 
 Orden correcto: primero el denoise, después el revelado fino.
 
 ## Astro: apilado con Sequator, paso a paso
 
 Para las 10 tomas idénticas que hiciste siguiendo el
-[capítulo 2](../5dmk3/02-astrofotografia-namibia.md)
+[capítulo 2](../a6700/02-astrofotografia-namibia.md)
 (Windows; en macOS, Starry Landscape Stacker funciona parecido:
 <https://sites.google.com/site/starrylandscapestacker/>).
 
@@ -93,9 +93,9 @@ filling* si hay microhuecos entre tomas):
 
 ## Montar un timelapse en vídeo
 
-(Los de la GoPro salen ya montados de cámara — esto es para las series de
-la 5D3; los clips y archivos de la GoPro tienen su apartado en
-[su guía](gopro-mission-1.md).)
+(Los de la GoPro salen ya montados de cámara — esto es para las series del
+intervalómetro integrado de la a6700; los clips y archivos de la GoPro
+tienen su apartado en [su guía](gopro-mission-1.md).)
 
 Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24
 fotogramas por segundo):
@@ -133,7 +133,7 @@ costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
    los 5 s quietos que dejaste al grabar son el margen). Fuera todo lo que
    dude: mejor 3 minutos redondos que 8 regulares.
 4. Los timelapses y star trails de la GoPro ya vienen montados: entran como
-   un clip más. Los de la 5D3, como los exportaste
+   un clip más. Los de la a6700, como los exportaste
    ([arriba](#montar-un-timelapse-en-vídeo)).
 5. **Música**: una sola canción sin copyright (la biblioteca de audio de
    YouTube Studio, por ejemplo) marca el ritmo de los cortes. Baja el sonido
@@ -158,7 +158,7 @@ con el montaje bueno.
 |---|---|
 | 800 fotos y no sabes por dónde empezar | No edites: **criba** primero (paso 1). Editar sin cribar es el atasco número 1 |
 | El Denoise tarda una eternidad | Es normal (es IA): pásalo solo a las supervivientes de la criba, nunca al día entero |
-| Sequator no traga los archivos | Dale los RAW (.CR2) directamente; si protesta, convierte antes a TIFF y repite |
+| Sequator no traga los archivos | Dale los RAW (.ARW) directamente; si protesta, convierte antes a TIFF y repite |
 | El apilado sale con el suelo emborronado | Falta `Freeze ground` en Composition |
 | El comando de ffmpeg falla en Windows | El patrón `*.jpg` no funciona ahí: usa `-i img%04d.jpg` con los archivos numerados |
 | El timelapse parpadea (flicker) | ¿Algo quedó en auto (ISO, WB)? Con todo fijo apenas ocurre; si molesta, LRTimelapse |

@@ -14,24 +14,28 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 
 ## Lo que necesitas
 
-- **La 5D3 con el Samyang 14mm**. Recuerda sus dos rarezas (no están
+- **La a6700 con el Rokinon 12mm**. Recuerda sus dos rarezas (no están
   rotas): la apertura se elige girando **el anillo del propio objetivo** (la
-  cámara marcará **f/00**) y **solo** enfoca a mano.
+  cámara marcará **F--**) y **solo** enfoca a mano. Para que la cámara
+  dispare con él, activa `Disparo sin objetivo: Habilitar`
+  ([capítulo 1](../a6700/01-configuracion-basica.md)).
 - **Trípode**. Sin trípode no hay foto nocturna: las exposiciones duran
   segundos.
 - **Frontal de luz roja** (no arruina la visión nocturna) y un trozo de
   **cinta adhesiva**.
-- Para la noche 3: el **intervalómetro de cable** (~25 €,
-  [equipo](../5dmk3/05-equipo-accesorios.md)) o un cable disparador simple.
+- Para la noche 3, nada más: el **intervalómetro va integrado** en la cámara
+  (`Interval Shoot Func.`) — no hay cable que comprar.
 - Batería llena. Siempre.
 
 **Ajustes que se ponen una vez** (y se quedan): calidad **RAW** ·
 `Reducción ruido larga exposición` **OFF** (importantísimo: si está ON,
-cada foto va seguida de la misma pausa a oscuras) · `Simulación de
-exposición` **ON** en Live View · disparo con **temporizador de 2 s** (para
-no mover la cámara al pulsar). Todo está en el
-[capítulo 1](../5dmk3/01-configuracion-basica.md), o directamente en el
-modo **C2**, que ya lo guarda.
+cada foto va seguida de la misma pausa a oscuras) · disparo con
+**temporizador de 2 s** (para no mover la cámara al pulsar) ·
+`Disparo sin objetivo: Habilitar` · **Bright Monitoring** asignado a un
+botón (amplifica la pantalla en plena oscuridad: tu linterna para
+componer). Todo está en el
+[capítulo 1](../a6700/01-configuracion-basica.md), o directamente en el
+modo **MR2**, que ya lo guarda.
 
 ## Noche 1 — tu primera foto de estrellas (la base, completa)
 
@@ -42,34 +46,35 @@ Nada más.
 
 | Ajuste | Valor | Dónde |
 |---|---|---|
-| Modo | M (o el dial en **C2**) | Dial superior |
-| Apertura | f/2.8 | **El anillo del Samyang** (la cámara dirá f/00: normal) |
-| Obturación | 20 segundos ("20"") | Rueda principal |
-| ISO | 3200 | Botón ISO + rueda |
+| Modo | M (o el dial en **MR2**) | Dial superior |
+| Apertura | f/2.0 | **El anillo del Rokinon** (la cámara dirá F--: normal) |
+| Obturación | 20 segundos ("20"") | Rueda de obturación |
+| ISO | 1600 | Menú rápido (Fn) o rueda asignada |
 | Balance de blancos | K = 3900 | Menú → Balance de blancos → K |
-| Enfoque | Manual (el Samyang no tiene otro) | El anillo de enfoque, en el paso 3 |
+| Enfoque | Manual (el Rokinon no tiene otro) | El anillo de enfoque, en el paso 3 |
 
 **Los pasos**:
 
 1. **Monta el trípode** firme, patas bien abiertas. Cuelga la mochila del
-   gancho central si hay viento.
-2. **Apunta al cielo** y encuadra a ojo. Para ver qué estás encuadrando en
-   plena oscuridad, haz una **"foto sucia"**: sube el ISO a 25600, dispara
-   5 s, mira la pantalla — sale horrible, pero te enseña el encuadre.
-   Ajusta, repite, y devuelve el ISO a 3200.
+   gancho central si hay viento. SteadyShot **OFF** (en trípode, siempre).
+2. **Apunta al cielo** y encuadra con **Bright Monitoring**: pulsas su botón
+   y la pantalla amplifica la escena — ves las estrellas y el horizonte de
+   verdad, no una pantalla negra. (¿No lo configuraste? El truco clásico:
+   una **"foto sucia"** de 5 s a ISO 25600 — sale horrible, pero te enseña
+   el encuadre. Ajusta, repite, y devuelve el ISO a 1600.)
 3. **Enfoca a una estrella** (la parte delicada; 2 minutos):
-   1. Activa **Live View** (la pantalla).
+   1. Activa la **lupa de enfoque** (Focus Magnifier).
    2. Mueve el recuadro a la estrella más brillante que veas.
-   3. Pulsa la **lupa (+)** hasta el aumento x10.
+   3. Amplía hasta el aumento máximo.
    4. Gira el anillo de enfoque **despacio** hasta que la estrella sea el
       punto **más pequeño y fino posible**. Si se hincha, te pasaste:
-      vuelve.
+      vuelve. El **peaking** ayuda: la estrella "chispea" al clavar el foco.
    5. **Fija el anillo con la cinta.** No se toca más en toda la noche.
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
-5. **Mira el histograma**, no la foto (botón ▶ e INFO hasta ver la
-   gráfica): la montaña debe estar en el **primer tercio izquierdo,
-   despegada del borde**. ¿Pegada al borde? Sube a ISO 6400. La pantalla a
-   oscuras engaña: el histograma no.
+5. **Mira el histograma**, no la foto — pulsa **DISP** y lo tienes incluso
+   **en vivo**, antes de disparar: la montaña debe estar en el **primer
+   tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
+   3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
    tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar
@@ -78,13 +83,13 @@ Nada más.
 
 | Si la foto sale… | Toca… |
 |---|---|
-| Muy oscura | ISO 3200 → 6400 (no alargues los segundos) |
+| Muy oscura | ISO 1600 → 3200 (no alargues los segundos) |
 | Estrellas alargadas | Menos segundos: 20 → 15 → 13 |
 | Estrellas gordas/borrosas | Enfoque: repite el paso 3 con calma |
 | Todo movido | Trípode vibrando: viento, correa suelta o lo tocaste |
 | Cielo naranja raro | WB en K = 3900 (y en RAW se corrige después) |
 
-Esto es, resumido, el [capítulo 2](../5dmk3/02-astrofotografia-namibia.md) —
+Esto es, resumido, el [capítulo 2](../a6700/02-astrofotografia-namibia.md) —
 allí está el detalle fino y el plan concreto de Namibia. Cuando esta noche
 te salga entera sin mirar la guía, pasa a la siguiente.
 
@@ -102,25 +107,25 @@ lugar.
   mopanes, el granito de Hoada.
 - Camina alrededor hasta que quede **recortado contra cielo limpio**, sin
   farolas ni otros bultos detrás.
-- Y a **más de 3 metros de ti**. ¿Por qué? Siguiente punto.
+- Y a **más de 4 metros de ti**. ¿Por qué? Siguiente punto.
 
-### 2 · El enfoque no cambia (la magia del 14 mm)
+### 2 · El enfoque no cambia (la magia del 12 mm)
 
 Buena noticia para novatos: con este objetivo tan angular, **enfocado a las
-estrellas, todo lo que esté a más de ~3 metros sale nítido también**. Es
+estrellas, todo lo que esté a más de ~4 metros sale nítido también**. Es
 decir: haces el mismo enfoque a estrella de la noche 1 **y ya está** — el
 árbol cae dentro del foco solo.
 
 La única regla: **nunca reenfoques al objeto**. Si lo quieres más grande en
-el encuadre, no te acerques a menos de 3 m: llévate el trípode un paso
+el encuadre, no te acerques a menos de 4 m: llévate el trípode un paso
 atrás o asume el tamaño.
 
 ### 3 · Reparte el encuadre
 
 - **Un quinto de suelo, el resto cielo.** El cielo es el protagonista; la
   tierra, el ancla.
-- Horizonte **bajo y recto** — activa el **nivel electrónico** (botón INFO
-  hasta verlo): de noche, un horizonte torcido no se ve por el visor y
+- Horizonte **bajo y recto** — activa el **nivel electrónico** (botón DISP
+  hasta verlo): de noche, un horizonte torcido no se aprecia a ojo y
   arruina la foto.
 - **Vertical** si el cielo sube como columna sobre el objeto; horizontal si
   es una banda tumbada. En tu noviembre: banda baja al anochecer, así que
@@ -138,12 +143,12 @@ igual (en Sequator, marca `Freeze ground`: apila las estrellas sin
 emborronar tu objeto).
 
 ¿Y con algo de luna? Regalo: la luna ilumina la tierra gratis. Baja a ISO
-1600–3200 y tendrás objeto CON volumen y estrellas — en el viaje, eso pasa
+800–1600 y tendrás objeto CON volumen y estrellas — en el viaje, eso pasa
 solo los días 11–14.
 
 | Si la postal sale… | Toca… |
 |---|---|
-| Objeto borroso, estrellas bien | Está a menos de 3 m: atrás con el trípode |
+| Objeto borroso, estrellas bien | Está a menos de 4 m: atrás con el trípode |
 | Estrellas borrosas, objeto bien | Reenfocaste al objeto: enfoque a estrella otra vez |
 | Silueta con halo naranja | Farola detrás: muévete hasta cielo limpio |
 | Suelo emborronado al apilar | `Freeze ground` en Sequator |
@@ -170,7 +175,7 @@ hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: a ~19°
 sobre el horizonte** — cabe justo encima de tu objeto. Lo encuentras con la
 **realidad aumentada de PhotoPills** ([apps](../comun/apps-del-viaje.md)) o,
 en tus noches, con el triángulo que forma con las dos Nubes de Magallanes
-([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)). Y la dirección
+([capítulo 2](../a6700/02-astrofotografia-namibia.md)). Y la dirección
 decide el dibujo:
 
 | Miras hacia… | El cielo dibuja… |
@@ -184,7 +189,7 @@ decide el dibujo:
 - El objeto **debajo o a un lado del centro de giro, nunca tapándolo**.
 - **Deja aire**: los arcos crecen con las horas; lo que ahora sobra, en dos
   horas está lleno.
-- Honestidad del 14 mm: el remolino sale pequeño en un angular. Compón bajo
+- Honestidad del 12 mm: el remolino sale pequeño en un angular. Compón bajo
   (el centro a 19° ayuda) y acepta arcos finos y elegantes.
 
 ### 3 · La receta y la serie
@@ -193,17 +198,18 @@ decide el dibujo:
 |---|---|
 | Obturación | 30 s |
 | Apertura | f/2.8 (el anillo) |
-| ISO | 1600 |
+| ISO | 800–1600 |
 | WB | K = 3900 |
 | Reducción ruido larga exposición | **OFF** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
 | Enfoque | A estrella, como siempre, y cinta |
+| La serie | **`Interval Shoot Func.`**: exposición 30 s · intervalo de disparo 31 s · 90–180 tomas |
 
 1. **La primera toma es sagrada**: revísala a fondo (encuadre, nivel,
    histograma) — será la base del suelo en el montaje.
-2. **Encadena**: con el intervalómetro (exposición 30 s, intervalo 31 s) o
-   con el truco sin él — modo ráfaga + cable disparador simple
-   **bloqueado**: la cámara dispara una foto de 30 s tras otra hasta que lo
-   sueltes.
+2. **Lanza la serie**: en `Interval Shoot Func.` el intervalo se mide de
+   inicio a inicio, así que 31 s deja solo 1 s de hueco entre fotos (no se
+   nota; StarStaX además trae `Gap filling`). Pulsa el disparador y la
+   cámara encadena sola las 90–180 tomas.
 3. A la **toma 5, un vistazo**: ¿alguna farola está pintando tu objeto de
    naranja? Mejor perder 3 minutos recolocándote que 2 horas de serie.
 4. Y ya: **no toques nada** hasta el final. 90 tomas = 45 min de arcos
@@ -215,7 +221,7 @@ decide el dibujo:
 
 | Si los círculos salen… | Causa | Toca… |
 |---|---|---|
-| Arcos a rayitas con huecos | NR larga exposición ON o intervalo largo | NR OFF · intervalo 1 s · `Gap filling` |
+| Arcos a rayitas con huecos | NR larga exposición ON o intervalo largo | NR OFF · intervalo 31 s · `Gap filling` |
 | La serie muere a mitad | Batería o tarjeta | Batería llena SIEMPRE; tarjeta con hueco de sobra |
 | Objeto quemado de naranja | Una farola, 2 horas pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
 | Remolino descentrado | El polo no estaba donde creías | AR de PhotoPills ANTES de encuadrar |

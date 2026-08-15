@@ -40,36 +40,41 @@ consecuencia de esta regla: primero se sopla, luego se barre, y solo al final
 5. Revisa **a contraluz** en ángulo: si no ves motas ni velos, está.
 
 Frecuencia: pasos 1–2 tantas veces como quieras (cada noche como mínimo, ya
-está en la [verificación in situ](../5dmk3/verificacion-in-situ.md)); la
+está en la [verificación in situ](../a6700/verificacion-in-situ.md)); la
 limpieza húmeda **solo cuando haya manchas** — limpiar de más también
 desgasta los tratamientos.
 
 ## Las peculiaridades de tu equipo
 
-- **Samyang 14mm**: frontal bulboso, sin rosca de filtro y con parasol fijo —
-  no se puede proteger con filtro, así que la tapa (de "petalos" grande) va
-  puesta **siempre** que no estés disparando, también entre tomas de astro si
-  sopla viento. Con la pera y el pincel, sigue la curvatura del cristal.
-- **Sigma 150-600**: al zoomear **bombea aire** (y con él, polvo) hacia
-  dentro. En días de polvo o viento del este: zoom con moderación, guárdalo
-  retraído a 150 mm con el bloqueo echado, y pasa el pincel por el **anillo
-  de goma del zoom** cada noche — la arena ahí dentro es lo que acaba rayando
-  el barrilete y endureciendo el giro. ¿Filtro protector de 95 mm? Cuesta
-  80–150 €; la alternativa budget es disciplina de **parasol siempre montado**
-  (protege de golpes, roces y parte del polvo) y tapa entre escenas.
+- **Rokinon 12mm**: frontal curvo pero **con rosca de 67 mm** y parasol de
+  pétalos desmontable — un filtro protector barato (~20 €) es una opción
+  razonable contra el polvo, y la tapa va puesta **siempre** que no estés
+  disparando, también entre tomas de astro si sopla viento. Con la pera y el
+  pincel, sigue la curvatura del cristal.
+- **Tamron 50-400**: el zoom se extiende y al moverlo **bombea aire** (y con
+  él, polvo) hacia dentro. En días de polvo o viento del este: zoom con
+  moderación, guárdalo retraído a 50 mm con el bloqueo echado, y pasa el
+  pincel por el **anillo de goma del zoom** cada noche — la arena ahí dentro
+  es lo que acaba rayando el barrilete y endureciendo el giro. Su rosca de
+  **67 mm** (la misma que la del 12 mm) hace barato el filtro protector
+  (~20–30 €); y disciplina de **parasol siempre montado** (protege de
+  golpes, roces y parte del polvo) y tapa entre escenas.
 - **Lente trasera y montura**: mismo método (pera → pincel → húmeda si hace
   falta) con el objetivo desmontado **dentro del coche o la habitación**,
-  nunca al aire libre. Los **contactos dorados** de objetivo y cuerpo, con
-  microfibra seca — es la cura del error **Err 01** de la 5D3.
+  nunca al aire libre. Los **contactos dorados** del Tamron y del cuerpo,
+  con microfibra seca — es la cura de los avisos de "objetivo no
+  reconocido". (El 12 mm no tiene contactos: ahí no hay nada que limpiar.)
 - **El cuerpo**: pera y pincel por diales, botones y tapas de goma; paño
   apenas humedecido en agua para el exterior. No abras tapas (tarjetas,
   batería) hasta haber soplado alrededor.
 - **Visor y pantalla**: pera y microfibra; el ocular acumula polvo + grasa de
   la ceja — pincel y pasada húmeda suave si hace falta.
-- **El sensor: en el viaje no se toca.** Las motas (puntos oscuros a f/8+) se
-  clonan en edición y el sensor se limpia en casa o en servicio técnico. Una
-  limpieza de sensor mal hecha en un camping con polvo en el aire es cambiar
-  una mota por un problema.
+- **El sensor: en el viaje no se toca.** Y en una cámara sin espejo queda
+  **a la vista** nada más desmontar el objetivo: desmonta solo dentro del
+  coche o la habitación, con el cuerpo hacia abajo. Las motas (puntos
+  oscuros a f/8+) se clonan en edición y el sensor se limpia en casa o en
+  servicio técnico. Una limpieza de sensor mal hecha en un camping con polvo
+  en el aire es cambiar una mota por un problema.
 
 ## Situaciones concretas
 
@@ -84,5 +89,5 @@ desgasta los tratamientos.
 
 ## Referencias
 
-- Consejos de mantenimiento y soporte oficial Canon: <https://www.canon.es/support/>
+- Consejos de mantenimiento y soporte oficial Sony: <https://www.sony.es/electronics/support>
 - Artículos técnicos de limpieza y cuidado de equipo (LensRentals): <https://www.lensrentals.com/blog/>

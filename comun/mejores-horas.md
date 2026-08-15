@@ -20,7 +20,7 @@ Qué charca toca en cada franja está en
 | 10:00–16:00 | Dura, vertical, con calima | **No des vueltas**: apárcate en una charca y espera (el calor de noviembre obliga a beber a todas horas). Comida, siesta y repaso de la [lista de tomas](lista-de-tomas.md) |
 | 16:00–18:00 | Se ablanda por momentos | Segunda ronda: los animales se reactivan y las nubes de tormenta de la tarde dan luz dramática |
 | 18:00–19:05 | **Oro de la tarde** + contraluces | La hora más rentable — y con reloj: tiene que ocurrir **cerca del campamento**, porque la puerta cierra con el sol |
-| Tras la cena | Foco de la charca del campamento | La sesión sigue dentro del recinto: [capítulo 4](../5dmk3/04-safari-nocturno-charcas.md) |
+| Tras la cena | Foco de la charca del campamento | La sesión sigue dentro del recinto: [capítulo 4](../a6700/04-safari-nocturno-charcas.md) |
 
 ## Las dos ventanas de oro (por qué madrugar no es opcional)
 
@@ -33,20 +33,20 @@ que no dependen de la suerte:
 2. **Los animales están activos**: cazan, se mueven y beben con el fresco;
    a mediodía duermen a la sombra.
 3. **El aire está quieto y frío**: sin la calima (*heat haze*) que a mediodía
-   emborrona todo lo que esté a más de 200 m con el 150-600.
+   emborrona todo lo que esté a más de 200 m con el tele a tope de zoom.
 
 Con la cámara, en estas ventanas:
 
 - La luz cambia deprisa: **foto de prueba + histograma cada pocos minutos**
   ([cómo leerlo](histograma.md)), no una vez por sesión.
 - Al caer la luz, baja la obturación antes que dejar que el ISO se dispare:
-  la fila "atardecer" de la [receta por escena](../5dmk3/03-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-principal)
+  la fila "atardecer" de la [receta por escena](../a6700/03-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-delantera)
   (1/250 s **con apoyo**) existe para esto.
 - Amaneceres y atardeceres: el AWB te roba el color — usa los valores de
   [balance de blancos por escena](balance-de-blancos.md).
 - El contraluz con polvo dorado de la última hora es de las fotos del viaje:
   sol detrás del animal y siluetas. Buscado, no accidental
-  ([composición](../5dmk3/03-safari-diurno.md#composición-de-foto-de-recuerdo-a-foto-decente)).
+  ([composición](../a6700/03-safari-diurno.md#composición-de-foto-de-recuerdo-a-foto-decente)).
 
 ## El mediodía no se tira: se cambia de estrategia
 
@@ -73,8 +73,8 @@ a mediodía:
 - Regla práctica: a las 18:00, estar como mucho a 30 minutos de la puerta.
   La última media hora se fotografía *de camino*, no alejándose.
 - Dentro del recinto el día no acaba: cena y sesión en el mirador de la
-  charca con el foco ([capítulo 4](../5dmk3/04-safari-nocturno-charcas.md)),
-  y en luna nueva, el cielo ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)).
+  charca con el foco ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)),
+  y en luna nueva, el cielo ([capítulo 2](../a6700/02-astrofotografia-namibia.md)).
 
 ## Fauna con horario: a quién esperar y cuándo
 
@@ -85,7 +85,7 @@ Merece la pena plantarse antes y esperarlos:
 |---|---|---|
 | **Gangas** (namaqua sandgrouse) | **~2 h después del amanecer** (entre las ~08:00 y las 09:00), en bandadas y con puntualidad británica | Charcas abiertas; los machos se llevan el agua en las plumas del pecho ([mejora · parte 1](../mejora/parte-1-principiante.md)) |
 | **Leones de Goas** | **16:00–18:00** (documentado por fotógrafos de la zona) | Charca de Goas, zona Halali ([mejora · parte 1](../mejora/parte-1-principiante.md)) |
-| **Rinoceronte negro** | **21:00–medianoche**, casi cada noche — fiable también en noviembre | Charca iluminada de Okaukuejo, desde el mirador ([capítulo 4](../5dmk3/04-safari-nocturno-charcas.md)) |
+| **Rinoceronte negro** | **21:00–medianoche**, casi cada noche — fiable también en noviembre | Charca iluminada de Okaukuejo, desde el mirador ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)) |
 | **Elefantes** | Horas de más calor (mediodía–primera tarde); en Okaukuejo también al anochecer | Cualquier charca grande; en noviembre el calor los trae a beber a diario |
 | **Chacales** | Del anochecer en adelante | Rondando el campamento y la charca del mirador |
 | **Flamencos** (extra costero, día 6) | **Primera luz, ~06:15–07:30** — y la marea manda | Laguna de Walvis Bay ([paisaje](paisaje-namibia.md)) |
@@ -116,7 +116,7 @@ PhotoPills):
 
 | Noche | Duermes en | Luna (aprox.) | Ventana oscura | El plan |
 |---|---|---|---|---|
-| dom 1 | Spreetshoogte | Menguante ~50 %, sale de madrugada | ~20:30 → salida de la luna | Estreno del Samyang: núcleo al anochecer sobre la escarpa |
+| dom 1 | Spreetshoogte | Menguante ~50 %, sale de madrugada | ~20:30 → salida de la luna | Estreno del 12 mm: núcleo al anochecer sobre la escarpa |
 | lun 2 | Spreetshoogte | ~42 % | ~20:30 → madrugada | Día sin volante: repite la toma de anoche corrigiendo errores |
 | mar 3 | Sesriem | ~34 % | ~20:35 → madrugada | Cielo del desierto — pero acuéstate pronto: el 4 se madruga (~05:10) |
 | mié 4 | Sesriem | ~27 %, colgada al alba | La foto es al amanecer | La menguante sobre las dunas en el amanecer de Deadvlei |
@@ -146,8 +146,8 @@ urbano.)
    tienes que cruzar la puerta para llegar con la luz buena.
 3. Traza el lazo del día de forma que a las 18:00 estés a ≤30 min del
    campamento.
-4. Deja la cámara lista la víspera: batería, tarjeta con hueco, dial en C1.
-   La rutina completa está en la [verificación in situ](../5dmk3/verificacion-in-situ.md).
+4. Deja la cámara lista la víspera: batería, tarjeta con hueco, dial en MR1.
+   La rutina completa está en la [verificación in situ](../a6700/verificacion-in-situ.md).
 
 ## Si el día sale mal…
 

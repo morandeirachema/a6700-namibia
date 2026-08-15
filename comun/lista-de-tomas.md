@@ -8,9 +8,11 @@ reportaje y no con un carrete de pruebas.
 
 ## Fauna
 
-1. **Retrato con el ojo clavado**: cabeza y hombros a 600 mm, ojo nítido,
-   fondo limpio ([receta](../5dmk3/03-safari-diurno.md)). La foto de enmarcar.
-2. **El animal en su paisaje**: a 150–200 mm, pequeño en su entorno (la
+1. **Retrato con el ojo clavado**: cabeza y hombros a tope de zoom
+   (600 mm eq), ojo nítido, fondo limpio
+   ([receta](../a6700/03-safari-diurno.md)). La foto de enmarcar.
+2. **El animal en su paisaje**: a 75–120 mm eq (el extremo corto del zoom),
+   pequeño en su entorno (la
    jirafa y el horizonte de Etosha). Cuenta dónde estuviste; el retrato no.
 3. **Comportamiento**: dos animales interactuando — grooming, juego, una cría
    mamando. Vale más que cualquier retrato.
@@ -24,9 +26,9 @@ reportaje y no con un carrete de pruebas.
 ## Noche
 
 7. **Rinoceronte (o lo que venga) en la charca iluminada**
-   ([capítulo 4](../5dmk3/04-safari-nocturno-charcas.md)).
+   ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)).
 8. **Vía Láctea con silueta** en noche sin luna
-   ([capítulo 2](../5dmk3/02-astrofotografia-namibia.md)) — en tu noviembre,
+   ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) — en tu noviembre,
    solo al anochecer del 1 al 9 y baja al OSO; el plan A del cielo son las
    **Nubes de Magallanes** ([mejora, parte 1](../mejora/parte-1-principiante.md)).
 9. **Star trails** girando sobre un primer plano (mismo capítulo).
@@ -50,19 +52,20 @@ reportaje y no con un carrete de pruebas.
     de tormenta" que los guías del parque consideran inigualable. Subexpón
     −2/3 para dramatizar el cielo.
 15. **Un ave migratoria**: noviembre es el mejor mes de rapaces y llegan los
-    abejarucos europeos a los cables y ramas — tele a 600 mm, 1/2500 s si
-    vuelan.
+    abejarucos europeos a los cables y ramas — tele a tope de zoom
+    (600 mm eq), 1/2500 s si vuelan.
 
 ## El extra del timelapse (tu otra prioridad)
 
 16. **El timelapse nocturno con silueta**: el cielo girando sobre un árbol,
-    el molino o el depósito de agua — con la 5D3 + intervalómetro en la
-    noche estrella ([receta](../5dmk3/02-astrofotografia-namibia.md)) o, en
-    versión de bolsillo, con el modo astro del móvil.
+    el molino o el depósito de agua — con la a6700 y su intervalómetro
+    integrado en la noche estrella
+    ([receta](../a6700/02-astrofotografia-namibia.md)) o, en versión de
+    bolsillo, con el modo astro del móvil.
 
 ## Cómo usarla
 
-- Imprímela con la [chuleta](../5dmk3/chuleta.md) y llévala en el coche.
+- Imprímela con la [chuleta](../a6700/chuleta.md) y llévala en el coche.
 - En el [repaso de cada noche](edicion-basica.md) marca las conseguidas y
   elige cuál persigues mañana.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —

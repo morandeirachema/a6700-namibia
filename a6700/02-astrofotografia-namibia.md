@@ -1,4 +1,4 @@
-# 2. Astrofotografía en Namibia con la 5D Mark III — paso a paso
+# 2. Astrofotografía en Namibia con la a6700 — paso a paso
 
 Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
 primera Reserva Internacional de Cielo Oscuro de África, certificada en
@@ -20,57 +20,63 @@ visible gran parte de la noche.
 
 | Parámetro | Valor de partida |
 |---|---|
-| Modo | M (o directamente **C2**, [capítulo 1](01-configuracion-basica.md)) |
-| Apertura | f/2.8 — en el Samyang habitual (sin contactos electrónicos) se elige girando el **anillo del propio objetivo**, y la cámara marcará **f/00**: es normal, no está roto |
-| Obturación | 15–20 s con un 14 mm |
-| ISO | 3200; sube a 6400 si queda oscura |
+| Modo | M (o directamente **MR2**, [capítulo 1](01-configuracion-basica.md)) |
+| Apertura | f/2.0 — en el Rokinon (sin contactos electrónicos) se elige girando el **anillo del propio objetivo**, y la cámara marcará **F--**: es normal, no está roto (necesita `Disparo sin objetivo: Habilitar`, [capítulo 1](01-configuracion-basica.md)) |
+| Obturación | 20 s con el 12 mm |
+| ISO | 1600; sube a 3200 si queda oscura |
 | Balance de blancos | 3900 K (elige el modo **K** dentro del menú de balance de blancos y ajusta ahí el número) |
 | Formato | RAW |
-| Enfoque | Manual — el Samyang **solo** enfoca a mano; no busques interruptor AF/MF |
-| Estabilizador | El Samyang no tiene: nada que apagar (con cualquier otro objetivo sobre trípode, OFF) |
+| Enfoque | Manual — el Rokinon **solo** enfoca a mano; no busques interruptor AF/MF |
+| Estabilizador | SteadyShot **OFF** (en trípode siempre) |
 | Disparo | Temporizador 2 s |
-| Silencioso Live View | **Modo 1** (primera cortinilla electrónica: dispara sin ninguna pieza en movimiento — cero vibración, mejor que el bloqueo de espejo) |
+| Tipo de obturador | **Electrónico**: dispara sin ninguna pieza en movimiento — cero vibración |
 | Reducción ruido larga exposición | OFF |
 
 ## Antes de salir (checklist)
 
 - [ ] Noche cercana a **luna nueva** (PhotoPills: <https://www.photopills.com/>).
-- [ ] Batería llena + repuesto en el bolsillo (el frío las agota).
+- [ ] Batería llena + repuesto en el bolsillo (una noche larga de series se la come).
 - [ ] Trípode, frontal de luz roja, cinta adhesiva.
 - [ ] Dónde estará la Vía Láctea a qué hora: planificador de PhotoPills o
   Stellarium (<https://stellarium.org/>).
-- [ ] Si quieres timelapse: **intervalómetro de cable** (la 5D3 no lo trae
-  integrado, ver abajo).
+- [ ] ¿Timelapse o star trails? Nada que comprar: el **intervalómetro va
+  integrado** en la cámara (ver abajo).
+- [ ] **Bright Monitoring** asignado a un botón ([capítulo 1](01-configuracion-basica.md)):
+  es tu linterna para componer a oscuras.
 
 ## En el sitio, paso a paso
 
 1. **Monta el trípode** bien asentado; cuelga la mochila del gancho central si
    hay viento.
-2. Dial a **C2** (o pon la receta de arriba a mano).
-3. **Componer a oscuras**: por el visor óptico no verás casi nada. Dos opciones:
-   - Foto de reconocimiento "sucia": 5 s a ISO 25600. Sale horrible, pero te
-     enseña el encuadre en 5 segundos. Ajusta y repite.
-   - Live View con `Simulación de exposición` ON y la pantalla al máximo brillo.
+2. Dial a **MR2** (o pon la receta de arriba a mano).
+3. **Componer a oscuras**: pulsa el botón de **Bright Monitoring** — la
+   pantalla amplifica el live view y la Vía Láctea aparece dibujada; encuadras
+   mirando el cielo real, no a ciegas. (El truco alternativo de siempre, por
+   si algún día no lo tienes configurado: una foto de reconocimiento "sucia"
+   de 5 s a ISO 25600 — sale horrible, pero enseña el encuadre en 5 segundos.)
 
    En luna nueva prueba también el encuadre **vertical**: el núcleo de la Vía
    Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
 4. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
-   1. Objetivo en **MF**, estabilizador OFF.
-   2. Activa **Live View**, apunta el recuadro a la estrella más brillante.
-   3. Botón **lupa (+)** hasta el aumento x10.
+   1. Enfoque en manual (el Rokinon no tiene otro), SteadyShot OFF.
+   2. Activa la **lupa de enfoque** (Focus Magnifier) y lleva el recuadro a
+      la estrella más brillante.
+   3. Amplía al máximo aumento.
    4. Gira el anillo de enfoque despacio hasta que la estrella sea el punto
-      **más pequeño y fino posible** (si se hincha, te has pasado).
+      **más pequeño y fino posible** (si se hincha, te has pasado). El
+      **peaking** te lo confirma: la estrella "chispea" cuando está clavada.
    5. Fija el anillo con cinta. No lo toques más en toda la noche.
 5. **Foto de prueba** con la receta rápida y temporizador de 2 s.
-6. **Corrige mirando el histograma** (la pantalla engaña de noche: te parecerá
-   más clara de lo que es). La montaña debe quedar despegada del borde
-   izquierdo, hacia el primer tercio.
+6. **Corrige mirando el histograma** — lo tienes **en vivo** pulsando DISP,
+   antes incluso de disparar, y en la revisión. La montaña debe quedar
+   despegada del borde izquierdo, hacia el primer tercio.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar nada.
-   Se apilan luego en el ordenador y el ruido baja muchísimo (importante en la
-   5D3, que a ISO alto es más ruidosa que las cámaras modernas).
-8. ¿Timelapse? Necesitas un **intervalómetro de cable** (conector N3: el Canon
-   TC-80N3 o un clon de ~25 €): 15 s de foto, intervalo 17 s, 300 tomas ≈ 10 s
-   de vídeo.
+   Se apilan luego en el ordenador y el ruido baja muchísimo — es la
+   diferencia entre un cielo granulado y uno limpio.
+8. ¿Timelapse? Menú → **`Interval Shoot Func.`**: exposición de 15 s,
+   intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
+   inicio), 300 tomas ≈ 10 s de vídeo. Sin cables: le das a empezar y te
+   olvidas.
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.
 
@@ -78,13 +84,13 @@ visible gran parte de la noche.
 
 | Problema | Solución |
 |---|---|
-| Muy oscura | Sube ISO un paso (3200 → 6400). No alargues los segundos más allá del límite de trazas |
-| Estrellas alargadas (trazas) | Baja los segundos: 20 → 15 → 13. Con un 14 mm aguantas ~20 s; con un 24 mm, ~13 s (calculadora "Spot Stars" de PhotoPills) |
+| Muy oscura | Sube ISO un paso (1600 → 3200). No alargues los segundos más allá del límite de trazas |
+| Estrellas alargadas (trazas) | Baja los segundos: 20 → 15 → 13 (calculadora "Spot Stars" de PhotoPills: con el 12 mm en APS-C, ~20 s es el punto práctico) |
 | Estrellas gordas o borrosas | Enfoque mal: repite el paso 4. No es el ISO ni los segundos |
-| Todo movido | Trípode vibrando: viento, correa colgando o tocaste la cámara — temporizador 2 s siempre; activa el **bloqueo de espejo** si hay dudas |
+| Todo movido | Trípode vibrando: viento, correa colgando o tocaste la cámara — temporizador 2 s siempre; con el obturador electrónico la cámara ya no aporta ni una vibración propia |
 | Cielo naranja/verde raro | Balance de blancos a 3900 K (en RAW se corrige después sin pérdida) |
-| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/2.8 a f/3.2–3.5 si molesta mucho |
-| Puntos rojos/calientes en exposiciones largas | Píxeles calientes, normales en un sensor de 2012. El apilado y el NR por IA los eliminan |
+| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra el anillo de f/2 a f/2.8 (y compensa con ISO 3200) si molesta mucho |
+| Puntos rojos/calientes en exposiciones largas | Píxeles calientes: normales en cualquier exposición larga. El apilado y el NR por IA los eliminan solos |
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
@@ -103,14 +109,14 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    Sur unas 4,5 veces. El polo queda a una altura igual a tu latitud: en
    Etosha, ~19° sobre el horizonte sur — el centro de los círculos cae bajo,
    así que puedes meter un árbol o una silueta en el mismo encuadre.
-2. Receta: **30 s, f/2.8, ISO 1600**, balance fijo 3900 K, reducción de ruido
-   de larga exposición **OFF** (o cada foto irá seguida de 30 s a oscuras y
-   los arcos saldrán cortados), enfoque a las estrellas como siempre.
-3. Encadenar las tomas, dos maneras:
-   - Con el **intervalómetro de cable**: exposición 30 s, intervalo 31 s.
-   - **El truco sin intervalómetro**: modo ráfaga + obturación 30 s + cable
-     disparador simple **bloqueado**: la cámara encadena una foto de 30 s tras
-     otra sin hueco hasta que lo sueltes.
+2. Receta: **30 s, f/2.8 (el anillo), ISO 800–1600**, balance fijo 3900 K,
+   reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
+   30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
+   siempre.
+3. Encadenar las tomas, con el **intervalómetro integrado**
+   (`Interval Shoot Func.`): exposición 30 s, intervalo de disparo 31 s (el
+   hueco de 1 s no se nota; StarStaX además trae `Gap filling`), número de
+   tomas 90–180.
 4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
    Batería llena al empezar y no toques nada hasta el final.
 5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
@@ -120,16 +126,22 @@ para un novato: círculos de estrellas girando sobre el paisaje.
 
 Apila las 10 tomas del paso 7 con Sequator (Windows, gratis:
 <https://sites.google.com/view/sequator/>) o Starry Landscape Stacker
-(macOS: <https://sites.google.com/site/starrylandscapestacker/>). En la 5D3
-es la diferencia entre un cielo ruidoso y uno limpio — el paso a paso está en
-la [guía de edición](../comun/edicion-basica.md).
+(macOS: <https://sites.google.com/site/starrylandscapestacker/>). Los RAW
+(.ARW) entran directamente. Es la diferencia entre un cielo ruidoso y uno
+limpio a ISO 1600–3200 — el paso a paso está en la
+[guía de edición](../comun/edicion-basica.md).
 
-## Opcional avanzado: Magic Lantern
+## El intervalómetro integrado y la película time-lapse
 
-El firmware alternativo Magic Lantern (<https://www.magiclantern.fm/>) añade a
-la 5D3 intervalómetro integrado y focus peaking. Funciona bien, pero es
-software no oficial: instálalo solo si te sientes cómodo asumiendo el riesgo,
-y nunca la semana antes del viaje.
+Dos caminos para el cielo en movimiento, ya montados en la cámara:
+
+- **Fotos por intervalos** (`Interval Shoot Func.`, hasta 9999 tomas): la vía
+  de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
+  en casa ([edición](../comun/edicion-basica.md)). Es la de las recetas de
+  este capítulo.
+- **Película time-lapse en cámara**: la cámara graba y monta ella sola el
+  clip. Cero edición, menos control — perfecta como segunda serie "pon y
+  olvida" mientras la buena corre por intervalos.
 
 ## Vía Láctea desde Etosha en noches sin luna
 
@@ -152,7 +164,7 @@ vas a usar:
    y te superpone la Vía Láctea donde va a aparecer. Sirve para elegir el
    rincón exacto y componer antes de que oscurezca.
 3. **Spot Stars**: los segundos máximos de exposición para tu combinación
-   (14 mm en full frame ≈ 20 s).
+   (12 mm en APS-C ≈ 20 s).
 
 Gratis como alternativa: Stellarium (<https://stellarium.org/>), sin AR ni
 planificador sobre mapa.
@@ -192,4 +204,6 @@ planificador sobre mapa.
 ## Referencias
 
 - Lonely Speck, práctica de astrofotografía: <https://www.lonelyspeck.com/>
+- Review de referencia del Rokinon 12mm f/2 (Lonely Speck): <https://www.lonelyspeck.com/rokinon-12mm-f2-0-ncs-cs-review/>
 - Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
+- Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>

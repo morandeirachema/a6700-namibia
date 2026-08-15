@@ -73,8 +73,11 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
   de campamento… o te has pasado de ISO.
 - Las estrellas son picos minúsculos a la derecha: normal, ignóralos.
 
-## Cómo verlo en la 5D Mark III
+## Cómo verlo en la a6700
 
-En revisión (▶), botón INFO hasta la vista con histograma. Activa además el
-aviso de altas luces en el menú de reproducción (parpadeo de lo quemado;
-viene desactivado de fábrica).
+En revisión (▶), botón DISP hasta la vista con histograma. Y la ventaja de
+esta cámara: el **histograma en vivo** — pulsa DISP mientras encuadras y la
+gráfica aparece en el visor o la pantalla **antes** de disparar, con la
+exposición real que va a salir. Para lo quemado, activa el **Zebra 100+**
+(`Menú → Exposición/color → Visualiz. cebra`): rayas en vivo sobre lo que
+se quema — aquí la alarma no espera a la revisión.

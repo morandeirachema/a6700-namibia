@@ -17,7 +17,7 @@
 
 ## Las 18 tomas del vídeo-recuerdo (márcalas)
 
-☐ 1 despegue (TL 2 s) · ☐ 2 la grava infinita (TL 5–10 s) · ☐ 3 baches con polvo (4K60) · ☐ 4 atardecer de Spreetshoogte (TL 2 s) · ☐ 5 subir la duna (4K60, pecho) · ☐ 5b la cresta y los pies hundiéndose (4K60 + 240 fps) · ☐ 6 sombras de dunas (TL 30 s) · ☐ 7 la niebla entrando (TL 2–5 s) · ☐ 8 focas de Cape Cross CON sonido (4K60) · ☐ 9 la espera en la charca (TL 5 s) · ☐ 10 elefantes junto al coche (4K30) · ☐ 11 salpicaduras/despegues (4K120) · ☐ 12 el rino de noche (4K30) · ☐ 13 el cielo (Night Lapse / Star Trails) · ☐ 14 montar la tienda (TL 2 s) · ☐ 15 el making of de la 5D3 (4K30) · ☐ 16 la vida pequeña: café, braai, mapa (4K30) · ☐ 17 aterrizaje en casa (TL 2 s)
+☐ 1 despegue (TL 2 s) · ☐ 2 la grava infinita (TL 5–10 s) · ☐ 3 baches con polvo (4K60) · ☐ 4 atardecer de Spreetshoogte (TL 2 s) · ☐ 5 subir la duna (4K60, pecho) · ☐ 5b la cresta y los pies hundiéndose (4K60 + 240 fps) · ☐ 6 sombras de dunas (TL 30 s) · ☐ 7 la niebla entrando (TL 2–5 s) · ☐ 8 focas de Cape Cross CON sonido (4K60) · ☐ 9 la espera en la charca (TL 5 s) · ☐ 10 elefantes junto al coche (4K30) · ☐ 11 salpicaduras/despegues (4K120) · ☐ 12 el rino de noche (4K30) · ☐ 13 el cielo (Night Lapse / Star Trails) · ☐ 14 montar la tienda (TL 2 s) · ☐ 15 el making of de la Sony (4K30) · ☐ 16 la vida pequeña: café, braai, mapa (4K30) · ☐ 17 aterrizaje en casa (TL 2 s)
 
 ## Reglas de oro del rodaje
 

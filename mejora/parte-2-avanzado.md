@@ -1,89 +1,91 @@
 # Mejora, parte 2 — safari y astro avanzados
 
 Para cuando la [parte 1](parte-1-principiante.md) ya sea rutina. Todo
-verificado contra el manual de la 5D3, la guía oficial de AF de Canon y
-especialistas de safari (Grant Atkinson) y aves (Gary Luhm).
+verificado contra el Help Guide oficial de la a6700 y la práctica de
+especialistas de safari y aves.
 
 ## Safari avanzado
 
-### El AI Servo a medida (más allá de los Casos)
+### El AF a medida (los tres mandos que importan)
 
-Los Casos 1–6 son solo combinaciones de **tres parámetros** que puedes tocar
-directamente (`menú AF → Case → tecla RATE/INFO para editar`):
+El AF de la a6700 se gobierna con **tres mandos**, y el salto de nivel es
+saber cuál tocar en cada escena (todos viven en la pestaña AF del menú;
+mételos en **Mi Menú**):
 
-- **Sensib. de seguimiento** (−2…+2): qué hace el AF si algo se cruza o el
-  punto se resbala del animal. Negativo = "aguanta con el sujeto original";
-  positivo = "salta a lo nuevo".
-- **Seguim. aceleración/deceleración** (0…+2): 0 para velocidad constante;
-  +1/+2 para arrancadas y frenazos (evita enfocar "detrás" del que viene o
-  "delante" del que frena).
-- **Cambio auto de punto AF** (0…+2): ganas de pasar el seguimiento a los
-  puntos vecinos. **Solo actúa en expansión/zona/61 auto** — en punto único
-  no hace nada.
+- **Sensib. seguim. AF** (1 fija … 5 reactiva): qué hace el AF si algo se
+  cruza o el sujeto se tapa un instante. Baja = "aguanta con el sujeto
+  original aunque pase una rama"; alta = "salta rápido a lo nuevo".
+- **Reconocimiento de sujeto**: pon el objetivo en **Animal** (o **Pájaro**
+  para las aves) y la cámara busca el cuerpo, la cabeza y **el ojo** ella
+  sola. Tu trabajo cambia: ya no es clavar el punto, es **verificar** que el
+  recuadro está sobre el animal correcto — y tocar la pantalla para
+  corregirla si se va al que no es.
+- **El área**: punto único (tú mandas del todo) ↔ zona ↔ ancha con
+  seguimiento (la cámara manda). Y el modo **DMF**: retocas el anillo de
+  enfoque a mano **sin salir del AF** — oro con hierba por medio.
 
-Valores que funcionan (Atkinson/Luhm, con teles 300–600 mm):
+Valores de partida que funcionan (ajústalos a lo que veas, no son dogma):
 
-| Escenario | Sensib. | Acel./decel. | Cambio punto | Área |
-|---|---|---|---|---|
-| Ave en vuelo | **−1** | **+1** | 0 | Punto único o expansión 4 |
-| Animal tras hierba/ramas | **−1… −2** | 0 | 0 | Caso 2 tal cual |
-| Animal acercándose a la charca (para en seco al beber) | 0 | **+1** | 0 | Expansión |
-| Carrera/caza a por todas | 0 | **+2** | +1 | Zona |
+| Escenario | Reconocimiento | Área | Sensib. seguim. |
+|---|---|---|---|
+| Ave en vuelo | **Pájaro** | Zona | 3 |
+| Animal tras hierba/ramas | Animal | **Punto único + DMF** | **1** |
+| Animal acercándose a la charca | Animal | Seguimiento (tracking) | 3 |
+| Carrera/caza a por todas | Animal | Ancha con seguimiento | **4–5** |
 
-El metaconsejo de Atkinson: mete los tres parámetros en **Mi Menú** y ajusta
-sobre la marcha en vez de memorizar Casos.
+El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
+**Mi Menú** y muévelos sobre la marcha según lo que el visor te enseñe.
 
 ### El flujo de exposición fino
 
-- **Puntual + ✱, el combo completo**: la medición puntual de la 5D3 va
-  **ligada al punto central, no al punto AF activo** (eso es de la serie 1).
-  Flujo correcto: centra el animal → puntual → **✱** (congela; en M+ISO
-  Auto congela el ISO) → recompón con el punto AF donde toque → dispara.
-  Asigna "Bloqueo AE (retenido)" al ✱ en Controles personalizados para que
-  no caduque con el temporizador de medición.
-- **Highlight Tone Priority (D+)**: técnicamente graba el RAW un paso más
-  bajo y lo empuja con curva (pierdes ISO 100 y ganas ~1 paso de altas
-  luces, con +1 paso de ruido en sombras). Veredicto para ti: **OFF** y
-  exponer para las altas luces con aviso de parpadeos — es lo mismo con más
-  control. Solo tiene sentido ON como red automática si sabes que no vas a
-  revisar exposiciones (y revisa: convertidores que no sean Adobe/DPP pueden
-  ignorar su etiqueta y mostrar el RAW oscuro).
-- **Safety shift** (`C.Fn1 → Cambio de seguridad → sensibilidad ISO`): en
-  Tv/Av, si tu obturación fija no alcanza, la cámara salva la foto moviendo
-  el ISO en vez de dejarla parpadeando. Red gratuita (irrelevante si ya vas
-  en ISO Auto).
+- **Compensación también en M + ISO Auto**: en esta cámara la compensación
+  (±5 EV) funciona en todos los modos, incluido M con ISO Auto — tu modo
+  safari. Animal oscuro sobre calcreta blanca → +0.7 y a otra cosa. Sin
+  trucos ni rodeos.
+- **Puntual ligada al punto de enfoque**: `Punto de medición puntual →
+  Vínculo punto enfoque` hace que la medición puntual siga a tu punto AF —
+  mides exactamente sobre el animal **sin recomponer**. Actívalo una vez y
+  olvídate: es la medición puntual como debería haber sido siempre.
+- **Zebra 100+**: rayas en vivo sobre lo que va a salir quemado, antes de
+  disparar. Es el aviso de altas luces pero preventivo — en el visor
+  electrónico, la exposición ya no tiene sorpresas.
+- **DRO OFF** (Optimizador de rango dinámico): no toca el RAW, pero maquilla
+  el JPEG, el histograma y la revisión — engaña justo a lo que usas para
+  exponer. Fuera.
 
 ### Botonera de francotirador
 
-- **Botón DOF (frontal) = "ONE SHOT ⇄ AI SERVO"** (Controles
-  personalizados): mantienes pulsado y saltas de modo — del animal dormido
-  (One Shot) a la arrancada (Servo) sin menús.
-- **SET = ISO**: cámbialo sin sacar el ojo del visor.
-- **Punto AF ligado a orientación** (`menú AF4 → Punto AF según
-  orientación → Puntos distintos`): un punto para horizontal y otro para
-  vertical — giras la cámara y tu punto "bueno" ya está puesto.
-- **C3 libre = preajuste de vuelo**: guarda 1/2000 · apertura mínima · ISO
-  Auto · expansión · acel +1 · ráfaga — un giro de dial y estás en modo
-  "despegue". (La 5D3 no tiene "recuperar ajustes con botón" de la serie 1:
-  C3 es su sustituto real.)
-- **RATE** configurado a valoración: marca ★ los aciertos en la revisión de
-  cada noche y el cribado en casa empieza hecho.
+- **AF-ON al pulgar**: enfoque separado del disparador
+  ([capítulo 1](../a6700/01-configuracion-basica.md)) — para esperar el
+  momento sin que la cámara reenfoque al arbusto.
+- **Un botón custom = Bright Monitoring**: asignado desde
+  `Operación personalizada`, amplifica el visor en plena oscuridad — tu
+  botón de "ver la noche" para componer el astro sin fotos de prueba.
+- **El botón Focus Set del Tamron**, programado a lo que más uses: cambio
+  AF/MF sin menús, o un preajuste de distancia de foco (p. ej. la orilla
+  donde beben, memorizada de día).
+- **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
+  reconocimiento **Pájaro** · ráfaga Hi — un giro de dial y estás en modo
+  "despegue" ([capítulo 1](../a6700/01-configuracion-basica.md)).
+- **Valoración con estrellas** en la revisión de cada noche: marca ★ los
+  aciertos y el cribado en casa empieza hecho.
 
-### El Sigma al límite
+### El Tamron al límite
 
-- **Punto dulce**: en 500–600 mm, cerrar a **f/7.1–f/8** da una mejora real
-  (sobre todo fuera del centro); con el sol alto y el ISO sobrado, hazlo.
-  Regla: nunca compres f/8 pagándolo con obturación insuficiente o ISO
-  ruidoso — abierto a f/6.3 es totalmente válido. De 150 a 400 mm el
-  objetivo va fuerte ya desde plena apertura.
-- **MO (el tercer interruptor)**: en MO puedes retocar el anillo de enfoque
-  **sin salir de AF** — útil con el animal tras hierba: enfoca a mano cerca
-  y deja que el AF remate.
-- **Dock USB UD-01 (~60 €)**: si el ejemplar usado enfoca fino-desviado, el
-  dock guarda **16 correcciones** (4 focales × 4 distancias, frente al único
-  ajuste de la cámara), actualiza firmware, personaliza el limitador de
-  enfoque y programa el OS. Con un tele usado, es el dinero mejor gastado
-  tras el bean bag. <https://www.sigma-global.com/en/accessories/usb-dock-ud01/>
+- **Punto dulce**: a 400 mm ya rinde a plena apertura (f/6.3); con el sol
+  alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina los bordes. Regla:
+  nunca compres f/8 pagándolo con obturación insuficiente o ISO ruidoso.
+- **DMF**: el retoque manual sin salir del AF — con el animal tras hierba,
+  acerca tú el foco con el anillo y deja que el AF remate.
+- **Tamron Lens Utility** (gratis, por el puerto USB-C del propio objetivo):
+  actualiza el firmware y programa funciones — un **limitador de enfoque a
+  medida** en el interruptor Custom (el AF deja de recorrer todo el rango y
+  engancha antes: en safari casi nada está cerca), el foco A-B, o la
+  velocidad del anillo. Es el "dock" de este objetivo, sin comprar nada:
+  <https://www.tamron.com/global/consumer/lenses/a067/>
+- **El bonus macro**: 1:2 a 50 mm (enfoca desde 0,25 m) — texturas de
+  corteza, flores del campamento, el detalle del desayuno. Un macro de
+  regalo dentro del tele de safari.
 
 ## Astro avanzado (tu quincena de noviembre)
 
@@ -92,10 +94,10 @@ sobre la marcha en vez de memorizar Casos.
 | Hora | Objetivo | Cómo |
 |---|---|---|
 | 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
-| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/2.8 · ISO 3200 |
+| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/2 · ISO 1600–3200 |
 | 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
 | Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Alba del 14 | **Conjunción Júpiter–Marte** al este | Tele corto o 14 mm con paisaje, en el crepúsculo |
+| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 12 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina
 
@@ -103,10 +105,10 @@ sobre la marcha en vez de memorizar Casos.
   es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
   ajustes clavados; Lightroom las une (`Foto → Combinar → Panorama`).
-- **Las Nubes con detalle**: la tentación de meterles el 150-600 **no
-  funciona sin montura de seguimiento** (a 150 mm el límite sin trazas son
-  ~2–3 s → ISO absurdo y cien tomas para poco). El camino real: 14 mm
-  apilado y recorte generoso (22 Mpx dan margen), o apuntar una montura de
+- **Las Nubes con detalle**: la tentación de meterles el 50-400 **no
+  funciona sin montura de seguimiento** (ya a 50 mm el límite sin trazas son
+  ~5–6 s → ISO absurdo y cien tomas para poco). El camino real: 12 mm
+  apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
   seguimiento ligera para otro viaje.
 - **Light painting con cabeza** (método van Oosten, para tus noches de granja
   y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
@@ -122,24 +124,24 @@ sobre la marcha en vez de memorizar Casos.
 
 ## Paisaje, en secundario (las recetas de los maestros)
 
-- **Deadvlei según Lanting**: se dispara con el **tele** (150–300 mm),
-  cerrado a f/11–f/16, **sin cielo ni horizonte** en el encuadre, en la
+- **Deadvlei según Lanting**: se dispara con el **tele** (100–200 mm del
+  zoom, 150–300 mm equivalentes), cerrado a f/11–f/16, **sin cielo ni
+  horizonte** en el encuadre, en la
   ventana en que la duna del fondo está encendida y la arcilla del vlei aún
   en sombra (que se vuelve azul). Exposición para la duna iluminada; los
   árboles, casi siluetas. Y volumen: Lanting hizo 321 tomas de esos árboles.
-- **Abstractos de duna según van Oosten**: 200 mm+, luz rasante de primera
-  o última hora, buscar la línea de cresta luz/sombra, excluir el cielo. El
-  150-600 desde la carretera de Sossusvlei es tu pincel.
+- **Abstractos de duna según van Oosten**: 200 mm equivalentes o más, luz
+  rasante de primera o última hora, buscar la línea de cresta luz/sombra,
+  excluir el cielo. El 50-400 desde la carretera de Sossusvlei es tu pincel.
 - **Luz de tormenta de noviembre**: mide a la zona iluminada, −2/3, y espera
   el claro entre nubes que enciende la sabana contra el fondo negro.
 
 ## Referencias
 
-- Guía de AF de Grant Atkinson (5D3/1DX en safari): <https://www.grantatkinson.com/blog/making-the-most-of-canons-new-autofocus-5dmk3-and-1dx>
-- AI Servo para aves con la 5D3 (Gary Luhm): <http://garyluhm.net/canon-5d-mark-iii-autofocus-ai-servo-birds-flight/>
-- Highlight Tone Priority explicado (Joshua Holko): <https://blog.jholko.com/2022/11/06/canons-highlight-tone-priority-explained-and-why-to-use-it-for-snow-and-ice/>
-- Safety shift y ALO (Brian Worley, ex-Canon): <https://www.p4pictures.com/2023/12/safety-shift-explained/>
-- Punto dulce del Sigma 150-600 C (OpticalLimits/Photozone): <https://www.opticallimits.com/>
+- Sensibilidad de seguimiento del AF (Help Guide oficial a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0405D_af_tracking_sensitivity.html>
+- Compensación de exposición, también en M+ISO Auto (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0406B_exposure_compensation.html>
+- Bright Monitoring (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0414H_bright_monitoring.html>
+- Review de referencia del Tamron 50-400 A067 (Dustin Abbott): <https://dustinabbott.net/2022/09/tamron-50-400mm-f4-5-6-3-vc-vxd-review-a067/>
 - Apilar las Nubes de Magallanes sin seguimiento (Ian Morison): <https://www.ianmorison.com/imaging-the-magellanic-clouds-without-a-tracking-mount/>
 - Entrevista a Marsel van Oosten (previsualización y composición): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>
