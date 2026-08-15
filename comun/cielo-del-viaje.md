@@ -63,7 +63,7 @@ el anochecer ya es sin luna.)
   la Grande subiendo hasta ~27° hacia las 23:00. Dos galaxias a simple vista.
 - **Con qué**:
   - **a6700 + el 12 mm**: las dos con paisaje en un encuadre; son tenues:
-    **apila 15–20 tomas** (20 s · f/2 · ISO 1600) con Sequator
+    **apila 15–20 tomas** (20 s · f/2 · ISO 1600–3200) con Sequator
     ([edición](edicion-basica.md)).
   - **Prismáticos 8x42**: el paseo por dentro de las Nubes es el mejor
     descanso entre serie y serie.

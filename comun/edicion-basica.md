@@ -56,8 +56,9 @@ De un safari salen 800 fotos y valen 30. Antes de editar nada:
   ISO 12800 parecen de ISO 1600. <https://helpx.adobe.com/lightroom-cc/using/enhance-details.html>
 - **DxO PureRAW** como alternativa/complemento (procesa el RAW antes de
   editar): <https://www.dxo.com/dxo-pureraw/>
-- **darktable**: módulo "reducción de ruido (perfilada)", que ya conoce el
-  perfil de ruido de la a6700.
+- **darktable**: módulo "reducción de ruido (perfilada)" — usa el perfil de
+  tu cámara si tu versión lo incluye; si no, el modo genérico del módulo
+  cumple igual.
 
 Orden correcto: primero el denoise, después el revelado fino.
 

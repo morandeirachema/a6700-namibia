@@ -119,6 +119,10 @@ MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
   — pero el cargador doble deja las tres baterías listas cada noche sin
   secuestrar la cámara.
+- **2 adaptadores de enchufe tipo D/M + una regleta europea pequeña**: los
+  enchufes de Namibia no son los europeos, y con la regleta un solo
+  adaptador da servicio a todos los cargadores a la vez
+  ([logística](../comun/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
   (`Interval Shoot Func.`) — un cable menos que comprar y que perder.
 - **Trípode**: uno de viaje estable es suficiente (K&F Concept, Manfrotto

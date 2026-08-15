@@ -58,14 +58,21 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **AF-ON al pulgar**: enfoque separado del disparador
   ([capítulo 1](../a6700/01-configuracion-basica.md)) — para esperar el
   momento sin que la cámara reenfoque al arbusto.
-- **Un botón custom = Bright Monitoring**: asignado desde
-  `Operación personalizada`, amplifica el visor en plena oscuridad — tu
-  botón de "ver la noche" para componer el astro sin fotos de prueba.
+- **Un botón custom = Bright Monitoring**: asignado desde la personalización
+  de botones, amplifica el visor en plena oscuridad — tu botón de "ver la
+  noche" para componer el astro sin fotos de prueba.
+- **El ISO sin sacar el ojo del visor**: de serie ya vive en la flecha
+  derecha de la rueda de control — déjalo ahí: en las noches de ISO manual
+  lo tocarás constantemente.
+- **Área AF distinta por orientación** (menú de Enfoque → Área de enfoque →
+  "Cambiar área AF V/H"): un área y una posición para horizontal y otras
+  para vertical — giras la cámara al retrato y tu encuadre "bueno" ya está
+  puesto.
 - **El botón Focus Set del Tamron**, programado a lo que más uses: cambio
   AF/MF sin menús, o un preajuste de distancia de foco (p. ej. la orilla
   donde beben, memorizada de día).
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
-  reconocimiento **Pájaro** · ráfaga Hi — un giro de dial y estás en modo
+  reconocimiento **Pájaro** · ráfaga Hi+ — un giro de dial y estás en modo
   "despegue" ([capítulo 1](../a6700/01-configuracion-basica.md)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.

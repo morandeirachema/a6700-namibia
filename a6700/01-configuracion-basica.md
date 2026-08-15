@@ -42,6 +42,11 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
 
 ## Otros botones útiles
 
+- **La compensación de exposición, a mano**: de serie vive en la flecha
+  **inferior** de la rueda de control. Las recetas de safari la usan a diario
+  (funciona también en M con ISO Auto); si prefieres girar una rueda sin
+  soltar el agarre, asígnala a la que quede libre en M desde el menú de
+  personalización.
 - **Bright Monitoring en un botón custom**: en el menú de personalización,
   asigna "Bright Monitoring" a un botón libre. Amplifica la pantalla en
   plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
@@ -60,7 +65,7 @@ Configura la cámara como quieras que quede y guárdala con
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
-  Zona, ráfaga Hi, RAW.
+  Zona, ráfaga Hi+ (11 fps), RAW.
 - **MR2 — Astro**: M, 20 s, ISO 1600, balance de blancos K 3900, enfoque
   manual, temporizador 2 s, SteadyShot OFF, RAW. (La apertura del 12mm no
   se guarda: vive en el anillo del objetivo — déjala en f/2.)

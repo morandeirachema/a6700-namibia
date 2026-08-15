@@ -15,7 +15,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Reconocimiento de sujeto | **Animal** (cámbialo a Pájaro para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
 | Sensibilidad de seguimiento | La estándar; con hierba/ramas robando el foco, un punto menos ([mejora, parte 2](../mejora/parte-2-avanzado.md)) |
-| Ráfaga | Alta (Hi, 11 fps) |
+| Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **VC del objetivo en 1** (el modo 2 es solo para barridos); el IBIS de la cámara se suma solo |
 
@@ -42,8 +42,12 @@ lo que en las réflex de hace una década era la habilidad número 1 a entrenar,
 aquí viene de serie. Tu trabajo cambia, no desaparece:
 
 - **Encuadra y comprueba el recuadro**: si el reconocimiento se va al arbusto
-  o al animal equivocado, **toca en la pantalla** al bueno (o pasa a punto
-  único y colócalo tú). No dispares "porque algo está verde".
+  o al animal equivocado, **toca al bueno en la pantalla** — y funciona
+  incluso con el ojo en el visor: la pantalla sigue activa como panel táctil
+  y el recuadro se arrastra con el pulgar (se ajusta en el menú de
+  funcionamiento táctil, incluida la zona activa para que la nariz no
+  "enfoque"). O pasa a punto único y colócalo tú. No dispares "porque algo
+  está verde".
 - **Ráfaga corta**, no metralleta: 1–2 segundos y reevalúa.
 - **Verifica en la revisión**: zoom al 100 % sobre el ojo en la primera
   ráfaga de cada escena. La IA acierta muchísimo, pero cuando falla (oreja,
@@ -53,7 +57,7 @@ aquí viene de serie. Tu trabajo cambia, no desaparece:
 ## Exposición en la práctica
 
 En M con ISO Auto la compensación de exposición **funciona con normalidad**
-(±5 EV): fondo muy claro (calcreta blanca, cielo) → **+0.7 a +1**; fondo muy
+(±5 EV, en la flecha inferior de la rueda de control): fondo muy claro (calcreta blanca, cielo) → **+0.7 a +1**; fondo muy
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo

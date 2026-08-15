@@ -138,7 +138,7 @@ total. Funciona todos los días del viaje.
 |---|---|
 | Duna plana, sin volumen | Es la hora, no tú: con el sol alto no hay foto de dunas — vuelve a primera/última hora (mitad luz, mitad sombra) |
 | Horizonte torcido | Nivel electrónico visible SIEMPRE en paisaje (botón DISP) |
-| Cielo quemado o sombra negra: no cabe todo | La escena supera al sensor: AEB ±2 EV con temporizador 2 s y fusiona en edición |
+| Cielo quemado o sombra negra: no cabe todo | La escena supera al sensor: horquillado (Bracket) ±2 EV con temporizador 2 s y fusiona en edición |
 | Todo blando en las esquinas | ¿Bajaste de f/8 sin querer, o moviste la cámara? f/8 · ISO 100 · apoyo |
 | Huellas en la arena de la foto | Camina por la cresta o la cara de sombra — y mira ANTES de pisar |
 | Niebla en la costa "estropea" el plan | No es mal tiempo, es atmósfera: siluetas y minimalismo — cambia el chip, no el sitio |

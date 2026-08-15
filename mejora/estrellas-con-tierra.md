@@ -48,8 +48,8 @@ Nada más.
 |---|---|---|
 | Modo | M (o el dial en **MR2**) | Dial superior |
 | Apertura | f/2.0 | **El anillo del Rokinon** (la cámara dirá F--: normal) |
-| Obturación | 20 segundos ("20"") | Rueda de obturación |
-| ISO | 1600 | Menú rápido (Fn) o rueda asignada |
+| Obturación | 20 segundos ("20"") | Gira una rueda y mira en pantalla que cambian los segundos |
+| ISO | 1600 | Flecha derecha de la rueda de control (o menú Fn) |
 | Balance de blancos | K = 3900 | Menú → Balance de blancos → K |
 | Enfoque | Manual (el Rokinon no tiene otro) | El anillo de enfoque, en el paso 3 |
 

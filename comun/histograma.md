@@ -78,6 +78,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 En revisión (▶), botón DISP hasta la vista con histograma. Y la ventaja de
 esta cámara: el **histograma en vivo** — pulsa DISP mientras encuadras y la
 gráfica aparece en el visor o la pantalla **antes** de disparar, con la
-exposición real que va a salir. Para lo quemado, activa el **Zebra 100+**
-(`Menú → Exposición/color → Visualiz. cebra`): rayas en vivo sobre lo que
-se quema — aquí la alarma no espera a la revisión.
+exposición real que va a salir (salvo de noche con exposiciones largas: ahí
+no acumula los segundos — fíate del de la revisión). Para lo quemado, activa
+el **Zebra 100+** (en el menú de exposición/color): rayas en vivo sobre lo
+que se quema — aquí la alarma no espera a la revisión.

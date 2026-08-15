@@ -67,9 +67,11 @@ visible gran parte de la noche.
       **peaking** te lo confirma: la estrella "chispea" cuando está clavada.
    5. Fija el anillo con cinta. No lo toques más en toda la noche.
 5. **Foto de prueba** con la receta rápida y temporizador de 2 s.
-6. **Corrige mirando el histograma** — lo tienes **en vivo** pulsando DISP,
-   antes incluso de disparar, y en la revisión. La montaña debe quedar
-   despegada del borde izquierdo, hacia el primer tercio.
+6. **Corrige mirando el histograma de la foto hecha** (botón ▶): de noche la
+   pantalla engaña, el histograma no. Ojo: el histograma **en vivo** (DISP)
+   aquí no vale — no acumula los 20 s de exposición; fíate solo del de la
+   revisión. La montaña debe quedar despegada del borde izquierdo, hacia el
+   primer tercio.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar nada.
    Se apilan luego en el ordenador y el ruido baja muchísimo — es la
    diferencia entre un cielo granulado y uno limpio.

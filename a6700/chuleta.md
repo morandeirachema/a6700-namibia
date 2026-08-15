@@ -10,7 +10,7 @@
 | ISO | Auto 100–12800 | 6400; tope 12800 (25600 rescate) | Manual 6400–12800 | 1600 → 3200 | 100 |
 | Enfoque | AF-C + reconoc. Animal, AF-ON pulgar | AF-S punto único | AF-C punto único a lo iluminado | MF a estrella (lupa + peaking) | AF-S |
 | Estabilizador | VC 1 | OFF (trípode) | VC 1 | SteadyShot OFF | ON / OFF en trípode |
-| Extra | ráfaga Hi, RAW | obturador electrónico (¿franjas? → mecánico) | medición puntual vinculada | temporizador 2 s, WB 3900 K | nivel electrónico (DISP) |
+| Extra | ráfaga Hi+, RAW | obturador electrónico (¿franjas? → mecánico) | medición puntual vinculada | temporizador 2 s, WB 3900 K | nivel electrónico (DISP) |
 
 ## Rutina de 10 s al llegar a una escena
 

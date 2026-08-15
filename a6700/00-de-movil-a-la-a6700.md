@@ -49,7 +49,7 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 
 | Móvil | Milímetros | En este viaje |
 |---|---|---|
-| Ultra gran angular (0.5x) | ~13 mm | **Rokinon 12mm** (18 mm equivalentes): la Vía Láctea con paisaje |
+| Ultra gran angular (0.5x) | ~13 mm | **Rokinon 12mm** (18 mm equivalentes — un pelín menos ancho que tu 0.5x): la Vía Láctea con paisaje |
 | Principal (1x) | ~24 mm | — |
 | Retrato (3x) | ~77 mm | El extremo corto del **50-400** (75 mm equivalentes) |
 | Tele (5x) | ~120 mm | La zona baja del zoom |
@@ -71,6 +71,11 @@ se entrena (deberes, abajo).
   la tercera queda libre; haz una foto de prueba para ver el reparto y, si no
   te convence, se cambia en el menú de personalización.
 - **El ISO**: flecha derecha de la rueda de control. Con ISO Auto no lo tocas.
+- **La compensación de exposición**: flecha **inferior** de la rueda de
+  control (su sitio de serie). La usarás a diario — y funciona en todos los
+  modos, M con ISO Auto incluido (tabla de medición, abajo). Si prefieres
+  girar una rueda sin soltar el agarre, asígnala a la que quede libre en M
+  desde el menú de personalización.
 - **No hay joystick**: el punto de enfoque se mueve con la rueda de control o
   **tocando la pantalla** — y lo moverás poco: el reconocimiento de animales
   (abajo) hace la mayor parte del trabajo.
@@ -96,7 +101,9 @@ El móvil enfoca "solo" porque decide por ti. Aquí eliges dos cosas:
    Pájaro) y la cámara busca el **ojo** ella sola y lo sigue por el encuadre.
    Es la gran ventaja de esta cámara — pero no te jubila: tu trabajo es
    encuadrar, comprobar que el recuadrito está de verdad sobre el ojo (si se
-   va al arbusto, **toca al animal en la pantalla**) y verificar en la
+   va al arbusto, **toca al animal en la pantalla** — funciona incluso con el
+   ojo en el visor: la pantalla sigue activa como panel táctil y el recuadro
+   se arrastra con el pulgar) y verificar en la
    revisión que el ojo salió nítido. La regla de oro no cambia: si el ojo
    está nítido, la foto vale; si no, no.
 
@@ -138,8 +145,10 @@ la gráfica, no el ojo:
 2. Activa el **Zebra 100+**: lo que va a salir quemado aparece rayado en la
    pantalla **antes de disparar** — es tu aviso de altas luces en vivo
    ([capítulo 1](01-configuracion-basica.md)).
-3. Cada vez que cambie la luz (una nube, el atardecer), foto de prueba +
-   histograma antes del momento importante.
+3. Cada vez que cambie la luz (una nube, el atardecer), vistazo al histograma
+   antes del momento importante — de día basta el que va en vivo; de noche,
+   foto de prueba y el de la revisión (en exposiciones largas el histograma
+   en vivo no acumula los segundos y engaña).
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
 [chuleta visual del histograma](../comun/histograma.md).
