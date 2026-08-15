@@ -9,7 +9,7 @@ Allí solo se consulta.
 
 | App | Para qué | Precio | ¿Sin cobertura? |
 |---|---|---|---|
-| [PhotoPills](https://www.photopills.com/) (iOS/Android) | Sol, luna y Vía Láctea de cada día y lugar — el planificador del viaje | ~11 €, pago único | **Sí** (los cálculos, siempre; el mapa solo si lo viste antes con wifi) |
+| [PhotoPills](https://www.photopills.com/) (iOS/Android) | Sol, luna y Vía Láctea de cada día y lugar — el planificador del viaje | ~11 €, pago único | **Sí** (los cálculos y la realidad aumentada, siempre; el mapa solo si lo viste antes con wifi) |
 | [Stellarium](https://stellarium.org/) (PC) / [Stellarium Web](https://stellarium-web.org/) / [móvil](https://stellarium-labs.com/) | Ver cómo será el cielo de una fecha y hora — para ensayar en casa | Gratis (versión de pago opcional en móvil) | La de PC/móvil sí; la web no |
 | [Sony Creators' App](https://creatorsapp.sony.net/) (iOS/Android) | La app de la a6700: pasar los JPEG al móvil y disparo remoto | Gratis | **Sí** (wifi/Bluetooth directo cámara-móvil) — pero emparéjala en casa |
 | [Organic Maps](https://organicmaps.app/) o [Google Maps](https://www.google.com/maps) | Mapas offline y GPS en ruta | Gratis | **Sí**, si descargas Namibia antes |
@@ -57,8 +57,13 @@ Organic Maps te sobra para esta ruta).
   para cuando cambies de encuadre o de focal.
 - **RA Noche (realidad aumentada)**: apuntas con el móvil al cielo y te
   superpone la Vía Láctea y el polo sur celeste — la forma fácil de orientar
-  los círculos de estrellas. Si la brújula desvaría: calibra haciendo ochos
-  con el móvil y aléjate de la chapa del coche.
+  los círculos de estrellas. **Funciona sin cobertura**: la RA y los cálculos
+  se hacen en el móvil, y el GPS no necesita datos (si tarda en fijar
+  posición, un par de minutos a cielo abierto). Si la brújula desvaría:
+  calibra haciendo ochos con el móvil y aléjate de la chapa del coche. Y si
+  el móvil falla del todo, el polo se encuentra igual a ojo — brújula, dos
+  puños y la prueba de giro de
+  [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 
 ## Stellarium: el ensayo del cielo desde casa
 
@@ -104,7 +109,7 @@ tengas a menos de una hora.
 
 ## Referencias
 
-- PhotoPills, con sus tutoriales oficiales: <https://www.photopills.com/>
+- PhotoPills, con sus tutoriales oficiales: <https://www.photopills.com/> · uso sin cobertura: <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7>
 - Sony Creators' App: <https://creatorsapp.sony.net/>
 - Stellarium (escritorio): <https://stellarium.org/> · web: <https://stellarium-web.org/> · móvil: <https://stellarium-labs.com/>
 - Organic Maps: <https://organicmaps.app/>

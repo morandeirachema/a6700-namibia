@@ -171,12 +171,59 @@ salir mal si la serie corre.
 ### 1 · Antes de encuadrar: ¿dónde está el centro del remolino?
 
 Todo gira alrededor de un punto fijo del cielo (el polo celeste). En el
-hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: a ~19°
-sobre el horizonte** — cabe justo encima de tu objeto. Lo encuentras con la
-**realidad aumentada de PhotoPills** ([apps](../comun/apps-del-viaje.md)) o,
-en tus noches, con el triángulo que forma con las dos Nubes de Magallanes
-([capítulo 2](../a6700/02-astrofotografia-namibia.md)). Y la dirección
-decide el dibujo:
+hemisferio sur está **mirando al sur**, y en Namibia **bajísimo: tan alto
+sobre el horizonte como tu latitud** — ~24° en Sesriem y Spreetshoogte, ~19°
+en Etosha — así que cabe justo encima de tu objeto. Ahí no hay ninguna
+estrella brillante que lo marque (no existe una "Polar del sur" visible), y
+la Cruz del Sur está bajo el horizonte en tus anocheceres: olvídate del
+truco de prolongar su brazo. Cuatro maneras de clavarlo, de la más fácil a
+la más fiable — te basta con una, y la 4 lo confirma todo. **Ninguna
+necesita cobertura**: la 1 calcula dentro del móvil (el GPS funciona sin
+datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
+
+1. **Con el móvil, realidad aumentada** (lo más fácil): abre PhotoPills →
+   Noche → RA, apunta al cielo y aparece dibujado el polo sur celeste; en
+   Stellarium busca la estrella **"Sigma Octantis"** (σ Oct: la única
+   "estrella polar" del sur, a ~1° del polo, tan débil que no la verás — pero
+   la app te enseña dónde está) y colócala en el centro de la pantalla.
+   Calibra la brújula haciendo ochos con el móvil, **lejos de la chapa del
+   coche y del trípode**, y luego coloca la cámara mirando a donde te
+   apunta el móvil ([apps](../comun/apps-del-viaje.md)). Sin cobertura da
+   igual: PhotoPills y Stellarium hacen los cálculos y la RA en el propio
+   móvil (solo el mapa del Planificador sale gris si no lo cacheaste), y el
+   GPS no necesita datos — si tarda en fijar, déjalo un par de minutos a
+   cielo abierto. Y para el polo ni siquiera hace falta precisión: 100 km de
+   error lo mueven menos de 1°.
+2. **A ojo, en 30 segundos**: brújula del móvil al sur (**180°**; con
+   una brújula magnética de verdad, en Namibia el sur real marca ~190–195°,
+   porque el norte magnético cae 10–15° al oeste) y, brazo estirado, cuenta
+   **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
+   Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
+   con DISP) y **el horizonte en el tercio bajo** del encuadre, el 12 mm
+   (18 mm eq) abarca 66° de alto y 89° de ancho: **el polo cae dentro
+   sí o sí**, más o menos a media altura de la foto. Aún no has apretado
+   ningún botón y ya lo tienes.
+3. **Con las estrellas de tus noches**: las dos **Nubes de Magallanes** (dos
+   manchas lechosas hacia el sur, imposibles de confundir sin luna) forman
+   con el polo un **triángulo casi equilátero**, y el polo es el vértice
+   **vacío y oscuro**. Entre las 20:30 y las 23:00 de tus noches la Nube
+   Pequeña queda arriba, casi en la vertical del polo, y la Nube Grande
+   abajo a la izquierda (sureste): el polo está **a la misma altura que la
+   Grande, dos puños a su derecha, y debajo de la Pequeña**. Según avanza
+   la noche todo gira, pero el polo no se mueve
+   ([el cielo del viaje](../comun/cielo-del-viaje.md)).
+4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
+   serie, una sola foto larga en la que las estrellas ya dibujen arcos
+   cortos y el centro se vea. `Tipo de obturador: Mecánico` (Bulb no existe
+   con el electrónico), rueda de obturación más allá de 30" hasta **BULB**,
+   `Aj. temporiz. BULB` (MENU → Exposición/color → Exposición) → **On, 240 s**,
+   ISO **200**, f/2.8. Reproduce y amplía: los arcos son largos lejos del
+   polo y **casi puntos junto a él** — el punto quieto alrededor del que se
+   curvan es tu centro. Reencuadra si hace falta, vuelve a electrónico y a
+   30", y lanza la serie. (Deja `Aj. temporiz. BULB` en On: al volver a
+   30" no molesta.)
+
+Y la dirección decide el dibujo:
 
 | Miras hacia… | El cielo dibuja… |
 |---|---|
@@ -224,7 +271,9 @@ decide el dibujo:
 | Arcos a rayitas con huecos | NR larga exposición ON o intervalo largo | NR OFF · intervalo 31 s · `Gap filling` |
 | La serie muere a mitad | Batería o tarjeta | Batería llena SIEMPRE; tarjeta con hueco de sobra |
 | Objeto quemado de naranja | Una farola, 2 horas pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
-| Remolino descentrado | El polo no estaba donde creías | AR de PhotoPills ANTES de encuadrar |
+| Remolino descentrado | El polo no estaba donde creías | Los 4 minutos de la **prueba de giro** (o la RA de PhotoPills) ANTES de encuadrar |
+| Sin cobertura, la RA "no va" o apunta raro | No es la red (la RA no la usa): brújula descalibrada o GPS sin fijar | Ochos con el móvil lejos del coche; móvil a cielo abierto 1–2 min. Y sin móvil: dos puños + prueba de giro |
+| El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 12 mm entra seguro |
 | Arcos pobres | Serie corta | Más tomas, no más ISO |
 | Una raya recta cruza | Satélite (se clona) o bólido de las Táuridas (¡se enmarca!) | — |
 
@@ -243,4 +292,6 @@ en otra dirección ([su guía](../comun/gopro-mission-1.md)).
 - Lonely Speck (nightscapes: cielo + tierra, en inglés): <https://www.lonelyspeck.com/>
 - Guía de Vía Láctea con paisaje en español (Capture the Atlas): <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
 - StarStaX: <https://markus-enzweiler.de/software/starstax/> · Sequator: <https://sites.google.com/view/sequator/>
-- PhotoPills (AR y planificador): <https://www.photopills.com/>
+- PhotoPills (AR y planificador): <https://www.photopills.com/> · "3 tips to use PhotoPills offline" (la RA y los cálculos funcionan sin red): <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7> · Stellarium: <https://stellarium.org/>
+- Sony, Help Guide ILCE-6700 — disparo Bulb y "BULB Timer Settings" (2–900 s; no disponible con obturador electrónico): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0302C_bulb.html> · <https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_bulb_timer.html>
+- Declinación magnética en Namibia (WMM2025; ~13° O en Windhoek): <https://www.magnetic-declination.com/>

@@ -86,10 +86,15 @@ el anochecer ya es sin luna.)
 
 - **Cuándo**: cualquier noche, incluso con algo de luna (es el plan B
   perfecto de las noches 1–4 y 11–14).
-- **Dónde**: plano **sur**; el polo sur celeste está a solo ~19° de altura —
-  el centro de los círculos cae bajo y entra con un árbol o silueta. Lo
-  encuentras con la realidad aumentada de PhotoPills o con el triángulo
-  equilátero que forma con las dos Nubes.
+- **Dónde**: plano **sur**; el polo sur celeste está a solo ~19° de altura
+  en Etosha (~24° en Sesriem: siempre igual a tu latitud) — el centro de los
+  círculos cae bajo y entra con un árbol o silueta. Lo encuentras con la
+  realidad aumentada de PhotoPills, con la brújula del móvil al sur y **dos
+  puños** sobre el horizonte, o con el triángulo casi equilátero que forma
+  con las dos Nubes (a primera hora, la Pequeña arriba y la Grande abajo a
+  la izquierda: el polo es el vértice vacío, a la derecha de la Grande). La
+  prueba definitiva, 4 minutos de Bulb para ver el centro de los arcos, está
+  en [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 - **Receta**: 30 s · f/2.8 · ISO 800–1600, 90–180 tomas encadenadas con el
   **intervalómetro integrado** (`Interval Shoot Func.`), NR de larga
   exposición OFF ([capítulo 2](../a6700/02-astrofotografia-namibia.md));

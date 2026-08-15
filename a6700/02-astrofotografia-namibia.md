@@ -106,11 +106,17 @@ El plan B perfecto para noches con algo de luna, y un éxito casi garantizado
 para un novato: círculos de estrellas girando sobre el paisaje.
 
 1. Apunta al **sur**: en el hemisferio sur el cielo gira alrededor del polo
-   sur celeste, que no tiene estrella brillante — PhotoPills (modo "Noche" con
-   realidad aumentada) te lo marca, o prolonga el brazo largo de la Cruz del
-   Sur unas 4,5 veces. El polo queda a una altura igual a tu latitud: en
-   Etosha, ~19° sobre el horizonte sur — el centro de los círculos cae bajo,
-   así que puedes meter un árbol o una silueta en el mismo encuadre.
+   sur celeste, que no tiene estrella brillante (y la Cruz del Sur, el truco
+   clásico, está bajo el horizonte en tus anocheceres). El polo queda a una
+   altura igual a tu latitud: ~24° en Sesriem, **~19° en Etosha** — el
+   centro de los círculos cae bajo, así que puedes meter un árbol o una
+   silueta en el mismo encuadre. Para clavarlo: brújula del móvil al sur y
+   **dos puños** con el brazo estirado por encima del horizonte (~10° cada
+   uno), o la realidad aumentada de PhotoPills (modo "Noche"). Con la
+   cámara nivelada y el horizonte en el tercio bajo, el 12 mm abarca 66° de
+   alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
+   la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
+   [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 2. Receta: **30 s, f/2.8 (el anillo), ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
