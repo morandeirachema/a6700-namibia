@@ -1,6 +1,9 @@
 # Paisaje diurno en Namibia — dunas, Deadvlei, Kolmanskop y costa
 
-La mitad diurna del país que no es fauna.
+La mitad diurna del país que no es fauna. Esta guía da la foto correcta y el
+mapa de la ruta; el salto a la foto buena — luz rasante, profundidad con el
+12 mm, escala, líneas, color, panorámicas — está en
+[Paisaje a fondo](../mejora/paisaje-a-fondo.md).
 
 ## Receta base de paisaje
 

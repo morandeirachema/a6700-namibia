@@ -57,7 +57,9 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 
 La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
 principio te costará *encontrar* al animal por el visor a 400 mm — es normal,
-se entrena (deberes, abajo).
+se entrena (deberes, abajo). Y el móvil no se jubila: lo que le sigues
+pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
+[la guía del Pixel 10 Pro](../comun/pixel-10-pro.md).
 
 ## La cámara en la mano
 

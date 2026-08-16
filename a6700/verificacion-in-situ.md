@@ -126,8 +126,9 @@ El repaso que separa "creo que la tengo" de "la tengo":
   inclinación.
 - [ ] ¿Obturación por debajo de ~1/focal equivalente a pulso? → trípode o
   ISO arriba. La primera luz es más débil de lo que parece.
-- [ ] Enfoca a un tercio de la escena (no al infinito): a 12 mm y f/8 entra
-  todo en foco.
+- [ ] Con el 12 mm: anillo de enfoque **un poco pasado de la marca de 1 m**
+  (~1,5 m) — a f/8 entra todo en foco de 0,6 m al infinito, y ya no lo
+  tocas. Con el tele, AF-S a un tercio de la escena.
 - [ ] Contraste imposible (vlei en sombra + duna encendida): histograma
   empotrado en **ambos** bordes → horquillado: menú de avance → `Bracket`,
   3 fotos ±2 EV, con temporizador 2 s.

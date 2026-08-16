@@ -98,7 +98,9 @@ La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
 [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md). Y la
 GoPro trabaja en paralelo cada noche: Night Lapse o Star Trails sobre la
-Volta 2, en otra dirección ([su chuleta](../comun/chuleta-gopro.md)).
+Volta 2, en otra dirección ([su chuleta](../comun/chuleta-gopro.md)); y el
+Pixel, apoyado en una piedra, saca su foto astro con mini-timelapse sin que
+lo mires ([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Star trails (circumpolares del sur)
 

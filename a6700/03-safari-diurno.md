@@ -177,7 +177,10 @@ Ella también hace el safari, sin quitarte atención: anclada en la barra del
 reposacabezas grabando **4K60**, o en Time Lapse (intervalo 5 s) apuntando a
 la charca durante la espera. Un vistazo a su anclaje en cada parada y nada
 más — recetas y tomas en [su chuleta](../comun/chuleta-gopro.md) y
-[su guía](../comun/gopro-mission-1.md).
+[su guía](../comun/gopro-mission-1.md). Y el Pixel, en el bolsillo, hace la
+foto *de alrededor*: el elefante junto al coche con el paisaje, el interior
+del coche a 0.5x, la gente — nunca el animal lejano a 20x
+([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Referencias
 

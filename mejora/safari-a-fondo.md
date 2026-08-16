@@ -206,7 +206,7 @@ viaje; la secuencia de cinco te chequea cada escena.
 - **Regla general: los clips, con la GoPro o el móvil.** La GoPro enganchada
   a la ventanilla o al salpicadero graba el ambiente del safari sin que la
   toques ([equipo](../a6700/05-equipo-accesorios.md)); el Pixel estabiliza,
-  enfoca solo y comparte al momento. Para el vídeo-recuerdo, cualquiera de
+  enfoca solo y comparte al momento ([su guía](../comun/pixel-10-pro.md)). Para el vídeo-recuerdo, cualquiera de
   los dos es mejor herramienta que dividir tu atención.
 - La a6700, eso sí, **es una cámara de vídeo seria** (4K con AF de
   seguimiento y reconocimiento de animales), y tiene su hueco: la escena

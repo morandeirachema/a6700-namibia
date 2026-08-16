@@ -130,7 +130,10 @@ Dos papeles esa misma noche: quieta en el murete del mirador grabando al
 rino en **vídeo 4K30** (la toma 12 del vídeo-recuerdo) mientras tú disparas
 la a6700 — en silencio, como todo aquí —, o en la zona oscura del campamento
 haciendo su Night Lapse sobre la Volta 2
-([su chuleta](../comun/chuleta-gopro.md)).
+([su chuleta](../comun/chuleta-gopro.md)). El Pixel, con Visión Nocturna
+apoyado en el murete y **sin flash**, hace el ambiente — el foco, la gente,
+el reflejo —, nunca al rino moviéndose
+([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Combinar con astro
 

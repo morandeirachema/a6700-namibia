@@ -140,7 +140,14 @@ MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
   allí con arroz o alubias del primer supermercado; se vacía antes de volver.
 - **Filtro protector de 67 mm (opcional)**: el Rokinon y el Tamron comparten
   rosca — un solo filtro neutro (~25–40 €) protege del polvo de Etosha al
-  que lleve puesto. Para astro, siempre sin filtro.
+  que lleve puesto. Para astro, siempre sin filtro. Si te pica el paisaje
+  ([Paisaje a fondo](../mejora/paisaje-a-fondo.md)), dos más, también en
+  67 mm y también opcionales: un **ND1000** (~25–40 €) para olas y niebla de
+  30 s a plena luz, y un **polarizador circular** (~20–30 €) solo para el
+  tele — en el 12 mm oscurece el cielo a trozos.
+- **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
+  timelapses del [Pixel](../comun/pixel-10-pro.md) — una piedra también
+  vale, pero la pinza apunta donde tú quieres.
 - **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en
   una mirrorless el sensor queda a la vista al desmontar.

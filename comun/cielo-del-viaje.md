@@ -161,7 +161,7 @@ Tu foto en movimiento, por tres vías (de menos a más esfuerzo):
    sobre la **Volta 2** (su empuñadura-batería de 5.800 mAh,
    [equipo](../a6700/05-equipo-accesorios.md)).
 2. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
-   móvil quieto sobre una piedra.
+   móvil quieto sobre una piedra ([su guía](pixel-10-pro.md)).
 3. **La a6700 con su intervalómetro integrado** (`Interval Shoot Func.`),
    la versión de máxima calidad — sin cable que comprar, viene de serie:
    15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
