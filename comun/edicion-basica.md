@@ -116,30 +116,37 @@ fotogramas por segundo):
    herramienta especializada es **LRTimelapse** (de pago:
    <https://lrtimelapse.com/>).
 
-## Montar el vídeo-recuerdo (DaVinci para novatos)
+## Montar el vídeo del viaje (DaVinci para novatos)
 
-El cierre del viaje: los clips del Pixel y del vlog de la a6700 convertidos
-en un vídeo de 3–5 minutos. El guion ya lo rodaste — los capítulos de la
-[lista de tomas del vídeo](pixel-10-pro.md) (ida, carretera, desierto,
-costa, safari, noche, campamento, vuelta) y, si has grabado las habladas, la
-estructura minuto a minuto del [vlog con el 11 mm](vlog-con-el-11mm.md). El montaje, paso a paso en
+El cierre del viaje: **un solo vídeo de unos 3 minutos y sin voz** — imágenes,
+sonido ambiente y una canción — con los dos materiales: los planos de la
+a6700, que son el esqueleto, y los timelapses y el recurso del Pixel. El
+guion ya lo rodaste: es la estructura en siete bloques de
+[el vídeo del viaje](video-del-viaje.md) (gancho → el viaje empieza →
+desierto → costa → safari → noche → cierre). El montaje, paso a paso en
 **DaVinci Resolve** (gratis:
 <https://www.blackmagicdesign.com/products/davinciresolve>):
 
 1. Proyecto nuevo → importa la carpeta de clips del viaje (ya volcados por
-   días al SSD).
-2. Arrastra a la línea de tiempo **en el orden del guion**, no en el orden
-   de grabación: la historia manda.
+   días al SSD). Los de la Sony y los del móvil van juntos: distinta cámara,
+   misma línea de tiempo (si el color no casa, iguala el del móvil al de la
+   Sony con la rueda de temperatura, no al revés).
+2. **Primero la música**: elige la canción antes de montar — sin voz, es
+   ella la que marca el ritmo. Luego coloca los planos por bloques, cortando
+   en los golpes que te pida la música. Nunca en el orden de grabación: la
+   historia manda.
 3. Recorta cada clip a sus **3–6 segundos buenos** (herramienta de corte;
    los 5 s quietos que dejaste al grabar son el margen). Fuera todo lo que
    dude: mejor 3 minutos redondos que 8 regulares.
 4. Los timelapses del Pixel ya vienen montados: entran como un clip más. Los
    de la a6700, como los exportaste
    ([arriba](#montar-un-timelapse-en-vídeo)).
-5. **Música**: una sola canción sin copyright (la biblioteca de audio de
-   YouTube Studio, por ejemplo) marca el ritmo de los cortes. Baja el sonido
-   ambiente de los clips — salvo donde ES la escena: las focas, la tormenta,
-   el león de noche.
+5. **Música y ambiente**: una sola canción sin copyright (la biblioteca de
+   audio de YouTube Studio, por ejemplo) de fondo, y **el sonido ambiente de
+   los clips por debajo, no apagado** — es lo que hace que el vídeo se sienta
+   real. Y en dos o tres momentos, baja la música y deja **solo el ambiente**:
+   las focas, la tormenta, el elefante bebiendo. Ese contraste es todo el
+   "montaje avanzado" que necesitas.
 6. Exporta con el preajuste **YouTube 1080p** de la pestaña Deliver y
    listo: ese archivo es el recuerdo.
 

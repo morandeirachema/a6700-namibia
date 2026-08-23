@@ -5,7 +5,11 @@ mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche,
 con ventana típica entre las **21:00 y la medianoche** — fiable también en
 noviembre) y Halali (charca Moringa). El hide de Olifantsrus, en el oeste, abre 24 h pero
 se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
-estética. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
+estética. Y tu **última noche** cae fuera del parque, en la reserva privada
+de **Onguma** (Tamboti, junto a la puerta Von Lindequist): también tiene
+charca iluminada, con el bar y el restaurante asomados a ella
+(<https://onguma.com/>) — mismas recetas, y con la ventaja de que allí no te
+encierra la valla del parque. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
 Info de campamentos: <https://www.nwr.com.na/>
 
 ## Receta rápida

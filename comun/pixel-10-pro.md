@@ -1,14 +1,15 @@
 # El Pixel 10 Pro — la segunda cámara (la que siempre llevas encima)
 
-La a6700 hace la foto seria; el Pixel 10 Pro es todo lo demás: la cámara que
-**ya está en tu bolsillo cuando pasa algo**, la que **rueda el vídeo del
-viaje**, y la que tiene cuatro cosas que la Sony no tiene — un **ultra gran
+La a6700 hace la foto seria y los planos buenos del vídeo
+([su guía](video-del-viaje.md)); el Pixel 10 Pro es todo lo demás: la cámara
+que **ya está en tu bolsillo cuando pasa algo**, la que pone el **recurso y
+los timelapses** del vídeo del viaje, y la que tiene cuatro cosas que la Sony
+no tiene — un **ultra gran
 angular** de 123°, **macro** a 3 cm, un modo **astro** que dispara y monta un
 timelapse solo, y el **tramo intermedio** (25–113 mm equivalentes) que tus
 dos objetivos no cubren. Esta guía dice qué le pides en cada escena del
 viaje, qué no le pidas (fauna lejana y la charca de noche son de la Sony),
-cómo se ajusta una vez para no pensar más y cuál es su lista de tomas de
-vídeo. Es autocontenida: sin haber tocado un ajuste del móvil se puede
+cómo se ajusta una vez para no pensar más y qué tomas de vídeo son suyas. Es autocontenida: sin haber tocado un ajuste del móvil se puede
 seguir.
 
 ## La ficha (verificada)
@@ -149,50 +150,33 @@ Complementan la [lista de tomas](lista-de-tomas.md) de la Sony:
 - ☐ 9 **La Vía Láctea "de bolsillo"** con la tienda — el modo astro, y su mini-timelapse
 - ☐ 10 **La mesa del braai y la vida pequeña**: la cena, la lámpara, el mapa de mañana
 
-## El vídeo del viaje — la lista de tomas (con sus ajustes)
+## El recurso del vídeo — las tomas que son del móvil
 
-El objetivo: volver con material para montar en casa un vídeo de **3–5
-minutos** que cuente el viaje entero. La regla de oro: **muchos clips
-cortos** (10–20 segundos rodando de verdad) valen infinitamente más que
-pocos clips eternos — el montaje se hace con variedad, no con metraje. El
-montaje, paso a paso, está en la [guía de edición](edicion-basica.md).
-
-**Las cuatro reglas del rodaje**, más importantes que cualquier ajuste:
-
-1. **No zoomes durante la toma.** Elige el encuadre, dispara, para. Si
-   quieres otro tamaño, otro clip.
-2. **Deja 5 segundos quietos** al principio y al final: es el margen que pide
-   el corte.
-3. **Graba parejas**: cada escena, un plano ancho Y un detalle (la charca
-   entera + solo las patas en el agua).
-4. **Repite una toma-firma cada día** (el café del amanecer, la puerta del
-   campamento): la repetición es el hilo conductor del vídeo.
+Del viaje sale **un solo vídeo**, de 3 a 5 minutos. Su esqueleto —la
+estructura y los planos buenos— lo rueda la a6700 con el 11 mm
+([el vídeo del viaje](video-del-viaje.md)); el móvil pone lo que la Sony no
+puede o no debe hacer: **los timelapses**, el coche en marcha, el agua y el
+polvo (es IP68), y el *making of*. Estas once son suyas y no se solapan con
+las de la Sony:
 
 | # | La toma | Cómo | Ajuste |
 |---|---|---|---|
 | ☐ 1 | **El despegue** (y el aterrizaje en Windhoek) | Apoyado en la ventanilla, horizonte recto | Timelapse |
-| ☐ 2 | **La grava infinita** | Apoyado en el salpicadero contra el parabrisas, carretera recta delante | Timelapse (o clip 4K30 en los tramos buenos) |
-| ☐ 3 | **La carretera que impresiona** | Spreetshoogte, el pasillo de dunas de Sesriem, la C14 del Kuiseb, la carretera de sal C34, el paso de Grootberg | Vídeo **4K30**, móvil quieto y sujeto con las dos manos |
+| ☐ 2 | **La grava infinita** | Apoyado en el salpicadero contra el parabrisas, carretera recta delante | Timelapse |
+| ☐ 3 | **La carretera que impresiona** | Spreetshoogte, el pasillo de dunas de Sesriem, la C14 del Kuiseb, la carretera de sal C34, el paso de Grootberg ([las carreteras](paisaje-namibia.md)) | Vídeo **4K30**, móvil quieto y con las dos manos |
 | ☐ 4 | **El atardecer de Spreetshoogte** | Apoyado en una piedra en el mirador, sin tocarlo hasta que sea noche | **Timelapse con Visión Nocturna** (aguanta el día→noche) |
-| ☐ 5 | **Subir la duna** | En la mano, caminando: la estabilización hace el resto | Vídeo 4K30 — el jadeo es parte del recuerdo |
-| ☐ 6 | **La cresta y los pies hundiéndose** | Dos pasadas: el filo de la cresta con el mar de dunas, y a ras de suelo la arena resbalando | 4K30 la caminata; **cámara lenta** la arena |
-| ☐ 7 | **Las sombras de las dunas** | Apoyado y quieto, primera o última hora | Timelapse, 30–60 min |
-| ☐ 8 | **La niebla de la costa entrando** | Quieto mirando al mar, al atardecer | Timelapse |
-| ☐ 9 | **Las focas de Cape Cross** | En la mano desde la pasarela — y deja que grabe el **sonido**: el ruido es media escena | Vídeo 4K30 |
-| ☐ 10 | **La espera en la charca** | Apoyado en el salpicadero o el bean bag, encuadre ancho fijo | Timelapse: las oleadas de animales entrando y saliendo |
-| ☐ 11 | **Elefantes junto al coche** | Sin sacar el brazo por la ventanilla; el gran angular hace enormes las cosas cercanas | Vídeo 4K30, dejar rodar sin mover |
-| ☐ 12 | **La charca de noche** | En el murete, apoyado, **sin flash** | Vídeo 4K30 solo si el animal está quieto y bajo el foco |
-| ☐ 13 | **El cielo** | La foto astro deja además su **mini-timelapse** (arriba) | Modo Astrofotografía |
-| ☐ 14 | **El campamento** | Sobre la mesa o el capó, apuntando a la tienda o al braai | Timelapse |
-| ☐ 15 | **El making of** | Tú con la a6700 y el tele, el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5–10 s |
-| ☐ 16 | **La vida pequeña** | Café al amanecer, la ducha de campamento, el mapa sobre el capó | Vídeo 4K30 — estas tomas "tontas" son las que más se agradecen al montar |
+| ☐ 5 | **Las sombras de las dunas** | Apoyado y quieto, primera o última hora | Timelapse, 30–60 min |
+| ☐ 6 | **La niebla de la costa entrando** | Quieto mirando al mar, al atardecer | Timelapse |
+| ☐ 7 | **La espera en la charca** | Apoyado en el salpicadero o el bean bag, encuadre ancho fijo | Timelapse: las oleadas de animales entrando y saliendo |
+| ☐ 8 | **Elefantes junto al coche** | Sin sacar el brazo por la ventanilla; a 0.5x lo cercano se hace enorme | Vídeo 4K30, dejar rodar sin mover |
+| ☐ 9 | **El campamento** | Sobre la mesa o el capó, apuntando a la tienda o al braai | Timelapse |
+| ☐ 10 | **El making of de la Sony** | Tú con el tele sobre el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5–10 s |
+| ☐ 11 | **La vida pequeña y lo mojado** | Café al amanecer, la ducha de campamento, el mapa en el capó, la lluvia de la tormenta (el móvil es IP68 y la cámara no) | Vídeo 4K30 |
 
-Y los dos planos que **sí** son de la Sony: la escena estática a 525 mm
-equivalentes que el móvil no alcanza — el rinoceronte bebiendo, los
-elefantes en la charca — con la receta mínima de
-[Safari a fondo](../mejora/safari-a-fondo.md) (4K a 25 fps, obturación 1/50,
-sobre el bean bag y sin reencuadrar); y el **vlog hablado** con el 11 mm,
-que tiene guía propia: [Vlog de 3 minutos con el 11 mm](vlog-con-el-11mm.md).
+Y las tres reglas de rodaje, iguales para las dos cámaras: **no zoomes
+durante la toma**, deja **5 segundos quietos** al principio y al final, y
+graba **parejas** (un plano ancho y un detalle de cada escena). El montaje de
+todo junto, en la [guía de edición](edicion-basica.md).
 
 ## Los archivos: energía y copias
 

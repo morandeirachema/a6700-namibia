@@ -205,10 +205,15 @@ viaje; la secuencia de cinco te chequea cada escena.
 
 ## 8 · ¿Y vídeo? (el clip del elefante, sin engañarse)
 
-- **Regla general: los clips, con el móvil.** El Pixel estabiliza, enfoca
-  solo, comparte al momento y tiene su propia lista de tomas
-  ([su guía](../comun/pixel-10-pro.md)). Para el vídeo-recuerdo es mejor
-  herramienta que dividir tu atención entre foto y vídeo con la Sony.
+- **Regla general en pleno safari: los clips, con el móvil.** El Pixel
+  estabiliza, enfoca solo y no te roba la escena mientras disparas
+  ([su guía](../comun/pixel-10-pro.md)) — dividir tu atención entre foto y
+  vídeo con la Sony es la forma más rápida de perder las dos.
+- **Fuera del momento de fauna**, el vídeo del viaje sí es de la a6700 con el
+  11 mm — tres minutos sin voz, con sonido ambiente y música: la estructura y
+  las 17 tomas están en
+  [El vídeo del viaje](../comun/video-del-viaje.md), con
+  [chuleta](../comun/chuleta-video.md).
 - La a6700, eso sí, **es una cámara de vídeo seria** (4K con AF de
   seguimiento y reconocimiento de animales), y tiene su hueco: la escena
   estática a 525 mm equivalentes que el móvil no alcanza — el

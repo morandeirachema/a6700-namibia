@@ -70,6 +70,8 @@ reportaje y no con un carrete de pruebas.
   elige cuál persigues mañana.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —
   la segunda vez ya sabes qué falló.
-- El **vídeo** tiene su propia lista de tomas (avión, carretera, dunas,
-  focas, noche…) con los ajustes de cada una, y la rueda el móvil: en la
-  [guía del Pixel](pixel-10-pro.md).
+- El **vídeo** tiene su propia lista y su guion: las 17 tomas de la a6700
+  con el 11 mm están en [el vídeo del viaje](video-del-viaje.md) (con
+  [chuleta imprimible](chuleta-video.md)), y las 11 del móvil —timelapses y
+  recurso— en la [guía del Pixel](pixel-10-pro.md). Del viaje sale **un solo
+  vídeo**, no dos.

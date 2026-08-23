@@ -18,8 +18,7 @@ recortable y qué no.
 | Semana | Tema | Qué hacer |
 |---|---|---|
 | **1** · 17–23 ago | **Pedidos y nivel 1** | Pide YA lo que falta: la a6700 y sus dos objetivos si aún no han llegado (**70-350 G OSS** y **11mm F1.8**), **2 SD UHS-II V60**, **2 baterías NP-FZ100 + cargador doble USB** (la caja no trae cargador), anillo step-up 55→67 y filtro, bean bag, prismáticos ([equipo](../a6700/05-equipo-accesorios.md)). Lee el [capítulo 0](../a6700/00-de-movil-a-la-a6700.md) y haz la **tarde 1** (apertura en el parque). Y los 10 minutos del [nivel básico del Pixel](pixel-10-pro.md): ajustes de una vez |
-| **2** · 24–30 ago | **Obturación** | **Tarde 2** (1/60 vs 1/1000 con bicis o perros). Y el vídeo: cinco clips de 4K con el Pixel siguiendo las reglas de rodaje de [su guía](pixel-10-pro.md) — 10–20 s, sin zoomear, 5 s quietos al principio y al final |
-| **2 bis** · misma semana | **El vlog** | Las **dos tardes** de [Vlog con el 11 mm](vlog-con-el-11mm.md): grabarte hablando cinco veces las mismas tres frases, y 20 planos de recurso montados esa noche en un clip de 40 s. Es lo que decide si el vlog del viaje existe |
+| **2** · 24–30 ago | **Obturación y vídeo** | **Tarde 2** (1/60 vs 1/1000 con bicis o perros). Y las **dos tardes de vídeo** de [El vídeo del viaje](video-del-viaje.md): 20 clips de 5 s en parejas (ancho + detalle) con Active puesto y 30 s de ambiente, montados esa noche en un clip de 40 s con música. Deja el `Selector NTSC/PAL` en **PAL** ahora, que formatea la tarjeta |
 | **3** · 31 ago–6 sep | **Llegan los objetivos** | **Prueba de aceptación** del 70-350 el día que llegue, dentro del plazo de devolución — y el repaso corto del 11 mm ([verificación, §2](../a6700/verificacion-in-situ.md)). **Tarde 3** (AF-C + ráfaga con un perro): el ejercicio más importante — primero sin tele, luego con el 70-350 montado |
 | **4** · 7–13 sep | **🌑 Luna nueva del ~11 sep** | Las **noches 1 y 2 de la escalera de estrellas** (la base y la postal) en el sitio oscuro que elegiste con [Light Pollution Map](apps-del-viaje.md); esa misma noche, el **modo astro del Pixel** apoyado en una piedra mientras la Sony expone. Entre semana, **tarde 4** (compensación + histograma) |
 | **5** · 14–20 sep | **La cámara a ciegas** | **Tarde 6**: configura MR1/MR2 y la botonera, y practica el cambio sin mirar. Drills cronometrados: MR1→MR2 en <5 s, poner el seguimiento sobre el sujeto (toque o pulsación) y verificar que caza el ojo en <2 s, la rutina de 10 s completa. Y 15 min de **webcam de la charca de Okaukuejo** (búscala: "Okaukuejo waterhole live cam") decidiendo encuadres en voz alta |
@@ -50,8 +49,8 @@ recortable y qué no.
   principio a fin, incluido el apilado en casa.
 - [ ] El Pixel: modo, encuadre y clip de 4K sin pensarlo, y el astro apoyado
   en una piedra.
-- [ ] Te grabas hablando 20 segundos con el 11 mm sin que te dé vergüenza ni
-  te salgan planos temblorosos.
+- [ ] Grabas 20 segundos con el 11 mm caminando y no salen temblorosos, y
+  has montado al menos un clip corto con música.
 - [ ] Has cribado y revelado un día completo de fotos sin agobiarte.
 - [ ] El simulacro del día antes sale sin sorpresas.
 

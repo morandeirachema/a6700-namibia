@@ -61,6 +61,24 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
   reasignable desde el menú de personalización de la cámara — a un novato le
   renta dejarlo como viene.
 
+## Vídeo: los cinco ajustes que se ponen una vez
+
+El selector **Foto / Vídeo / S&Q** guarda ajustes propios para cada modo, así
+que esto se pone una vez y se queda — sin gastar ninguna memoria del dial y
+sin tocar el modo safari:
+
+| Ajuste | Valor | Motivo |
+|---|---|---|
+| `Selector NTSC/PAL` | **PAL** | Es lo que habilita los 25p europeos. **Cambiarlo formatea la tarjeta**: hazlo en casa, nunca en el viaje |
+| Formato de archivo / ajustes de grabación | XAVC S 4K · **25p · 100 Mbps** | Calidad de sobra y archivos manejables (~45 GB/hora) |
+| Modo de exposición (en Vídeo) | **M con ISO Auto**, obturación **1/50** | La "regla del 180°": movimiento natural |
+| Perfil de imagen | **OFF** | S-Log3 obliga a etalonar en casa; no es para este viaje |
+| SteadyShot (película) | **Active** | Estabilización extra para andar grabando (recorta 1,1x) |
+
+El resto —encuadre, audio, cómo se sujeta y qué grabar— está en
+[el vídeo del viaje](../comun/video-del-viaje.md), con
+[chuleta imprimible](../comun/chuleta-video.md).
+
 ## Memorias del dial: MR1 y MR2
 
 Configura la cámara como quieras que quede y guárdala con
@@ -105,6 +123,8 @@ está en la [guía de logística](../comun/logistica-viaje.md).
 | Balance de blancos | White balance |
 | Memoria ajustes cám. | Camera Set. Memory |
 | Función disparo intervalos | Interval Shoot Func. |
+| Selector NTSC/PAL | NTSC/PAL Selector |
+| Perfil de imagen | Picture Profile |
 | Retención de enfoque | Focus Hold |
 | Ajuste SteadyShot | SteadyShot Adjust |
 | Nivel | Level |

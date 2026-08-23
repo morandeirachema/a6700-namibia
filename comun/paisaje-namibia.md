@@ -131,6 +131,34 @@ nocturno: [edición](edicion-basica.md).
   cielo de Etosha, con el granito de silueta.
 - Turismo e info general de estas zonas: <https://www.namibiatourism.com.na/>
 
+## Las carreteras que son foto (y timelapse)
+
+En Namibia se conduce mucho, y varios tramos de tu ruta son el paisaje —
+no el camino hacia el paisaje. La receta es siempre la misma: **para el
+coche** (fuera de Etosha se puede bajar; dentro, no), busca un alto o una
+recta larga, y saca dos cosas — el **tele comprimiendo** la cinta de grava
+con el coche diminuto encima, y el **11 mm** desde el borde con la carretera
+entrando por una esquina. Y con el móvil o la cámara en el salpicadero, un
+**timelapse** del tramo entero ([el vídeo del viaje](video-del-viaje.md)).
+
+| Tramo | Por qué para el coche |
+|---|---|
+| **Paso de Spreetshoogte (D1275)**, noches 1–2 | El paso más empinado del país: la escarpa cae al Namib en curvas de horquilla. El mirador de arriba da atardecer y amanecer sin moverte del alojamiento |
+| **Sesriem → Sossusvlei** (día 4) | 60 km asfaltados por un pasillo de dunas naranjas que se cierra a los lados; a primera hora, luz rasante en las dos caras |
+| **C14, pasos de Gaub y Kuiseb** (Solitaire → Walvis Bay, día 5) | Cañones y *badlands* del Kuiseb: el tramo más "otro planeta" de la ruta, y el mejor para blanco y negro |
+| **C34, la carretera de sal** (Swakopmund → Cape Cross → Terrace Bay, días 6–7) | El océano a un lado y el desierto al otro, con la niebla del Benguela entrando: recta hipnótica, minimalismo puro |
+| **C39 por Springbokwasser** hacia Damaraland (día 8) | El cambio de mundo se ve en una hora: del gris de la costa al rojo de las mesetas |
+| **Paso de Grootberg (C40)** camino de Hoada | El gran mirador de Damaraland: el valle entero al fondo, mejor a última hora |
+| **Pistas de calcreta de Etosha y el ramal del Etosha Lookout** (días 9–12) | Blanco a 360°, sin nada alrededor: el vacío como sujeto — y de los pocos sitios del parque donde se puede bajar del coche |
+
+Ojo con dos cosas: la **grava suelta** (para en el arcén firme, no en mitad
+de la curva) y el **polvo del coche de delante**, que a contraluz es una foto
+preciosa y, en la lente, una noche de limpieza ([limpieza](limpieza-en-campo.md)).
+
+Las distancias, los horarios de puertas y qué carretera toca cada día están
+calculados en el dossier del viaje:
+<https://github.com/morandeirachema/namibia>.
+
 ## Atardeceres y siluetas
 
 La postal africana barata de conseguir: **expón para el cielo** (compensación

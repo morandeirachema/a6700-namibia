@@ -202,8 +202,8 @@ dentro del recinto y cerca de ti.
 | dom 8 | Hoada | El ensayo general de Etosha: Nubes + núcleo con el granito de silueta | Astro con una bola de granito recortada |
 | lun 9 | Okaukuejo · **luna nueva** | La gran noche: charca con foco (rinos 21:00–24:00) y Vía Láctea desde el rincón oscuro | Astro con el depósito de agua de silueta, mientras tú estás en la charca |
 | mar 10 | Halali | Charca Moringa al anochecer + Nubes el resto | Astro entre los mopanes del campamento |
-| mié 11 | Namutoni | Noche de cielo y Táuridas: serie larga de star trails con la a6700 | Astro repetido en varias direcciones — más red para cazar un bólido |
-| jue 12 | Namutoni | El gran nocturno: lo que falte de la [lista](lista-de-tomas.md) (pano, Nubes con silueta) | Astro con la muralla blanca del fuerte |
+| mié 11 | Namutoni | Noche de cielo y Táuridas: serie larga de star trails con la muralla blanca del fuerte de silueta | Astro repetido en varias direcciones — más red para cazar un bólido |
+| jue 12 | **Onguma Tamboti** (fuera del parque) | El gran nocturno: charca iluminada del lodge al anochecer y luego lo que falte de la [lista](lista-de-tomas.md) (pano, Nubes con silueta) — y sin la valla del parque encima | Astro con los mopanes de la reserva |
 | vie 13 | Windhoek | La creciente con luz cenicienta a 350 mm (525 mm eq) tras el ocaso, y a dormir | Timelapse del atardecer urbano con la creciente poniéndose |
 | sáb 14 | Vuelo | — | — |
 

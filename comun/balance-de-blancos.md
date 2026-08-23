@@ -34,6 +34,16 @@ práctica: **de día, un preajuste fijo; de noche, Kelvin a mano.**
 - Si se te olvidó cambiarlo: no pasa nada — es RAW. Corrígelo en el
   [revelado](edicion-basica.md) con el cuentagotas sobre algo neutro o a ojo.
 
+## Y en vídeo, con más motivo
+
+En foto el balance se corrige después sin pérdida, porque disparas RAW. **En
+vídeo no**: el color va cocido en el archivo, y el AWB no solo se equivoca —
+**cambia de tono a mitad de un plano** cuando entra una nube o giras la
+cámara, y eso sí que no se arregla. Por eso el
+[el vídeo del viaje](video-del-viaje.md) manda poner **K fijo** siempre: los
+mismos valores de la tabla de arriba (5200 de día, 6000 con nubes, ~3200 con
+luz de tienda), decididos antes de darle a grabar.
+
 ## Referencias
 
 - El balance de blancos en la Guía de ayuda oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>

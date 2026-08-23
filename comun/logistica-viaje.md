@@ -31,6 +31,7 @@ volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
 |---|---|---|---|
 | **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | SD UHS-II (V60) de 128 GB ×2 mínimo — y no se reutilizan hasta volcar: la ranura es única |
 | **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ya cubierto por las SD de arriba |
+| **a6700 (vídeo)** | 4K 25p a 100 Mbps ≈ **45 GB/hora** (unos 750 MB por minuto) | El vídeo entero son minutos, no horas: 60–90 clips de 10 s ≈ 8–12 GB en todo el viaje | Cabe de sobra en las SD de arriba; vuélcalo con las fotos |
 | **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | Memoria libre en el móvil antes de volar + copia al SSD cada 2–3 noches |
 | **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas; cada astro guarda foto + mini-vídeo | Despreciable frente al vídeo | — |
 
@@ -129,6 +130,7 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 | La a6700 (con el 70-350 montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
 | El 11 mm en su compartimento | Bean bag **vacío** |
 | **Todas** las baterías (NP-FZ100) y el power bank | Cargadores, regleta y adaptadores D/M |
+| El micro (si lo llevas) y el filtro ND, en su funda | Peluche antiviento y mini trípode |
 | Tarjetas SD y el SSD | Kit de limpieza, bolsas zip, cinta |
 | El móvil y el mini trípode o pinza | Ropa alrededor de todo, haciendo de acolchado |
 | Lector de tarjetas, pera y una microfibra | Frontal rojo |
@@ -174,6 +176,10 @@ no en Etosha:
 - [ ] El 11 mm puesto: una foto a infinito de prueba y otra con el truco de
   paisaje (enfocar a un metro y pasar a MF), comprobando las esquinas al
   100 %.
+- [ ] **Prueba de vídeo**: selector en Vídeo, PAL y 4K 25p confirmados, un
+  clip de 30 segundos **escuchado con auriculares** (¿entra el ambiente sin
+  ruido de viento?) y abierto en el ordenador
+  ([el vídeo del viaje](video-del-viaje.md)).
 - [ ] Baterías todas cargadas; fecha y hora de la cámara en hora local.
 - [ ] **Copia de seguridad hecha de todo lo que haya en la tarjeta — y
   entonces** formatearla EN la cámara (nunca en el ordenador).

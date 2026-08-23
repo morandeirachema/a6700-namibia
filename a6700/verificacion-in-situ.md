@@ -31,6 +31,10 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
   actualizan con el objetivo montado, conectando la cámara al ordenador
   desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
   hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
+- [ ] **Vídeo listo**: `Selector NTSC/PAL` en **PAL**, 4K 25p, y una prueba
+  de 30 s **escuchada con auriculares**. *Por qué:* cambiar NTSC⇄PAL obliga
+  a formatear la tarjeta — hacerlo en el viaje es perder lo que haya dentro
+  ([el vídeo del viaje](../comun/video-del-viaje.md)).
 - [ ] **Creators' App emparejada** con el móvil, en casa y con wifi.
   *Por qué:* allí no hay cobertura para descargar ni configurar nada.
 
@@ -86,8 +90,11 @@ asimétricas, ese ejemplar está descentrado.
 - [ ] Bean bag en la ventanilla, cámara encendida en el regazo, tapa quitada.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
 - [ ] **El Pixel** cargado, con hueco y en el bolsillo (no en el
-  salpicadero al sol): es tu segunda cámara y el vídeo del viaje
+  salpicadero al sol): es tu segunda cámara y el recurso del vídeo
   ([su guía](../comun/pixel-10-pro.md)).
+- [ ] **Si hoy toca grabar vídeo**: selector en **Vídeo**, peluche del micro
+  puesto y ND en el bolsillo — la rutina entera cabe en la
+  [chuleta de vídeo](../comun/chuleta-video.md).
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 
@@ -229,6 +236,10 @@ El repaso que separa "creo que la tengo" de "la tengo":
   el objetivo de mañana.
 - [ ] Pixel al cargador; copia sus fotos y clips al SSD cada 2–3 noches
   ([su guía](../comun/pixel-10-pro.md)).
+- [ ] **Los clips de vídeo del día, a su carpeta — y borra los fallidos**
+  (la única excepción a "no se borra nada": un clip de 4K fallido son gigas
+  muertos). ¿Qué tomas de vídeo caen hoy? Márcalas en la
+  [chuleta de vídeo](../comun/chuleta-video.md).
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).

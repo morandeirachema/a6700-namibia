@@ -126,8 +126,8 @@ PhotoPills):
 | dom 8 | Hoada | ~2 % | ~20:30 → 04:55, casi entera | Granito + cielo sin luna: el ensayo general de Etosha |
 | lun 9 | Okaukuejo | **Nueva (0 %)** | **Toda la noche** | Charca con foco: rinos 21:00–24:00, y Vía Láctea de libro |
 | mar 10 | Halali | **Nueva (~0–1 %)** | **Toda la noche** | Charca Moringa al anochecer + cielo el resto |
-| mié 11 | Namutoni | ~3 %, se pone ~1–2 h tras el sol | ~20:35 → alba | Sin charca con foco fiable aquí: noche de cielo (y Táuridas) |
-| jue 12 | Namutoni | ~9 %, se pone ~2 h tras el sol | ~21:15 → alba | El gran nocturno del viaje: última noche de cielo oscuro |
+| mié 11 | Namutoni | ~3 %, se pone ~1–2 h tras el sol | ~20:35 → alba | Sin charca con foco fiable aquí: noche de cielo (y Táuridas), con la muralla blanca del fuerte de silueta |
+| jue 12 | **Onguma Tamboti** (reserva privada, fuera de la puerta Von Lindequist) | ~9 %, se pone ~2 h tras el sol | ~21:15 → alba | El gran nocturno del viaje: **charca iluminada del lodge** + última noche de cielo oscuro, y aquí sí puedes moverte fuera del recinto vallado del parque |
 | vie 13 | Windhoek | ~15 %, creciente vespertina | Tras el ocaso | El creciente fino sobre el horizonte oeste, y a dormir |
 | sáb 14 | Vuelo | ~22 % | — | A casa con las tarjetas llenas y la copia hecha |
 

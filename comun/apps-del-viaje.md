@@ -30,7 +30,8 @@ Organic Maps te sobra para esta ruta).
 2. **Crea un pin por alojamiento**: abre **Planificador**, busca el sitio o
    mantén pulsado sobre el mapa para soltar el pin rojo, y guárdalo como
    favorito. Uno por noche de la ruta: Spreetshoogte, Sesriem, Walvis Bay,
-   Terrace Bay, Hoada, Okaukuejo, Halali y Namutoni.
+   Terrace Bay, Hoada, Okaukuejo, Halali, Namutoni y **Onguma Tamboti** (la
+   última noche, ya fuera del parque).
 3. Con cada pin en pantalla, **pasea y amplía el mapa alrededor**: esas
    teselas quedan cacheadas y allí verás mapa en vez de gris.
 4. Comprueba la hora: Namibia va en **UTC+2 todo el año** (una hora más que

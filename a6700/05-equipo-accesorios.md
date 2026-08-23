@@ -10,14 +10,15 @@ que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
 
-**El kit del viaje, en una línea**: a6700 (~1.300–1.500 € nueva) + 11mm F1.8
-(~400–550 €) + 70-350 G OSS (~570–650 €) — con las dos ópticas de segunda
-mano en mpb, el conjunto baja fácil un 25 %.
+**El kit del viaje, en una línea**: a6700 (~1.000–1.200 €) + 11mm F1.8
+(~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
+1.600–1.800 € comprando las dos ópticas de segunda mano en mpb.
 
 ## El cuerpo: Sony a6700
 
-**~1.300–1.500 € nueva** (se ven ofertas por menos) / **~1.000–1.200 €
-usada** en mpb. Por qué esta y no otra:
+**~1.000–1.200 € nueva** (salió a 1.700 € en 2023 y hoy se ve bastante por
+debajo: compara antes de comprar) / **~800–950 € usada** en mpb. Por qué
+esta y no otra:
 
 - **AF con reconocimiento de animales y pájaros**: la cámara encuentra el
   ojo del animal y lo sigue sola. Para un novato en safari es la función más
@@ -150,15 +151,15 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
   para olas y niebla de 30 s a plena luz y un **polarizador circular**
   (~20–30 €) solo para el tele: en el 11 mm oscurece el cielo a trozos.
   (Ojo: con el step-up montado no entra el parasol del 11 mm.)
-- **Para el vídeo, dos cosas baratas** ([vlog con el 11 mm](../comun/vlog-con-el-11mm.md)):
+- **Para el vídeo, dos cosas baratas** ([el vídeo del viaje](../comun/video-del-viaje.md)):
   un **peluche antiviento** para el micro interno (~10–15 €; sin él, la brisa
   del Namib se come el audio y no hay arreglo en edición) y un **filtro ND
   variable de 55 mm** de rango corto — ND2-32 o ND4-64, ~30–45 € — para poder
   grabar a 1/50 s con sol (<https://www.kentfaith.es/filtros-nd>). Los
   variables de rango largo pintan una X oscura en el cielo con un angular:
-  no los compres. Si te pica el vlog en serio, el siguiente escalón es un
-  **micro de solapa inalámbrico** (Rode Wireless Micro o DJI Mic Mini,
-  ~90–170 €: <https://rode.com/> · <https://www.dji.com/>).
+  no los compres. Y un **mini trípode** (~20–30 €, <https://www.ulanzi.com/>)
+  para los planos fijos largos y los timelapses. Micro de solapa **no**: el
+  vídeo del viaje va sin voz, con sonido ambiente.
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
   timelapses del [Pixel](../comun/pixel-10-pro.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
