@@ -22,7 +22,7 @@ Todos los datos técnicos están verificados contra manuales y fuentes (2026).
 
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
 - 📅 *Tengo semanas por delante y quiero aprovecharlas* → el [plan de entrenamiento](comun/plan-de-entrenamiento.md): las 11 semanas hasta el avión, con las lunas nuevas de práctica y el ensayo general en Cabárceno.
-- ✈️ *Salgo pronto* → imprime [las tres hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 7 tardes](a6700/00-de-movil-a-la-a6700.md#deberes-antes-del-viaje-7-tardes).
+- ✈️ *Salgo pronto* → imprime [las cuatro hojas de campo](#-para-imprimir-y-llevar-en-el-coche) y haz los [deberes de 7 tardes](a6700/00-de-movil-a-la-a6700.md#deberes-antes-del-viaje-7-tardes).
 - 🚙 *Ya estoy allí y algo no cuadra* → [verificación in situ](a6700/verificacion-in-situ.md), tabla de señales de alarma al final.
 
 ## 🎓 La ruta: de aficionado básico a avanzado
@@ -33,7 +33,7 @@ sale solo:
 | Nivel | Con la a6700 | Con el Pixel | Transversal |
 |---|---|---|---|
 | **1 · Básico** — los tres números y que todo funcione | [Capítulo 0](a6700/00-de-movil-a-la-a6700.md), [el histograma](comun/histograma.md) y las 4 primeras tardes de deberes | [Nivel básico de su guía](comun/pixel-10-pro.md): los ajustes de una vez y los tres gestos | [Las apps](comun/apps-del-viaje.md), instaladas y probadas |
-| **2 · El viaje** — las recetas de cada escenario | Capítulos [1](a6700/01-configuracion-basica.md) a [5](a6700/05-equipo-accesorios.md), los deberes 5–7 y el [simulacro](comun/logistica-viaje.md) | Qué le pides en cada escena y [la lista de tomas del vídeo-recuerdo](comun/pixel-10-pro.md) | [Mejores horas](comun/mejores-horas.md), [balance de blancos](comun/balance-de-blancos.md), [edición](comun/edicion-basica.md), [paisaje](comun/paisaje-namibia.md), [logística](comun/logistica-viaje.md), [limpieza](comun/limpieza-en-campo.md) y [la lista de tomas](comun/lista-de-tomas.md) |
+| **2 · El viaje** — las recetas de cada escenario | Capítulos [1](a6700/01-configuracion-basica.md) a [5](a6700/05-equipo-accesorios.md), los deberes 5–7, el [vlog con el 11 mm](comun/vlog-con-el-11mm.md) y el [simulacro](comun/logistica-viaje.md) | Qué le pides en cada escena y [la lista de tomas del vídeo-recuerdo](comun/pixel-10-pro.md) | [Mejores horas](comun/mejores-horas.md), [balance de blancos](comun/balance-de-blancos.md), [edición](comun/edicion-basica.md), [paisaje](comun/paisaje-namibia.md), [logística](comun/logistica-viaje.md), [limpieza](comun/limpieza-en-campo.md) y [la lista de tomas](comun/lista-de-tomas.md) |
 | **3 · Avanzado** — de la foto correcta a la foto buena | [Mejora parte 1](mejora/parte-1-principiante.md), [parte 2](mejora/parte-2-avanzado.md), [Safari a fondo](mejora/safari-a-fondo.md), [Paisaje a fondo](mejora/paisaje-a-fondo.md) y [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | Los controles Pro: RAW, 50 Mpx, Kelvin fijo y lente elegida a mano | [El cielo del viaje](comun/cielo-del-viaje.md) completo, con el plan noche a noche de las dos cámaras |
 
 Todas las guías comparten el mismo esqueleto — qué resuelve → receta → pasos → *"si sale mal…"* → referencias — y son autocontenidas: cada una puede seguirse desde cero, con los enlaces como ampliación.
@@ -64,8 +64,9 @@ Todas las guías comparten el mismo esqueleto — qué resuelve → receta → p
 | 📋 [Chuleta](a6700/chuleta.md) | Todas las recetas y arreglos rápidos en una página | [PDF](pdf/chuleta.pdf) |
 | ✅ [Verificación in situ](a6700/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías (franjas de los focos, AF que patina…) | [PDF](pdf/verificacion-in-situ.pdf) |
 | 🎯 [Lista de tomas](comun/lista-de-tomas.md) | Las 12 fotos con las que hay que volver (+3 extras de noviembre y el timelapse) — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
+| 🎥 [Chuleta de vídeo](comun/chuleta-video.md) | Los ajustes de vídeo, cómo sujetar la cámara a pulso, el guion de 3 minutos y las 18 tomas del vlog para marcar | [PDF](pdf/chuleta-video.pdf) |
 
-Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran desde el Markdown.
+Los PDF están maquetados para A4 (las chuletas caben en una cara cada una) y se regeneran desde el Markdown.
 
 ## 🚀 Mejora — de la foto correcta a la foto buena
 
@@ -80,6 +81,7 @@ Los PDF están maquetados para A4 (la chuleta cabe en una cara) y se regeneran d
 - 🕐 [Las mejores horas](comun/mejores-horas.md) — el día del safari hora a hora, la fauna que sí tiene horario y las noches del 1 al 15 de noviembre con su luna.
 - 🌌 [El cielo del viaje](comun/cielo-del-viaje.md) — el catálogo astro completo del 31 de octubre al 14 de noviembre, y el plan **noche a noche** del itinerario real: qué disparas tú con la a6700 y qué deja hecho solo el Pixel.
 - 📱 [Las apps del viaje](comun/apps-del-viaje.md) — PhotoPills, Stellarium, Creators' App y mapas offline: qué instalar antes de volar y cómo se usa cada una, paso a paso.
+- 🎥 [Vlog de 3 minutos con el 11 mm](comun/vlog-con-el-11mm.md) — el vídeo hablado: la receta de ajustes, si se graba a pulso (sí) y cómo, el material que compensa comprar, el guion de tres minutos y las 18 tomas, con su [chuleta imprimible](comun/chuleta-video.md).
 - 📲 [El Pixel 10 Pro](comun/pixel-10-pro.md) — la segunda cámara: qué le pides en cada escena (ultra gran angular, macro, larga exposición a pulso, el modo astro que dispara y monta un timelapse solo), los controles Pro, las 10 fotos que solo hará el móvil, la lista de tomas del vídeo-recuerdo y qué NO le pidas.
 - 📊 [El histograma por escenario](comun/histograma.md) — cómo debe verse en safari, paisaje, charca y astro, dibujado.
 - 🎚️ [Balance de blancos por escena](comun/balance-de-blancos.md) — valores de partida para cada luz del viaje y por qué el AWB te roba los atardeceres.

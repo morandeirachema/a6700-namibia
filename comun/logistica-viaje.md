@@ -191,8 +191,9 @@ no en Etosha:
 - [ ] **El Pixel**: ajustes del [nivel básico](pixel-10-pro.md) puestos, una
   foto en modo astro hecha ya alguna noche en casa, memoria libre y el cable
   USB-C para copiar al SSD probado.
-- [ ] Imprime la [chuleta](../a6700/chuleta.md) y la
-  [lista de tomas](lista-de-tomas.md).
+- [ ] Imprime la [chuleta](../a6700/chuleta.md), la
+  [lista de tomas](lista-de-tomas.md) y la
+  [chuleta de vídeo](chuleta-video.md).
 
 ## Referencias
 

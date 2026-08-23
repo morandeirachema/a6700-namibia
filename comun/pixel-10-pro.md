@@ -187,11 +187,12 @@ montaje, paso a paso, está en la [guía de edición](edicion-basica.md).
 | ☐ 15 | **El making of** | Tú con la a6700 y el tele, el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5–10 s |
 | ☐ 16 | **La vida pequeña** | Café al amanecer, la ducha de campamento, el mapa sobre el capó | Vídeo 4K30 — estas tomas "tontas" son las que más se agradecen al montar |
 
-Y el plano que **sí** es de la Sony: la escena estática a 525 mm
+Y los dos planos que **sí** son de la Sony: la escena estática a 525 mm
 equivalentes que el móvil no alcanza — el rinoceronte bebiendo, los
-elefantes en la charca. Receta mínima en
-[Safari a fondo](../mejora/safari-a-fondo.md): 4K a 25 fps, obturación 1/50,
-sobre el bean bag y sin reencuadrar.
+elefantes en la charca — con la receta mínima de
+[Safari a fondo](../mejora/safari-a-fondo.md) (4K a 25 fps, obturación 1/50,
+sobre el bean bag y sin reencuadrar); y el **vlog hablado** con el 11 mm,
+que tiene guía propia: [Vlog de 3 minutos con el 11 mm](vlog-con-el-11mm.md).
 
 ## Los archivos: energía y copias
 

@@ -118,10 +118,11 @@ fotogramas por segundo):
 
 ## Montar el vídeo-recuerdo (DaVinci para novatos)
 
-El cierre del viaje: los clips del Pixel (más algún plano largo de la a6700)
-convertidos en un vídeo de 3–5 minutos. El guion ya lo rodaste — los
-capítulos de la [lista de tomas del vídeo](pixel-10-pro.md): ida, carretera,
-desierto, costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
+El cierre del viaje: los clips del Pixel y del vlog de la a6700 convertidos
+en un vídeo de 3–5 minutos. El guion ya lo rodaste — los capítulos de la
+[lista de tomas del vídeo](pixel-10-pro.md) (ida, carretera, desierto,
+costa, safari, noche, campamento, vuelta) y, si has grabado las habladas, la
+estructura minuto a minuto del [vlog con el 11 mm](vlog-con-el-11mm.md). El montaje, paso a paso en
 **DaVinci Resolve** (gratis:
 <https://www.blackmagicdesign.com/products/davinciresolve>):
 
