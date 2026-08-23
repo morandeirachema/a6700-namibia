@@ -104,8 +104,9 @@ Rutina diaria de 5 minutos que salva el equipo:
   charca, dentro del recinto. <https://www.nwr.com.na/>
 - No salgas del recinto vallado a pie de noche, tampoco "un momento a por la
   toma": los campamentos están vallados por algo.
-- **Fuera de Etosha** (Spreetshoogte, Sesriem, Hoada): granjas y campings
-  donde sí saldrás a cielo abierto de noche. Pregunta al llegar hasta dónde
+- **Fuera de Etosha** (Spreetshoogte, Sesriem, Hoada y la última noche, ya en
+  **Onguma Tamboti**): granjas, campings y reservas privadas donde sí saldrás
+  a cielo abierto de noche. Pregunta al llegar hasta dónde
   conviene alejarse (por la zona de Hoada pueden rondar elefantes); el riesgo
   cotidiano son los escorpiones — bota cerrada, frontal al suelo y sacude las
   botas por la mañana.
