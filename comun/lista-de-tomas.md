@@ -66,12 +66,13 @@ reportaje y no con un carrete de pruebas.
 ## Cómo usarla
 
 - Imprímela con la [chuleta](../a6700/chuleta.md) y llévala en el coche.
+- ¿Y los iconos que no están aquí (Kolmanskop, árboles aljaba, Spitzkoppe)?
+  No caen en tu ruta: el reparto, en
+  [las fotos icónicas](fotos-iconicas-namibia.md).
 - En el [repaso de cada noche](edicion-basica.md) marca las conseguidas y
   elige cuál persigues mañana.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —
   la segunda vez ya sabes qué falló.
-- El **vídeo** tiene su propia lista y su guion: las 17 tomas de la a6700
-  con el 11 mm están en [el vídeo del viaje](video-del-viaje.md) (con
-  [chuleta imprimible](chuleta-video.md)), y las 11 del móvil —timelapses y
-  recurso— en la [guía del Pixel](pixel-10-pro.md). Del viaje sale **un solo
-  vídeo**, no dos.
+- El **vídeo** tiene su lista aparte: 17 tomas de la a6700 en
+  [el vídeo del viaje](video-del-viaje.md) (con [chuleta](chuleta-video.md))
+  y 11 de recurso en la [guía del Pixel](pixel-10-pro.md) — **un solo vídeo**.
