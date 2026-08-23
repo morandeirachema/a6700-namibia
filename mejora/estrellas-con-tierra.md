@@ -14,11 +14,10 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 
 ## Lo que necesitas
 
-- **La a6700 con el Rokinon 12mm**. Recuerda sus dos rarezas (no están
-  rotas): la apertura se elige girando **el anillo del propio objetivo** (la
-  cámara marcará **F--**) y **solo** enfoca a mano. Para que la cámara
-  dispare con él, activa `Disparo sin objetivo: Habilitar`
-  ([capítulo 1](../a6700/01-configuracion-basica.md)).
+- **La a6700 con el 11 mm F1.8**. Es un objetivo normal y corriente: la
+  apertura se pone con la rueda de la cámara y tiene autofoco. Lo único que
+  cambia de noche es que el enfoque lo harás **tú** — el interruptor
+  **AF/MF** del barrilete, a MF ([capítulo 1](../a6700/01-configuracion-basica.md)).
 - **Trípode**. Sin trípode no hay foto nocturna: las exposiciones duran
   segundos.
 - **Frontal de luz roja** (no arruina la visión nocturna) y un trozo de
@@ -31,8 +30,7 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 `Reducción ruido larga exposición` **OFF** (importantísimo: si está ON,
 cada foto va seguida de la misma pausa a oscuras) · disparo con
 **temporizador de 2 s** (para no mover la cámara al pulsar) ·
-`Disparo sin objetivo: Habilitar` · **Bright Monitoring** asignado a un
-botón (amplifica la pantalla en plena oscuridad: tu linterna para
+**Bright Monitoring** asignado a un botón (amplifica la pantalla en plena oscuridad: tu linterna para
 componer). Todo está en el
 [capítulo 1](../a6700/01-configuracion-basica.md), o directamente en el
 modo **MR2**, que ya lo guarda.
@@ -47,11 +45,11 @@ Nada más.
 | Ajuste | Valor | Dónde |
 |---|---|---|
 | Modo | M (o el dial en **MR2**) | Dial superior |
-| Apertura | f/2.0 | **El anillo del Rokinon** (la cámara dirá F--: normal) |
+| Apertura | f/1.8 | La rueda de la cámara, como en cualquier objetivo |
 | Obturación | 20 segundos ("20"") | Gira una rueda y mira en pantalla que cambian los segundos |
 | ISO | 1600 | Flecha derecha de la rueda de control (o menú Fn) |
 | Balance de blancos | K = 3900 | Menú → Balance de blancos → K |
-| Enfoque | Manual (el Rokinon no tiene otro) | El anillo de enfoque, en el paso 3 |
+| Enfoque | Manual | Interruptor **AF/MF del objetivo en MF**, y el anillo en el paso 3 |
 
 **Los pasos**:
 
@@ -69,7 +67,9 @@ Nada más.
    4. Gira el anillo de enfoque **despacio** hasta que la estrella sea el
       punto **más pequeño y fino posible**. Si se hincha, te pasaste:
       vuelve. El **peaking** ayuda: la estrella "chispea" al clavar el foco.
-   5. **Fija el anillo con la cinta.** No se toca más en toda la noche.
+   5. **Fija el anillo con la cinta.** No se toca más en toda la noche. (Es
+      un anillo electrónico: la cinta evita el roce, pero el foco no queda
+      "bloqueado" — tras cambiar la batería, vuelve a mirarlo con la lupa.)
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
 5. **Mira el histograma**, no la foto — pulsa **DISP** y lo tienes incluso
    **en vivo**, antes de disparar: la montaña debe estar en el **primer
@@ -109,7 +109,7 @@ lugar.
   farolas ni otros bultos detrás.
 - Y a **más de 4 metros de ti**. ¿Por qué? Siguiente punto.
 
-### 2 · El enfoque no cambia (la magia del 12 mm)
+### 2 · El enfoque no cambia (la magia del 11 mm)
 
 Buena noticia para novatos: con este objetivo tan angular, **enfocado a las
 estrellas, todo lo que esté a más de ~4 metros sale nítido también**. Es
@@ -199,8 +199,8 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    porque el norte magnético cae 10–15° al oeste) y, brazo estirado, cuenta
    **dos puños** (~10° cada uno) desde el horizonte en Etosha, dos y medio en
    Sesriem: ahí está el polo. Con la cámara **nivelada** (nivel electrónico
-   con DISP) y **el horizonte en el tercio bajo** del encuadre, el 12 mm
-   (18 mm eq) abarca 66° de alto y 89° de ancho: **el polo cae dentro
+   con DISP) y **el horizonte en el tercio bajo** del encuadre, el 11 mm
+   (16,5 mm eq) abarca 71° de alto y 94° de ancho: **el polo cae dentro
    sí o sí**, más o menos a media altura de la foto. Aún no has apretado
    ningún botón y ya lo tienes.
 3. **Con las estrellas de tus noches**: las dos **Nubes de Magallanes** (dos
@@ -236,7 +236,7 @@ Y la dirección decide el dibujo:
 - El objeto **debajo o a un lado del centro de giro, nunca tapándolo**.
 - **Deja aire**: los arcos crecen con las horas; lo que ahora sobra, en dos
   horas está lleno.
-- Honestidad del 12 mm: el remolino sale pequeño en un angular. Compón bajo
+- Honestidad del 11 mm: el remolino sale pequeño en un angular. Compón bajo
   (el centro a 19° ayuda) y acepta arcos finos y elegantes.
 
 ### 3 · La receta y la serie
@@ -244,7 +244,7 @@ Y la dirección decide el dibujo:
 | Ajuste | Valor |
 |---|---|
 | Obturación | 30 s |
-| Apertura | f/2.8 (el anillo) |
+| Apertura | f/2.8 |
 | ISO | 800–1600 |
 | WB | K = 3900 |
 | Reducción ruido larga exposición | **OFF** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
@@ -273,7 +273,7 @@ Y la dirección decide el dibujo:
 | Objeto quemado de naranja | Una farola, 2 horas pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
 | Remolino descentrado | El polo no estaba donde creías | Los 4 minutos de la **prueba de giro** (o la RA de PhotoPills) ANTES de encuadrar |
 | Sin cobertura, la RA "no va" o apunta raro | No es la red (la RA no la usa): brújula descalibrada o GPS sin fijar | Ochos con el móvil lejos del coche; móvil a cielo abierto 1–2 min. Y sin móvil: dos puños + prueba de giro |
-| El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 12 mm entra seguro |
+| El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 11 mm entra seguro |
 | Arcos pobres | Serie corta | Más tomas, no más ISO |
 | Una raya recta cruza | Satélite (se clona) o bólido de las Táuridas (¡se enmarca!) | — |
 
@@ -284,8 +284,8 @@ En las noches gordas de Etosha (7–12 nov) caben ambas sin conflicto:
 recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
 charca de los rinos o a la cama. El reparto exacto por noche está en
 [el cielo del viaje](../comun/cielo-del-viaje.md) y el plan hora a hora en
-[mejora 2](parte-2-avanzado.md). La GoPro, mientras, hace su propia versión
-en otra dirección ([su guía](../comun/gopro-mission-1.md)).
+[mejora 2](parte-2-avanzado.md). El Pixel, mientras, hace su propia versión
+apuntando a otra parte del cielo ([su guía](../comun/pixel-10-pro.md)).
 
 ## Referencias
 

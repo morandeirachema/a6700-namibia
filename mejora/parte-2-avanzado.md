@@ -68,31 +68,38 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
   "Cambiar área AF V/H"): un área y una posición para horizontal y otras
   para vertical — giras la cámara al retrato y tu encuadre "bueno" ya está
   puesto.
-- **El botón Focus Set del Tamron**, programado a lo que más uses: cambio
-  AF/MF sin menús, o un preajuste de distancia de foco (p. ej. la orilla
-  donde beben, memorizada de día).
+- **El botón de retención de foco del 70-350** (y el del 11 mm): de serie
+  congela el enfoque mientras lo mantienes — perfecto para clavar la orilla
+  donde beben y esperar. Se puede reasignar desde la personalización de
+  botones de la cámara, pero de serie ya hace lo más útil.
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
   reconocimiento **Pájaro** · ráfaga Hi+ — un giro de dial y estás en modo
   "despegue" ([capítulo 1](../a6700/01-configuracion-basica.md)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
-### El Tamron al límite
+### El 70-350 al límite
 
-- **Punto dulce**: a 400 mm ya rinde a plena apertura (f/6.3); con el sol
-  alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina los bordes. Regla:
-  nunca compres f/8 pagándolo con obturación insuficiente o ISO ruidoso.
+- **Punto dulce**: es un objetivo de la serie G y a 350 mm ya rinde a plena
+  apertura (f/6.3); con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8**
+  afina un poco los bordes. Regla: nunca compres f/8 pagándolo con
+  obturación insuficiente o ISO ruidoso.
+- **El escalón de apertura, usado a propósito**: f/4.5 hasta 81 mm, f/5
+  hasta 113, f/5.6 hasta 199 y f/6.3 de 200 a 350. En luz justa, recoger el
+  zoom a 199 mm en vez de quedarte en 210 te devuelve **un tercio de paso**
+  gratis — y a 113, dos tercios. Recórtalo después: 26 Mpx dan margen.
 - **DMF**: el retoque manual sin salir del AF — con el animal tras hierba,
   acerca tú el foco con el anillo y deja que el AF remate.
-- **Tamron Lens Utility** (gratis, por el puerto USB-C del propio objetivo):
-  actualiza el firmware y programa funciones — un **limitador de enfoque a
-  medida** en el interruptor Custom (el AF deja de recorrer todo el rango y
-  engancha antes: en safari casi nada está cerca), el foco A-B, o la
-  velocidad del anillo. Es el "dock" de este objetivo, sin comprar nada:
-  <https://www.tamron.com/global/consumer/lenses/a067/>
-- **El bonus macro**: 1:2 a 50 mm (enfoca desde 0,25 m) — texturas de
-  corteza, flores del campamento, el detalle del desayuno. Un macro de
-  regalo dentro del tele de safari.
+- **Sin limitador de enfoque**: este objetivo no lo tiene, así que cuando el
+  AF se ponga a recorrer todo el rango la solución es tuya — apunta a un
+  borde con contraste antes de soltar el AF-ON, o llévale el foco cerca con
+  **DMF** y deja que remate él.
+- **El bonus de acercamiento**: 0,23x a 350 mm (enfoca desde 1,5 m) — da
+  para texturas de corteza, flores grandes y el detalle del desayuno, pero
+  **no es un macro**. El macro de verdad del viaje lo hace el móvil, a 3 cm
+  ([Pixel](../comun/pixel-10-pro.md)).
+- **Su firmware** se actualiza con el objetivo montado en la cámara, desde
+  la web de soporte de Sony: <https://www.sony.es/electronics/support>
 
 ## Astro avanzado (tu quincena de noviembre)
 
@@ -101,10 +108,10 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 | Hora | Objetivo | Cómo |
 |---|---|---|
 | 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
-| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/2 · ISO 1600–3200 |
+| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
 | 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
 | Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 12 mm con paisaje, en el crepúsculo |
+| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina
 
@@ -112,9 +119,9 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
   es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
   vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
   ajustes clavados; Lightroom las une (`Foto → Combinar → Panorama`).
-- **Las Nubes con detalle**: la tentación de meterles el 50-400 **no
-  funciona sin montura de seguimiento** (ya a 50 mm el límite sin trazas son
-  ~5–6 s → ISO absurdo y cien tomas para poco). El camino real: 12 mm
+- **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
+  funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
+  trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
   apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
   seguimiento ligera para otro viaje.
 - **Light painting con cabeza** (método van Oosten, para tus noches de granja
@@ -139,7 +146,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
   árboles, casi siluetas. Y volumen: Lanting hizo 321 tomas de esos árboles.
 - **Abstractos de duna según van Oosten**: 200 mm equivalentes o más, luz
   rasante de primera o última hora, buscar la línea de cresta luz/sombra,
-  excluir el cielo. El 50-400 desde la carretera de Sossusvlei es tu pincel.
+  excluir el cielo. El 70-350 desde la carretera de Sossusvlei es tu pincel.
 - **Luz de tormenta de noviembre**: mide a la zona iluminada, −2/3, y espera
   el claro entre nubes que enciende la sabana contra el fondo negro.
 
@@ -148,7 +155,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - Sensibilidad de seguimiento del AF (Help Guide oficial a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0405D_af_tracking_sensitivity.html>
 - Compensación de exposición, también en M+ISO Auto (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0406B_exposure_compensation.html>
 - Bright Monitoring (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0414H_bright_monitoring.html>
-- Review de referencia del Tamron 50-400 A067 (Dustin Abbott): <https://dustinabbott.net/2022/09/tamron-50-400mm-f4-5-6-3-vc-vxd-review-a067/>
+- Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Apilar las Nubes de Magallanes sin seguimiento (Ian Morison): <https://www.ianmorison.com/imaging-the-magellanic-clouds-without-a-tracking-mount/>
 - Entrevista a Marsel van Oosten (previsualización y composición): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>
 - La imagen de Deadvlei de Lanting, contada por Nat Geo: <https://www.nationalgeographic.com/magazine/article/frans-lanting-behind-the-photo>

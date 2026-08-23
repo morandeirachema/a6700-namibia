@@ -21,12 +21,12 @@ visible gran parte de la noche.
 | Parámetro | Valor de partida |
 |---|---|
 | Modo | M (o directamente **MR2**, [capítulo 1](01-configuracion-basica.md)) |
-| Apertura | f/2.0 — en el Rokinon (sin contactos electrónicos) se elige girando el **anillo del propio objetivo**, y la cámara marcará **F--**: es normal, no está roto (necesita `Disparo sin objetivo: Habilitar`, [capítulo 1](01-configuracion-basica.md)) |
-| Obturación | 20 s con el 12 mm |
+| Apertura | **f/1.8** — la máxima del 11 mm, y se pone con la rueda de la cámara como en cualquier objetivo (si las estrellas de las esquinas salen con "alitas", cierra a f/2.8) |
+| Obturación | 20 s con el 11 mm (16,5 mm eq) |
 | ISO | 1600; sube a 3200 si queda oscura |
 | Balance de blancos | 3900 K (elige el modo **K** dentro del menú de balance de blancos y ajusta ahí el número) |
 | Formato | RAW |
-| Enfoque | Manual — el Rokinon **solo** enfoca a mano; no busques interruptor AF/MF |
+| Enfoque | Manual: interruptor **AF/MF del objetivo en MF** (el AF no engancha estrellas en serio) |
 | Estabilizador | SteadyShot **OFF** (en trípode siempre) |
 | Disparo | Temporizador 2 s |
 | Tipo de obturador | **Electrónico**: dispara sin ninguna pieza en movimiento — cero vibración |
@@ -58,14 +58,17 @@ visible gran parte de la noche.
    En luna nueva prueba también el encuadre **vertical**: el núcleo de la Vía
    Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
 4. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
-   1. Enfoque en manual (el Rokinon no tiene otro), SteadyShot OFF.
+   1. Interruptor **AF/MF del objetivo en MF**, SteadyShot OFF.
    2. Activa la **lupa de enfoque** (Focus Magnifier) y lleva el recuadro a
       la estrella más brillante.
    3. Amplía al máximo aumento.
    4. Gira el anillo de enfoque despacio hasta que la estrella sea el punto
       **más pequeño y fino posible** (si se hincha, te has pasado). El
       **peaking** te lo confirma: la estrella "chispea" cuando está clavada.
-   5. Fija el anillo con cinta. No lo toques más en toda la noche.
+   5. Fija el anillo con cinta. No lo toques más en toda la noche. (El
+      anillo del 11 mm es **electrónico**: la cinta evita el roce, pero el
+      foco no queda "bloqueado" — tras cambiar la batería o si la cámara se
+      apagó sola, gasta 5 segundos en comprobarlo con la lupa.)
 5. **Foto de prueba** con la receta rápida y temporizador de 2 s.
 6. **Corrige mirando el histograma de la foto hecha** (botón ▶): de noche la
    pantalla engaña, el histograma no. Ojo: el histograma **en vivo** (DISP)
@@ -87,20 +90,16 @@ visible gran parte de la noche.
 | Problema | Solución |
 |---|---|
 | Muy oscura | Sube ISO un paso (1600 → 3200). No alargues los segundos más allá del límite de trazas |
-| Estrellas alargadas (trazas) | Baja los segundos: 20 → 15 → 13 (calculadora "Spot Stars" de PhotoPills: con el 12 mm en APS-C, ~20 s es el punto práctico) |
+| Estrellas alargadas (trazas) | Baja los segundos: 20 → 15 → 13 (calculadora "Spot Stars" de PhotoPills: con el 11 mm en APS-C, ~20 s es el punto práctico — y hasta 25 s si el encuadre no es exigente) |
 | Estrellas gordas o borrosas | Enfoque mal: repite el paso 4. No es el ISO ni los segundos |
 | Todo movido | Trípode vibrando: viento, correa colgando o tocaste la cámara — temporizador 2 s siempre; con el obturador electrónico la cámara ya no aporta ni una vibración propia |
 | Cielo naranja/verde raro | Balance de blancos a 3900 K (en RAW se corrige después sin pérdida) |
-| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra el anillo de f/2 a f/2.8 (y compensa con ISO 3200) si molesta mucho |
+| Esquinas con estrellas "estiradas" | Coma del objetivo, no eres tú. Cierra de f/1.8 a f/2.8 (y compensa con ISO 3200) si molesta mucho |
 | Puntos rojos/calientes en exposiciones largas | Píxeles calientes: normales en cualquier exposición larga. El apilado y el NR por IA los eliminan solos |
 
 La versión a fondo de las dos fotos con primer plano — la postal (cielo
 fijo con silueta) y los círculos sobre un objeto — está en
-[Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md). Y la
-GoPro trabaja en paralelo cada noche: Night Lapse o Star Trails sobre la
-Volta 2, en otra dirección ([su chuleta](../comun/chuleta-gopro.md)); y el
-Pixel, apoyado en una piedra, saca su foto astro con mini-timelapse sin que
-lo mires ([la guía del Pixel](../comun/pixel-10-pro.md)).
+[Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 
 ## Star trails (circumpolares del sur)
 
@@ -115,11 +114,11 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    silueta en el mismo encuadre. Para clavarlo: brújula del móvil al sur y
    **dos puños** con el brazo estirado por encima del horizonte (~10° cada
    uno), o la realidad aumentada de PhotoPills (modo "Noche"). Con la
-   cámara nivelada y el horizonte en el tercio bajo, el 12 mm abarca 66° de
+   cámara nivelada y el horizonte en el tercio bajo, el 11 mm abarca 71° de
    alto: el polo entra seguro. Las cuatro formas de encontrarlo — incluida
    la **prueba de giro** de 4 minutos con `Aj. temporiz. BULB` — están en
    [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
-2. Receta: **30 s, f/2.8 (el anillo), ISO 800–1600**, balance fijo 3900 K,
+2. Receta: **30 s, f/2.8, ISO 800–1600**, balance fijo 3900 K,
    reducción de ruido de larga exposición **OFF** (o cada foto irá seguida de
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
    siempre.
@@ -174,7 +173,7 @@ vas a usar:
    y te superpone la Vía Láctea donde va a aparecer. Sirve para elegir el
    rincón exacto y componer antes de que oscurezca.
 3. **Spot Stars**: los segundos máximos de exposición para tu combinación
-   (12 mm en APS-C ≈ 20 s).
+   (11 mm en APS-C ≈ 20 s).
 
 Gratis como alternativa: Stellarium (<https://stellarium.org/>), sin AR ni
 planificador sobre mapa.
@@ -211,9 +210,19 @@ planificador sobre mapa.
 - **Bosque de árboles aljaba (Keetmanshoop)**: siluetas clásicas del cielo
   austral. Tampoco cae en esta ruta — al sur, para otro viaje.
 
+## Y el Pixel, mientras tanto
+
+Apoyado en una piedra o en un mini trípode, apuntando a **otra** parte del
+cielo, hace su foto astro de cuatro minutos y te deja además un
+mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
+Es la segunda vía del [plan noche a noche](../comun/cielo-del-viaje.md), la
+de "pon y olvida", y su receta completa está en
+[la guía del Pixel](../comun/pixel-10-pro.md).
+
 ## Referencias
 
 - Lonely Speck, práctica de astrofotografía: <https://www.lonelyspeck.com/>
-- Review de referencia del Rokinon 12mm f/2 (Lonely Speck): <https://www.lonelyspeck.com/rokinon-12mm-f2-0-ncs-cs-review/>
+- Sony E 11mm F1.8 (SEL11F18), ficha oficial: <https://www.sony.es/lenses/products/sel11f18>
+- Review del Sony E 11mm F1.8, con su comportamiento en las esquinas (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/>
 - Guía práctica de Vía Láctea en español: <https://capturetheatlas.com/es/como-fotografiar-la-via-lactea/>
 - Help Guide oficial de la a6700: <https://helpguide.sony.net/ilc/2320/v1/es/>

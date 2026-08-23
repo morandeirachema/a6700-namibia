@@ -13,12 +13,12 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Parámetro | Valor de partida |
 |---|---|
 | Modo | M |
-| Apertura | La más baja del objetivo (f/6.3 con el zoom a tope) |
+| Apertura | La más baja del objetivo (f/6.3 de 200 a 350 mm; **f/5.6 por debajo de 200 y f/5 por debajo de 114**: si el animal está cerca, encuadrar más ancho es luz gratis) |
 | Obturación | 1/60 s (animal bebiendo quieto) |
 | ISO | Empieza en 3200–6400 y sube lo que haga falta |
 | Balance de blancos | Manual (K) ~3500 K, ajusta mirando la revisión |
 | Enfoque | AF-S, punto único sobre el animal (AF-ON) |
-| Estabilizador | OFF los dos: interruptor VC del objetivo y SteadyShot del cuerpo (trípode) |
+| Estabilizador | OFF los dos: interruptor **OSS** del objetivo y SteadyShot del cuerpo (trípode) |
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
 ## Al llegar al mirador (10 minutos de preparación)
@@ -58,10 +58,13 @@ Info de campamentos: <https://www.nwr.com.na/>
 
 Tres números que multiplicados dan tu techo real:
 
-1. **Lo que pide la escena**: con el Tamron clavado en f/6.3 y la receta de
+1. **Lo que pide la escena**: con el 70-350 en f/6.3 y la receta de
    1/60 s, una charca iluminada exige ISO **6400** con el animal cerca de los
    focos y **12800–25600** en el borde del haz. No es elección: es la luz que
-   hay con un objetivo f/6.3.
+   hay con un objetivo f/6.3. Truco de este zoom: su apertura máxima mejora
+   al recoger — **f/5.6 hasta 199 mm y f/5 hasta 113 mm** —, así que cuando
+   el animal esté lo bastante cerca para encuadrarlo por debajo de 200 mm,
+   te ahorras entre un tercio y dos tercios de paso de ISO gratis.
 2. **Lo que aguanta el sensor**: la a6700 va limpia hasta **3200** y muy bien
    a **6400**; a **12800** el ruido es evidente pero la foto vive; **25600**
    queda castigado (ruido de color en las sombras). Los ISO expandidos por
@@ -104,7 +107,7 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 | ISO | Manual 6400–12800 (tope práctico de la a6700) |
 | Medición | **Puntual vinculada al punto de enfoque** (`Punto de medición puntual → Vínculo punto enfoque`) |
 | Enfoque | AF-C, punto único (o reconocimiento de Animal) sobre lo iluminado |
-| Estabilizador | **ON los dos: VC del objetivo y SteadyShot** (sin trípode) |
+| Estabilizador | **ON los dos: OSS del objetivo y SteadyShot** (sin trípode) |
 
 - La escena engaña al medidor al revés que de día: todo negro alrededor → la
   cámara aclara → el animal iluminado **se quema**. Medición puntual sobre el
@@ -124,16 +127,13 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 - Obturador electrónico y hablar en susurros: el mirador de Okaukuejo
   funciona toda la noche y la gente duerme a 50 metros.
 
-## Y la GoPro, mientras tanto
+## Y el Pixel, mientras tanto
 
-Dos papeles esa misma noche: quieta en el murete del mirador grabando al
-rino en **vídeo 4K30** (la toma 12 del vídeo-recuerdo) mientras tú disparas
-la a6700 — en silencio, como todo aquí —, o en la zona oscura del campamento
-haciendo su Night Lapse sobre la Volta 2
-([su chuleta](../comun/chuleta-gopro.md)). El Pixel, con Visión Nocturna
-apoyado en el murete y **sin flash**, hace el ambiente — el foco, la gente,
-el reflejo —, nunca al rino moviéndose
-([la guía del Pixel](../comun/pixel-10-pro.md)).
+Con **Visión Nocturna**, apoyado en el murete y **sin flash jamás**, hace lo
+que la Sony no está haciendo: el ambiente — el foco sobre el agua, la gente
+en el murete, el reflejo, la luna —, y el clip de vídeo del rino si está
+quieto y cerca. Lo que no: el animal moviéndose bajo el foco, que sale
+movido siempre ([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Combinar con astro
 

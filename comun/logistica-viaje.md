@@ -8,9 +8,9 @@ Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
 
 1. **Tarjetas de sobra para no reutilizar ninguna**: calcula ~64 GB por día
    intenso de RAW y compra el doble. Una tarjeta llena se guarda como copia y
-   **no se formatea hasta estar en casa** con todo volcado. La GoPro va
-   aparte y su vídeo come más que el RAW: **microSD de 256 GB** (V30) y sus
-   clips entran en el mismo volcado nocturno al SSD.
+   **no se formatea hasta estar en casa** con todo volcado. El vídeo del
+   Pixel vive en la memoria del móvil y entra en el mismo volcado nocturno al
+   SSD.
 2. **El volcado de cada noche ES la primera copia**: la a6700 tiene una
    sola ranura de tarjeta, así que hasta que vuelcas solo existe UNA copia
    de las fotos del día — ninguna noche es opcional. Portátil + SSD externo,
@@ -21,9 +21,9 @@ Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
 3. Reparte las copias físicamente: tarjetas llenas en la mochila que va
    contigo, SSD en la maleta/coche. Nunca todo en el mismo sitio.
 
-Y la regla ya dicha en los capítulos 0: **no se borra nada en cámara** —
-con una excepción deliberada: los **clips de vídeo** de la GoPro sí se
-criban al volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
+Y la regla ya dicha en el capítulo 0: **no se borra nada en cámara** — con
+una excepción deliberada: los **clips de vídeo** del móvil sí se criban al
+volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
 
 ### La cuenta del espacio (haz tus números con esta tabla)
 
@@ -31,12 +31,12 @@ criban al volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
 |---|---|---|---|
 | **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | SD UHS-II (V60) de 128 GB ×2 mínimo — y no se reutilizan hasta volcar: la ranura es única |
 | **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ya cubierto por las SD de arriba |
-| **GoPro (vídeo)** | H.265 con tope oficial de **240 Mbps** ≈ 108 GB/hora al máximo (8K); en 4K, bastante menos | La cuenta segura: una microSD de **256 GB** garantiza 2+ h incluso al bitrate máximo, y varias horas en 4K | microSD 256 GB V30 (obligatorio V30/UHS-3) + volcado nocturno |
-| **GoPro (timelapses)** | Salen como clips MP4 cortos | Despreciable frente al vídeo | — |
+| **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | Memoria libre en el móvil antes de volar + copia al SSD cada 2–3 noches |
+| **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas; cada astro guarda foto + mini-vídeo | Despreciable frente al vídeo | — |
 
-**El SSD**: con el vídeo de la GoPro, el viaje completo puede irse a
-500 GB–1 TB. El SSD de 1 TB va **justo**: o subes a 2 TB, o aplicas la
-excepción de arriba (cribar clips al volcar) con disciplina. Decide antes de
+**El SSD**: entre el RAW de la Sony y el vídeo del móvil, el viaje completo
+se mueve en torno a **400–600 GB**. Un SSD de 1 TB va sobrado si cribas los
+clips fallidos al volcar; si vas a grabar mucho vídeo, 2 TB. Decide antes de
 comprar, no en Etosha.
 
 ### La cuenta de la energía
@@ -44,8 +44,8 @@ comprar, no en Etosha.
 | Aparato | Autonomía | El plan |
 |---|---|---|
 | **a6700** | ≈ 550 disparos por NP-FZ100 (dato CIPA por visor) | Con 3 baterías (la suya + 2) cubres día de safari + noche; **carga por USB-C**: en cámara o en un cargador doble USB (~30–40 €, la caja no trae cargador), y el power bank la revive en el campo |
-| **GoPro MISSION 1** | Oficial: hasta 5 h a 1080p30 · 3+ h a 4K30 · 1,5 h a 8K30; en modos nocturnos, ~1,5 h (cifra de la guía nocturna de GoPro en la gama Hero) | La **Volta 2** (5.800 mAh, oficial: 9 h de 4K30) para las noches enteras; ambas al USB-C al dormir |
-| **Móvil + power bank** | — | El power bank se carga de día en el USB del coche; de él beben móvil y GoPro si hace falta |
+| **Pixel 10 Pro** | 4.870 mAh: el día entero si no lo dejas al sol; el modo astro y el vídeo 4K son lo que más come | Enchufado al USB del coche en marcha (cable largo) y al power bank o la regleta de noche |
+| **Power bank** | — | Se carga de día en el USB del coche; de él beben el móvil y, en apuros, la propia cámara |
 
 ## Energía
 
@@ -53,9 +53,9 @@ comprar, no en Etosha.
   distintos del europeo): lleva 2 adaptadores + una **regleta europea**
   pequeña — un solo adaptador da servicio a todos los cargadores a la vez.
   <https://www.worldstandards.eu/electricity/plug-voltage-by-country/>
-- **Todo el equipo carga por USB-C** (la a6700, la GoPro, la Volta 2, el
-  móvil): la regleta + los adaptadores D/M + un par de cargadores USB-C dan
-  servicio a todo. Ojo: la caja de la a6700 **no trae cargador** — compra
+- **Todo el equipo carga por USB-C** (la a6700, el móvil, el power bank): la
+  regleta + los adaptadores D/M + un par de cargadores USB-C dan servicio a
+  todo. Ojo: la caja de la a6700 **no trae cargador** — compra
   uno USB-C (o el cargador doble de NP-FZ100, ~30–40 €) antes del viaje,
   y 2 baterías de repuesto.
 - En el coche de alquiler: los puertos USB cargan power bank, móvil y, si
@@ -126,24 +126,24 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 
 | En cabina (mochila fotográfica) | En bodega (maleta facturada) |
 |---|---|
-| La a6700 (con el Tamron montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
-| El 12 mm en su compartimento | Bean bag **vacío** |
-| **Todas** las baterías (NP-FZ100), la Volta 2 de la GoPro y el power bank | Cargadores, regleta y adaptadores D/M |
+| La a6700 (con el 70-350 montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
+| El 11 mm en su compartimento | Bean bag **vacío** |
+| **Todas** las baterías (NP-FZ100) y el power bank | Cargadores, regleta y adaptadores D/M |
 | Tarjetas SD y el SSD | Kit de limpieza, bolsas zip, cinta |
-| La GoPro (con su microSD dentro) | Anclajes y arnés de pecho del bundle |
-| Lector de tarjetas, pera y una microfibra | Frontal y ropa alrededor de todo, haciendo de acolchado |
+| El móvil y el mini trípode o pinza | Ropa alrededor de todo, haciendo de acolchado |
+| Lector de tarjetas, pera y una microfibra | Frontal rojo |
 
 **Baterías: la parte con normativa.** Las baterías de litio de repuesto están
 **prohibidas en bodega** — siempre en cabina, con los contactos protegidos
 (su tapa, cinta o una bolsita por batería). Todo lo tuyo pasa sin papeleo:
-las NP-FZ100 rondan los 16 Wh, y la Volta 2 de la GoPro (5.800 mAh) y un
-power bank normal quedan por debajo de los 100 Wh del límite. Ni el power
-bank ni la Volta 2 se facturan **nunca** (son baterías de litio). Normativa
-para comprobar dudas: <https://www.seguridadaerea.gob.es/> · <https://www.iata.org/>
+las NP-FZ100 rondan los 16 Wh y un power bank normal queda muy por debajo de
+los 100 Wh del límite. El power bank no se factura **nunca** (es una batería
+de litio). Normativa para comprobar dudas: <https://www.seguridadaerea.gob.es/> · <https://www.iata.org/>
 
-**El peso.** La franquicia de mano típica son 8 kg y este kit es ligero:
-cuerpo, los dos objetivos, baterías y datos rondan los 3–4 kg — con mochila
-y GoPro vas holgado, pero pésala igualmente en el
+**El peso.** La franquicia de mano típica son 8 kg y este kit es
+especialmente ligero: cuerpo (493 g), el 11 mm (181 g), el 70-350 (625 g),
+baterías y datos no llegan a 2,5 kg — con mochila vas holgadísimo, pero
+pésala igualmente en el
 [simulacro](#el-simulacro-del-día-antes-de-volar) y revisa la franquicia
 exacta de tu aerolínea antes de hacerla. Las válvulas de escape de siempre:
 la cámara **colgada al cuello** no suele computar, y la chaqueta de
@@ -162,19 +162,18 @@ tuyo, SSD en la mochila), nunca juntos ni facturados.
 **La mochila en sí**, si aún no la tienes: una fotográfica de 25–30 L con
 interior acolchado configurable y medidas de equipaje de mano (Lowepro,
 K&F Concept, ~60–120 €: <https://www.lowepro.com/>). Compra con el equipo
-delante: el Tamron montado en la a6700 marca la profundidad mínima.
+delante: el 70-350 montado en la a6700 marca la profundidad mínima.
 
 ## El simulacro del día antes de volar
 
 Una hora con todo el equipo junto, para que el primer fallo pase en casa y
 no en Etosha:
 
-- [ ] El Tamron montado en la a6700: ráfaga en RAW, revisa nitidez y que la
+- [ ] El 70-350 montado en la a6700: ráfaga en RAW, revisa nitidez y que la
   SD traga.
-- [ ] El 12 mm puesto: una foto a infinito de prueba (y recuerda dónde cae
-  su infinito real, de la noche de práctica). La cámara marcará **F--** con
-  él — normal, la apertura se elige en el anillo — y `Disparo sin objetivo`
-  debe seguir en Habilitar.
+- [ ] El 11 mm puesto: una foto a infinito de prueba y otra con el truco de
+  paisaje (enfocar a un metro y pasar a MF), comprobando las esquinas al
+  100 %.
 - [ ] Baterías todas cargadas; fecha y hora de la cámara en hora local.
 - [ ] **Copia de seguridad hecha de todo lo que haya en la tarjeta — y
   entonces** formatearla EN la cámara (nunca en el ordenador).
@@ -189,9 +188,9 @@ no en Etosha:
   cuello y chaqueta de bolsillos grandes.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](apps-del-viaje.md)).
-- [ ] **GoPro**: firmware actualizado (lo necesita para la Volta 2), un
-  Night Lapse de prueba hecho una noche en casa, y Volta 2 y batería
-  cargadas.
+- [ ] **El Pixel**: ajustes del [nivel básico](pixel-10-pro.md) puestos, una
+  foto en modo astro hecha ya alguna noche en casa, memoria libre y el cable
+  USB-C para copiar al SSD probado.
 - [ ] Imprime la [chuleta](../a6700/chuleta.md) y la
   [lista de tomas](lista-de-tomas.md).
 

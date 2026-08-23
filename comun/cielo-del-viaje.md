@@ -31,8 +31,8 @@ el anochecer ya es sin luna.)
   oscuridad (desde ~20:25); se pone hacia las 22:30. A partir del ~10, la
   creciente ocupa ese cielo: se acabó por este año.
 - **Dónde**: bajo, al **oeste-suroeste**, en diagonal sobre el horizonte.
-- **Con qué**: a6700 + el 12 mm + trípode.
-- **Receta**: la estándar (20 s · f/2 · ISO 1600–3200 · WB 3900 K), y como
+- **Con qué**: a6700 + el 11 mm + trípode.
+- **Receta**: la estándar (20 s · f/1.8 · ISO 1600–3200 · WB 3900 K), y como
   está tumbado, la composición es de **banda diagonal con silueta** o la
   **panorámica de 3–4 verticales** ([mejora · parte 2](../mejora/parte-2-avanzado.md)).
   El arte de meter el objeto en tierra — elegirlo, enfocarlo, repartir el
@@ -62,8 +62,8 @@ el anochecer ya es sin luna.)
 - **Dónde**: hacia el **sur** — la Pequeña ya a ~33° al caer la oscuridad,
   la Grande subiendo hasta ~27° hacia las 23:00. Dos galaxias a simple vista.
 - **Con qué**:
-  - **a6700 + el 12 mm**: las dos con paisaje en un encuadre; son tenues:
-    **apila 15–20 tomas** (20 s · f/2 · ISO 1600–3200) con Sequator
+  - **a6700 + el 11 mm**: las dos con paisaje en un encuadre; son tenues:
+    **apila 15–20 tomas** (20 s · f/1.8 · ISO 1600–3200) con Sequator
     ([edición](edicion-basica.md)).
   - **Prismáticos 8x42**: el paseo por dentro de las Nubes es el mejor
     descanso entre serie y serie.
@@ -77,7 +77,7 @@ el anochecer ya es sin luna.)
 - **Cuándo**: toda la ventana, recién pasada su oposición: el "lucero" fijo
   y amarillento, altísimo hacia las 22:30–23:00 (culmina por el noreste).
 - **Con qué**: como **ancla de composición** en las fotos de cielo con el
-  12 mm (18 mm eq) — un punto brillante que ordena el encuadre. Ni el tele
+  11 mm (16,5 mm eq) — un punto brillante que ordena el encuadre. Ni el tele
   ni los prismáticos lo convierten en foto de anillos: asúmelo como
   estrella de lujo.
 - (Venus y Mercurio no están en tus anocheceres; no los busques.)
@@ -133,9 +133,9 @@ el anochecer ya es sin luna.)
   paisaje ([guía](paisaje-namibia.md)).
 - **La creciente fina con luz cenicienta, 11–13 nov**: al anochecer sobre el
   oeste, el "abrazo" de la luna vieja. Dos fotos:
-  - Con el **12 mm**: creciente + resplandor + horizonte, receta de paisaje
+  - Con el **11 mm**: creciente + resplandor + horizonte, receta de paisaje
     crepuscular.
-  - Con el **Tamron a 400 mm** (600 mm eq; trípode, VC OFF): la creciente
+  - Con el **70-350 a 350 mm** (525 mm eq; trípode, OSS OFF): la creciente
     con relieve — parte de **1/250 · f/8 · ISO 400** y ajusta con el
     histograma; para que aflore la parte en sombra (cenicienta), segunda
     toma a 1–2 s · ISO 1600 asumiendo que el filo iluminado se queme.
@@ -146,23 +146,18 @@ el anochecer ya es sin luna.)
 
 - **Cuándo**: la madrugada del **14 de noviembre**, ya de vuelta en Windhoek:
   los dos planetas muy juntos por el **este** en el crepúsculo.
-- **Con qué**: el 12 mm con paisaje urbano/horizonte, o un plano más cerrado
-  con el Tamron corto. Exposición de crepúsculo (prueba + histograma), no de
+- **Con qué**: el 11 mm con paisaje urbano/horizonte, o un plano más cerrado
+  con el 70-350 corto. Exposición de crepúsculo (prueba + histograma), no de
   noche cerrada.
 
 ### 10 · Timelapses del cielo — con árbol, casa o molino delante
 
-Tu foto en movimiento, por tres vías (de menos a más esfuerzo):
+Tu foto en movimiento, por dos vías (de menos a más esfuerzo):
 
-1. **La GoPro**: modos **Night Lapse** (vídeo timelapse de la noche) y
-   **Star Trails** (los círculos, ya montados en cámara) — la dejas
-   encuadrada con la silueta y se acabó tu trabajo. La batería interna da
-   del orden de hora y media en estos modos: para toda la noche, móntala
-   sobre la **Volta 2** (su empuñadura-batería de 5.800 mAh,
-   [equipo](../a6700/05-equipo-accesorios.md)).
-2. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
-   móvil quieto sobre una piedra ([su guía](pixel-10-pro.md)).
-3. **La a6700 con su intervalómetro integrado** (`Interval Shoot Func.`),
+1. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
+   móvil quieto sobre una piedra, cuatro minutos y listo
+   ([su guía](pixel-10-pro.md)). Es la vía "pon y olvida" de este viaje.
+2. **La a6700 con su intervalómetro integrado** (`Interval Shoot Func.`),
    la versión de máxima calidad — sin cable que comprar, viene de serie:
    15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
    [capítulo 2](../a6700/02-astrofotografia-namibia.md), montaje en
@@ -185,30 +180,31 @@ la muralla blanca del fuerte de Namutoni.
   medianoche, y la Vía Láctea entera de horizonte a horizonte. Apunta lo que
   veas: el ojo también viaja.
 
-## Noche a noche: tú con la a6700, la GoPro trabajando sola
+## Noche a noche: tú con la a6700, el Pixel trabajando solo
 
 El [itinerario real](https://github.com/morandeirachema/namibia) cruzado con
 la luna de cada noche ([detalle](mejores-horas.md)): qué disparas tú y qué
-dejas corriendo. La GoPro trabaja **en paralelo** — se enciende, se encuadra
-la silueta y no se toca más; siempre dentro del recinto y cerca de ti, y
-sobre la **Volta 2** si la serie es larga.
+dejas hecho el móvil. El Pixel trabaja **en paralelo** — se apoya en una
+piedra apuntando a **otra** parte del cielo, modo Astrofotografía, cuatro
+minutos por foto (y su mini-timelapse de regalo) y no se toca más; siempre
+dentro del recinto y cerca de ti.
 
-| Noche | Duermes en | Tú, con la a6700 | La GoPro, sola |
+| Noche | Duermes en | Tú, con la a6700 | El Pixel, solo |
 |---|---|---|---|
-| sáb 31 oct | Windhoek | Dormir: jet lag y cielo urbano | Nada — cárgala y familiarízate con los menús |
-| dom 1 | Spreetshoogte | Estreno del 12 mm: núcleo bajo al OSO al anochecer (nº 1 del catálogo) | Timelapse del atardecer→noche desde el mirador de la escarpa |
-| lun 2 | Spreetshoogte | Repite corrigiendo errores + primera panorámica de la banda | **Star Trails** sobre el molino o los tejados de la granja |
-| mar 3 | Sesriem | Nubes de Magallanes apiladas (15–20 tomas) y pronto a la cama: el 4 se madruga | **Night Lapse** junto a la tienda mientras duermes (sobre la Volta 2) |
+| sáb 31 oct | Windhoek | Dormir: jet lag y cielo urbano | Nada — cárgalo y repasa sus ajustes |
+| dom 1 | Spreetshoogte | Estreno del 11 mm: núcleo bajo al OSO al anochecer (nº 1 del catálogo) | Timelapse del atardecer→noche desde el mirador de la escarpa |
+| lun 2 | Spreetshoogte | Repite corrigiendo errores + primera panorámica de la banda | Astro sobre el molino o los tejados de la granja |
+| mar 3 | Sesriem | Nubes de Magallanes apiladas (15–20 tomas) y pronto a la cama: el 4 se madruga | Astro junto a la tienda, con la tienda de silueta |
 | mié 4 | Sesriem | La foto es al alba: la menguante sobre las dunas en el madrugón de Deadvlei | Timelapse del amanecer en Deadvlei; por la noche, descanso |
-| jue 5 | Walvis Bay | Si la niebla respeta, Nubes; si no, dormir | Timelapse de la niebla del Benguela entrando al atardecer |
-| vie 6 | Walvis Bay | Ídem — cielo poco fiable en la costa | Ídem, o Night Lapse si la noche abre |
-| sáb 7 | Terrace Bay | Descanso (al día siguiente, paliza de grava); si abre, star trails cortos | Timelapse de olas y niebla — su hábitat natural |
-| dom 8 | Hoada | El ensayo general de Etosha: Nubes + núcleo con el granito de silueta | Star Trails sobre las bolas de granito |
-| lun 9 | Okaukuejo · **luna nueva** | La gran noche: charca con foco (rinos 21:00–24:00) y Vía Láctea desde el rincón oscuro | Night Lapse con el depósito de agua de silueta, trabajando a tu lado |
-| mar 10 | Halali | Charca Moringa al anochecer + Nubes el resto | Star Trails entre los mopanes del campamento |
-| mié 11 | Namutoni | Noche de cielo y Táuridas: serie larga de star trails con la a6700 | Night Lapse toda la noche sobre la Volta 2 — más red para cazar bólidos |
-| jue 12 | Namutoni | El gran nocturno: lo que falte de la [lista](lista-de-tomas.md) (pano, Nubes con silueta) | Star Trails con la muralla blanca del fuerte |
-| vie 13 | Windhoek | La creciente con luz cenicienta a 400 mm (600 mm eq) tras el ocaso, y a dormir | Timelapse del atardecer urbano con la creciente poniéndose |
+| jue 5 | Walvis Bay | Si la niebla respeta, Nubes; si no, dormir | Timelapse (con Visión Nocturna) de la niebla del Benguela entrando |
+| vie 6 | Walvis Bay | Ídem — cielo poco fiable en la costa | Ídem, o astro si la noche abre |
+| sáb 7 | Terrace Bay | Descanso (al día siguiente, paliza de grava); si abre, star trails cortos | Larga exposición a las olas en la hora azul |
+| dom 8 | Hoada | El ensayo general de Etosha: Nubes + núcleo con el granito de silueta | Astro con una bola de granito recortada |
+| lun 9 | Okaukuejo · **luna nueva** | La gran noche: charca con foco (rinos 21:00–24:00) y Vía Láctea desde el rincón oscuro | Astro con el depósito de agua de silueta, mientras tú estás en la charca |
+| mar 10 | Halali | Charca Moringa al anochecer + Nubes el resto | Astro entre los mopanes del campamento |
+| mié 11 | Namutoni | Noche de cielo y Táuridas: serie larga de star trails con la a6700 | Astro repetido en varias direcciones — más red para cazar un bólido |
+| jue 12 | Namutoni | El gran nocturno: lo que falte de la [lista](lista-de-tomas.md) (pano, Nubes con silueta) | Astro con la muralla blanca del fuerte |
+| vie 13 | Windhoek | La creciente con luz cenicienta a 350 mm (525 mm eq) tras el ocaso, y a dormir | Timelapse del atardecer urbano con la creciente poniéndose |
 | sáb 14 | Vuelo | — | — |
 
 ## El día malo: nubes

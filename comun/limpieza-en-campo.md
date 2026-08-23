@@ -46,24 +46,25 @@ desgasta los tratamientos.
 
 ## Las peculiaridades de tu equipo
 
-- **Rokinon 12mm**: frontal curvo pero **con rosca de 67 mm** y parasol de
-  pétalos desmontable — un filtro protector barato (~20 €) es una opción
-  razonable contra el polvo, y la tapa va puesta **siempre** que no estés
-  disparando, también entre tomas de astro si sopla viento. Con la pera y el
-  pincel, sigue la curvatura del cristal.
-- **Tamron 50-400**: el zoom se extiende y al moverlo **bombea aire** (y con
-  él, polvo) hacia dentro. En días de polvo o viento del este: zoom con
-  moderación, guárdalo retraído a 50 mm con el bloqueo echado, y pasa el
+- **El 11 mm**: frontal abombado pero **con rosca de 55 mm** y parasol
+  desmontable — un filtro protector barato (~20 €, o el de 67 mm con el
+  anillo step-up del [equipo](../a6700/05-equipo-accesorios.md)) es una
+  opción razonable contra el polvo, y la tapa va puesta **siempre** que no
+  estés disparando, también entre tomas de astro si sopla viento. Con la
+  pera y el pincel, sigue la curvatura del cristal.
+- **El 70-350**: el zoom se extiende y al moverlo **bombea aire** (y con él,
+  polvo) hacia dentro. En días de polvo o viento del este: zoom con
+  moderación, guárdalo retraído a 70 mm con el bloqueo echado, y pasa el
   pincel por el **anillo de goma del zoom** cada noche — la arena ahí dentro
-  es lo que acaba rayando el barrilete y endureciendo el giro. Su rosca de
-  **67 mm** (la misma que la del 12 mm) hace barato el filtro protector
-  (~20–30 €); y disciplina de **parasol siempre montado** (protege de
-  golpes, roces y parte del polvo) y tapa entre escenas.
+  es lo que acaba rayando el barrilete y endureciendo el giro. Rosca de
+  **67 mm** para el filtro protector (~20–30 €); y disciplina de **parasol
+  siempre montado** (protege de golpes, roces y parte del polvo) y tapa entre
+  escenas.
 - **Lente trasera y montura**: mismo método (pera → pincel → húmeda si hace
   falta) con el objetivo desmontado **dentro del coche o la habitación**,
-  nunca al aire libre. Los **contactos dorados** del Tamron y del cuerpo,
-  con microfibra seca — es la cura de los avisos de "objetivo no
-  reconocido". (El 12 mm no tiene contactos: ahí no hay nada que limpiar.)
+  nunca al aire libre. Los **contactos dorados** de los dos objetivos y del
+  cuerpo, con microfibra seca — es la cura de los avisos de "objetivo no
+  reconocido".
 - **El cuerpo**: pera y pincel por diales, botones y tapas de goma; paño
   apenas humedecido en agua para el exterior. No abras tapas (tarjetas,
   batería) hasta haber soplado alrededor.

@@ -49,8 +49,9 @@ es defensa. El ataque es usar la obturación para **decir movimiento**:
   obturación lenta, y tú siguiéndolo con la cámara — el animal nítido, el
   fondo convertido en líneas de velocidad. La receta:
   1. Modo **S, 1/30–1/60 s, ISO 100 fijo** (no Auto), AF-C, ráfaga.
-  2. **VC del Tamron en modo 2** (estabiliza solo la vertical: está hecho
-     exactamente para esto).
+  2. **OSS del 70-350 en ON**: no tiene modo de barrido, pero el objetivo
+     detecta el paneo y deja de corregir el eje horizontal él solo. Si aun
+     así notas tirones, apágalo y confía en el gesto.
   3. Gira **desde la cintura**, acompañando al animal antes, durante y
      después de disparar, como un golpe de golf.
   4. Asume la estadística: de 20 intentos, 1 buena — y esa una vale la
@@ -68,17 +69,17 @@ es defensa. El ataque es usar la obturación para **decir movimiento**:
 
 ## 3 · La apertura como lenguaje (aislar o contar)
 
-Con el Tamron casi siempre irás a plena apertura por necesidad (f/4.5 en
-50 mm, f/6.3 en 400 mm) — pero cuando la luz sobra, la apertura vuelve a ser
+Con el 70-350 casi siempre irás a plena apertura por necesidad (f/4.5 en
+70 mm, f/6.3 a partir de 200 mm) — pero cuando la luz sobra, la apertura vuelve a ser
 una decisión:
 
-- **f/5.6–6.3 = aislar**: retrato a 300–400 mm (450–600 mm eq), fondo
+- **f/5.6–6.3 = aislar**: retrato a 250–350 mm (375–525 mm eq), fondo
   derretido. Para que el fondo se derrita del todo, busca **fondo lejano**
-  (el pan, matorral a 100 m) — a 400 mm, 20 m de distancia entre animal y
+  (el pan, matorral a 100 m) — a 350 mm, 20 m de distancia entre animal y
   fondo hacen más que cualquier apertura.
-- **f/8–f/11 = contar**: el "animal en su paisaje" a 50–100 mm quiere que
-  el entorno se reconozca. Y en grupos: **a 400 mm y 10 m el foco mide unos
-  15 cm** (a 20 m, ~60 cm) — dos animales en planos distintos no caben en
+- **f/8–f/11 = contar**: el "animal en su paisaje" a 70–100 mm quiere que
+  el entorno se reconozca. Y en grupos: **a 350 mm y 10 m el foco mide unos
+  20 cm** (a 20 m, ~80 cm) — dos animales en planos distintos no caben en
   f/6.3. O esperas a que se alineen, o cierras a f/8–f/11 y subes ISO sin
   miedo.
 - **Disparar a través**: hierba o ramas **pegadas a ti** + plena apertura =
@@ -88,8 +89,9 @@ una decisión:
   ([capítulo 3](../a6700/03-safari-diurno.md)); y el modo de enfoque **DMF**
   te deja acercar el foco a mano sin salir del AF
   ([parte 2](parte-2-avanzado.md)).
-- El punto dulce del Tamron (f/7.1–f/8 en el extremo largo) y cuándo pagarlo
-  están en la [parte 2](parte-2-avanzado.md).
+- El punto dulce del 70-350 (f/7.1–f/8 en el extremo largo) y el truco de
+  recoger el zoom para ganar un tercio de paso están en la
+  [parte 2](parte-2-avanzado.md).
 
 ## 4 · El Kelvin como pincel (el color es un ajuste creativo)
 
@@ -129,10 +131,10 @@ fría*.
   [parte 1](parte-1-principiante.md)) dice "desierto" mejor que cualquier
   primer plano. Deja MUCHO más aire del que te pide el instinto, y en la
   dirección de la mirada.
-- **Capas**: a 50–100 mm, una manada en profundidad — cebra nítida delante,
+- **Capas**: a 70–100 mm, una manada en profundidad — cebra nítida delante,
   el resto desdibujándose — da tres dimensiones a un formato que solo tiene
   dos. Busca diagonales: la fila india hacia el agua ES una diagonal. Este
-  zoom baja hasta 75 mm equivalentes: las capas salen sin cambiar de
+  zoom baja hasta 105 mm equivalentes: las capas salen sin cambiar de
   objetivo.
 - **La distancia media es la muerte**: o **muy cerca** (retrato apretado,
   detalle de piel, el ojo llenando el encuadre — recortar por dentro de la
@@ -159,7 +161,7 @@ fría*.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg" alt="Primer plano apretado de la cara de un elefante en Etosha" width="100%">
 
-<sub>**Léela**: el otro extremo — el encuadre corta por dentro de la cabeza y no deja nada de sobra: la foto va de textura (el barro de calcreta seco y agrietado, el "elefante fantasma" de cerca) y de los dos ojos con pestañas que la convierten en retrato. Luz suave sin sombras duras, y el blanco y negro remata la clave alta que el barro blanco ya empezó. Réplica: zoom a tope (600 mm eq), enfoque en un ojo, animal parado de frente. La distancia media entre esta foto y la del órix es donde viven las fotos planas. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
+<sub>**Léela**: el otro extremo — el encuadre corta por dentro de la cabeza y no deja nada de sobra: la foto va de textura (el barro de calcreta seco y agrietado, el "elefante fantasma" de cerca) y de los dos ojos con pestañas que la convierten en retrato. Luz suave sin sombras duras, y el blanco y negro remata la clave alta que el barro blanco ya empezó. Réplica: zoom a tope (525 mm eq), enfoque en un ojo, animal parado de frente. La distancia media entre esta foto y la del órix es donde viven las fotos planas. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
 ## 6 · El momento: la vida está en el gesto
 
@@ -191,9 +193,9 @@ tomas de Deadvlei no eran indecisión: eran oficio.
 Un reportaje no es 40 retratos: es variedad deliberada. De cada escena buena,
 intenta salir con cinco fotos distintas — en cualquier orden:
 
-1. **El escenario** (50–100 mm): dónde pasa.
-2. **El retrato** (400 mm): quién.
-3. **El detalle** (400 mm como lupa): piel, cuerno, pezuña en el barro.
+1. **El escenario** (70–100 mm): dónde pasa.
+2. **El retrato** (350 mm): quién.
+3. **El detalle** (350 mm como lupa): piel, cuerno, pezuña en el barro.
 4. **El gesto**: qué pasó.
 5. **La salida**: el animal yéndose — la foto melancólica que cierra la
    serie (y el contraluz de despedida si el sol acompaña).
@@ -203,14 +205,13 @@ viaje; la secuencia de cinco te chequea cada escena.
 
 ## 8 · ¿Y vídeo? (el clip del elefante, sin engañarse)
 
-- **Regla general: los clips, con la GoPro o el móvil.** La GoPro enganchada
-  a la ventanilla o al salpicadero graba el ambiente del safari sin que la
-  toques ([equipo](../a6700/05-equipo-accesorios.md)); el Pixel estabiliza,
-  enfoca solo y comparte al momento ([su guía](../comun/pixel-10-pro.md)). Para el vídeo-recuerdo, cualquiera de
-  los dos es mejor herramienta que dividir tu atención.
+- **Regla general: los clips, con el móvil.** El Pixel estabiliza, enfoca
+  solo, comparte al momento y tiene su propia lista de tomas
+  ([su guía](../comun/pixel-10-pro.md)). Para el vídeo-recuerdo es mejor
+  herramienta que dividir tu atención entre foto y vídeo con la Sony.
 - La a6700, eso sí, **es una cámara de vídeo seria** (4K con AF de
   seguimiento y reconocimiento de animales), y tiene su hueco: la escena
-  estática a 600 mm equivalentes que ni el móvil ni la GoPro alcanzan — el
+  estática a 525 mm equivalentes que el móvil no alcanza — el
   rinoceronte bebiendo, los elefantes en la charca. Receta mínima: cámara
   sobre el bean bag, **4K a 25 fps, obturación 1/50**, ISO en Auto, AF-C con
   reconocimiento de animal (o enfoque prefijado a la orilla si la luz es
@@ -229,7 +230,7 @@ viaje; la secuencia de cinco te chequea cada escena.
 | Como vista por un turista de pie | Cámara alta | Ventanilla abajo, cámara al marco inferior; a la altura del ojo del animal o más bajo |
 | Ojo apagado, animal "disecado" | Sin catchlight | Espera el giro de cabeza hacia la luz; elige en la ráfaga la toma con chispa |
 | Todo nítido y todo igual de importante | Sin jerarquía | Plena apertura + fondo lejano; o marco difuminado disparando a través de hierba |
-| Congelada pero estática, sin sensación de movimiento | 1/2000 "seguro" en escena de movimiento | Barrido a 1/40 con VC en modo 2, o aleteo a 1/320: deja que algo se mueva |
+| Congelada pero estática, sin sensación de movimiento | 1/2000 "seguro" en escena de movimiento | Barrido a 1/40 siguiendo al animal, o aleteo a 1/320: deja que algo se mueva |
 | El color, anodino | AWB neutralizándolo todo | 5200 K fijo en la hora dorada; 6000 K si quieres incendio; azul del alba respetado |
 | Un montón de animales sin foto | Multitud sin geometría | Espera el impar, la diagonal, la X de cuellos, la interacción — o aísla a uno |
 | Bonita pero igual a las otras 400 | Solo disparaste el retrato | La secuencia de cinco; y repasa qué falta en la [lista de tomas](../comun/lista-de-tomas.md) |
@@ -242,8 +243,8 @@ tardes monográficas — en el parque, con perros, patos o palomas:
 1. **Tarde de contraluces**: solo fotos con el sol de frente. Siluetas,
    −1 EV, bordes encendidos. Prohibida la luz frontal toda la tarde.
 2. **Tarde de barridos**: solo panning a 1/30–1/60 con corredores, bicis o
-   perros, VC en modo 2. Cuenta tu porcentaje de aciertos; sube cuando pases
-   del 10 %.
+   perros, con el OSS puesto. Cuenta tu porcentaje de aciertos; sube cuando
+   pases del 10 %.
 3. **Tarde de fondos**: cada foto, media vuelta alrededor del sujeto antes
    de disparar buscando el fondo más limpio. Es el hábito que en Etosha se
    convierte en "mueve el coche medio metro".

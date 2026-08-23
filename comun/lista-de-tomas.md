@@ -9,9 +9,9 @@ reportaje y no con un carrete de pruebas.
 ## Fauna
 
 1. **Retrato con el ojo clavado**: cabeza y hombros a tope de zoom
-   (600 mm eq), ojo nítido, fondo limpio
+   (525 mm eq), ojo nítido, fondo limpio
    ([receta](../a6700/03-safari-diurno.md)). La foto de enmarcar.
-2. **El animal en su paisaje**: a 75–120 mm eq (el extremo corto del zoom),
+2. **El animal en su paisaje**: a 105–150 mm eq (el extremo corto del zoom),
    pequeño en su entorno (la
    jirafa y el horizonte de Etosha). Cuenta dónde estuviste; el retrato no.
 3. **Comportamiento**: dos animales interactuando — grooming, juego, una cría
@@ -53,7 +53,7 @@ reportaje y no con un carrete de pruebas.
     −2/3 para dramatizar el cielo.
 15. **Un ave migratoria**: noviembre es el mejor mes de rapaces y llegan los
     abejarucos europeos a los cables y ramas — tele a tope de zoom
-    (600 mm eq), 1/2500 s si vuelan.
+    (525 mm eq), 1/2500 s si vuelan.
 
 ## El extra del timelapse (tu otra prioridad)
 
@@ -71,5 +71,5 @@ reportaje y no con un carrete de pruebas.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —
   la segunda vez ya sabes qué falló.
 - El **vídeo** tiene su propia lista de tomas (avión, carretera, dunas,
-  focas, noche…) con los ajustes de cada una: en la
-  [guía de la GoPro](gopro-mission-1.md).
+  focas, noche…) con los ajustes de cada una, y la rueda el móvil: en la
+  [guía del Pixel](pixel-10-pro.md).

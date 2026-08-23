@@ -94,9 +94,8 @@ filling* si hay microhuecos entre tomas):
 
 ## Montar un timelapse en vídeo
 
-(Los de la GoPro salen ya montados de cámara — esto es para las series del
-intervalómetro integrado de la a6700; los clips y archivos de la GoPro
-tienen su apartado en [su guía](gopro-mission-1.md).)
+(Los del Pixel salen ya montados del móvil — esto es para las series del
+intervalómetro integrado de la a6700, que es la versión de máxima calidad.)
 
 Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24
 fotogramas por segundo):
@@ -119,10 +118,10 @@ fotogramas por segundo):
 
 ## Montar el vídeo-recuerdo (DaVinci para novatos)
 
-El cierre del viaje: los clips de la GoPro convertidos en un vídeo de 3–5
-minutos. El guion ya lo rodaste — los capítulos de la
-[lista de tomas del vídeo](gopro-mission-1.md): ida, carretera, desierto,
-costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
+El cierre del viaje: los clips del Pixel (más algún plano largo de la a6700)
+convertidos en un vídeo de 3–5 minutos. El guion ya lo rodaste — los
+capítulos de la [lista de tomas del vídeo](pixel-10-pro.md): ida, carretera,
+desierto, costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
 **DaVinci Resolve** (gratis:
 <https://www.blackmagicdesign.com/products/davinciresolve>):
 
@@ -133,8 +132,8 @@ costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
 3. Recorta cada clip a sus **3–6 segundos buenos** (herramienta de corte;
    los 5 s quietos que dejaste al grabar son el margen). Fuera todo lo que
    dude: mejor 3 minutos redondos que 8 regulares.
-4. Los timelapses y star trails de la GoPro ya vienen montados: entran como
-   un clip más. Los de la a6700, como los exportaste
+4. Los timelapses del Pixel ya vienen montados: entran como un clip más. Los
+   de la a6700, como los exportaste
    ([arriba](#montar-un-timelapse-en-vídeo)).
 5. **Música**: una sola canción sin copyright (la biblioteca de audio de
    YouTube Studio, por ejemplo) marca el ritmo de los cortes. Baja el sonido
@@ -143,9 +142,9 @@ costa, safari, noche, campamento, vuelta. El montaje, paso a paso en
 6. Exporta con el preajuste **YouTube 1080p** de la pestaña Deliver y
    listo: ese archivo es el recuerdo.
 
-La alternativa exprés: la app **Quik** de GoPro monta un borrador
-automático con música en 5 minutos — vale como tráiler mientras te animas
-con el montaje bueno.
+La alternativa exprés: **Google Fotos** monta solo, desde el móvil, un
+resumen con música en cinco minutos — vale como tráiler para mandar al grupo
+mientras te animas con el montaje bueno.
 
 ## Exportar para compartir
 

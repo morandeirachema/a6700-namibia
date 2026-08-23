@@ -42,21 +42,25 @@ absorba el resto.
 ## Traducción de zooms: del móvil a los objetivos del viaje
 
 En el móvil piensas en "x"; en cámara, en milímetros. Una nota previa: la
-a6700 multiplica todos los milímetros por **1,5** (sensor APS-C) — el 12 mm
-encuadra como un 18 mm y el 50-400 como un **75-600**. A esos números les
+a6700 multiplica todos los milímetros por **1,5** (sensor APS-C) — el 11 mm
+encuadra como un 16,5 mm y el 70-350 como un **105-525**. A esos números les
 llamamos "equivalentes", y son los que se comparan con el móvil (la cámara
 principal del móvil ≈ 24 mm ≈ "1x"):
 
 | Móvil | Milímetros | En este viaje |
 |---|---|---|
-| Ultra gran angular (0.5x) | ~13 mm | **Rokinon 12mm** (18 mm equivalentes — un pelín menos ancho que tu 0.5x): la Vía Láctea con paisaje |
-| Principal (1x) | ~24 mm | — |
-| Retrato (3x) | ~77 mm | El extremo corto del **50-400** (75 mm equivalentes) |
-| Tele (5x) | ~120 mm | La zona baja del zoom |
-| No existe en móvil | 400 mm = 600 mm equivalentes ≈ "25x" | El extremo largo del **50-400**: un león a 50 m llenando el encuadre |
+| Ultra gran angular (0.5x) | ~13 mm | El **11 mm** (16,5 mm equivalentes — casi lo mismo que tu 0.5x): la Vía Láctea con paisaje, y el primer plano de las dunas |
+| Principal (1x) | ~24 mm | — (ese encuadre es del móvil) |
+| Retrato (3x) | ~77 mm | — (el hueco entre tus dos objetivos: lo cubre el Pixel) |
+| Tele (5x) | ~120 mm | El extremo corto del **70-350** (105 mm equivalentes): el animal en su paisaje |
+| No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
+
+Fíjate en el hueco: entre 16,5 y 105 mm equivalentes tus objetivos no llegan
+— ese tramo (el retrato, el grupo, el coche en la pista) es justo donde el
+Pixel es mejor herramienta que cambiar de objetivo con polvo en el aire.
 
 La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
-principio te costará *encontrar* al animal por el visor a 400 mm — es normal,
+principio te costará *encontrar* al animal por el visor a 350 mm — es normal,
 se entrena (deberes, abajo). Y el móvil no se jubila: lo que le sigues
 pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
 [la guía del Pixel 10 Pro](../comun/pixel-10-pro.md).
@@ -177,12 +181,12 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 | Fiarse del brillo de la pantalla a pleno sol | Histograma (arriba) |
 | Horizontes torcidos | Activa el **nivel electrónico** (botón DISP hasta verlo) |
 | Limpiar la lente con la camiseta | Pera + microfibra, siempre en la mochila |
-| Buscar al animal a 400 mm y no encontrarlo | Abre los dos ojos: uno al visor y otro a la escena; localiza a 50–100 mm y luego amplía |
+| Buscar al animal a 350 mm y no encontrarlo | Abre los dos ojos: uno al visor y otro a la escena; localiza a 70–100 mm y luego amplía |
 
 ## Deberes antes del viaje (7 tardes)
 
 > Estas tardes, junto con todo lo demás que hay que practicar (las
-> monográficas, las noches de estrellas, la GoPro), están puestas en
+> monográficas, las noches de estrellas, el Pixel), están puestas en
 > calendario real — semana a semana hasta el avión — en el
 > [plan de entrenamiento](../comun/plan-de-entrenamiento.md).
 
@@ -193,16 +197,17 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
    perro corriendo hacia ti. Comprueba que el recuadro engancha el ojo (y
    recupéralo tocando la pantalla cuando lo suelte). Cuenta cuántas del
    total salen nítidas; repite hasta pasar del 50 %. Es el ejercicio más
-   importante — y en cuanto tengas el 50-400, **repítelo con él montado**:
-   encontrar y seguir al perro a 300–400 mm es otro deporte, y ahí es donde
+   importante — y en cuanto tengas el 70-350, **repítelo con él montado**:
+   encontrar y seguir al perro a 250–350 mm es otro deporte, y ahí es donde
    se entrena.
 4. **Compensación e histograma**: fotografía a alguien contra una ventana y
    contra una pared oscura (modo A). Corrige con la compensación hasta que
    el histograma quede despegado de los bordes.
-5. **Noche en trípode**: modo M en el balcón con el 12mm: f/2 (en el anillo
-   del objetivo), 10 s, ISO 1600. Juega con los segundos mirando el
-   histograma. Si puedes escaparte a cielo oscuro, sigue la escalera de tres
-   noches de [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md) —
+5. **Noche en trípode**: modo M en el balcón con el 11 mm: f/1.8 (rueda de
+   la cámara, como cualquier objetivo), 10 s, ISO 1600. Juega con los
+   segundos mirando el histograma. Si puedes escaparte a cielo oscuro,
+   sigue la escalera de tres noches de
+   [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md) —
    empieza de cero y acaba en la postal del viaje.
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
    [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.
@@ -217,8 +222,8 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 
 Cuando estas siete salgan solas: [Safari a fondo](../mejora/safari-a-fondo.md)
 propone tres tardes monográficas más (contraluces, barridos y fondos). Y la
-segunda cámara del viaje, la GoPro, tiene su propia puesta en marcha desde
-cero en [su guía](../comun/gopro-mission-1.md).
+segunda cámara del viaje, el Pixel 10 Pro, tiene sus diez minutos de puesta a
+punto en [su guía](../comun/pixel-10-pro.md).
 
 ## Referencias
 

@@ -116,7 +116,7 @@ PhotoPills):
 
 | Noche | Duermes en | Luna (aprox.) | Ventana oscura | El plan |
 |---|---|---|---|---|
-| dom 1 | Spreetshoogte | Menguante ~50 %, sale de madrugada | ~20:30 → salida de la luna | Estreno del 12 mm: núcleo al anochecer sobre la escarpa |
+| dom 1 | Spreetshoogte | Menguante ~50 %, sale de madrugada | ~20:30 → salida de la luna | Estreno del 11 mm: núcleo al anochecer sobre la escarpa |
 | lun 2 | Spreetshoogte | ~42 % | ~20:30 → madrugada | Día sin volante: repite la toma de anoche corrigiendo errores |
 | mar 3 | Sesriem | ~34 % | ~20:35 → madrugada | Cielo del desierto — pero acuéstate pronto: el 4 se madruga (~05:10) |
 | mié 4 | Sesriem | ~27 %, colgada al alba | La foto es al amanecer | La menguante sobre las dunas en el amanecer de Deadvlei |

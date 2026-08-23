@@ -1,11 +1,18 @@
 # 5. Equipo y accesorios para la a6700 (enfoque budget)
 
 Situación de partida de este viaje: se empieza casi de cero y el kit son
-**tres compras** — el cuerpo, el objetivo de astro y el tele de fauna —
-elegidas para cubrir safari, charcas nocturnas y cielo con el mínimo dinero
-razonable. Ventaja de la montura E de Sony: es la que más fabricantes
-terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un mercado de segunda
-mano enorme (<https://www.mpb.com/>), donde casi todo baja un 20–40 %.
+**tres compras** — el cuerpo, el gran angular de astro y paisaje, y el tele
+de fauna — elegidas para cubrir safari, charcas nocturnas y cielo con el
+mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
+cubre el hueco de en medio y el vídeo del viaje
+([su guía](../comun/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
+que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
+mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
+un 20–40 %.
+
+**El kit del viaje, en una línea**: a6700 (~1.300–1.500 € nueva) + 11mm F1.8
+(~400–550 €) + 70-350 G OSS (~570–650 €) — con las dos ópticas de segunda
+mano en mpb, el conjunto baja fácil un 25 %.
 
 ## El cuerpo: Sony a6700
 
@@ -34,78 +41,73 @@ Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
   cargador doble de la lista de abajo: cargar dos baterías mientras la
   cámara sigue contigo lo vale.
 
-## Astrofotografía: el Rokinon 12mm f/2.0
+## Astrofotografía y paisaje: el Sony E 11mm F1.8
 
-El **Rokinon/Samyang 12mm f/2.0 NCS CS** (~300–400 € nuevo / ~200–250 €
-usado) es el clásico budget de astro en APS-C desde hace una década — la
-review de referencia es la de Lonely Speck
-(<https://www.lonelyspeck.com/rokinon-12mm-f2-0-ncs-cs-review/>):
+El **Sony E 11mm F1.8 (SEL11F18)** — ~400–550 € nuevo / ~330–420 € usado en
+mpb — es el gran angular nativo de la casa para APS-C
+(<https://www.sony.es/lenses/products/sel11f18>):
 
-- **18 mm equivalentes**: cielo de sobra para la Vía Láctea con paisaje.
-- **f/2**: un paso más de luz que casi cualquier alternativa budget — la
-  misma foto con la mitad de ISO.
-- **Totalmente manual y sin contactos**: apertura y enfoque se eligen en sus
-  anillos, la cámara marca **F--** y hay que activar `Disparo sin objetivo`
-  ([capítulo 1](01-configuracion-basica.md)). No está roto: es su diseño, y
-  para astro (enfoque fijo a las estrellas toda la noche) no se echa nada en
-  falta.
-- Rosca de filtro de **67 mm** — el mismo diámetro que el tele de fauna.
+- **16,5 mm equivalentes**: cielo de sobra para la Vía Láctea con paisaje, y
+  el ángulo justo para el primer plano de las dunas.
+- **f/1.8**: la apertura más luminosa de su clase — un tercio de paso por
+  encima de los clásicos f/2 y **dos pasos** sobre el f/3.5 de un zoom del
+  kit: la misma foto de estrellas con la cuarta parte de ISO.
+- **Nativo, con autofoco y contactos**: la apertura se pone con la rueda de
+  la cámara, el EXIF sale completo, las correcciones de distorsión y viñeteo
+  se aplican solas y el IBIS sabe la focal sin que se la digas. Lleva
+  **interruptor AF/MF** y **botón de retención de foco** en el barrilete.
+  Para astro seguirás enfocando a mano (lupa + peaking), pero de día enfoca
+  solo, y eso lo convierte también en el objetivo de paisaje, de interiores
+  y de vídeo.
+- **181 g** y rosca de filtro de **55 mm** (ojo: el tele es de 67 — abajo,
+  en accesorios, el anillo que resuelve llevar un solo filtro).
+- Enfoca desde **15 cm**: un primer plano casi macro con la duna entera
+  detrás.
+- No tiene estabilizador óptico; no lo necesita: lo pone el cuerpo.
 
-Alternativas solo si prefieres AF y EXIF: Samyang **AF 12mm F2.0 E**
-(~450 €, la misma focal con contactos y autofoco), Sony **E 11mm F1.8**
-(~550 €) o Sigma **16mm F1.4 DC DN** (~400 €, más luz pero bastante menos
-cielo).
+Alternativas si aparece una ganga: Sigma **16mm F1.4 DC DN** (~400 €, más
+luz aún pero bastante menos cielo: 24 mm eq) o Samyang **AF 12mm F2.0 E**
+(~400 €, un pelo menos luminoso). El manual de toda la vida — el
+Rokinon/Samyang 12mm f/2 — sale más barato de segunda mano, pero obliga a
+manejar apertura y enfoque a mano en todo: para un novato, el nativo se paga
+solo.
 
 ## Objetivo para fauna: el tele
 
 | Objetivo | Precio aprox. | Notas |
 |---|---|---|
-| **Tamron 50-400mm f/4.5-6.3 Di III VC VXD (A067)** ⭐ | ~1.100–1.350 € nuevo / 850–1.000 € usado | **75–600 mm equivalentes en 1,15 kg**: el rango del safari clásico con la mitad de peso. Motor VXD rápido y silencioso, estabilizador VC, macro 1:2 en 50 mm. <https://www.tamron.com/global/consumer/lenses/a067/> |
-| Sigma 150-600mm DG DN OS Sports (E) | ~1.300–1.500 € / menos usado | 600 mm reales (900 eq): aún más alcance, pero 2,1 kg — pide bean bag para todo. <https://www.sigma-global.com/> |
+| **Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G)** ⭐ | ~570–650 € nuevo / ~450–520 € usado | **105–525 mm equivalentes en 625 g**: el alcance del safari en un objetivo que se levanta con una mano. Serie G (óptica buena de verdad), motor lineal XD rápido y silencioso, estabilizador OSS, bloqueo de zoom y botón de retención de foco. <https://www.sony.es/lenses/products/sel70350g> |
+| Sony FE 70-300mm G | ~900–1.100 € | Full frame (105–450 eq en esta cámara): más caro, más pesado y con menos alcance. Aquí no compensa |
+| Sigma 150-600mm DG DN OS Sports (E) | ~1.300–1.500 € / menos usado | 600 mm reales (900 eq): mucho más alcance, pero 2,1 kg — pide bean bag para todo. <https://www.sigma-global.com/> |
 | Sony FE 200-600mm G | ~1.900 € | El AF de referencia y zoom interno, pero 2,1 kg y fuera de presupuesto |
-| Tamron 150-500mm f/5-6.7 Di III | ~1.100–1.400 € | Alternativa intermedia, 1,7 kg. <https://www.tamron.eu/> |
+| Tamron 150-500mm f/5-6.7 Di III VC VXD | ~1.100–1.400 € | Alternativa intermedia, 1,7 kg. <https://www.tamron.eu/> |
 
-**Recomendación**: el **50-400**. En Etosha, 600 mm equivalentes dan el
-retrato apretado; pesa la mitad que un 150-600 (se sostiene a pulso sin
-sufrir, aunque el bean bag sigue siendo el soporte serio); y su extremo
-corto de 75 mm eq da el "animal en su paisaje" **sin cambiar de objetivo** —
-con el polvo de Etosha y una sola bolsa, eso vale oro. Bonus inesperado: el
-macro 1:2 a 50 mm convierte el tele en lupa de flores, insectos y texturas
-durante las esperas de mediodía.
+**Recomendación**: el **70-350 G**. En Etosha, 525 mm equivalentes dan el
+retrato apretado de casi todo lo que se acerca a una charca; pesa **625 g**
+—un tercio de lo que pesa un 150-600— y eso cambia el safari entero: se
+levanta con una mano en los cuatro segundos que dura un leopardo, aunque el
+bean bag siga siendo el soporte serio. Su extremo corto de 105 mm eq da el
+"animal en su paisaje" **sin cambiar de objetivo**, que con el polvo de
+Etosha y una sola bolsa vale oro.
 
-**Limitación a tener en cuenta**: f/6.3 en el extremo largo es lento para la
-charca nocturna: allí trabajarás a ISO 6400–12800 y salvarás las fotos con
-reducción de ruido por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)).
-La alternativa luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque
-budget es asumir el ISO alto.
+**Dos limitaciones a tener en cuenta**:
 
-## Vídeo y timelapses: la GoPro
+- **f/6.3 en el extremo largo** es lento para la charca nocturna: allí
+  trabajarás a ISO 6400–12800 y salvarás las fotos con reducción de ruido
+  por IA (ver [capítulo 4](04-safari-nocturno-charcas.md)). La alternativa
+  luminosa (un 70-200 f/2.8) se sale de presupuesto; el enfoque budget es
+  asumir el ISO alto. Consuelo real: por debajo de **200 mm** abre a f/5.6 y
+  por debajo de 114 mm a f/5 — encuadrar un poco más ancho es luz gratis.
+- **Empieza en 70 mm** (105 eq): entre el 11 mm y el tele queda un hueco que
+  ningún objetivo tuyo cubre. Ese tramo — el retrato, el grupo, el coche en
+  la pista, el animal pegado al coche — es del
+  [Pixel](../comun/pixel-10-pro.md), y se resuelve sin desmontar nada en un
+  sitio con polvo en suspensión.
 
-La otra compra del viaje: una action cam para lo que la cámara de fotos no
-hace — vídeo del safari desde el coche y timelapses nocturnos "pon y
-olvida". Ojo al catálogo 2026: la "Hero 14" **no existe**; GoPro renombró su
-gama alta a **MISSION 1** (<https://gopro.com/>):
-
-| Modelo | Precio aprox. | Notas |
-|---|---|---|
-| **GoPro MISSION 1** ⭐ | 599 $ (~550–600 €) | Sensor de 1" y fotos de 50 Mpx; vídeo 8K30/4K120; modos **Night Lapse, Star Trails, Light Painting y Vehicle Lights**; 207 g, sumergible 20 m |
-| GoPro MISSION 1 PRO | 699 $ | **Mismo sensor, mismas fotos y mismos modos nocturnos**: los 100 $ extra compran solo framerates de vídeo (8K60, 4K240, 1080p a 960 fps). Para timelapse y noche, no aportan nada |
-| GoPro Hero 13 Black | ~350–430 € | La vía budget nueva: la misma familia de modos nocturnos con sensor menor (1/1.9"). Si el uso es timelapse + clips y no vídeo premium, es media MISSION 1 de precio |
-| **GoPro Hero 11 Black (usada)** | ~150–250 € | **El suelo del timelapse nocturno "bueno"**: es el modelo donde debutaron los Night Effects (Star Trails, Light Painting, Vehicle Lights) y estrenó el sensor 1/1.9" de 27 Mpx que heredan la 12 y la 13. Más antigua que esta, no: las anteriores solo tienen Night Lapse básico, sin Star Trails y con sensores menores |
-
-**La elección de este viaje: MISSION 1 + Volta 2.** La MISSION 1 estándar
-(para foto nocturna, star trails y timelapse es idéntica a la PRO), en el
-**Mountain Bike Bundle** si encaja el precio — trae anclaje de
-manillar/tija y arnés de pecho: bici resuelta, y el anclaje sirve para la
-ventanilla en el safari. Y como empuñadura y batería en un solo accesorio,
-la **Volta 2** (139,99 $): empuñadura con **5.800 mAh** integrados —
-hasta 9 h de 4K30 y, para lo que importa aquí, un Night Lapse de toda la
-noche sin power bank ni cables sueltos. Compatible con la MISSION 1 tras
-una actualización de firmware gratuita (hazla en casa). En los modos
-nocturnos, cuenta con del orden de hora y media por batería interna (la
-cifra de la guía nocturna de GoPro, medida en la gama Hero; la de la
-MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
-"toda la noche".
+Y algo que **no** tiene: modo macro. Su ampliación máxima es 0,23x a 350 mm
+— vale para texturas y flores grandes, no para insectos; el macro de verdad
+de este viaje lo hace el móvil, que enfoca a 3 cm
+([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Accesorios
 
@@ -132,19 +134,22 @@ MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
   Se pone **a caballo sobre la ventanilla medio subida** y el objetivo se
   apoya encima: el relleno se moldea a la forma del tele, absorbe la
   vibración y da una estabilidad que un trípode no puede dar dentro de un
-  coche. Es EL soporte del safari a 600 mm equivalentes. Cómo se usa:
+  coche. Es EL soporte del safari a 525 mm equivalentes. Cómo se usa:
   ventanilla a media altura, saco encima, objetivo descansando sobre él y
   presiona la cámara suavemente hacia abajo mientras disparas. Cuesta
   15–25 € vacío (busca "camera bean bag"), o hazlo tú: una funda pequeña de
   cojín con cremallera. Viaja **vacío** (pesa 1,5–2 kg lleno) y se rellena
   allí con arroz o alubias del primer supermercado; se vacía antes de volver.
-- **Filtro protector de 67 mm (opcional)**: el Rokinon y el Tamron comparten
-  rosca — un solo filtro neutro (~25–40 €) protege del polvo de Etosha al
-  que lleve puesto. Para astro, siempre sin filtro. Si te pica el paisaje
-  ([Paisaje a fondo](../mejora/paisaje-a-fondo.md)), dos más, también en
-  67 mm y también opcionales: un **ND1000** (~25–40 €) para olas y niebla de
-  30 s a plena luz, y un **polarizador circular** (~20–30 €) solo para el
-  tele — en el 12 mm oscurece el cielo a trozos.
+- **Filtros (opcionales) y el anillo que ahorra dinero**: los dos objetivos
+  **no** comparten rosca — el 11 mm es de **55 mm** y el 70-350 de **67 mm**.
+  La solución barata es un **anillo step-up 55→67** (~8 €): compras todos los
+  filtros en 67 mm y sirven para los dos. Con eso: un **filtro protector**
+  (~25–40 €) contra el polvo de Etosha para el que lleves puesto —para astro,
+  siempre sin filtro—, y si te pica el paisaje
+  ([Paisaje a fondo](../mejora/paisaje-a-fondo.md)), un **ND1000** (~25–40 €)
+  para olas y niebla de 30 s a plena luz y un **polarizador circular**
+  (~20–30 €) solo para el tele: en el 11 mm oscurece el cielo a trozos.
+  (Ojo: con el step-up montado no entra el parasol del 11 mm.)
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
   timelapses del [Pixel](../comun/pixel-10-pro.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
@@ -166,7 +171,7 @@ MISSION 1 es algo mayor) — la Volta 2 es lo que convierte "una serie" en
 ## Referencias
 
 - Mercado de segunda mano de confianza: <https://www.mpb.com/>
-- Tamron 50-400 A067 (ficha y Lens Utility): <https://www.tamron.com/global/consumer/lenses/a067/>
-- Review de referencia del Rokinon 12mm f/2.0 (Lonely Speck): <https://www.lonelyspeck.com/rokinon-12mm-f2-0-ncs-cs-review/>
-- Soporte oficial Sony (a6700): <https://www.sony.es/electronics/support>
-- GoPro (gama MISSION 1, Volta 2 y bundles): <https://gopro.com/>
+- Sony E 11mm F1.8 (SEL11F18), ficha oficial: <https://www.sony.es/lenses/products/sel11f18>
+- Sony E 70-350mm F4.5-6.3 G OSS (SEL70350G), ficha oficial: <https://www.sony.es/lenses/products/sel70350g>
+- Reviews de referencia de los dos objetivos (Dustin Abbott): <https://dustinabbott.net/2022/06/sony-e-11mm-f1-8-review/> · <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
+- Soporte oficial Sony (a6700 y firmware de objetivos): <https://www.sony.es/electronics/support>

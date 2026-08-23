@@ -13,7 +13,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
   *Por qué:* de fábrica viene en una posición cualquiera; con las dioptrías
   mal, todo te parecerá desenfocado y desconfiarás del AF sin motivo.
 - [ ] **Fecha y hora** en hora de Namibia. *Por qué:* ordenarás miles de
-  fotos por hora de captura, y deben encajar con las de la GoPro y el móvil.
+  fotos por hora de captura, y deben encajar con las del móvil.
 - [ ] **Prueba de polvo**: foto al cielo liso a f/11 y revisa en pantalla con
   zoom. Motas oscuras = polvo en sensor. *Qué hacer:* nada en el viaje — se
   clonan en edición en un clic. Solo importa saber que están.
@@ -27,18 +27,16 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Zebra 100+ activado**. *Por qué:* es tu aviso de quemados **en
   vivo**, antes de disparar — la alarma de exposición más rápida que tiene
   esta cámara.
-- [ ] **`Disparo sin objetivo: Habilitar`**. *Por qué:* el 12 mm no tiene
-  contactos; sin este ajuste, la cámara cree que no hay objetivo y se niega
-  a disparar.
-- [ ] **`SteadyShot Adjust → Manual → 12 mm`** apuntado para cuando montes
-  el Rokinon. *Por qué:* el IBIS necesita saber la focal y este objetivo no
-  puede decírsela.
+- [ ] **Firmware al día**: el de la cámara y el de los dos objetivos (se
+  actualizan con el objetivo montado, conectando la cámara al ordenador
+  desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
+  hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
 - [ ] **Creators' App emparejada** con el móvil, en casa y con wifi.
   *Por qué:* allí no hay cobertura para descargar ni configurar nada.
 
 ## 2 · El día que llegue el tele (20 min, una sola vez)
 
-Prueba de aceptación del Tamron 50-400 (nuevo o usado) — dentro del plazo de
+Prueba de aceptación del 70-350 (nuevo o usado) — dentro del plazo de
 devolución:
 
 - [ ] Zoom y anillos giran suaves en todo el recorrido; sin arenilla ni
@@ -46,19 +44,26 @@ devolución:
 - [ ] Mirando a través contra la luz: sin hongos (telarañas) ni neblina
   interna. Polvillo suelto interior es normal y no sale en fotos.
 - [ ] **Prueba de nitidez**: a plena luz, trípode o apoyo firme, un objeto
-  con texto a 20–30 m. Foto a 50, 200 y 400 mm a 1/1000. Al 100 % el texto
+  con texto a 20–30 m. Foto a 70, 200 y 350 mm a 1/1000. Al 100 % el texto
   debe leerse; blando solo a un lado no (elemento descentrado → devolución).
-- [ ] **Estabilizador (VC)**: interruptor en 1, media pulsación — la imagen
-  del visor debe "asentarse". Foto a 400 mm a 1/100 apoyado: nítida = el VC
-  trabaja.
+- [ ] **Estabilizador (OSS)**: interruptor en ON, media pulsación — la
+  imagen del visor debe "asentarse". Foto a 350 mm a 1/100 apoyado: nítida =
+  el OSS trabaja.
 - [ ] **AF consistente**: 10 fotos seguidas al mismo objeto reenfocando
   desde lejos cada vez. ¿Las 10 igual de nítidas? *Por qué es tajante:* en
   una mirrorless el AF mide en el propio sensor — no existe descalibración
   de fase que lo excuse. Si la nitidez baila, el ejemplar tiene un problema
   → devolución.
-- [ ] Conecta el puerto USB-C del objetivo al ordenador con **Tamron Lens
-  Utility** (gratis) y actualiza su firmware
-  (<https://www.tamron.com/global/consumer/lenses/a067/>).
+- [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
+  no se desliza al colgar la cámara boca abajo.
+- [ ] Actualiza su **firmware** con él montado en la cámara
+  (<https://www.sony.es/electronics/support>, busca "SEL70350G").
+
+Y el mismo repaso, más corto, **el día que llegue el 11 mm**: anillos
+suaves, cristal limpio a contraluz, una foto a f/8 a un edificio lejano
+(esquinas al 100 %: deben aguantar) y otra a f/1.8 a un punto de luz de
+noche — si las "estrellas" de las esquinas salen con alas muy marcadas y
+asimétricas, ese ejemplar está descentrado.
 
 ## 3 · Cada mañana antes de arrancar (2 min)
 
@@ -68,28 +73,28 @@ devolución:
   problema es el calor: ni baterías ni tarjetas al sol del coche.
 - [ ] Tarjeta dentro y con hueco (un RAW de la a6700 ocupa ~25–30 MB: haz la
   cuenta de tu tarjeta y sabrás cuántas fotos le caben).
-- [ ] **Mandos del Tamron** — se mueven solos rozando en la mochila,
+- [ ] **Mandos del 70-350** — se mueven solos rozando en la mochila,
   compruébalos con el pulgar sin mirar:
-  - **VC en 1** (el 2 es solo para barridos)
-  - **Interruptor custom en su posición** habitual
-  - **Bloqueo de zoom**: echado al caminar (solo bloquea a 50 mm), suelto al
-    llegar
-  - (No busques interruptor AF/MF: no lo hay — el modo de enfoque se ve y se
-    cambia en la cámara)
+  - **AF/MF en AF** (es el que más se mueve solo, y el que más sustos da)
+  - **OSS en ON** (OFF solo con trípode; no tiene más posiciones)
+  - **Bloqueo de zoom**: echado al caminar (solo engancha a 70 mm), suelto
+    al llegar
+  - El **botón de retención de foco** cae bajo la mano izquierda: si el AF
+    se queda "congelado", mira si lo estás pulsando
 - [ ] Lente frontal: pera primero, microfibra si hace falta. Nunca en seco
   con arena encima (raya el cristal).
 - [ ] Bean bag en la ventanilla, cámara encendida en el regazo, tapa quitada.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
-- [ ] **GoPro**: batería y Volta 2 cargadas, microSD con hueco, **anclaje
-  apretado** (*por qué:* la tabla de lavar de la grava afloja cualquier
-  rosca) y lente repasada con la pera.
+- [ ] **El Pixel** cargado, con hueco y en el bolsillo (no en el
+  salpicadero al sol): es tu segunda cámara y el vídeo del viaje
+  ([su guía](../comun/pixel-10-pro.md)).
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 
 1. ¿Dial en MR1?
 2. Obturación según escena: quieto 1/500 · andando 1/1000 · corriendo 1/2000
-   · aves 1/2500. A pulso, además, nunca menos de ~1/600 con el zoom a tope
-   (la regla 1/focal va con la focal **equivalente**: 400 mm aquí son 600).
+   · aves 1/2500. A pulso, además, nunca menos de ~1/500 con el zoom a tope
+   (la regla 1/focal va con la focal **equivalente**: 350 mm aquí son 525).
 3. ¿La luz cambió desde la última escena (nube, atardecer)? → un vistazo al
    **histograma en vivo** (DISP) — en esta cámara no hace falta foto de
    prueba.
@@ -126,9 +131,10 @@ El repaso que separa "creo que la tengo" de "la tengo":
   inclinación.
 - [ ] ¿Obturación por debajo de ~1/focal equivalente a pulso? → trípode o
   ISO arriba. La primera luz es más débil de lo que parece.
-- [ ] Con el 12 mm: anillo de enfoque **un poco pasado de la marca de 1 m**
-  (~1,5 m) — a f/8 entra todo en foco de 0,6 m al infinito, y ya no lo
-  tocas. Con el tele, AF-S a un tercio de la escena.
+- [ ] Con el 11 mm: enfoca (AF) a algo que esté a **un metro** y pasa el
+  interruptor del objetivo a **MF** — a f/8 entra todo en foco desde ~0,45 m
+  al infinito, y ya no lo tocas en toda la sesión. Con el tele, AF-S a un
+  tercio de la escena.
 - [ ] Contraste imposible (vlei en sombra + duna encendida): histograma
   empotrado en **ambos** bordes → horquillado: menú de avance → `Bracket`,
   3 fotos ±2 EV, con temporizador 2 s.
@@ -139,16 +145,17 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 7 · Antes de la sesión de astro (5 min, en orden)
 
-- [ ] **La GoPro arranca primero** (1 min y trabaja sola mientras montas la
-  Sony): sobre la Volta 2, silueta en el encuadre, Night Lapse o Star Trails
-  y no se toca más ([plan noche a noche](../comun/cielo-del-viaje.md)).
+- [ ] **El Pixel arranca primero** (1 min y trabaja solo mientras montas la
+  Sony): apoyado en una piedra o mini trípode, apuntando a otra parte del
+  cielo, modo Astrofotografía y no se toca más
+  ([plan noche a noche](../comun/cielo-del-viaje.md)).
 - [ ] Dial en **MR2** · RAW · reducción de ruido de larga exposición **OFF**
   (*por qué:* con ella ON, cada foto va seguida de otros tantos segundos a
   oscuras — adiós timelapse y arcos de star trails).
 - [ ] Trípode firme, correa recogida o quitada (*por qué:* con viento es una
   vela que vibra), mochila colgada del gancho central si sopla.
-- [ ] Anillo de apertura del Rokinon en **f/2**. La cámara marcará **F--**:
-  normal en este objetivo, la apertura vive en el anillo.
+- [ ] Apertura en **f/1.8** (rueda de la cámara; si las esquinas te
+  molestan, f/2.8) e interruptor del objetivo en **MF**.
 - [ ] WB modo **K**: 3900.
 - [ ] **Bright Monitoring** (el botón que configuraste en el
   [capítulo 1](01-configuracion-basica.md)): la pantalla se amplifica y ves
@@ -196,7 +203,8 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 10 · Game drive nocturno con foco (antes de subir al vehículo)
 
-- [ ] Sin trípode: se queda en el campamento. **VC en 1** y activado.
+- [ ] Sin trípode: se queda en el campamento. **OSS en ON** y SteadyShot
+  también.
 - [ ] M · 1/125 (parado) a 1/250 (en marcha) · apertura mínima · **ISO
   manual 6400–12800** (*por qué:* con todo negro alrededor, el medidor
   general quema al animal iluminado; si prefieres ISO Auto, esta cámara sí
@@ -219,8 +227,8 @@ El repaso que separa "creo que la tengo" de "la tengo":
   repite → **una** corrección concreta para mañana (una, no cinco).
 - [ ] [Lista de tomas](../comun/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
-- [ ] GoPro y Volta 2 al cargador USB-C; descarga sus clips al móvil o SSD
-  cada 2–3 noches.
+- [ ] Pixel al cargador; copia sus fotos y clips al SSD cada 2–3 noches
+  ([su guía](../comun/pixel-10-pro.md)).
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
@@ -231,11 +239,10 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 | Ves… | Es… | Haces… |
 |---|---|---|
-| **F--** en pantalla | El 12 mm: sin contactos electrónicos | Nada — la apertura se elige en su anillo |
-| La cámara **no dispara** con el 12 mm | `Disparo sin objetivo` deshabilitado | Menú: `Disparo sin objetivo → Habilitar` |
-| Error o "objetivo no reconocido" con el Tamron | Fallo de comunicación cuerpo-objetivo | Apaga, desmonta, microfibra por los contactos dorados, remonta |
-| De repente no enfoca nada | Modo de enfoque en MF sin querer, o el botón Focus Set programado a otra cosa | Mira el modo de enfoque en pantalla y vuelve a AF-C |
-| Enfoca lentísimo recorriendo todo el rango | El limitador programado en el interruptor custom está en la posición equivocada | Cambia el custom (o revisa su programación en Lens Utility) |
+| Error o "objetivo no reconocido" | Fallo de comunicación cuerpo-objetivo | Apaga, desmonta, microfibra por los contactos dorados, remonta |
+| De repente no enfoca nada | El interruptor **AF/MF del objetivo** se movió, o tienes pulsado su botón de retención de foco | Interruptor a AF, mano fuera del botón, y comprueba el modo en pantalla |
+| Enfoca lentísimo recorriendo todo el rango | Poco contraste en lo que apuntas (este tele no tiene limitador) | Apunta a un borde con contraste, o punto único; con hierba por medio, DMF |
+| El zoom se desliza solo al colgarla | Bloqueo de zoom suelto | Recoge a 70 mm y échalo (solo engancha ahí) |
 | Ráfaga que se ahoga enseguida | SD lenta o llena | UHS-II V60 con hueco; vuélcala cada noche |
 | **Franjas horizontales** en las fotos de noche | Focos LED + obturador electrónico | Pasa a obturador mecánico |
 | Estrellas como rayitas | Demasiados segundos | 20 → 15 |

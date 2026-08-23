@@ -17,7 +17,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Sensibilidad de seguimiento | La estándar; con hierba/ramas robando el foco, un punto menos ([mejora, parte 2](../mejora/parte-2-avanzado.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
-| Estabilizador | **VC del objetivo en 1** (el modo 2 es solo para barridos); el IBIS de la cámara se suma solo |
+| Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
 
 Con esto, el 80 % del safari es mantener el pulgar en AF-ON, seguir al animal
 y ráfagas cortas. Sobre la marcha ajustas la **obturación** (rueda delantera)
@@ -71,21 +71,20 @@ donde enfocas ([mejora, parte 2](../mejora/parte-2-avanzado.md)).
 2. **Reconocimiento de sujeto en Animal**, y la opción de cambiar de objetivo
    de reconocimiento (Animal ⇄ Pájaro) a mano en el menú Fn, para hacerlo
    sin bucear en menús.
-3. **Los mandos del Tamron 50-400** (revísalos cada mañana — se mueven solos
-   en la mochila):
-   - **VC en 1** (el 2 es solo para barridos laterales; OFF en trípode).
-   - **Bloqueo de zoom** echado cuando cuelga del hombro (bloquea a 50 mm).
-   - **Interruptor Custom** en la posición que hayas programado — si no has
-     programado nada con Tamron Lens Utility, da igual dónde esté.
-   - El **botón Focus Set** del barrilete es programable: si notas
-     comportamientos raros al sujetar el objetivo, puede que lo estés
-     pulsando sin querer.
-   - **No hay interruptor AF/MF**: el modo de enfoque se cambia desde la
-     cámara. Si "de repente no enfoca", mira primero el modo de enfoque en
-     pantalla (¿se quedó en MF?).
-   - ¿Limitador de enfoque? No es un interruptor: se programa gratis en el
-     interruptor Custom con **Tamron Lens Utility** por el puerto USB-C del
-     objetivo ([mejora, parte 2](../mejora/parte-2-avanzado.md)).
+3. **Los mandos del 70-350** (son cuatro y están todos en el lado izquierdo
+   del barrilete; revísalos cada mañana con el pulgar, sin mirar — se mueven
+   solos rozando en la mochila):
+   - **AF/MF** en AF. Si "de repente no enfoca", este interruptor es el
+     primer sospechoso.
+   - **OSS en ON** (OFF solo en trípode). No tiene modos: es un ON/OFF, y el
+     objetivo detecta él solo cuándo estás barriendo.
+   - **Bloqueo de zoom** echado cuando cuelga del hombro — solo engancha con
+     el zoom en **70 mm**, así que primero recoge y luego bloquea.
+   - El **botón de retención de foco**, en el barrilete: congela el enfoque
+     mientras lo mantienes. Si notas comportamientos raros al sujetar el
+     objetivo, puede que lo estés pulsando sin querer.
+   - Lo que **no** tiene: limitador de enfoque, puerto USB ni modo macro. No
+     los busques.
 
 ## Receta por escena (solo tocas la rueda delantera)
 
@@ -98,10 +97,11 @@ donde enfocas ([mejora, parte 2](../mejora/parte-2-avanzado.md)).
 | Atardecer, poca luz, animal quieto | Baja a 1/250 s para contener el ISO |
 
 **Y a pulso, la regla 1/focal — con la focal equivalente**: en APS-C el
-zoom a tope son 600 mm equivalentes, así que sin apoyo no bajes de
-~**1/600 s** aunque el animal duerma. El IBIS más el VC dan margen real,
-pero no lo apures sujetando 1,2 kg en volandas. Sobre bean bag o ventanilla
-puedes usar la tabla tal cual; la fila de 1/250 s del atardecer es
+zoom a tope son 525 mm equivalentes, así que sin apoyo no bajes de
+~**1/500 s** aunque el animal duerma. El IBIS más el OSS dan margen real,
+pero no lo apures sujetando el equipo en volandas: con 625 g de objetivo se
+aguanta bien, y ese es justo el riesgo — confiarte. Sobre bean bag o
+ventanilla puedes usar la tabla tal cual; la fila de 1/250 s del atardecer es
 **siempre con apoyo**.
 
 ## Si la foto sale…
@@ -113,7 +113,7 @@ puedes usar la tabla tal cual; la fila de 1/250 s del atardecer es
 | El recuadro de reconocimiento se va al arbusto o a otro animal | Toca en pantalla al bueno; si insiste, punto único y colócalo tú |
 | Todo lejísimos | Encuadra bien y **recorta en edición** (los 26 Mpx aguantan un recorte del 50 %) |
 | Borroso "que tiembla" a lo lejos a mediodía | *Heat haze*: aire caliente vibrando. No es la cámara — acércate o espera a que refresque |
-| El AF caza y no fija a 400 mm | Apunta a un borde con contraste (línea lomo/cielo, no la panza lisa); o punto único; o el limitador de enfoque si lo programaste |
+| El AF caza y no fija a 350 mm | Apunta a un borde con contraste (línea lomo/cielo, no la panza lisa); o punto único; o acerca tú el foco con el anillo en modo DMF |
 | Ojo del animal blando, cuerpo nítido | Revisa al 100 %: ¿el Eye AF enganchó el ojo o la oreja? Reencuadra dando más tamaño a la cabeza, o punto único al ojo |
 | Ráfaga que se atasca enseguida | Tarjeta lenta o llena: SD **UHS-II** (V60) con hueco, y ráfagas de 1–2 s |
 
@@ -133,9 +133,9 @@ Cinco reglas que no requieren técnica, solo acordarse:
 4. **El ojo nítido o no hay foto**: la IA lo busca sola, pero la
    responsabilidad sigue siendo tuya — verifícalo, es el paso 4 de la
    [rutina](#la-rutina-de-10-segundos-cada-vez-que-llegas-a-una-escena).
-5. **Alterna encuadres**: de cada escena buena saca el retrato a 400 mm
-   (600 mm eq) **y** el plano abierto a 50–100 mm con el animal en su
-   paisaje — este zoom empieza en 75 mm equivalentes: las dos fotos salen
+5. **Alterna encuadres**: de cada escena buena saca el retrato a 350 mm
+   (525 mm eq) **y** el plano abierto a 70–100 mm con el animal en su
+   paisaje — este zoom empieza en 105 mm equivalentes: las dos fotos salen
    **sin cambiar de objetivo**. El zoom sirve para elegir encuadre, no solo
    para acercar. La [lista de tomas](../comun/lista-de-tomas.md) te recuerda
    cuáles te faltan.
@@ -171,20 +171,17 @@ Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
 velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
 ajustes — está en [Safari a fondo](../mejora/safari-a-fondo.md).
 
-## Y la GoPro, mientras tanto
+## Y el Pixel, mientras tanto
 
-Ella también hace el safari, sin quitarte atención: anclada en la barra del
-reposacabezas grabando **4K60**, o en Time Lapse (intervalo 5 s) apuntando a
-la charca durante la espera. Un vistazo a su anclaje en cada parada y nada
-más — recetas y tomas en [su chuleta](../comun/chuleta-gopro.md) y
-[su guía](../comun/gopro-mission-1.md). Y el Pixel, en el bolsillo, hace la
-foto *de alrededor*: el elefante junto al coche con el paisaje, el interior
-del coche a 0.5x, la gente — nunca el animal lejano a 20x
-([la guía del Pixel](../comun/pixel-10-pro.md)).
+En el bolsillo, hace la foto *de alrededor* y el vídeo: el elefante junto al
+coche con el paisaje entero, el interior del coche a 0.5x, la gente, los
+clips de 4K del recuerdo y el timelapse de la espera en la charca apoyado en
+el salpicadero. Lo que **no** le pidas: el animal lejano a 20x — ahí inventa
+detalle, y para eso está el tele ([la guía del Pixel](../comun/pixel-10-pro.md)).
 
 ## Referencias
 
 - Charcas y fauna de Etosha: <https://www.etoshanationalpark.org/>
 - Guía práctica para preparar un safari fotográfico: <https://photographylife.com/preparing-for-a-safari-trip-to-africa>
 - Help Guide oficial de la a6700 (menús y AF, en español): <https://helpguide.sony.net/ilc/2320/v1/es/>
-- Tamron 50-400mm F/4.5-6.3 Di III VC VXD (ficha oficial): <https://www.tamron.com/global/consumer/lenses/a067/>
+- Sony E 70-350mm F4.5-6.3 G OSS (ficha oficial): <https://www.sony.es/lenses/products/sel70350g>

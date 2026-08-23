@@ -1,12 +1,15 @@
-# El Pixel 10 Pro — la tercera cámara (la que siempre llevas encima)
+# El Pixel 10 Pro — la segunda cámara (la que siempre llevas encima)
 
-La a6700 hace la foto seria y la GoPro el vídeo; el Pixel 10 Pro es la
-cámara que **ya está en tu bolsillo cuando pasa algo**, y además tiene tres
-cosas que las otras dos no tienen: un **ultra gran angular** de 123°, un
-modo **astro** que dispara y monta un timelapse solo, y **macro**. Esta guía
-dice qué le pides en cada escena del viaje, qué no le pidas (fauna lejana y
-la charca de noche son de la Sony) y cómo se ajusta una vez para no pensar
-más. Es autocontenida: sin haber tocado un ajuste del móvil se puede seguir.
+La a6700 hace la foto seria; el Pixel 10 Pro es todo lo demás: la cámara que
+**ya está en tu bolsillo cuando pasa algo**, la que **rueda el vídeo del
+viaje**, y la que tiene cuatro cosas que la Sony no tiene — un **ultra gran
+angular** de 123°, **macro** a 3 cm, un modo **astro** que dispara y monta un
+timelapse solo, y el **tramo intermedio** (25–113 mm equivalentes) que tus
+dos objetivos no cubren. Esta guía dice qué le pides en cada escena del
+viaje, qué no le pidas (fauna lejana y la charca de noche son de la Sony),
+cómo se ajusta una vez para no pensar más y cuál es su lista de tomas de
+vídeo. Es autocontenida: sin haber tocado un ajuste del móvil se puede
+seguir.
 
 ## La ficha (verificada)
 
@@ -74,8 +77,9 @@ zooms digitales intermedios que pierden calidad).
 | **Cebras al trote junto al coche** | El barrido | Modo Movimiento → **Barrido** (Action Pan): sigue al animal, el fondo se estira. Estadística: 1 de cada 10 | — |
 | **Atardecer y siluetas** | La postal para compartir esa misma noche | Toca el cielo, **baja el brillo** con el deslizador hasta que la acacia quede negra, y bloquea (pulsación larga) | El AWB calienta o enfría a su aire: si el naranja se pierde, WB en los controles Pro (abajo) |
 | **Charca nocturna** | El ambiente: el foco, la gente en el murete, la luna, el reflejo | **Visión Nocturna** apoyado en el murete, sin flash JAMÁS (el flash está prohibido y espanta) | El rinoceronte moviéndose bajo el foco: de la a6700 ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)) |
-| **El cielo** | El modo **Astrofotografía**: foto + timelapse solos | Abajo, la receta completa | La Vía Láctea "de bolsillo" es eso, de bolsillo: la buena es del 12 mm |
-| **Vídeo** | Los clips del recuerdo, estabilizados y compartibles | **4K 30 fps** (24 fps si quieres aire de cine), 1x o 2x, clips de 10–20 s sin zoomear durante la toma; timelapse del campamento apoyado en una piedra (y **Timelapse con Visión Nocturna** para el crepúsculo, apoyado) | 8K y Video Boost: se procesan en la nube — en Namibia grabas y ya se cocinarán cuando vuelvas al wifi. La GoPro sigue siendo la del coche y la de la bici ([su guía](gopro-mission-1.md)) |
+| **El cielo** | El modo **Astrofotografía**: foto + timelapse solos | Abajo, la receta completa | La Vía Láctea "de bolsillo" es eso, de bolsillo: la buena es del 11 mm |
+| **El tramo que la Sony no tiene** (25–113 mm eq): retrato, grupo, el coche en la pista, el animal pegado al coche | La foto que exigiría cambiar de objetivo con polvo en el aire | 1x, 2x o 5x, y encuadra con los pies | Más de 5x: ahí empieza a inventar |
+| **Vídeo** | **Todo el vídeo del viaje** (abajo tiene su lista de tomas) | **4K 30 fps** (24 fps si quieres aire de cine), 1x o 2x, clips de 10–20 s sin zoomear durante la toma; timelapse del campamento apoyado en una piedra (y **Timelapse con Visión Nocturna** para el crepúsculo, apoyado) | 8K y Video Boost: se procesan en la nube — en Namibia grabas y ya se cocinarán cuando vuelvas al wifi |
 | **Documentos** | La foto que ahorra disgustos | Los ajustes de la Sony antes de cambiarlos, el permiso del parque, la matrícula, el mapa en el capó, la etiqueta de la tarjeta | — |
 | **Herramienta de la Sony** | El mando y la pantalla grande de la a6700 | **Creators' App**: live view en la pantalla del móvil para enfocar la estrella con calma y disparar **sin tocar la cámara** (astro y charca), pasar los JPEG buenos al móvil cada noche y **geolocalizar** las fotos de la Sony con el GPS del Pixel; y PhotoPills, Stellarium y los mapas offline ([apps](apps-del-viaje.md)) | Emparejarla en casa, no en el campamento a oscuras |
 
@@ -102,7 +106,7 @@ la a6700, porque **no te necesita**:
 
 Honestidad: saldrán estrellas, las Nubes y la banda de la Vía Láctea, con
 un procesado muy agresivo. Es la foto para enseñar en el móvil esa misma
-noche; la de imprimir es la del 12 mm ([capítulo 2](../a6700/02-astrofotografia-namibia.md)).
+noche; la de imprimir es la del 11 mm ([capítulo 2](../a6700/02-astrofotografia-namibia.md)).
 
 ## Nivel avanzado — los controles Pro y cuándo tocarlos
 
@@ -132,8 +136,7 @@ sombras**, más la **elección de lente**, la **resolución de 50 Mpx** y
 
 ## Las 10 fotos que solo hará el Pixel (márcalas)
 
-Complementan la [lista de tomas](lista-de-tomas.md) de la Sony y el
-[vídeo-recuerdo](gopro-mission-1.md) de la GoPro:
+Complementan la [lista de tomas](lista-de-tomas.md) de la Sony:
 
 - ☐ 1 **El interior del coche** en marcha por la grava (0.5x, con la ventana y el retrovisor)
 - ☐ 2 **El mapa en el capó** con el café, en una parada (1x, luz de mañana)
@@ -146,6 +149,50 @@ Complementan la [lista de tomas](lista-de-tomas.md) de la Sony y el
 - ☐ 9 **La Vía Láctea "de bolsillo"** con la tienda — el modo astro, y su mini-timelapse
 - ☐ 10 **La mesa del braai y la vida pequeña**: la cena, la lámpara, el mapa de mañana
 
+## El vídeo del viaje — la lista de tomas (con sus ajustes)
+
+El objetivo: volver con material para montar en casa un vídeo de **3–5
+minutos** que cuente el viaje entero. La regla de oro: **muchos clips
+cortos** (10–20 segundos rodando de verdad) valen infinitamente más que
+pocos clips eternos — el montaje se hace con variedad, no con metraje. El
+montaje, paso a paso, está en la [guía de edición](edicion-basica.md).
+
+**Las cuatro reglas del rodaje**, más importantes que cualquier ajuste:
+
+1. **No zoomes durante la toma.** Elige el encuadre, dispara, para. Si
+   quieres otro tamaño, otro clip.
+2. **Deja 5 segundos quietos** al principio y al final: es el margen que pide
+   el corte.
+3. **Graba parejas**: cada escena, un plano ancho Y un detalle (la charca
+   entera + solo las patas en el agua).
+4. **Repite una toma-firma cada día** (el café del amanecer, la puerta del
+   campamento): la repetición es el hilo conductor del vídeo.
+
+| # | La toma | Cómo | Ajuste |
+|---|---|---|---|
+| ☐ 1 | **El despegue** (y el aterrizaje en Windhoek) | Apoyado en la ventanilla, horizonte recto | Timelapse |
+| ☐ 2 | **La grava infinita** | Apoyado en el salpicadero contra el parabrisas, carretera recta delante | Timelapse (o clip 4K30 en los tramos buenos) |
+| ☐ 3 | **La carretera que impresiona** | Spreetshoogte, el pasillo de dunas de Sesriem, la C14 del Kuiseb, la carretera de sal C34, el paso de Grootberg | Vídeo **4K30**, móvil quieto y sujeto con las dos manos |
+| ☐ 4 | **El atardecer de Spreetshoogte** | Apoyado en una piedra en el mirador, sin tocarlo hasta que sea noche | **Timelapse con Visión Nocturna** (aguanta el día→noche) |
+| ☐ 5 | **Subir la duna** | En la mano, caminando: la estabilización hace el resto | Vídeo 4K30 — el jadeo es parte del recuerdo |
+| ☐ 6 | **La cresta y los pies hundiéndose** | Dos pasadas: el filo de la cresta con el mar de dunas, y a ras de suelo la arena resbalando | 4K30 la caminata; **cámara lenta** la arena |
+| ☐ 7 | **Las sombras de las dunas** | Apoyado y quieto, primera o última hora | Timelapse, 30–60 min |
+| ☐ 8 | **La niebla de la costa entrando** | Quieto mirando al mar, al atardecer | Timelapse |
+| ☐ 9 | **Las focas de Cape Cross** | En la mano desde la pasarela — y deja que grabe el **sonido**: el ruido es media escena | Vídeo 4K30 |
+| ☐ 10 | **La espera en la charca** | Apoyado en el salpicadero o el bean bag, encuadre ancho fijo | Timelapse: las oleadas de animales entrando y saliendo |
+| ☐ 11 | **Elefantes junto al coche** | Sin sacar el brazo por la ventanilla; el gran angular hace enormes las cosas cercanas | Vídeo 4K30, dejar rodar sin mover |
+| ☐ 12 | **La charca de noche** | En el murete, apoyado, **sin flash** | Vídeo 4K30 solo si el animal está quieto y bajo el foco |
+| ☐ 13 | **El cielo** | La foto astro deja además su **mini-timelapse** (arriba) | Modo Astrofotografía |
+| ☐ 14 | **El campamento** | Sobre la mesa o el capó, apuntando a la tienda o al braai | Timelapse |
+| ☐ 15 | **El making of** | Tú con la a6700 y el tele, el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5–10 s |
+| ☐ 16 | **La vida pequeña** | Café al amanecer, la ducha de campamento, el mapa sobre el capó | Vídeo 4K30 — estas tomas "tontas" son las que más se agradecen al montar |
+
+Y el plano que **sí** es de la Sony: la escena estática a 525 mm
+equivalentes que el móvil no alcanza — el rinoceronte bebiendo, los
+elefantes en la charca. Receta mínima en
+[Safari a fondo](../mejora/safari-a-fondo.md): 4K a 25 fps, obturación 1/50,
+sobre el bean bag y sin reencuadrar.
+
 ## Los archivos: energía y copias
 
 - **Batería**: 4.870 mAh dan el día si no dejas la pantalla al sol. En el
@@ -154,11 +201,13 @@ Complementan la [lista de tomas](lista-de-tomas.md) de la Sony y el
   el timelapse comen mucho: móvil cargado antes de la noche.
 - **Copias**: en Namibia no cuentes con subir nada a Google Fotos (wifi
   escaso y lento). Cada 2–3 noches, copia la carpeta DCIM al **SSD** con el
-  cable USB-C (la app Archivos del Pixel ve el SSD directamente), igual que
-  la Sony y la GoPro. Al volver a casa, Google Fotos lo subirá solo.
+  cable USB-C (la app Archivos del Pixel ve el SSD directamente), en el mismo
+  volcado que las tarjetas de la Sony. Al volver a casa, Google Fotos lo
+  subirá solo.
 - **Espacio**: el 4K ocupa del orden de 15 GB por hora; los DNG de 50 Mpx,
-  decenas de MB cada uno; el modo astro guarda foto + vídeo. Con 128 GB
-  hay que vaciar; con 256 o más, se va holgado si el vídeo lo hace la GoPro.
+  decenas de MB cada uno; el modo astro guarda foto + vídeo. Como aquí el
+  vídeo del viaje entero es suyo, sal de casa con **al menos 100 GB libres**
+  y vacía al SSD cada 2–3 noches.
 - **Polvo y calor**: IP68 aguanta el polvo, no el sol directo en el
   salpicadero — si se calienta, la cámara se apaga sola. A la sombra o en el
   bolsillo entre paradas.
@@ -186,4 +235,4 @@ Complementan la [lista de tomas](lista-de-tomas.md) de la Sony y el
 - Novedades de cámara del Pixel 10 (blog de Google: Camera Coach, Auto Best Take, Pro Res Zoom): <https://blog.google/products-and-platforms/devices/pixel/pixel-10-camera-features/>
 - Resumen de funciones de cámara del Pixel 10 (9to5Google: 8K con Video Boost, 24 fps): <https://9to5google.com/2025/08/20/pixel-10-camera-features/>
 - Wikipedia, Pixel 10 Pro (cámaras, batería): <https://en.wikipedia.org/wiki/Pixel_10_Pro>
-- Las otras dos cámaras: [la GoPro](gopro-mission-1.md) · [la a6700, capítulo 0](../a6700/00-de-movil-a-la-a6700.md)
+- La otra cámara: [la a6700, capítulo 0](../a6700/00-de-movil-a-la-a6700.md)

@@ -2,7 +2,7 @@
 
 La mitad diurna del país que no es fauna. Esta guía da la foto correcta y el
 mapa de la ruta; el salto a la foto buena — luz rasante, profundidad con el
-12 mm, escala, líneas, color, panorámicas — está en
+11 mm, escala, líneas, color, panorámicas — está en
 [Paisaje a fondo](../mejora/paisaje-a-fondo.md).
 
 ## Receta base de paisaje
@@ -13,16 +13,18 @@ mapa de la ruta; el salto a la foto buena — luz rasante, profundidad con el
 | Apertura | f/8 (el punto dulce de casi cualquier objetivo) |
 | ISO | 100 |
 | Enfoque | AF-S a un tercio de la escena |
-| Estabilizador (SteadyShot/VC) | ON a pulso, OFF en trípode |
+| Estabilizador (SteadyShot / OSS) | ON a pulso, OFF en trípode |
 | Nivel electrónico | Visible con DISP (horizontes de desierto = delatores) |
 
 Con la poca luz del amanecer, f/8 a ISO 100 da obturaciones lentas: trípode,
 o sube el ISO hasta que la obturación pase de ~1/focal a pulso.
 
 ¿Filtros? Ninguno imprescindible en este viaje: el polarizador oscurece el
-cielo de forma desigual en un angular de 18 mm eq. Si acaso, un filtro
-protector de **67 mm** contra el polvo — la misma rosca vale para los dos
-objetivos ([limpieza](limpieza-en-campo.md)).
+cielo de forma desigual en un angular de 16,5 mm eq. Si acaso, un filtro
+protector contra el polvo — ojo, las roscas **no** coinciden: 55 mm el
+angular y 67 mm el tele (el anillo step-up del
+[equipo](../a6700/05-equipo-accesorios.md) los iguala por 8 €;
+[limpieza](limpieza-en-campo.md)).
 
 Composición mínima que funciona: algo interesante **delante** (una acacia,
 una cresta de duna, huellas), horizonte fuera del centro (arriba o abajo,
@@ -37,7 +39,7 @@ plano mucho más de lo que te parece natural.
   duerme dentro** (camping de Sesriem o lodges interiores); desde la puerta
   exterior no llegas a la luz buena. Planifícalo al reservar.
   <https://www.nwr.com.na/>
-- **El tele es tu mejor objetivo de dunas**: a 100–400 mm (150–600 eq)
+- **El tele es tu mejor objetivo de dunas**: a 100–350 mm (150–525 eq)
   comprime crestas y aísla curvas y árboles solitarios. Las mejores fotos de
   dunas no son de gran angular.
 - Camina siempre **por la cresta o por la cara de sombra**: las huellas en la
@@ -53,7 +55,7 @@ plano mucho más de lo que te parece natural.
   de 2 s para no moverlas — y fusiónalas después (HDR en Lightroom) o
   quédate con la mejor.
 - El reparto: primero el tele desde lejos (la compresión duna-árboles),
-  después el 12 mm dentro del vlei. El cambio de objetivo, dentro de la
+  después el 11 mm dentro del vlei. El cambio de objetivo, dentro de la
   bolsa y con el cuerpo hacia abajo: el polvo del vlei es finísimo y el
   sensor queda a la vista.
 
@@ -107,7 +109,7 @@ nocturno: [edición](edicion-basica.md).
   capas azuladas (receta de abstractos de duna de
   [mejora · parte 2](../mejora/parte-2-avanzado.md)); con el angular, un
   primer plano de rocas y el vacío detrás. Y de noche, el estreno del
-  12 mm ([las noches, día a día](mejores-horas.md)).
+  11 mm ([las noches, día a día](mejores-horas.md)).
 - **De Swakopmund a Terrace Bay (días 5–7), la Costa de los Esqueletos**:
   - **Cape Cross**: decenas de miles de lobos marinos — llega preparado
     para el olor y el ruido. Receta de fauna diurna con tele, agáchate a su

@@ -110,9 +110,9 @@ el de las postales de agosto — es **mejor en otras cosas**:
   simple vista, como jirones de nube que no se mueven, hacia el **sur**.
   Noviembre es su gran mes y en tus noches están servidas desde el
   anochecer: la Pequeña ya a ~33° de altura al caer la oscuridad, la Grande
-  subiendo de ~13° a ~27° hacia las 23:00. Con el 12 mm (18 mm equivalentes)
+  subiendo de ~13° a ~27° hacia las 23:00. Con el 11 mm (16,5 mm equivalentes)
   entran las dos con paisaje; son más tenues que la Vía Láctea, así que
-  **apila 15–20 tomas** con la receta estándar (20 s · f/2 · ISO 1600–3200)
+  **apila 15–20 tomas** con la receta estándar (20 s · f/1.8 · ISO 1600–3200)
   y deja que Sequator haga el milagro ([edición](../comun/edicion-basica.md)).
 - **A partir de las ~23:00, la "otra" Vía Láctea**: sale por el este la
   banda de verano (Orión, Can Mayor, Carina) — más tenue que el núcleo pero
@@ -144,7 +144,7 @@ el de las postales de agosto — es **mejor en otras cosas**:
 - **Dos rarezas normales**: bandas verdosas/rojizas en tus fotos = airglow
   (real y frecuente en Namibia, no es el sensor); rayas finas = satélites,
   y el apilado los borra solo.
-- **Composición de van Oosten para tu 12 mm**: coloca la franja estelar (o
+- **Composición de van Oosten para tu 11 mm**: coloca la franja estelar (o
   la Nube Grande) como **diagonal que entra por una esquina y NO corta** tu
   silueta (árbol, torre de agua, mopane) — el primer plano a un lado, el
   cielo fluyendo al otro.
@@ -160,7 +160,7 @@ añade dos cartas: **luz de tormenta** sobre cualquier horizonte (la sabana
 verde-incipiente contra nube negra) y los amaneceres limpios de polvo tras
 la primera lluvia. La lección de los maestros aplicada fácil: paisaje con
 **tele**, no solo con angular — comprime capas de sabana, aísla un árbol
-contra el pan, y guarda el 12 mm para el cielo.
+contra el pan, y guarda el 11 mm para el cielo.
 
 ## En una frase
 

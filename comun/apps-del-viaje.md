@@ -51,7 +51,7 @@ Organic Maps te sobra para esta ruta).
 
 ### Las otras dos pastillas que usarás
 
-- **Spot Stars**: elige la a6700 (APS-C) y la focal (12 mm) y te da los
+- **Spot Stars**: elige la a6700 (APS-C) y la focal (11 mm) y te da los
   segundos máximos sin trazas (~20 s). Ya aplicado en las recetas del
   [capítulo 2](../a6700/02-astrofotografia-namibia.md) — la calculadora es
   para cuando cambies de encuadre o de focal.
