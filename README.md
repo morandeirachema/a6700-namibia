@@ -78,7 +78,7 @@ Los PDF están maquetados para A4 (las chuletas caben en una cara cada una) y se
 
 ## 🧭 Guías comunes
 
-- 🏆 [Las fotos icónicas de Namibia](comun/fotos-iconicas-namibia.md) — las postales que todo el mundo conoce, cruzadas con tu itinerario: cuáles caen en la ruta, cuáles no y por qué (geografía, temporada, acceso o suerte), las cuatro decisiones que aún puedes tomar y el sustituto de cada una que se queda fuera.
+- 🏆 [Las fotos icónicas de Namibia](comun/fotos-iconicas-namibia.md) — las postales que todo el mundo conoce, cruzadas con tu itinerario: cuáles caen en la ruta, cuáles no y por qué (geografía, temporada, acceso o suerte), el estado de cada decisión (Sandwich Harbour decidido, el vuelo panorámico descartado, dos aún abiertas) y el sustituto de cada una que se queda fuera.
 - 🕐 [Las mejores horas](comun/mejores-horas.md) — el día del safari hora a hora, la fauna que sí tiene horario y las noches del 1 al 15 de noviembre con su luna.
 - 🌌 [El cielo del viaje](comun/cielo-del-viaje.md) — el catálogo astro completo del 31 de octubre al 14 de noviembre, y el plan **noche a noche** del itinerario real: qué disparas tú con la a6700 y qué deja hecho solo el Pixel.
 - 📱 [Las apps del viaje](comun/apps-del-viaje.md) — PhotoPills, Stellarium, Creators' App y mapas offline: qué instalar antes de volar y cómo se usa cada una, paso a paso.

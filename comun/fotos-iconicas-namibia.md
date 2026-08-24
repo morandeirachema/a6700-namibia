@@ -21,8 +21,8 @@ que decidir** (dinero, reserva o madrugón) · **🎲 depende de la suerte** ·
 | **Los árboles muertos de Deadvlei** con la duna encendida | ✅ | D4, primera luz | Duermes dentro de la primera puerta: entras 1 h antes del amanecer |
 | **Duna 45** partida en luz y sombra | ✅ | D4, al volver | Está a pie de carretera; la foto es del tele desde lejos |
 | **Big Daddy / el mar de dunas desde arriba** | ⚠️ | D4, subiendo al amanecer | No cuesta dinero, cuesta madrugón: a mediodía la arena quema y no se sube |
-| **Las dunas desde el aire** (globo o avioneta) | ⚠️ | Globo en D3–D4 (Sesriem); **avioneta en D5–D6, desde Swakopmund** | Es la única foto del viaje que hay que **reservar y pagar aparte** |
-| **Dunas cayendo al mar** (Sandwich Harbour) | ⚠️ | D6, con la marea | **Prohibido con tu coche** por contrato: solo con tour guiado |
+| **Las dunas desde el aire** (globo o avioneta) | ❌ | — | **Descartado (24/08)**: el viajero decide no volar |
+| **Dunas cayendo al mar** (Sandwich Harbour) | ✅ | D6, con la marea | **Decidido (24/08)**: se hace, con tour guiado — con tu coche lo prohíbe el contrato |
 | **Flamencos rosas en la laguna** | ✅ | D6, primera luz | Walvis Bay tiene su máximo de junio a noviembre |
 | **La colonia de lobos marinos** | ✅ | D7, Cape Cross | En ruta y abierto; el olor y el ruido entran gratis |
 | **El pecio oxidado en la playa** (Zeila) | ✅ | D7, a pie de C34 | Está a 15 km de Henties Bay, junto a la carretera |
@@ -48,38 +48,35 @@ que decidir** (dinero, reserva o madrugón) · **🎲 depende de la suerte** ·
 | **Los leones del Hoanib** (los que comen focas) | ❌ | Kaokoveld | Zona de fly-in y campamentos de lujo |
 | **Flamencos EN el pan de Etosha** | ❌ | Etosha | **Temporada**: en noviembre el pan está seco |
 | **Deadvlei de noche, con estrellas** | ❌ | Sossusvlei | El permiso nocturno es casi imposible de conseguir |
-| **El pecio Eduard Bohlen** (el barco tierra adentro) | ⚠️ | Conception Bay | Por tierra es zona restringida — **solo lo ves si haces la avioneta** de la Costa de los Esqueletos |
+| **El pecio Eduard Bohlen** (el barco tierra adentro) | ❌ | Conception Bay | Por tierra es zona restringida y solo se veía con la avioneta, **descartada (24/08)** |
 
-## Las cuatro decisiones que aún puedes tomar
+## Las decisiones — estado al 24/08
 
-Son las únicas fotos icónicas que están **a tu alcance pero no salen solas**.
-Vale la pena decidirlas ahora y no en la gasolinera:
+Ya no son cuatro incógnitas: dos están cerradas y dos siguen abiertas.
 
-1. **Sandwich Harbour (D6)** — las dunas cayendo al Atlántico es la imagen
-   más difícil de sustituir de esta lista, y con tu coche de alquiler está
-   **prohibida por contrato**: se va con tour guiado (~€130–161 por persona).
-   Y manda la **marea**: la salida de la mañana baja por la playa hasta la
-   laguna; la del mediodía se queda en los miradores. Si la haces, pide la de
-   la mañana y confirma con el operador su tabla de mareas.
-2. **El vuelo panorámico** — la foto aérea es un icono propio y, además, la
-   llave de dos imágenes que por tierra no tienes. Dos opciones distintas, en
-   días distintos:
-   - **Globo sobre Sossusvlei (D3–D4)**, con Namib Sky: ~€496 por persona,
-     una hora, despegue antes del amanecer. Es la versión cara y solemne.
-   - **Avioneta desde Swakopmund (D5–D6)** — ojo, **no sale de Sesriem**: por
-     unos €345 por persona hay vuelos que hacen **dunas + Costa de los
-     Esqueletos** en el mismo trayecto, y el de la costa (~1h30) pasa por los
-     **naufragios**, las colonias de lobos y **Sandwich Harbour**. Es decir:
-     te resuelve el *Eduard Bohlen* —imposible por tierra— y te da Sandwich
-     Harbour desde arriba si decides no pagar el tour de tierra.
-   Decide **antes de volar**: son plazas que se reservan.
-3. **Big Daddy al amanecer (D4)** — gratis, pero se paga en piernas y en
-   hora: se sube con la primera luz o no se sube. Desde arriba sale la única
-   toma que enseña **el mar de dunas**, no una duna.
-4. **El crucero de Pelican Point (D6)** — pelícanos al vuelo, lobos marinos
-   subiéndose al barco y, en tu mes, aún posibilidad de ballena jorobada
-   (~€70–100 por persona). Es foto fácil y muy vendible, pero se solapa con
-   Sandwich Harbour: el día solo da para una.
+1. **Sandwich Harbour (D6) — DECIDIDO.** Las dunas cayendo al Atlántico es la
+   imagen más difícil de sustituir de esta lista, y con tu coche de alquiler
+   está **prohibida por contrato**: se va con tour guiado (~€130–161 por
+   persona). Y manda la **marea**: la salida de la mañana baja por la playa
+   hasta la laguna; la del mediodía se queda en los miradores. Pide la de la
+   mañana y confirma con el operador su tabla de mareas.
+2. **El vuelo panorámico — DESCARTADO.** El viajero decide no volar: ni el
+   globo sobre Sossusvlei (D3–D4, Namib Sky) ni la avioneta desde Swakopmund
+   (D5–D6, dunas + Costa de los Esqueletos). Se pierden con él dos imágenes
+   que no tienen sustituto por tierra: la vista aérea de las dunas —el
+   consuelo real es **Big Daddy al amanecer**, punto siguiente— y el pecio
+   *Eduard Bohlen*, que solo se veía desde el aire y queda fuera del todo.
+3. **Big Daddy al amanecer (D4)** — sigue abierta, pero no es dinero: es
+   madrugón. Gratis, pero se paga en piernas y en hora: se sube con la
+   primera luz o no se sube. Desde arriba sale la única toma que enseña **el
+   mar de dunas**, no una duna — y ahora es también tu única vista aérea del
+   viaje.
+4. **El crucero de Pelican Point (D6)** — sigue abierto, sin decidir.
+   Pelícanos al vuelo, lobos marinos subiéndose al barco y, en tu mes, aún
+   posibilidad de ballena jorobada (~€70–100 por persona). Compite con
+   Sandwich Harbour por las horas del mismo día libre; existe también un
+   **combo de día entero** (~€237 por persona, Mola Mola) que hace las dos
+   cosas si no quieres elegir.
 
 Y una que rompe el plan pero existe: **Okonjima / AfriCat** (guepardo y
 leopardo casi garantizados, en reserva) cae junto a la B1 del **D13** — pero
