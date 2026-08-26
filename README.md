@@ -46,6 +46,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | [El histograma por escenario](referencia/histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado |
 | [Las apps del viaje](referencia/apps-del-viaje.md) | PhotoPills, Stellarium, Creators' App y mapas offline, paso a paso |
 | [El Pixel 10 Pro](tecnica/pixel-10-pro.md) | Qué le pides al móvil para que no duplique lo que hace la Sony |
+| [**Qué practicar ya, con el 11 mm**](plan/ejercicios-11mm.md) | 27 ejercicios que no necesitan el teleobjetivo: la cámara, el histograma, la hiperfocal, la noche entera y el vídeo |
 | [El plan de entrenamiento](plan/plan-de-entrenamiento.md) | Las 11 semanas hasta el avión, convertidas en calendario |
 
 ### 🔵 Básico — las recetas del viaje
@@ -79,6 +80,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | 🕐 [Las mejores horas](plan/mejores-horas.md) | El día de safari hora a hora, la fauna con horario y las noches del 1 al 15 de noviembre |
 | 🌌 [El cielo del viaje](plan/cielo-del-viaje.md) | El catálogo astro completo de la quincena y el plan **noche a noche** del itinerario real |
 | 🏆 [Las fotos icónicas de Namibia](plan/fotos-iconicas-namibia.md) | Qué postales caen en tu ruta, cuáles no y por qué, con el sustituto de cada una |
+| 🗺️ [Hojas por parada](plan/hojas-por-parada.md) | Las doce paradas del itinerario, una ficha cada una: fauna, foto del día, horas, encuadres y la noche |
 | 🎯 [La lista de tomas](plan/lista-de-tomas.md) | Las 12 fotos con las que hay que volver, +4 extras |
 
 **El viaje y la vuelta** — `campo/`
@@ -133,6 +135,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Del histograma](referencia/histograma.md) (15 min) · [del balance de blancos](referencia/balance-de-blancos.md) (10 min) · [de edición](campo/edicion-basica.md) (una tarde cronometrada)
 - [Entrenamiento de safari](mejora/safari-a-fondo.md) · [de paisaje](mejora/paisaje-a-fondo.md) · [de vídeo](tecnica/video-del-viaje.md) — una tarde por tema
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
+- **[Los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
 - **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado
 - [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md) y [la cadena de copia del Pixel](tecnica/pixel-10-pro.md)
 - Todo esto, **en calendario**: [el plan de entrenamiento de 11 semanas](plan/plan-de-entrenamiento.md)
@@ -146,6 +149,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 | 🎯 [Lista de tomas](plan/lista-de-tomas.md) | Las 12 fotos con las que hay que volver — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 | 🎥 [Chuleta de vídeo](tecnica/chuleta-video.md) | Los ajustes, el guion de 3 minutos y las 17 tomas para marcar | [PDF](pdf/chuleta-video.pdf) |
 | ✏️ [Cuaderno de composición](plan/cuaderno-de-composicion.md) | 20 ejercicios en escalera con criterio de aprobado, para tachar: ver, encuadrar, esperar y contar | [PDF](pdf/cuaderno-de-composicion.pdf) |
+| 🗺️ [Hojas por parada](plan/hojas-por-parada.md) | **Una cara por sitio**: qué fauna cae, la foto del día, las horas, los encuadres y qué toca esa noche | [PDF](pdf/hojas-por-parada.pdf) |
 
 Los PDF están maquetados para A4 — **las dos chuletas caben en una sola cara** — y se
 regeneran desde el Markdown con `./pdf/generar.sh` (necesita `pandoc` y Chrome;
@@ -154,6 +158,7 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 
 ## 🧭 ¿Por dónde empiezo?
 
+- 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
 - 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md).
 - 🤔 *Me he perdido con una palabra* → [el glosario](referencia/glosario.md).

@@ -234,13 +234,26 @@ pantalla real delante:
 
 - **La oficial**: cada ajuste de esta página enlaza abajo a su ficha en la
   Guía de ayuda de Sony, donde sale la pantalla real.
-- **La tuya, que es mejor**: cuando tengas la cámara, **fotografía tus
-  propias pantallas** con el móvil (menú abierto, ajuste seleccionado) y
-  guárdalas en `referencia/img/menus/` con el nombre del ajuste
-  (`rec-motivo-af.jpg`, `tipo-obturador.jpg`…). Son **tus** valores, en
-  **tu** idioma, y se pegan aquí con una línea de Markdown:
-  `![Rec. motivo en AF](img/menus/rec-motivo-af.jpg)`. Media hora de trabajo
-  el día que llegue la cámara, y esta página se vuelve tu manual.
+- **La tuya, que es mejor**: fotografía tus propias pantallas con el móvil.
+  Ya está todo preparado — hay un **guion de captura** con las 30 pantallas
+  en orden de navegación, el nombre de archivo de cada una y las doce
+  imprescindibles marcadas: [`referencia/img/menus/`](img/menus/). Media hora
+  el día que llegue la cámara.
+
+Cuando las tengas, un comando las pega solas aquí abajo:
+
+```bash
+python3 referencia/img/menus/insertar.py
+```
+
+## Las pantallas, una a una
+
+<!-- CAPTURAS:INICIO -->
+
+*(Aún vacío: haz las capturas siguiendo el [guion](img/menus/) y ejecuta
+`insertar.py`. Aparecerán aquí, en orden, con su ruta de menú debajo.)*
+
+<!-- CAPTURAS:FIN -->
 
 ---
 

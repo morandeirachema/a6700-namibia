@@ -11,6 +11,11 @@ ejercicios — las [7 tardes](../a6700/00-de-movil-a-la-a6700.md), las
 el calendario, con tus **dos lunas nuevas de práctica** (las de septiembre y
 octubre) en su sitio.
 
+**Si el tele aún no ha llegado**: no esperes. Los
+[27 ejercicios del 11 mm](ejercicios-11mm.md) cubren la cámara, la
+exposición, la hiperfocal, la noche entera y el vídeo — casi todo lo que
+decide tus fotos.
+
 **El cuaderno paralelo**: los 20 ejercicios de
 [composición](cuaderno-de-composicion.md) van en escalera junto a este
 calendario (bloque 1 en las semanas 1–3, bloque 2 en las 4–7, bloque 3 en las

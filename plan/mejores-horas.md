@@ -12,6 +12,8 @@ a hora, la fauna que sí tiene horario y las noches del 1 al 15 con su luna.
 Qué charca toca en cada franja está en
 [la mirada](../mejora/la-mirada.md).
 
+> Y lo mismo, ya resuelto sitio por sitio para tu itinerario: [hojas por parada](hojas-por-parada.md).
+
 ## El día de safari en una tabla
 
 | Hora (aprox., noviembre) | La luz | Qué hacer |

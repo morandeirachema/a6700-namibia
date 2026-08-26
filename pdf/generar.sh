@@ -14,6 +14,7 @@ declare -A HOJAS=(
   [lista-de-tomas]="plan/lista-de-tomas.md"
   [chuleta-video]="tecnica/chuleta-video.md"
   [cuaderno-de-composicion]="plan/cuaderno-de-composicion.md"
+  [hojas-por-parada]="plan/hojas-por-parada.md"
 )
 
 hacer() {
@@ -21,7 +22,8 @@ hacer() {
   local tmp; tmp="$(mktemp -d)"
   local css=(--css=pdf/estilo.css)
   case "$nombre" in
-    chuleta|chuleta-video) css+=(--css=pdf/compacto.css) ;;   # deben caber en una cara
+    chuleta|chuleta-video) css+=(--css=pdf/compacto.css) ;;      # deben caber en una cara
+    hojas-por-parada)      css+=(--css=pdf/una-por-pagina.css) ;; # una parada por cara
   esac
   pandoc "$fuente" --standalone --embed-resources \
          "${css[@]}" --metadata title="" \

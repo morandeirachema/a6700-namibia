@@ -6,6 +6,8 @@ repásala cada noche y marca las que ya tienes. No es una jaula — si el viaje
 te regala otra foto mejor, cógela — pero garantiza que vuelves con un
 reportaje y no con un carrete de pruebas.
 
+> Parada por parada, con las horas y los encuadres: [hojas por parada](hojas-por-parada.md).
+
 ## Fauna
 
 1. **Retrato con el ojo clavado**: cabeza y hombros a tope de zoom
