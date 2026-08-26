@@ -30,6 +30,9 @@ Info de campamentos: <https://www.nwr.com.na/>
 | Estabilizador | OFF los dos: interruptor **OSS** del objetivo y SteadyShot del cuerpo (trípode) |
 | Obturador | **Electrónico** (`Tipo de obturador`): disparo totalmente mudo |
 
+> Cada ajuste con su **ruta de menú**, en
+> [la referencia de ajustes](../referencia/ajustes-a6700.md#c1-charca-nocturna-okaukuejo-halali-onguma).
+
 ## Al llegar al mirador (10 minutos de preparación)
 
 1. Monta el trípode en un lateral, sin bloquear a nadie.

@@ -37,6 +37,9 @@ visible gran parte de la noche.
 | Tipo de obturador | **Electrónico**: dispara sin ninguna pieza en movimiento — cero vibración |
 | Reducción ruido larga exposición | OFF |
 
+> Cada ajuste con su **ruta de menú**, en
+> [la referencia de ajustes](../referencia/ajustes-a6700.md#c2-astro-la-receta-de-mr2).
+
 ## Antes de salir (checklist)
 
 - [ ] Noche cercana a **luna nueva** (PhotoPills: <https://www.photopills.com/>).

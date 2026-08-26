@@ -30,6 +30,9 @@ según el movimiento.
 > esperar y qué números pedirle a la cámara con cada una— está en
 > [la fauna, animal por animal](../tecnica/fauna-de-namibia.md).
 
+> Cada uno de estos ajustes, con su **ruta exacta de menú**, en
+> [la referencia de ajustes](../referencia/ajustes-a6700.md#bloque-b-fauna-la-receta-de-mr1).
+
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
 Fíjala hasta que sea automática — es lo que evita que el leopardo te pille

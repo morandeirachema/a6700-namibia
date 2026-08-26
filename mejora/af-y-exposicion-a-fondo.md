@@ -26,7 +26,7 @@ del menú; mételos en **Mi Menú** con
 `[Mostrar de Mi Menú] → ON` para que MENU los abra directamente —
 [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)):
 
-- **Sensib. seguim. AF** (1 fija … 5 reactiva): qué hace el AF si algo se
+- **Sens. Seguim. AF** (`Enfoque → [AF/MF]`; 1 fija … 5 reactiva): qué hace el AF si algo se
   cruza o el sujeto se tapa un instante. Baja = "aguanta con el sujeto
   original aunque pase una rama"; alta = "salta rápido a lo nuevo".
 - **Reconocimiento de sujeto**: pon el objetivo en **Animal** (o **Pájaro**
@@ -40,7 +40,7 @@ del menú; mételos en **Mi Menú** con
 
 Valores de partida que funcionan (ajústalos a lo que veas, no son dogma):
 
-| Escenario | Reconocimiento | Área | Sensib. seguim. |
+| Escenario | Dest. reconocim. | Área | Sens. Seguim. |
 |---|---|---|---|
 | Ave en vuelo | **Pájaro** | Zona | 3 |
 | Animal tras hierba/ramas | Animal | **Punto único + DMF** | **1** |

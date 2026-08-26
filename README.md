@@ -41,6 +41,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 |---|---|
 | [**0 · Del móvil a la a6700**](a6700/00-de-movil-a-la-a6700.md) | Los 3 números, las ruedas, el visor, RAW, los errores típicos y **7 tardes de deberes** |
 | [**0.5 · Los menús, los botones y el primer día**](a6700/00b-menus-y-primer-dia.md) | De la caja a la primera foto, el mapa del menú, el Fn, Mi Menú, revisar al 100 % y cómo deshacerlo todo |
+| ⚙️ [**Todos los ajustes, con su ruta de menú**](referencia/ajustes-a6700.md) | La referencia única: cada ajuste del viaje con su ruta exacta, el valor para fauna y el valor para noche, y el mapa del menú dibujado |
 | [Glosario](referencia/glosario.md) | Todas las palabras raras del repo, en una línea cada una |
 | [El histograma por escenario](referencia/histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado |
 | [Las apps del viaje](referencia/apps-del-viaje.md) | PhotoPills, Stellarium, Creators' App y mapas offline, paso a paso |

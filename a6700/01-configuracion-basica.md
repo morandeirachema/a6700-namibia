@@ -2,6 +2,9 @@
 
 > 🔵 **Básico** · Da por sabido: los capítulos 0 y 0.5 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
 
+> **Todos los ajustes con su ruta exacta de menú, fauna y noche en dos
+> columnas**: [la referencia de ajustes](../referencia/ajustes-a6700.md).
+
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
 > empieza por el [capítulo 0](00-de-movil-a-la-a6700.md): 10 minutos y listo.
 > Y si lo que te pierde es **el menú** —dónde está cada cosa, cómo se navega,
@@ -38,7 +41,7 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 El cambio de configuración más útil de la cámara para safari:
 
-1. `MENU → Enfoque → [AF con disparador] → OFF` (quita el AF del
+1. `MENU → Enfoque → [AF/MF] → [AF con disparador] → Desactivar` (quita el AF del
    disparador).
 2. El botón **AF-ON** ya inicia el enfoque de serie: no hay que tocarlo.
 
@@ -89,7 +92,7 @@ El resto —encuadre, audio, cómo se sujeta y qué grabar— está en
 ## Memorias del dial: MR1 y MR2
 
 Configura la cámara como quieras que quede y guárdala con
-`MENU → Toma → [Memoria ajustes cám.]` (*Camera Set. Memory*) → 1 o 2:
+`MENU → Toma → [Modo de toma] → [Mem. ajustes cám]` (*Camera Set. Memory*) → 1 o 2:
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
@@ -129,7 +132,7 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 | Seguimiento | Tracking |
 | Ráfaga Hi | Cont. Shooting: Hi |
 | Balance de blancos | White balance |
-| Memoria ajustes cám. | Camera Set. Memory |
+| Mem. ajustes cám | Camera Set. Memory |
 | Func. capt. interv. (intervalómetro) | Interval Shoot Func. |
 | Selector NTSC/PAL | NTSC/PAL Selector |
 | Perfil de imagen | Picture Profile |
@@ -143,7 +146,7 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 | Problema | Solución |
 |---|---|
 | No encuentro un ajuste en los menús | Botón **Fn**: casi todo lo del día a día está en esa pantalla, editable |
-| Cambié algo en MR1/MR2 y al volver ha desaparecido | Es su diseño: las memorias recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Memoria ajustes cám.`) |
+| Cambié algo en MR1/MR2 y al volver ha desaparecido | Es su diseño: las memorias recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Mem. ajustes cám`) |
 | AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos: AF con disparador = OFF y la asignación de AF-ON sin tocar |
 | El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el cuerpo y, con el tele, también su interruptor OSS) |
 | Un objetivo "no enfoca" de repente | Su interruptor **AF/MF** se movió en la mochila: los dos lo llevan en el barrilete |

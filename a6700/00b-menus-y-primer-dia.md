@@ -113,16 +113,18 @@ obturador]`, se lee: pulsa MENU, ve a la pestaña **Toma**, busca el grupo
 salen **abreviados** en pantalla (`Obturad./silenc.`, `Rest/guard ajust`,
 `Personal. operac.`): no te asustes, es la misma cosa.
 
-Las rutas que de verdad vas a usar en el viaje:
+Las rutas que de verdad vas a usar en el viaje (la lista completa, ajuste a
+ajuste y con los valores de fauna y de noche, está en
+[la referencia de ajustes](../referencia/ajustes-a6700.md)):
 
 | Lo que quieres | Ruta |
 |---|---|
 | Obturador silencioso (charca) | `MENU → Toma → [Obturad./silenc.] → [Tipo de obturador] → Obturad. electr.` |
 | Intervalómetro (star trails, timelapse) | `MENU → Toma → [Func. capt. interv.]` |
 | Formatear la tarjeta | `MENU → Toma → [Soporte] → [Formatear]` |
-| Quitar el AF del disparador | `MENU → Enfoque → [AF con disparador] → OFF` |
-| Reconocimiento de sujeto (Animal/Pájaro) | `MENU → Enfoque`, grupo de reconocimiento |
-| Guardar una memoria MR | `MENU → Toma → [Memoria ajustes cám.] → 1, 2 o 3` |
+| Quitar el AF del disparador | `MENU → Enfoque → [AF/MF] → [AF con disparador] → Desactivar` |
+| Reconocimiento de sujeto (Animal/Pájaro) | `MENU → Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` |
+| Guardar una memoria MR | `MENU → Toma → [Modo de toma] → [Mem. ajustes cám] → 1, 2 o 3` |
 | Cambiar los 12 iconos del Fn | `MENU → Ajustes → [Personal. operac.] → [Ajustes del menú Fn]` |
 | Reasignar un botón | `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` |
 | Idioma · fecha y hora | `MENU → Ajustes → [Idioma]` · `MENU → Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` |
@@ -158,10 +160,10 @@ recorrer pestañas.
    directamente tu pestaña**, no la última que usaste.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
-**Sensib. seguim. AF**, **Reconocimiento de sujeto**, **Área de enfoque**
+**Sens. Seguim. AF**, **Dest. reconocim.**, **Área de enfoque**
 (los tres mandos del AF de [AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md)),
 **Tipo de obturador**, **Func. capt. interv.**, **Formatear** y
-**Memoria ajustes cám.**
+**Mem. ajustes cám**
 
 ## Reasignar un botón (y el ejemplo que vale la noche)
 

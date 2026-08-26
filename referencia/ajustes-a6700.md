@@ -1,0 +1,270 @@
+# Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
+
+> 🔵 **Básico** · Da por sabido: el [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
+
+El resto del repo te da los valores repartidos por escenario. Esto es la
+**referencia única**: cada ajuste que toca este viaje, con su **ruta exacta
+de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
+consultar, no para leer de seguido.
+
+**Cómo leer las rutas.** Se escriben así:
+
+```
+MENU → Toma → [Obturad./silenc.] → [Tipo de obturador]
+  │      │            │                    │
+  │      │            │                    └── el ajuste
+  │      │            └── el grupo (sale abreviado en pantalla)
+  │      └── la pestaña (los iconos de la izquierda)
+  └── el botón MENU, arriba a la izquierda del respaldo
+```
+
+Las rutas salen de la **Guía de ayuda oficial de Sony** (consultada en agosto
+de 2026) y cada ajuste enlaza abajo a su ficha: si dudas de un nombre, manda
+la ficha. La mayoría están comprobadas una a una; en unos pocos el nombre del
+grupo está deducido de la ficha de un ajuste vecino. Los
+nombres salen **abreviados** en la pantalla de la cámara (`Calid. img/grab.`,
+`Sens. Seguim. AF`): así están escritos aquí, tal cual los vas a leer.
+
+---
+
+## El mapa del menú, dibujado
+
+Las ocho pestañas, y los grupos que vas a usar de verdad en este viaje:
+
+```
+┌──────────────────┬──────────────────────────────────────────────┐
+│  PESTAÑA         │  GRUPOS QUE USARÁS                           │
+├──────────────────┼──────────────────────────────────────────────┤
+│ ▸ Principal      │  (lista rápida de ajustes de toma)           │
+│ ▸ Toma           │  Calid. img/grab. · Modo de toma             │
+│                  │  Modo de manejo · Obturad./silenc.           │
+│                  │  Func. capt. interv. · Estabiliz. de img     │
+│                  │  Soporte                                     │
+│ ▸ Exposición/    │  Exposición · Visualizac. cebra              │
+│    color         │  Balance blanco · Modo medición              │
+│ ▸ Enfoque        │  AF/MF · Área de enfoque · Reconoc. motivo   │
+│                  │  Visualiz. resalte                           │
+│ ▸ Reproducción   │  Ampliación                                  │
+│ ▸ Red            │  (emparejar con Creators' App)               │
+│ ▸ Ajustes        │  Personal. operac. · Área/fecha              │
+│                  │  Idioma · Rest/guard ajust                   │
+│ ▸ Mi Menú        │  el tuyo, vacío hasta que lo llenes          │
+└──────────────────┴──────────────────────────────────────────────┘
+```
+
+> **El aviso que ahorra media hora**: el menú **cambia según el selector
+> Foto / Vídeo / S&Q**. Si un ajuste "no existe", casi siempre estás en el
+> modo equivocado. Comprueba el selector antes de buscar nada.
+
+---
+
+## Bloque A, lo que se pone una vez y no se toca más
+
+Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
+
+| Ajuste | Ruta | Valor | Por qué |
+|---|---|---|---|
+| **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
+| **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](../a6700/05-equipo-accesorios.md)) |
+| **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
+| **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Baja / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
+| **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
+| **Nivel de cebra** | `Exposición/color → [Visualizac. cebra] → [Nivel de cebra]` | **100 IRE o +** | Raya solo lo que ya está perdido, no lo que está claro |
+| **Idioma** | `Ajustes → [Idioma]` | Español | — |
+| **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
+| **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
+| **AF con disparador** | `Enfoque → [AF/MF] → [AF con disparador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
+
+---
+
+## Bloque B, fauna: la receta de MR1
+
+Lo que va guardado en la memoria **1** del dial. Con esto puesto, en el coche
+solo tocas la rueda delantera.
+
+```
+┌─ Enfoque ──────────────────────────────────────────┐
+│  AF/MF                                             │
+│    Modo de enfoque .................. AF-C   ◀     │
+│    Sens. Seguim. AF ................. 3            │
+│    AF con disparador ................ Desactivar   │
+│  Área de enfoque                                   │
+│    Área de enfoque .................. Zona   ◀     │
+│  Reconoc. motivo                                   │
+│    Rec. motivo en AF ................ Activar ◀    │
+│    Dest. reconocim. ................. Animal  ◀    │
+└────────────────────────────────────────────────────┘
+```
+
+| Ajuste | Ruta | Valor | Por qué |
+|---|---|---|---|
+| **Modo de toma** | `Toma → [Modo de toma] → [Modo de toma]` | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
+| **ISO** | `Exposición/color → [Exposición] → [ISO]` | **ISO AUTO**, y dentro: **ISO AUTO mínimo 100 · máximo 12800** | El techo de trabajo real del sensor |
+| Obturación | Rueda delantera | **1/1000** de partida | Y la mueves por escena: [capítulo 3](../a6700/03-safari-diurno.md) |
+| Apertura | Rueda trasera | **La mínima** del zoom | Cambia sola al zoomear; por debajo de 200 mm ganas luz |
+| **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-C** | Todo lo que se mueve |
+| **Área de enfoque** | `Enfoque → [Área de enfoque] → [Área de enfoque]` | **Zona** (o *Ancho* si la escena está limpia) | Deja trabajar al reconocimiento sin perder el control |
+| **Rec. motivo en AF** | `Enfoque → [Reconoc. motivo] → [Rec. motivo en AF]` | **Activar** | La cámara busca el ojo sola |
+| **Dest. reconocim.** | `Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` | **Animal** (→ *Pájaro* para aves) | Es el ajuste que más vas a cambiar: ponlo en el **Fn** |
+| **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **Continuo Hi+** | 11 fps. En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
+| **Modo medición** | `Exposición/color → [Modo medición]` | **Multi** de partida · **Punto** vinculado al AF para el nivel avanzado | El detalle, en [AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md) |
+| **Balance blanco** | `Exposición/color → [Balance blanco]` | **Luz día** o K fijo | Es RAW: se cambia después sin coste |
+
+**Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
+
+---
+
+## Bloque C, noche: las tres recetas
+
+Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
+
+### C1, charca nocturna (Okaukuejo, Halali, Onguma)
+
+```
+┌─ Toma ─────────────────────────────────────────────┐
+│  Obturad./silenc.                                  │
+│    Tipo de obturador ....... Obturad. electr.  ◀   │
+│         (¿franjas bajo los focos LED?              │
+│          → Obturad. mecán.)                        │
+└────────────────────────────────────────────────────┘
+```
+
+| Ajuste | Ruta | Valor |
+|---|---|---|
+| Modo | `Toma → [Modo de toma]` | **M** (ISO manual) |
+| Obturación / apertura | Ruedas | **1/60** · la mínima (recoge bajo 200 mm y ganas un tercio de paso) |
+| **ISO** | `Exposición/color → [Exposición] → [ISO]` | **6400**, techo 12800 (25600 solo rescate) |
+| **Balance blanco** | `Exposición/color → [Balance blanco]` | **K ≈ 3500**, ajustando con la revisión |
+| **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-S** |
+| **Área de enfoque** | `Enfoque → [Área de enfoque]` | **Punto: S o M** sobre lo iluminado |
+| **Tipo de obturador** | `Toma → [Obturad./silenc.] → [Tipo de obturador]` | **Obturad. electr.** — silencio absoluto |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (y el OSS del objetivo, también) |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | Temporizador **2 s** |
+
+### C2, astro: la receta de MR2
+
+```
+┌─ Exposición/color ─────────────────────────────────┐
+│  Exposición                                        │
+│    ISO ............................ 1600     ◀     │
+│    Aj. temporiz. BULB ............. (star trails)  │
+└─ Enfoque ──────────────────────────────────────────┐
+│  AF/MF → Modo de enfoque .......... MF       ◀     │
+│  Visualiz. resalte → Activar (peaking)             │
+└────────────────────────────────────────────────────┘
+```
+
+| Ajuste | Ruta | Valor |
+|---|---|---|
+| Modo · obturación · apertura | Dial y ruedas | **M · 20 s · f/1.8** (el 11 mm) |
+| **ISO** | `Exposición/color → [Exposición] → [ISO]` | **1600**, subiendo a 3200 |
+| **Balance blanco** | `Exposición/color → [Balance blanco]` | **K 3900** |
+| **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **MF** — el AF no ve estrellas |
+| **Visualiz. resalte** | `Enfoque → [Visualiz. resalte]` | **Activar** — el peaking, para enfocar a mano |
+| **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
+| **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | Temporizador **2 s** |
+| **Star trails / timelapse** | `Toma → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas |
+
+**Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
+
+### C3, game drive nocturno con foco
+
+Igual que la charca, con tres cambios: **ISO manual 6400–12800**,
+**1/125–1/250** (vas a pulso en un vehículo abierto), **SteadyShot Activar**
+y medición **puntual vinculada al punto de enfoque** — porque el fondo negro
+engaña al medidor al revés que de día.
+
+---
+
+## Bloque D, los ajustes que sí se tocan en el campo
+
+Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
+**Mi Menú**, y no volverás a entrar al menú con un león delante:
+
+1. **Dest. reconocim.** (Animal ⇄ Pájaro)
+2. **Área de enfoque** (Zona ⇄ Punto)
+3. **Sens. Seguim. AF** (3 ⇄ 1)
+
+- Cambiar las 12 casillas del Fn: `Ajustes → [Personal. operac.] → [Ajustes del menú Fn]`
+- Añadir a Mi Menú: `Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y luego
+  `[Mostrar de Mi Menú] → Activar` para que **MENU abra directamente ahí**.
+- Asignar un botón (C1, C2, C3): `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`.
+  Los dos que valen la pena: **Bright Monitoring** (componer la Vía Láctea
+  viéndola) y, mientras aprendes, **Guía en la cámara**.
+
+---
+
+## Las tres memorias del dial
+
+| Memoria | Para qué | Se guarda con |
+|---|---|---|
+| **1** | Safari diurno (bloque B) | `Toma → [Modo de toma] → [Mem. ajustes cám] → 1` |
+| **2** | Astro (bloque C2) | Ídem → 2 |
+| **3** | Aves: *Dest. reconocim.* Pájaro, área Zona, 1/2500, Sens. Seguim. 3 | Ídem → 3 |
+
+**Cómo funcionan**: al girar el dial recuperan **lo guardado**, no lo que
+tenías puesto. Es una ventaja — nunca heredas los ajustes raros de anoche —
+pero significa que para hacer fijo un cambio hay que **volver a guardar**.
+Caben 3 en la cámara y 4 más (M1–M4) en la tarjeta… que se borran al
+formatearla.
+
+---
+
+## Si un ajuste no aparece
+
+| Síntoma | Causa | Solución |
+|---|---|---|
+| "Este ajuste no existe" | El selector **Foto / Vídeo / S&Q** está en otro modo | Ponlo en Foto y vuelve a buscar |
+| Aparece en gris, no se puede tocar | Lo bloquea otro ajuste (p. ej. RR exposic. larga con obturador electrónico) | Mira la nota de la propia pantalla |
+| No sé qué hace lo que estoy mirando | — | **Guía en la cámara**, asignada a un botón: te lo explica ahí mismo |
+| No encuentro nada nunca | No has hecho tu **Mi Menú** | Diez minutos, bloque D |
+| Lo he desajustado todo | — | `Ajustes → [Rest/guard ajust] → [Restablecer ajuste] → Reponer ajustes de cámara`. No borra fotos |
+
+---
+
+## Sobre las capturas de pantalla
+
+Los dibujos de esta página son **reproducciones esquemáticas**, no capturas:
+la a6700 no tiene función de captura de pantalla y las imágenes del manual de
+Sony tienen derechos, así que no se copian aquí. Dos formas de tener la
+pantalla real delante:
+
+- **La oficial**: cada ajuste de esta página enlaza abajo a su ficha en la
+  Guía de ayuda de Sony, donde sale la pantalla real.
+- **La tuya, que es mejor**: cuando tengas la cámara, **fotografía tus
+  propias pantallas** con el móvil (menú abierto, ajuste seleccionado) y
+  guárdalas en `referencia/img/menus/` con el nombre del ajuste
+  (`rec-motivo-af.jpg`, `tipo-obturador.jpg`…). Son **tus** valores, en
+  **tu** idioma, y se pegan aquí con una línea de Markdown:
+  `![Rec. motivo en AF](img/menus/rec-motivo-af.jpg)`. Media hora de trabajo
+  el día que llegue la cámara, y esta página se vuelve tu manual.
+
+---
+
+## Referencias — la ficha oficial de cada ajuste
+
+- El menú y cómo se navega: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0201B_using_menu.html>
+- Rec. motivo en AF y Dest. reconocim.: <https://helpguide.sony.net/ilc/2320/v1/es/contents/211h_subject_recognition_af.html>
+- Área de enfoque: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0405C_autofocus_area.html>
+- Sens. Seguim. AF: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0405D_af_tracking_sensitivity.html>
+- Visualiz. resalte (peaking): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0405M_peaking_display.html>
+- ISO y límites de ISO AUTO: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0408C_iso.html>
+- Modo medición: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0406_metering_mode.html>
+- Balance blanco: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0410C_white_balance.html>
+- Visualizac. cebra: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0406M_zebra_display.html>
+- Formato archivo: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0404M_file_format.html>
+- RR exposic. larga: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0414_long_exposure_nr.html>
+- RR ISO Alta: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0414C_high_iso_nr.html>
+- Tipo de obturador: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0414H_shutter_type.html>
+- Modo manejo: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407C_drive_mode.html>
+- SteadyShot: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0414_still_image_steadyshot.html>
+- Func. capt. interv. (intervalómetro): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0407P_interval_shoot_setting.html>
+- Var.exp. enfoque (horquillado de enfoque, por si algún día lo necesitas): <https://helpguide.sony.net/ilc/2320/v1/es/contents/211h_focus_bracket.html>
+- Ajuste t. pers./dial: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0413M_custom_key.html>
+- Ajustes del menú Fn: <https://helpguide.sony.net/ilc/2320/v1/es/contents/201h_fn_menu_setting.html>
+- Formatear: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_memory_format.html>
+- Restablecer ajuste: <https://helpguide.sony.net/ilc/2320/v1/es/contents/0601_setting_reset.html>
+- Guía de ayuda completa: <https://helpguide.sony.net/ilc/2320/v1/es/>
