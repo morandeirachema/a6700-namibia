@@ -138,6 +138,29 @@ PhotoPills):
 (La noche del 31 de octubre, en Windhoek, es de dormir: jet lag y cielo
 urbano.)
 
+## Los dos días de Windhoek (31 de octubre y 13 de noviembre)
+
+Los extremos del viaje, y los dos únicos días urbanos. No dan grandes fotos,
+pero tienen tarea:
+
+- **31 de octubre, al llegar**: jet lag y cielo urbano. La noche es **de
+  dormir** — la primera de verdad es la de Spreetshoogte. Lo útil de ese día:
+  montar el objetivo, poner la cámara en **hora de Namibia**, formatear la
+  tarjeta y hacer la foto de prueba. Y comprar agua y las pilas o el
+  adaptador que se hayan quedado en casa.
+- **13 de noviembre, al volver**: la última noche. Dos cosas que sí son foto:
+  la **creciente fina con luz cenicienta** tras el ocaso a 350 mm
+  ([el cielo del viaje](cielo-del-viaje.md)) y, si te queda cuerpo, la ciudad
+  a la hora azul desde alguna terraza.
+- **La tarea de esa tarde importa más que la foto**: comprueba que las **dos
+  copias existen** antes de meter nada en la maleta, reparte tarjetas y SSD
+  en equipajes distintos ([logística](../campo/logistica-viaje.md)) y da un
+  repaso de limpieza al equipo, que lleva dos semanas de polvo
+  ([limpieza](../campo/limpieza-en-campo.md)).
+- **Fotografiar en la ciudad**: en el mercado y en la calle, las mismas
+  reglas de siempre — se pregunta antes. Y no apuntes a edificios oficiales
+  ni a militares: es la clase de fricción que no compensa el último día.
+
 ## Planifícalo cada tarde en 2 minutos (para el día siguiente)
 
 1. Mira en [PhotoPills](https://www.photopills.com/) el amanecer, el ocaso y

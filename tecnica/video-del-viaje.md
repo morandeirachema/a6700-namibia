@@ -50,6 +50,18 @@ aceptas un movimiento un pelín más "nítido" (en un vídeo de viaje no se
 nota), o llevas el **filtro ND variable** de la lista de abajo, que es la
 solución de verdad.
 
+## La tarjeta: para esto no hace falta la buena
+
+Dato que ahorra dinero: la receta de este vídeo (**XAVC S 4K 25p a 100
+Mbps**) son **12,5 MB/s**, así que a Sony le vale con una **U3/V30**. Las
+tarjetas rápidas del viaje son para las **ráfagas de fauna**, no para el
+vídeo.
+
+La excepción, si alguna vez quieres **cámara lenta**: el modo **S&Q** en 4K
+grava entre 445 y 560 Mbps y Sony exige **V90** — sin ella, la cámara ni
+te deja. Lo mismo para XAVC S-I (All-Intra, 600 Mbps), que para este vídeo
+no aporta nada. Detalle y precios, en [equipo](../a6700/05-equipo-accesorios.md).
+
 ## ¿A pulso o con apoyo? — la respuesta
 
 **A pulso, y sin gimbal.** Con un 16,5 mm equivalente el temblor se ve

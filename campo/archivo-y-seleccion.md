@@ -12,7 +12,7 @@ selección que convierte un montón de fotos en un trabajo**.
 
 | Cuándo | Qué haces |
 |---|---|
-| **Cada noche del viaje** | Volcado al SSD por carpetas de día, sin borrar nada ([logística](logistica-viaje.md)) |
+| **Cada noche del viaje** | Volcado al SSD con el móvil (no va portátil), por carpetas de día y sin borrar nada ([logística](logistica-viaje.md)) |
 | **El día que llegas a casa** | Copia maestra + segunda copia + nube. Tres copias antes de dormir |
 | **Semana 1** | Importar, renombrar, palabras clave y la primera criba |
 | **Semana 2–3** | Revelar solo lo marcado, en tandas por escena |
@@ -24,7 +24,8 @@ La regla es **3-2-1**: tres copias, en dos soportes distintos, una de ellas
 fuera de casa. Suena a paranoia hasta el día que un disco no monta.
 
 1. **La maestra**: el SSD del viaje, tal cual vino, sin tocar. No trabajes
-   sobre él.
+   sobre él. (Y sus gemelas: las **tarjetas SD llenas** que traes sin
+   formatear. No las vacíes hasta que las tres copias de abajo existan.)
 2. **La copia de trabajo**: en el disco del ordenador o en un disco externo.
    Aquí importas, revelas y exportas.
 3. **La copia de fuera**: nube (Backblaze, Google One, iCloud, lo que ya

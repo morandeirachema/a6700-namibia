@@ -225,10 +225,13 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 11 · Cada noche antes de dormir (15 min)
 
-- [ ] **Volcado tarjeta → SSD** hecho y comprobado (abre 2–3 fotos del final
-  del día en el destino). *Por qué es sagrado:* con una sola ranura, este
-  volcado ES la primera copia de seguridad del viaje. **Nada se formatea**
-  hasta casa.
+- [ ] **Volcado tarjeta → SSD** hecho y comprobado: hub al Pixel, lector +
+  SSD + power bank colgando, `Archivos` → carpeta del día → **Copiar a**
+  (nunca *Mover*). Comprueba que **coincide el número de archivos** y abre
+  2–3 fotos del final del día en el destino. *Por qué es sagrado:* con una
+  sola ranura, este volcado ES la primera copia de seguridad del viaje, y
+  sin portátil no hay red debajo. **Nada se formatea** hasta casa, y la
+  tarjeta llena se etiqueta y se guarda **lejos del SSD**.
 - [ ] Baterías gastadas al **cargador doble USB** en la regleta (adaptador
   D/M); la cámara también puede cargar por USB-C si hace falta.
 - [ ] **Repaso de 10 minutos**: tus 3 mejores del día → el error que se

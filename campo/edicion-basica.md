@@ -14,10 +14,22 @@ teoría de color: un flujo que funciona, en orden.
 
 Los pasos de abajo valen para ambos; los nombres exactos cambian un poco.
 
+> **En el viaje no hay ordenador** (decisión tomada: no va portátil). Durante
+> las dos semanas solo pasan dos cosas: el **volcado nocturno** al SSD con el
+> móvil ([logística](logistica-viaje.md)) y el **repaso de 10 minutos** de
+> aquí abajo. Nada de cribar ni revelar sobre la marcha: se empieza al
+> volver, y el orden está en [el archivo y la selección](archivo-y-seleccion.md).
+
 ## El repaso de cada noche (10 minutos, sin editar)
 
 El hábito que hace que mejores *durante* el viaje, no al volver. Tras el
-volcado de seguridad ([logística](logistica-viaje.md)), con las fotos del día:
+volcado de seguridad ([logística](logistica-viaje.md)), con las fotos del día.
+
+**Y en este viaje se hace sin ordenador**: no va portátil, así que el repaso
+es en la **pantalla de la cámara** (con ▶ y la rueda para ampliar sobre el
+punto de enfoque, [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)) o en el
+Pixel, que ya tienes conectado al SSD haciendo el volcado. Todo lo demás de
+esta guía —revelar, ruido, apilar, montar— **espera a casa**.
 
 1. Elige tus **3 mejores** del día. Solo eso — cría el ojo y la moral.
 2. Busca el **error que se repite**: ¿movidas? → obturación corta la próxima
@@ -63,6 +75,112 @@ De un safari salen 800 fotos y valen 30. Antes de editar nada:
   cumple igual.
 
 Orden correcto: primero el denoise, después el revelado fino.
+
+## Paso 4 — Las cinco operaciones que el resto de la guía da por hechas
+
+El repo te manda hacer estas cinco cosas "en edición" una y otra vez. Aquí
+está cómo, con los nombres de Lightroom y su equivalente libre.
+
+### 1 · Recortar y enderezar
+
+Es el paso 1 del revelado, pero merece detalle porque en fauna lo vas a usar
+en la mitad de las fotos.
+
+- **Tecla `R`** (Lightroom) abre el recorte. El **nivel automático** está en
+  el botón de la reglita: `Auto` endereza solo casi siempre; si no, arrastra
+  fuera del marco para girar a mano.
+- Un horizonte torcido **1°** ya se nota en una duna o en el mar. Míralo
+  siempre en las fotos de paisaje y de costa.
+- **Cuánto puedes recortar**: los 26 Mpx aguantan un recorte al **50 %** de
+  lado (queda un archivo de ~6,5 Mpx, de sobra para pantalla y para un A3).
+  Si tienes que recortar más, no es una foto: es una anécdota.
+- **Mantén la proporción** 3:2 por defecto; el cuadrado y el 16:9 son
+  decisiones, no arreglos.
+- En **darktable**: módulo `recortar` y `rotar y perspectiva`.
+
+### 2 · Quitar el polvo del sensor
+
+Con el polvo de Etosha y un solo cambio de objetivo, vas a tener manchas. Se
+ven como puntos grises borrosos, **siempre en el mismo sitio**, y solo se
+notan en zonas lisas y claras: cielos, dunas al sol, el pan blanco. A f/8 y
+más cerrado, peor.
+
+1. Lightroom: **tecla `Q`** (herramienta de eliminación).
+2. Marca **`Visualizar puntos`** abajo del panel: la foto se vuelve un
+   negativo raro donde las manchas saltan a la vista. Sube el deslizador
+   hasta que las veas y **antes** de que aparezca ruido de más.
+3. Pincel un poco **mayor que la mancha**, un clic encima, y el programa
+   busca de dónde copiar. Si elige mal, arrastra el círculo de origen.
+4. **El truco que ahorra una tarde**: cuando termines una foto, cópiale los
+   ajustes (`Ctrl+Shift+C`) y **pégalos en todas las del mismo día**
+   (`Ctrl+Shift+V`). El polvo está en el mismo sitio en todas: se limpian
+   las 300 de golpe.
+5. En **darktable**: módulo `retoque`, herramienta de clonar o curar.
+
+### 3 · Blanco y negro (la carta del mediodía)
+
+La guía te hace disparar **pensando en B/N** en tres sitios: la clave alta de
+la calcreta a mediodía, las rayas de la cebra y los *badlands* del Kuiseb. El
+RAW guarda el color, así que la decisión se toma aquí y es reversible.
+
+1. **Tecla `V`** en Lightroom convierte a B/N. Eso solo es el punto de
+   partida: una conversión "de fábrica" siempre sale gris y sosa.
+2. La foto se hace en el panel **`Mezcla B/N`**: cada deslizador controla
+   **qué gris le toca a cada color original**. Los dos que importan en
+   Namibia:
+   - **Bajar el azul** oscurece el cielo y hace que las nubes revienten.
+   - **Subir el naranja y el amarillo** aclara la arena, la calcreta y la
+     piel del elefante rebozado en polvo.
+3. Luego, **contraste y negros**: en B/N hay que ser más bruto que en color.
+   Que haya un negro de verdad y un blanco de verdad, o la foto se queda en
+   barro gris.
+4. **Cuándo tiene sentido**: luz dura sin color interesante (mediodía),
+   escenas de puro patrón (cebras, dunas, la colonia de Cape Cross), niebla
+   de la costa. **Cuándo no**: cualquier cosa a la hora dorada — ahí el color
+   *es* el tema.
+5. En **darktable**: módulo `monocromo` o, mejor, `mezclador de canales de
+   color` en modo gris.
+
+### 4 · Fusionar el horquillado (cuando la escena no cabía)
+
+Si seguiste la instrucción de horquillar ±2 EV en Deadvlei o en un
+contraluz, tienes tres archivos de la misma escena.
+
+1. Selecciona las tres (clic + `Ctrl`).
+2. `Foto → Combinar fotos → HDR`, o **`Ctrl+H`**.
+3. Marca **`Alineación automática`** (por si el trípode se movió) y deja
+   `Cantidad de desfantasma` en *Ninguno* salvo que se moviera algo en la
+   escena (ramas, agua, un animal): entonces, *Medio*.
+4. Sale un **DNG nuevo** con todo el rango dentro, que se revela como
+   cualquier RAW — y ahora sí puedes bajar altas luces y subir sombras a lo
+   bestia sin que se rompa.
+5. El aviso de siempre: un HDR bien hecho **no se nota**. Si parece un
+   cuadro, has subido demasiado las sombras.
+6. En **darktable**: `crear HDR` desde la mesa de luz.
+
+### 5 · Fundir cielo y suelo (las dos tomas de la noche)
+
+El "nivel extra" de tu segunda noche de estrellas: una toma para el cielo
+(20 s) y otra para el suelo (60–120 s), sin mover el trípode. Fundirlas pide
+**capas**, así que aquí Lightroom se queda corto:
+
+- **Gratis**: [GIMP](https://www.gimp.org/). **De pago, una vez**:
+  [Affinity Photo](https://affinity.serif.com/es/photo/) (~70 €). También
+  vale Photoshop si ya lo tienes.
+- El método, en cuatro pasos:
+  1. Revela las dos tomas por separado (cada una para lo suyo) y expórtalas
+     a TIFF de 16 bits.
+  2. Ábrelas **una encima de otra** como dos capas. Al no haber movido el
+     trípode, encajan solas.
+  3. A la capa de arriba, **máscara de capa**, y con un **degradado negro a
+     blanco** sobre la línea del horizonte tapas la mitad que no quieres.
+  4. Pincel negro suave, al 20 % de opacidad, para repasar la silueta (un
+     árbol, una roca) donde el degradado recto no llega.
+- **El atajo, si esto te supera**: haz UNA sola toma con la receta del
+  cielo y sube las sombras del suelo en el revelado. Sale con más ruido
+  abajo, pero es una foto, y funciona.
+- Y para el **apilado** de astro, Sequator tiene su propia solución: la
+  casilla `Freeze ground`, ya explicada más abajo.
 
 ## Astro: apilado con Sequator, paso a paso
 

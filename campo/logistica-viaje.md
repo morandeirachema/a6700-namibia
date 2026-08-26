@@ -4,28 +4,102 @@
 
 Lo que no es hacer fotos pero decide si vuelves con ellas.
 
-## Copias de seguridad: la regla es "dos copias siempre"
+## Copias de seguridad SIN PORTÁTIL (la regla sigue siendo "dos copias siempre")
 
-Perder las fotos es el único fallo sin arreglo del viaje. El sistema, barato:
+**Decisión del viaje: no va portátil.** Ni para editar ni para almacenar. Eso
+no quita ninguna copia de seguridad — cambia quién las hace. Tres
+consecuencias que hay que tener claras antes de comprar nada:
 
-1. **Tarjetas de sobra para no reutilizar ninguna**: calcula ~64 GB por día
-   intenso de RAW y compra el doble. Una tarjeta llena se guarda como copia y
-   **no se formatea hasta estar en casa** con todo volcado. El vídeo del
-   Pixel vive en la memoria del móvil y entra en el mismo volcado nocturno al
-   SSD.
-2. **El volcado de cada noche ES la primera copia**: la a6700 tiene una
-   sola ranura de tarjeta, así que hasta que vuelcas solo existe UNA copia
-   de las fotos del día — ninguna noche es opcional. Portátil + SSD externo,
-   o directamente **móvil/tablet USB-C + lector de tarjetas + SSD** (sin
-   portátil: se copia de tarjeta a SSD desde la app de archivos). Un SSD de
-   1 TB tipo Samsung T7 ronda los 110–150 € (los precios de memoria están
-   subiendo en 2026: no lo dejes para el final).
-3. Reparte las copias físicamente: tarjetas llenas en la mochila que va
-   contigo, SSD en la maleta/coche. Nunca todo en el mismo sitio.
+1. **Las tarjetas dejan de ser un buffer y pasan a ser el archivo.** Una
+   tarjeta llena **no se formatea en todo el viaje**. Es, literalmente, una
+   de tus dos copias.
+2. **El "ordenador" del viaje es el Pixel.** Copia de la tarjeta al SSD por
+   USB-C, y de paso te deja ver las fotos en una pantalla decente.
+3. **No se cribe ni se edita nada hasta casa.** Sin portátil no hay
+   Lightroom ni Denoise: el repaso nocturno se hace en la pantalla de la
+   cámara y con la [lista de tomas](../plan/lista-de-tomas.md), y todo el
+   revelado espera ([edición](edicion-basica.md), [archivo](archivo-y-seleccion.md)).
 
-Y la regla ya dicha en el capítulo 0: **no se borra nada en cámara** — con
-una excepción deliberada: los **clips de vídeo** del móvil sí se criban al
-volcarlos (un clip fallido de 4K son gigas muertos; una foto, no).
+### El kit de copias (lo que hay que comprar)
+
+| Qué | Para qué | Precio orientativo |
+|---|---|---|
+| **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real. Los lectores UHS-I baratos son **3–4 veces más lentos** | 25–40 € (Kingston, Lexar, ProGrade) |
+| **SSD portátil de 1 TB USB-C** | El destino de todo. Samsung T7 o SanDisk Extreme | 110–150 € (**suben en 2026: no lo dejes para el final**) |
+| **Hub USB-C con entrada de carga (PD)** | La pieza clave: el móvil necesita **lector y SSD a la vez**, y alimentarlos | 20–35 € |
+| **Cable USB-C corto de datos** | Muchos cables de carga **no llevan datos**. Comprueba el tuyo en casa | 8–12 € |
+| Tarjetas SD UHS-II V60 de sobra | Son la segunda copia (abajo, la cuenta) | 40–60 € las de 128 GB |
+
+Todo eso cabe en una bolsita de la mochila y pesa menos que el cargador de
+un portátil.
+
+### El volcado de cada noche, paso a paso (15 minutos)
+
+1. **Enchufa el hub al Pixel**, y al hub: el lector con la tarjeta, el SSD y
+   el power bank a la entrada de carga. Ese último cable no es un lujo:
+   mover 20 GB con dos aparatos colgando se come la batería del móvil.
+2. Abre **Archivos** (la app de Google). Verás dos unidades nuevas: la
+   tarjeta y el SSD.
+3. En la tarjeta, entra en `DCIM` y **selecciona la carpeta del día entera**
+   (mantén pulsado). Menú `⋮` → **Copiar a** → el SSD → la carpeta que toque.
+   La estructura que te ahorrará meses de líos en casa:
+   `namibia-2026/2026-11-09_etosha-okaukuejo/`.
+4. **Copiar, nunca mover.** "Mover" borra el origen, y el origen es tu otra
+   copia.
+5. **Comprueba antes de dormir**: entra en la carpeta del SSD, mira que el
+   **número de archivos coincide** con el de la tarjeta, y **abre dos o tres
+   fotos del final del día** en el propio móvil. Una copia sin verificar no
+   es una copia.
+6. **Etiqueta la tarjeta llena** (una pegatina y un rotulador) y guárdala en
+   un sitio distinto del SSD.
+
+**Cuánto tarda**: el Pixel 10 Pro tiene USB 3.2 Gen 2 y el cuello de botella
+es la tarjeta, no el móvil. Con un lector UHS-II, unos **20 GB en 3–5
+minutos**. Con un lector barato UHS-I, los mismos 20 GB pueden irse a 20
+minutos: por eso el lector bueno es la compra más rentable de la lista.
+
+### La cuenta de las tarjetas (aquí está el dinero)
+
+Si ninguna tarjeta se reutiliza, necesitas **tarjetas para el viaje entero**:
+con días fuertes de 30–55 GB y días flojos de 10–15 GB, el viaje ronda los
+**250–350 GB solo de la Sony**. Traducción: **3 tarjetas de 128 GB, y mejor
+4**.
+
+Si eso se te va de precio, la alternativa igual de segura:
+
+> **Dos SSD en vez de tantas tarjetas.** Copias cada noche a **los dos** SSD
+> (o a un SSD y un pendrive USB-C grande), los guardas separados, y entonces
+> **sí** puedes reutilizar una tarjeta ya volcada y verificada. Dos copias
+> siguen existiendo siempre. Sale por unos 200 € en SSD en lugar de ~180 €
+> en tarjetas, y da menos que pensar.
+
+Lo que **no** vale como segunda copia: la nube. Los RAW de la Sony no pasan
+por el móvil, el wifi de los campamentos de Etosha es lento o inexistente y
+subir 300 GB no va a ocurrir. La copia del Pixel a Google Fotos está bien
+para sus propias fotos, y ya.
+
+### El plan B sin móvil: el aparato de un botón
+
+Si prefieres no depender del Pixel (o quieres poder volcar mientras el móvil
+hace otra cosa), existe la categoría de los **FileHub**: una cajita con
+batería, ranura SD y puerto USB que copia la tarjeta al SSD **pulsando un
+botón**, sin teléfono ni ordenador (RAVPower RP-WD009, NewQ FileHub y
+similares, 60–80 €). Es más lento —del orden de **12–18 MB/s**, o sea
+media hora larga por cada 20 GB— pero funciona solo mientras cenas, y de
+paso hace de router wifi para ver los archivos desde el móvil.
+
+### Y las reglas que no cambian
+
+- **Reparte las copias físicamente**: tarjetas llenas en la mochila que va
+  contigo, SSD en la maleta o el coche. Nunca todo en el mismo sitio, nunca
+  todo en el mismo vuelo de vuelta.
+- **No se borra nada en cámara**, con una sola excepción: los **clips de
+  vídeo fallidos** del Pixel, que son gigas muertos. Las fotos, ninguna.
+- El **vídeo y las fotos del Pixel** entran en el mismo volcado: conecta el
+  móvil… bueno, el móvil *es* el que copia, así que sus carpetas (`DCIM`,
+  `Movies`) van al SSD directamente, sin lector.
+- **Cada 2–3 noches**, no cada noche: el material del móvil no crece tan
+  rápido y así el volcado diario es corto.
 
 ### La cuenta del espacio (haz tus números con esta tabla)
 

@@ -114,11 +114,68 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
 
 ## Accesorios
 
-- **2 tarjetas SD UHS-II** (V60 de 128 GB, ~50–90 € cada una; V90 solo si
-  sobra presupuesto): la a6700 tiene una sola ranura y es UHS-II — una SD
-  lenta atasca las ráfagas. Las SD antiguas que ya tengas, de respaldo de
-  emergencia. Una tarjeta llena **no se reutiliza** hasta volcarla
-  ([logística](../campo/logistica-viaje.md)).
+- **3 o 4 tarjetas SD UHS-II** (V60 de 128 GB, ~50–90 € cada una; V90 solo
+  si sobra presupuesto): la a6700 tiene una sola ranura y es UHS-II — una SD
+  lenta atasca las ráfagas. Y como **en este viaje no va portátil**, las
+  tarjetas llenas son una de tus dos copias de seguridad y **no se
+  reutilizan ni se formatean** en todo el viaje: por eso son tres o cuatro y
+  no dos ([logística](../campo/logistica-viaje.md)).
+### V30, V60 o V90: qué cambia de verdad
+
+La etiqueta **V** es la velocidad de **escritura sostenida** garantizada
+(V30 = 30 MB/s, V60 = 60, V90 = 90). Y el detalle que casi nadie explica: en
+la práctica **las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
+**las V60 y V90 son UHS-II** (bus de hasta 312 MB/s). La a6700 es UHS-II, así
+que la pregunta real no es "¿V30 o V60?" sino "¿UHS-I o UHS-II?".
+
+**En ráfaga.** A 11 fps con RAW comprimido sin pérdida, la cámara genera del
+orden de **300 MB/s**: ninguna tarjeta del mundo sigue ese ritmo. Por eso
+existe el búfer, y lo que decide la tarjeta es **cuánto tarda en vaciarlo**:
+
+| | UHS-I V30 | UHS-II V60 | UHS-II V90 |
+|---|---|---|---|
+| Ráfaga antes de atascarse | ~15–18 RAW | El búfer entero | El búfer entero |
+| Vaciar el búfer tras 30 RAW | **18–22 s** | **8–9 s** | **4–6 s** |
+| Precio (128 GB) | 20–30 € | 50–90 € | 120–180 € |
+
+Y un dato de la propia cámara que conviene tener en la cabeza: el búfer son
+unas **1.000 fotos en JPEG, 59 en RAW comprimido y solo 23 en RAW comprimido
+sin pérdida** — que es el formato que usa este repo. **23 fotos a 11 fps son
+dos segundos.** O sea: la regla de "ráfagas de 1–2 segundos" no es
+estilística, es que **el búfer se llena justo ahí**.
+
+**La decisión**: el escenario que lo paga es la charca. Los rinocerontes
+llegan, hacen algo durante quince segundos y se van; con una V30 te comes
+**veinte segundos de cámara bloqueada** justo en medio. Con una V60, ocho. La
+V90 es dinero bien gastado solo si vas a hacer S&Q (abajo).
+
+**En vídeo cambia todo**, porque ahí manda el flujo constante, no el búfer.
+Sony lo publica formato a formato:
+
+| Lo que grabes | Tarjeta mínima que exige Sony |
+|---|---|
+| **XAVC S 4K 100 Mbps** (la receta de este viaje: 4K 25p) | **U3 / V30 va sobrada** — son 12,5 MB/s |
+| XAVC S / HS 4K a 280 Mbps | **V60** |
+| **S&Q (cámara lenta, 4K120)** | **V90 obligatoria** (445–560 Mbps) |
+| XAVC S-I (All-Intra, 600 Mbps) | **V90 obligatoria** |
+
+Traducido a tu viaje: **para el vídeo de tres minutos, una V30 bastaría**;
+para las ráfagas de fauna, no. Si en algún momento quieres **cámara lenta de
+un animal corriendo**, esa toma exige una V90 y no hay atajo.
+
+**Conclusión de compra**: **V60 UHS-II** para todo, y una **V90** solo si
+decides meter cámara lenta en el vídeo. Las V30 baratas que ya tengas,
+guárdalas como respaldo de emergencia — funcionan, simplemente te frenan.
+
+- **El kit de copias sin portátil** (~170–230 € en total, y pesa menos que
+  el cargador de un portátil): **SSD portátil de 1 TB USB-C** (Samsung T7 o
+  SanDisk Extreme, 110–150 € — los precios de memoria suben en 2026),
+  **lector de tarjetas UHS-II USB-C** (25–40 €: un lector UHS-I barato es
+  3–4 veces más lento y alarga el volcado de cada noche), **hub USB-C con
+  entrada de carga** (20–35 €, para tener lector y SSD conectados al Pixel a
+  la vez) y un **cable USB-C de datos** (8–12 €; muchos cables de carga no
+  llevan datos: compruébalo en casa). El paso a paso, en
+  [logística](../campo/logistica-viaje.md).
 - **2 baterías NP-FZ100 extra** (originales de segunda mano o compatibles de
   marca conocida) + **cargador doble por USB (~30–40 €)**: la caja no trae
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
@@ -181,6 +238,10 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
   unos 8x42 son un espectáculo por sí solos.
 
 ## Referencias
+
+- Tarjetas admitidas y velocidad exigida por cada formato de vídeo (Help Guide oficial a6700): <https://helpguide.sony.net/ilc/2320/v1/es/contents/0002H_usable_memory_card.html>
+- Búfer y tiempos de vaciado medidos con tarjetas UHS-I y UHS-II (Alpha Shooters): <https://www.alphashooters.com/cameras/sony-a6700/memory-cards/>
+
 
 - Mercado de segunda mano de confianza: <https://www.mpb.com/>
 - Sony E 11mm F1.8 (SEL11F18), ficha oficial: <https://www.sony.es/lenses/products/sel11f18>

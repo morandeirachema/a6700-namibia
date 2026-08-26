@@ -65,6 +65,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 |---|---|
 | 🦓 [La fauna, animal por animal](tecnica/fauna-de-namibia.md) | Ficha por especie de tu ruta: dónde y cuándo, **el gesto que hay que esperar**, focal, obturación y AF, y el fallo típico |
 | 🌙 [Fotografía nocturna: por dónde empezar](tecnica/fotografia-nocturna.md) | Cuál de las cuatro noches tienes delante (charca, astro, cielo con tierra, game drive) y las cuatro recetas comparadas |
+| 👤 [Retrato de viaje](tecnica/retrato-de-viaje.md) | Las personas del viaje: el 70-350 a 70 mm es focal de retrato, la sombra abierta contra el sol duro y los cuatro retratos que sí querrás |
 | 🏜️ [Paisaje en Namibia](tecnica/paisaje-namibia.md) | Sossusvlei, Deadvlei, la costa y las paradas de tu ruta |
 | 🎥 [El vídeo del viaje](tecnica/video-del-viaje.md) | Tres minutos sin voz: ajustes, cómo se sujeta, el guion en siete bloques y las 17 tomas |
 | 🎚️ [Balance de blancos por escena](referencia/balance-de-blancos.md) | Valores de partida por luz, y por qué el automático te roba los atardeceres |
@@ -89,9 +90,9 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Rock_Arch_At_Night_%28224612485%29.jpeg" alt="El arco de roca de Spitzkoppe bajo la Vía Láctea" width="72%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg/1280px-Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg" alt="Los acacias muertas de Deadvlei sobre la arcilla blanca, con la duna encendida al fondo" width="82%">
 
-<sub>El arco de Spitzkoppe bajo el cielo namibio. Spitzkoppe no cae en la ruta de este viaje, pero el cielo es el mismo que espera en Etosha — el que persigue el [capítulo 2](a6700/02-astrofotografia-namibia.md). Foto de [Dominik Angstwurm](https://commons.wikimedia.org/wiki/File:Rock_Arch_At_Night_(224612485).jpeg), CC BY-SA 3.0, vía Wikimedia Commons</sub>
+<sub><b>Esta sí la vas a hacer</b>: Deadvlei, la mañana del <b>día 4</b> de tu ruta. Léela antes de ir — tres capas y ni una de cielo: la arcilla blanca abajo, los troncos negros de 900 años en medio y la duna encendida al fondo. La foto existe solo en la ventana en que el sol ya toca la cresta pero el vlei sigue en sombra, y se dispara con el <b>tele</b>, no con el angular ([paisaje a fondo](mejora/paisaje-a-fondo.md)). Foto de [Michael Schwarz](https://commons.wikimedia.org/wiki/File:Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_(23394319372).jpg), CC BY-SA 2.0, vía Wikimedia Commons</sub>
 
 </div>
 
@@ -104,6 +105,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | [Safari a fondo](mejora/safari-a-fondo.md) | Luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas: el antídoto contra la foto plana |
 | [Paisaje a fondo](mejora/paisaje-a-fondo.md) | Que la duna no salga plana: luz rasante, profundidad, escala, líneas, color, panorámica y las recetas de los maestros |
 | [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | **Desde cero, en tres noches**: la primera foto de estrellas, la postal y los círculos — con el nivel avanzado al final |
+| [Vídeo a fondo](mejora/video-a-fondo.md) | Que no parezca un vídeo de vacaciones: el ritmo, cortar con la música, continuidad, igualar el color entre clips, el sonido y los cinco planos que hay que tirar |
 | [El AF y la exposición a fondo](mejora/af-y-exposicion-a-fondo.md) | Los tres mandos del AF, medición puntual vinculada, botonera de francotirador y el 70-350 al límite |
 
 ## 📈 Cómo ir mejorando
@@ -127,7 +129,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Del histograma](referencia/histograma.md) (15 min) · [del balance de blancos](referencia/balance-de-blancos.md) (10 min) · [de edición](campo/edicion-basica.md) (una tarde cronometrada)
 - [Entrenamiento de safari](mejora/safari-a-fondo.md) · [de paisaje](mejora/paisaje-a-fondo.md) · [de vídeo](tecnica/video-del-viaje.md) — una tarde por tema
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
-- [Los ejercicios de la mirada](mejora/la-mirada.md) y [los del modelo técnico](mejora/por-que-funciona.md)
+- [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md) y [la cadena de copia del Pixel](tecnica/pixel-10-pro.md)
 - Todo esto, **en calendario**: [el plan de entrenamiento de 11 semanas](plan/plan-de-entrenamiento.md)
 
 ## 🖨️ Para imprimir y llevar en el coche
