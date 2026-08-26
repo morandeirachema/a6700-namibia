@@ -21,6 +21,7 @@ urgente y qué puede esperar.
 | ☑ | **SSD** para las copias |
 | ☑ | **PhotoPills** instalada |
 | ☑ | **Toallas de microfibra** |
+| ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
 | ☑ | **2 tarjetas SD** y **batería** — pero mira abajo: hay que comprobar cuáles |
 
 ## Prestado 🤝 — el 70-350, llega estos días
@@ -85,23 +86,31 @@ Y ahora la decisión, según lo que veas:
 tu segunda copia** y no se formatean en todo el viaje. El cálculo es
 ~250–350 GB solo de la Sony en la quincena.
 
-### Y la batería: cuenta cuántas tienes de verdad
+### La batería y el cargador: resueltos ✅
 
-La a6700 viene con **una** NP-FZ100 en la caja. El plan del viaje pide
-**tres** en total: una para el día de safari, otra para la noche de astro y
-una de margen.
+Con el kit de dos más la que trae la caja tienes **tres NP-FZ100**, que es
+justo lo que pide el plan: una para el día de safari, otra para la noche de
+astro y una de margen. Y el cargador que venía con el kit resuelve lo de que
+**la caja de la a6700 no trae ninguno**.
 
-| Tienes… | Compra |
-|---|---|
-| Solo la de la caja | **2 más** (~60–90 €) |
-| La de la caja + una de repuesto | **1 más** (~30–45 €) |
-| Tres o más | Nada ✅ |
+Dos comprobaciones antes de darlo por cerrado, porque los kits suelen traer
+baterías **compatibles**, no Sony originales:
 
-### El resto de lo urgente
+- **¿Se ven bien en la cámara?** Algunas compatibles no muestran el
+  porcentaje real, o lo muestran a saltos. No es grave, pero conviene
+  saberlo **antes** de fiarte de ese número en la charca.
+- **¿Cuánto aguantan de verdad?** Cárgalas al máximo y gasta una en una
+  salida normal, contando disparos. La capacidad anunciada de las
+  compatibles suele ser optimista.
 
-| ☐ | Qué | Precio | Por qué corre prisa |
-|---|---|---|---|
-| ☐ | **Cargador doble USB** | 30–40 € | **La caja de la a6700 no trae cargador**: sin él, cargar te secuestra la cámara toda la noche, y con tres baterías eso no se sostiene |
+Y la regla que sale de esto: **la batería original, para la noche**. Una
+serie de star trails son 45–90 minutos de exposición continua, y una batería
+que se apaga a mitad se lleva por delante la serie entera. Las compatibles,
+para el día, donde cambiarlas cuesta diez segundos.
+
+Comprueba también que el cargador **carga por USB**: en Namibia irás de
+regleta y adaptador tipo D/M, y un cargador de enchufe grande estorba más de
+lo que parece.
 
 ## 🟠 El resto del kit de copias — antes de octubre
 
@@ -158,11 +167,11 @@ cronométrala en tu salón, no en Okaukuejo.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 Tarjetas (según cuáles tengas), baterías y cargador | **80–400 €** | Ya |
+| 🔴 Tarjetas (según cuáles tengas) | **50–360 €** | Ya |
 | 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
 | 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Septiembre |
 | 🟢 Opcional | 235–435 € | Si sobra |
-| | **Total sin opcionales: ~185–565 €** — depende de qué tarjetas resulten ser las tuyas | |
+| | **Total sin opcionales: ~155–525 €** — y lo único que queda de verdad son **tarjetas y cuatro conectores** — depende de qué tarjetas resulten ser las tuyas | |
 
 Con el tele prestado y el trípode, el bean bag, el frontal, el power bank y
 el SSD ya en casa, **el viaje se queda entre un séptimo y un tercio de lo que
