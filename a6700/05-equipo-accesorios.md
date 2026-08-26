@@ -136,6 +136,13 @@ la práctica **las V30 del mercado son UHS-I** (bus limitado a ~104 MB/s) y
 **las V60 y V90 son UHS-II** (bus de hasta 312 MB/s). La a6700 es UHS-II, así
 que la pregunta real no es "¿V30 o V60?" sino "¿UHS-I o UHS-II?".
 
+**Cómo saber qué tarjeta tienes en la mano** (vale para las que ya tengas por
+casa): dale la vuelta y **cuenta las filas de contactos dorados**. Dos filas =
+**UHS-II**; una fila = UHS-I, y ahí se acabó la conversación, porque el bus no
+da para más por mucho que ponga en la etiqueta. En la cara impresa, la **V con
+un número** (V30, V60, V90) es la velocidad de escritura sostenida, y un **II**
+junto al logotipo de SD confirma el bus.
+
 **En ráfaga.** A 11 fps con RAW comprimido sin pérdida, la cámara genera del
 orden de **300 MB/s**: ninguna tarjeta del mundo sigue ese ritmo. Por eso
 existe el búfer, y lo que decide la tarjeta es **cuánto tarda en vaciarlo**:

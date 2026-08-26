@@ -20,6 +20,8 @@ urgente y qué puede esperar.
 | ☑ | **Pera sopladora** para limpieza |
 | ☑ | **SSD** para las copias |
 | ☑ | **PhotoPills** instalada |
+| ☑ | **Toallas de microfibra** |
+| ☑ | **2 tarjetas SD** y **batería** — pero mira abajo: hay que comprobar cuáles |
 
 ## Prestado 🤝 — el 70-350, llega estos días
 
@@ -49,13 +51,57 @@ conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
 
 ## 🔴 Urgente — esta semana
 
+### Antes de comprar nada: mira tus dos tarjetas
+
+Tienes dos, pero **no todas las SD valen lo mismo en esta cámara**. Dale la
+vuelta a cada una y mira dos cosas:
+
+```
+   ┌──────────────┐            ┌──────────────┐
+   │ ▤▤▤▤▤▤▤▤▤▤▤▤ │            │ ▤▤▤▤▤▤▤▤▤▤▤▤ │
+   │              │            │ ▤▤▤▤▤▤▤▤▤▤▤▤ │  ← SEGUNDA fila
+   │   UNA fila   │            │   DOS filas  │
+   └──────────────┘            └──────────────┘
+        UHS-I                       UHS-II
+    (de respaldo)              (la buena, V60/V90)
+```
+
+1. **Los contactos dorados de la parte de atrás**: si hay **dos filas**, es
+   **UHS-II** — la buena. Si solo hay una, es UHS-I y en ráfaga te va a
+   frenar (18–22 s para vaciar el búfer, frente a 8–9 s).
+2. **Los símbolos de la cara impresa**: busca una **V con un número**
+   (`V30`, `V60`, `V90`) y la capacidad. También suele haber un **II** junto
+   al logotipo de SD: es la confirmación de lo anterior.
+
+Y ahora la decisión, según lo que veas:
+
+| Lo que ponen tus dos tarjetas | Qué te falta |
+|---|---|
+| **UHS-II V60 (o V90), 128 GB o más** | Solo **1 o 2 más**: ~50–180 € |
+| Una sí y otra no | **2 o 3 más** UHS-II V60: ~100–270 € |
+| **UHS-I / V30 / sin la segunda fila** | Las dos pasan a ser **respaldo de emergencia** y necesitas **3 o 4** UHS-II V60: ~150–360 € |
+
+**Por qué tres o cuatro y no dos**: sin portátil, **las tarjetas llenas son
+tu segunda copia** y no se formatean en todo el viaje. El cálculo es
+~250–350 GB solo de la Sony en la quincena.
+
+### Y la batería: cuenta cuántas tienes de verdad
+
+La a6700 viene con **una** NP-FZ100 en la caja. El plan del viaje pide
+**tres** en total: una para el día de safari, otra para la noche de astro y
+una de margen.
+
+| Tienes… | Compra |
+|---|---|
+| Solo la de la caja | **2 más** (~60–90 €) |
+| La de la caja + una de repuesto | **1 más** (~30–45 €) |
+| Tres o más | Nada ✅ |
+
+### El resto de lo urgente
+
 | ☐ | Qué | Precio | Por qué corre prisa |
 |---|---|---|---|
-| ☐ | **3–4 tarjetas SD UHS-II V60, 128 GB** | 50–90 € cada una | Sin portátil **son tu segunda copia** y no se formatean en todo el viaje. Y con una V30 barata el búfer tarda 18–22 s en vaciarse frente a 8–9 s |
-| ☐ | **2 baterías NP-FZ100** de repuesto | 60–90 € las dos (originales usadas o compatibles de marca) | Un día de safari más una noche de astro se come más de una |
-| ☐ | **Cargador doble USB** | 30–40 € | **La caja de la a6700 no trae cargador**: sin él, cargar te secuestra la cámara toda la noche |
-
-**Subtotal: ~240–400 €**
+| ☐ | **Cargador doble USB** | 30–40 € | **La caja de la a6700 no trae cargador**: sin él, cargar te secuestra la cámara toda la noche, y con tres baterías eso no se sostiene |
 
 ## 🟠 El resto del kit de copias — antes de octubre
 
@@ -78,10 +124,11 @@ cronométrala en tu salón, no en Okaukuejo.
 | ☐ | **Filtro protector 67 mm** para el 70-350 | 25–40 € | Es prestado y va a Etosha. **Para astro, quítalo** |
 | ☐ | **Anillo step-up 55→67** | ~8 € | Un solo juego de filtros para los dos objetivos |
 | ☐ | **2 adaptadores tipo D/M + regleta europea** | 15–20 € | Los enchufes de Namibia no son europeos; con regleta, un adaptador da para todos los cargadores |
-| ☐ | **Microfibras** (2–3) | 8–12 € | Ya tienes la pera; faltan los paños |
 | ☐ | **Cinta de carrocero o gaffer** | 3–5 € | Para fijar el anillo de enfoque en astro. Suena a broma y es el truco más útil de la noche |
 
-**Subtotal: ~60–85 €**
+**Subtotal: ~50–75 €**
+
+> **Sobre las microfibras que ya tienes**: para el cuerpo, la pantalla y secar, una toalla de microfibra normal va perfecta. Para el **cristal frontal**, en cambio, conviene un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Si las tuyas son de las grandes de secar, reserva una esquina limpia solo para lentes, o añade dos paños de óptica por 5–8 €. El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
 
 ## 🟢 Opcional
 
@@ -111,16 +158,17 @@ cronométrala en tu salón, no en Okaukuejo.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 Tarjetas, baterías y cargador | **240–400 €** | Ya |
+| 🔴 Tarjetas (según cuáles tengas), baterías y cargador | **80–400 €** | Ya |
 | 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
-| 🟡 Filtro, anillo, enchufes, paños, cinta | **60–85 €** | Septiembre |
+| 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Septiembre |
 | 🟢 Opcional | 235–435 € | Si sobra |
-| | **Total sin opcionales: ~355–575 €** | |
+| | **Total sin opcionales: ~185–565 €** — depende de qué tarjetas resulten ser las tuyas | |
 
 Con el tele prestado y el trípode, el bean bag, el frontal, el power bank y
-el SSD ya en casa, **el viaje se queda en un tercio de lo que costaría
-partiendo de cero**. Lo que queda por comprar es casi todo consumible y
-conectores.
+el SSD ya en casa, **el viaje se queda entre un séptimo y un tercio de lo que
+costaría partiendo de cero**. Lo que queda por comprar es casi todo
+consumible y conectores — y la horquilla la decide una sola cosa: **si tus
+dos tarjetas son UHS-II o no**.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
 o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
