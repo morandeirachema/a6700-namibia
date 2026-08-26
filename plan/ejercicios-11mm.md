@@ -83,6 +83,10 @@ entrena ya.
 
 ## Lo que NO puedes practicar todavía
 
+Lo que falta por comprar, con precios y en qué orden pedirlo, está en
+[la lista de la compra](lista-de-la-compra.md). El **70-350 es lo urgente**:
+bloquea las semanas 3 a 5 del calendario.
+
 Y qué hacer mientras, para que el día que llegue el tele no pierdas tiempo:
 
 | Necesita el 70-350 | Mientras tanto |

@@ -46,6 +46,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | [El histograma por escenario](referencia/histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado |
 | [Las apps del viaje](referencia/apps-del-viaje.md) | PhotoPills, Stellarium, Creators' App y mapas offline, paso a paso |
 | [El Pixel 10 Pro](tecnica/pixel-10-pro.md) | Qué le pides al móvil para que no duplique lo que hace la Sony |
+| 🛒 [**La lista de la compra**](plan/lista-de-la-compra.md) | Qué hay ya en casa, qué falta, cuánto cuesta y en qué orden pedirlo — con casillas y totales |
 | [**Qué practicar ya, con el 11 mm**](plan/ejercicios-11mm.md) | 27 ejercicios que no necesitan el teleobjetivo: la cámara, el histograma, la hiperfocal, la noche entera y el vídeo |
 | [El plan de entrenamiento](plan/plan-de-entrenamiento.md) | Las 11 semanas hasta el avión, convertidas en calendario |
 
@@ -158,6 +159,7 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 
 ## 🧭 ¿Por dónde empiezo?
 
+- 🛒 *¿Qué me falta por comprar?* → [la lista de la compra](plan/lista-de-la-compra.md), por urgencia y con precios.
 - 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
 - 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md).

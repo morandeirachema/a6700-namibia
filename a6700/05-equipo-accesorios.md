@@ -16,6 +16,10 @@ un 20–40 %.
 (~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
 1.600–1.800 € comprando las dos ópticas de segunda mano en mpb.
 
+> **Estado a 26 de agosto de 2026**: el cuerpo y el **11 mm** ya están en
+> casa; el **70-350** y los accesorios, no. Qué falta exactamente, con
+> precios, urgencias y casillas: [la lista de la compra](../plan/lista-de-la-compra.md).
+
 ## El cuerpo: Sony a6700
 
 **~1.000–1.200 € nueva** (salió a 1.700 € en 2023 y hoy se ve bastante por
