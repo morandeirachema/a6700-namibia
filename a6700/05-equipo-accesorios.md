@@ -16,9 +16,13 @@ un 20–40 %.
 (~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
 1.600–1.800 € comprando las dos ópticas de segunda mano en mpb.
 
-> **Estado a 26 de agosto de 2026**: el cuerpo y el **11 mm** ya están en
-> casa; el **70-350** y los accesorios, no. Qué falta exactamente, con
-> precios, urgencias y casillas: [la lista de la compra](../plan/lista-de-la-compra.md).
+> **Estado a 26 de agosto de 2026**: el cuerpo, el **11 mm**, el trípode, el
+> bean bag, el frontal, el power bank y el SSD ya están en casa, y el
+> **70-350 llega prestado** estos días. Lo que queda por comprar —tarjetas,
+> baterías, cargador, lector, hub y cable— está en
+> [la lista de la compra](../plan/lista-de-la-compra.md), con precios y
+> urgencias. Las secciones de abajo explican **por qué** se eligió cada
+> cosa; siguen valiendo como referencia aunque ya no haya que comprarla.
 
 ## El cuerpo: Sony a6700
 

@@ -168,8 +168,11 @@ Rutina diaria de 5 minutos que salva el equipo:
    una bolsa de basura resistente con un agujero para el objetivo) por si una
    tormenta te pilla en el mirador — las de la tarde descargan fuerte y corto.
 7. **Seguro**: comprueba antes de salir que tu seguro de viaje cubre el
-   equipo por su valor real — el kit nuevo lo vale. Ten a mano facturas y
-   números de serie por si hay que reclamar.
+   equipo por su valor real — el kit lo vale. Ten a mano facturas y números
+   de serie por si hay que reclamar. **Y si llevas material prestado**
+   (el 70-350 lo es), comprueba expresamente que la póliza cubre equipo que
+   no está a tu nombre: muchas solo cubren lo propio, y ahí te juegas
+   700–900 € que además son de otra persona.
 
 ## Seguridad nocturna (importa para el plan fotográfico)
 

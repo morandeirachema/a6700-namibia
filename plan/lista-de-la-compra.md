@@ -11,78 +11,86 @@ urgente y qué puede esperar.
 
 ## Ya está en casa ✅
 
-| ☑ | Qué | Aprox. |
-|---|---|---|
-| ☑ | **Sony a6700** (cuerpo) | 1.000–1.200 € nueva · 800–950 € usada |
-| ☑ | **Sony E 11mm F1.8** (SEL11F18) | 400–550 € nuevo · 330–420 € usado |
-| ☑ | **Pixel 10 Pro** (segunda cámara) | — |
+| ☑ | Qué |
+|---|---|
+| ☑ | **Sony a6700** (cuerpo) |
+| ☑ | **Sony E 11mm F1.8** (SEL11F18) |
+| ☑ | **Pixel 10 Pro** (segunda cámara) |
+| ☑ | **Trípode** · **bean bag** · **frontal** · **power bank** |
+| ☑ | **Pera sopladora** para limpieza |
+| ☑ | **SSD** para las copias |
+| ☑ | **PhotoPills** instalada |
 
-Con esto ya puedes hacer **27 de los ejercicios del repo**: la cámara
-entera, la exposición, la hiperfocal, **toda la astrofotografía** y el vídeo
-([ejercicios del 11 mm](ejercicios-11mm.md)).
+## Prestado 🤝 — el 70-350, llega estos días
+
+El teleobjetivo del safari **te lo prestan**. Eso cambia tres cosas, y
+conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
+
+- **La prueba de aceptación se hace igual, pero sirve para otra cosa.** No
+  vas a devolverlo: la haces para **conocer sus defectos y decidir con
+  tiempo**. Si resulta que ese ejemplar está blando a 350 mm o el AF baila,
+  no es una tragedia — es información: encuadras a 300 mm y recortas, o
+  buscas alternativa mientras hay margen. Hazla **el día que llegue**, no en
+  Windhoek ([verificación, §2](../a6700/verificacion-in-situ.md)).
+- **Es de otro, y va a un sitio con polvo.** El **filtro protector** deja de
+  ser opcional y pasa a ser obligatorio, y la [limpieza en
+  campo](../campo/limpieza-en-campo.md) también. Devuélvelo como te lo
+  dieron.
+- **Tres cosas que hay que hablar con su dueño**, no dar por hechas:
+  1. Que **el préstamo cubre las fechas del viaje enteras** (30 oct–15 nov),
+     no solo "unos días".
+  2. Que tu **seguro cubre material prestado** — muchos seguros de viaje
+     solo cubren equipo propio, y este objetivo vale 700–900 €
+     ([logística](../campo/logistica-viaje.md)).
+  3. Si te deja **actualizarle el firmware**. Es buena idea y es reversible
+     en la práctica, pero se pregunta antes de tocar el aparato de nadie.
 
 ---
 
-## 🔴 Urgente — esta semana o la que viene
-
-Lo que **bloquea el calendario de entrenamiento** si no llega a tiempo.
+## 🔴 Urgente — esta semana
 
 | ☐ | Qué | Precio | Por qué corre prisa |
 |---|---|---|---|
-| ☐ | **Sony E 70-350mm F4.5-6.3 G OSS** | ~700–900 € nuevo · ~550–700 € usado en [mpb](https://www.mpb.com/) | Es **el objetivo del safari**. La semana 3 del [plan](plan-de-entrenamiento.md) es la prueba de aceptación y la semana 3–5 el entrenamiento de AF-C, que es LA habilidad del viaje. Cada semana que tarde es una semana menos de puntería |
-| ☐ | **3–4 tarjetas SD UHS-II V60, 128 GB** | 50–90 € cada una | Sin portátil, **son tu segunda copia** y no se formatean en todo el viaje. Con una V30 barata el búfer tarda 18–22 s en vaciarse frente a 8–9 s |
-| ☐ | **2 baterías NP-FZ100** de repuesto | 60–90 € las dos (originales usadas o compatibles de marca) | Un día de safari + noche de astro se come más de una |
-| ☐ | **Cargador doble USB** | 30–40 € | **La caja de la a6700 no trae cargador**. Sin él, cargar secuestra la cámara |
+| ☐ | **3–4 tarjetas SD UHS-II V60, 128 GB** | 50–90 € cada una | Sin portátil **son tu segunda copia** y no se formatean en todo el viaje. Y con una V30 barata el búfer tarda 18–22 s en vaciarse frente a 8–9 s |
+| ☐ | **2 baterías NP-FZ100** de repuesto | 60–90 € las dos (originales usadas o compatibles de marca) | Un día de safari más una noche de astro se come más de una |
+| ☐ | **Cargador doble USB** | 30–40 € | **La caja de la a6700 no trae cargador**: sin él, cargar te secuestra la cámara toda la noche |
 
-**Subtotal urgente: ~1.000–1.350 €**
+**Subtotal: ~240–400 €**
 
----
+## 🟠 El resto del kit de copias — antes de octubre
 
-## 🟠 El kit de copias — antes de octubre
-
-Va aparte porque es una decisión de sistema, no accesorios sueltos: **no
-llevas portátil**, así que el volcado lo hace el Pixel
-([logística](../campo/logistica-viaje.md)).
+Ya tienes el SSD; faltan las tres piezas que lo conectan al móvil, porque
+**el volcado nocturno lo hace el Pixel** ([logística](../campo/logistica-viaje.md)).
 
 | ☐ | Qué | Precio | Nota |
 |---|---|---|---|
-| ☐ | **SSD portátil 1 TB USB-C** (Samsung T7, SanDisk Extreme) | 110–150 € | Los precios de memoria **suben en 2026**: no lo dejes para octubre |
-| ☐ | **Lector de tarjetas UHS-II USB-C** | 25–40 € | Un lector UHS-I barato es 3–4 veces más lento: alarga cada volcado nocturno |
-| ☐ | **Hub USB-C con entrada de carga (PD)** | 20–35 € | La pieza clave: lector + SSD + power bank colgando del móvil a la vez |
-| ☐ | **Cable USB-C de datos** | 8–12 € | Muchos cables de carga **no llevan datos**. Compruébalo en casa |
+| ☐ | **Lector de tarjetas UHS-II USB-C** | 25–40 € | Un lector UHS-I barato es 3–4 veces más lento y alarga cada volcado |
+| ☐ | **Hub USB-C con entrada de carga (PD)** | 20–35 € | Lector + SSD + power bank colgando del móvil **a la vez** |
+| ☐ | **Cable USB-C de datos** | 8–12 € | Muchos cables de carga **no llevan datos**: compruébalo en casa |
 
-**Subtotal: ~170–235 €** · Y en cuanto llegue, el ejercicio: montar la cadena
-entera y cronometrarla en tu salón, no en Okaukuejo.
+**Subtotal: ~55–90 €** · Y en cuanto lleguen, monta la cadena entera y
+cronométrala en tu salón, no en Okaukuejo.
 
----
-
-## 🟡 Importante — durante septiembre
+## 🟡 Menudencias — durante septiembre
 
 | ☐ | Qué | Precio | Para qué |
 |---|---|---|---|
-| ☐ | **Trípode de viaje estable** | 100–150 € (K&F Concept, Manfrotto Element) | Imprescindible para astro y charca nocturna. Si ya tienes uno decente, sáltalo |
-| ☐ | **Bean bag** (vacío, se rellena allí) | 15–25 € | El "trípode" del safari desde la ventanilla. O te lo haces con una funda y arroz |
-| ☐ | **Frontal con luz roja** | 15–25 € | Visión nocturna en el mirador y en astro. La luz blanca está mal vista y te ciega 20 minutos |
+| ☐ | **Filtro protector 67 mm** para el 70-350 | 25–40 € | Es prestado y va a Etosha. **Para astro, quítalo** |
 | ☐ | **Anillo step-up 55→67** | ~8 € | Un solo juego de filtros para los dos objetivos |
-| ☐ | **Filtro protector** para el objetivo que lleves puesto | 25–40 € | Contra el polvo de Etosha. **Para astro, quítalo** |
-| ☐ | **Pera sopladora + microfibras** | 15–25 € | El kit de limpieza mínimo ([limpieza](../campo/limpieza-en-campo.md)) |
-| ☐ | **Power bank** (si no tienes uno grande) | 30–50 € | Carga el móvil mientras hace de ordenador, y revive la cámara por USB-C |
-| ☐ | **2 adaptadores tipo D/M + regleta europea** | 15–20 € | Los enchufes de Namibia no son europeos; con regleta, un adaptador sirve para todo |
+| ☐ | **2 adaptadores tipo D/M + regleta europea** | 15–20 € | Los enchufes de Namibia no son europeos; con regleta, un adaptador da para todos los cargadores |
+| ☐ | **Microfibras** (2–3) | 8–12 € | Ya tienes la pera; faltan los paños |
+| ☐ | **Cinta de carrocero o gaffer** | 3–5 € | Para fijar el anillo de enfoque en astro. Suena a broma y es el truco más útil de la noche |
 
-**Subtotal: ~230–340 €**
+**Subtotal: ~60–85 €**
 
----
-
-## 🟢 Opcional — solo si sobra presupuesto
+## 🟢 Opcional
 
 | ☐ | Qué | Precio | Merece la pena si… |
 |---|---|---|---|
 | ☐ | Una tarjeta **V90** | 120–180 € | Vas a grabar **cámara lenta** (S&Q 4K120): sin V90 la cámara ni te deja |
-| ☐ | **Filtro ND1000** | 25–40 € | Quieres larga exposición diurna en la costa |
-| ☐ | **Polarizador** (solo para el tele) | 20–30 € | En el 11 mm oscurece el cielo a trozos: no lo uses ahí |
+| ☐ | **Prismáticos** | 80–200 € | Encontrar antes al animal rinde más de lo que parece |
+| ☐ | **Filtro ND1000** | 25–40 € | Larga exposición diurna en la costa |
 | ☐ | **Peluche antiviento** para el micro | 10–15 € | El viento del Namib se come el audio y no hay arreglo en edición |
-| ☐ | **Prismáticos** | 80–200 € | Encontrar antes al animal es más útil de lo que parece |
-| ☐ | **Mini trípode** para el Pixel | 20–30 € | Timelapses del móvil sin buscar piedras |
 
 ---
 
@@ -91,10 +99,10 @@ entera y cronometrarla en tu salón, no en Okaukuejo.
 | ✗ | Por qué |
 |---|---|
 | **Intervalómetro de cable** | Va **integrado** en la cámara (`Func. capt. interv.`) |
-| **Teleconvertidor** | No hay uno nativo para este zoom, y a f/6.3 mataría el AF |
-| **Filtros "para astro"** | Con cielo Bortle 1–2 no hacen falta: no hay contaminación que filtrar |
+| **Teleconvertidor** | No hay nativo para este zoom, y a f/6.3 mataría el AF |
+| **Filtros "para astro"** | Con cielo Bortle 1–2 no hay contaminación que filtrar |
 | **Un segundo cuerpo** | El Pixel ya es tu segunda cámara |
-| **Drone** | **Prohibido en Etosha** y en los parques nacionales ([logística](../campo/logistica-viaje.md)) |
+| **Drone** | **Prohibido en Etosha** y en los parques nacionales |
 | **Objetivo macro** | El macro del viaje lo hace el móvil, a 3 cm |
 
 ---
@@ -103,17 +111,20 @@ entera y cronometrarla en tu salón, no en Okaukuejo.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 Urgente (tele, tarjetas, baterías, cargador) | **1.000–1.350 €** | Ya |
-| 🟠 Kit de copias | **170–235 €** | Antes de octubre |
-| 🟡 Importante | **230–340 €** | Durante septiembre |
-| 🟢 Opcional | 300–500 € | Si sobra |
-| | **Total sin opcionales: ~1.400–1.925 €** | |
+| 🔴 Tarjetas, baterías y cargador | **240–400 €** | Ya |
+| 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
+| 🟡 Filtro, anillo, enchufes, paños, cinta | **60–85 €** | Septiembre |
+| 🟢 Opcional | 235–435 € | Si sobra |
+| | **Total sin opcionales: ~355–575 €** | |
 
-**Dónde comprar de segunda mano**: [mpb.com](https://www.mpb.com/) tiene
-garantía y estado tasado; para el tele y para las baterías originales es
-donde más se ahorra. Y **la prueba de aceptación del 70-350 se hace el día
-que llega, dentro del plazo de devolución**
-([verificación, §2](../a6700/verificacion-in-situ.md)).
+Con el tele prestado y el trípode, el bean bag, el frontal, el power bank y
+el SSD ya en casa, **el viaje se queda en un tercio de lo que costaría
+partiendo de cero**. Lo que queda por comprar es casi todo consumible y
+conectores.
+
+**Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
+o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
+único sitio donde ahorrar sale caro.
 
 ## Referencias
 

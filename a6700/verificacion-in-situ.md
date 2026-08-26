@@ -40,8 +40,11 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 
 ## 2 · El día que llegue el tele (20 min, una sola vez)
 
-Prueba de aceptación del 70-350 (nuevo o usado) — dentro del plazo de
-devolución:
+Prueba de aceptación del 70-350 (nuevo, usado **o prestado**). Si lo has
+comprado, se hace dentro del plazo de devolución; si **te lo prestan**, se
+hace igual pero para otra cosa: **conocer sus defectos con tiempo** y decidir
+cómo trabajar con ellos (encuadrar a 300 mm y recortar, evitar f/6.3 a tope…)
+en lugar de descubrirlos en Etosha:
 
 - [ ] Zoom y anillos giran suaves en todo el recorrido; sin arenilla ni
   holguras.
@@ -61,7 +64,12 @@ devolución:
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara
-  (<https://www.sony.es/electronics/support>, busca "SEL70350G").
+  (<https://www.sony.es/electronics/support>, busca "SEL70350G"). *Si es
+  prestado, pregúntaselo antes a su dueño.*
+- [ ] **Si es prestado**: fotografía el objetivo por todos lados **antes de
+  usarlo** (marcas, rozaduras, el estado del cristal). Cinco minutos que
+  evitan una conversación incómoda a la vuelta. Y ponle **filtro
+  protector**: va a Etosha.
 
 Y el mismo repaso, más corto, **el día que llegue el 11 mm**: anillos
 suaves, cristal limpio a contraluz, una foto a f/8 a un edificio lejano
