@@ -132,7 +132,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
    30 s a oscuras y los arcos saldrán cortados), enfoque a las estrellas como
    siempre.
 3. Encadenar las tomas, con el **intervalómetro integrado**
-   (`Interval Shoot Func.`): exposición 30 s, intervalo de disparo 31 s (el
+   (`Func. capt. interv.`): exposición 30 s, intervalo de disparo 31 s (el
    hueco de 1 s no se nota; StarStaX además trae `Gap filling`), número de
    tomas 90–180.
 4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
@@ -153,7 +153,7 @@ limpio a ISO 1600–3200 — el paso a paso está en la
 
 Dos caminos para el cielo en movimiento, ya montados en la cámara:
 
-- **Fotos por intervalos** (`Interval Shoot Func.`, hasta 9999 tomas): la vía
+- **Fotos por intervalos** (`Func. capt. interv.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
   en casa ([edición](../campo/edicion-basica.md)). Es la de las recetas de
   este capítulo.

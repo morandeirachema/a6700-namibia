@@ -105,7 +105,7 @@ paso hace de router wifi para ver los archivos desde el móvil.
 
 | Cámara | Lo que ocupa | El día/sesión tipo | Qué llevar |
 |---|---|---|---|
-| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | SD UHS-II (V60) de 128 GB ×2 mínimo — y no se reutilizan hasta volcar: la ranura es única |
+| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | SD UHS-II (V60) de 128 GB, **3 o 4** — sin portátil no se reutilizan ni se formatean: son tu segunda copia |
 | **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ya cubierto por las SD de arriba |
 | **a6700 (vídeo)** | 4K 25p a 100 Mbps ≈ **45 GB/hora** (unos 750 MB por minuto) | El vídeo entero son minutos, no horas: 60–90 clips de 10 s ≈ 8–12 GB en todo el viaje | Cabe de sobra en las SD de arriba; vuélcalo con las fotos |
 | **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | Memoria libre en el móvil antes de volar + copia al SSD cada 2–3 noches |

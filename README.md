@@ -142,7 +142,10 @@ método completo —la criba de tres, las causas de una palabra— está en
 | 🎯 [Lista de tomas](plan/lista-de-tomas.md) | Las 12 fotos con las que hay que volver — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 | 🎥 [Chuleta de vídeo](tecnica/chuleta-video.md) | Los ajustes, el guion de 3 minutos y las 17 tomas para marcar | [PDF](pdf/chuleta-video.pdf) |
 
-Los PDF están maquetados para A4 (las chuletas caben en una cara cada una) y se regeneran desde el Markdown.
+Los PDF están maquetados para A4 — **las dos chuletas caben en una sola cara** — y se
+regeneran desde el Markdown con `./pdf/generar.sh` (necesita `pandoc` y Chrome;
+el estilo vive en `pdf/estilo.css` y `pdf/compacto.css`). **Al editar una hoja,
+regenera su PDF**: `./pdf/generar.sh chuleta`.
 
 ## 🧭 ¿Por dónde empiezo?
 

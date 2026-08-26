@@ -22,7 +22,7 @@ quieto **1/500** · caminando **1/1000** · corriendo/agua **1/2000** · aves en
 
 A pulso, nunca por debajo de ~1/focal equivalente (zoom a tope = 525 mm eq → **1/500**); la tabla asume bean bag o apoyo.
 
-## Balance de blancos por escena (detalle: referencia/balance-de-blancos.md)
+## Balance de blancos por escena
 
 día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atardecer **fijo 5200, nunca AWB** (mata el dorado) · charca focos **K 2800–4000 por prueba** · game drive **~3400** · astro **3900** · Olifantsrus rojo: da igual, será mono
 
@@ -30,7 +30,7 @@ día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atarde
 
 **Pixel apoyado y disparando su astro** (4 min por foto, otra dirección, con silueta) · **20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 9**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes)
 
-## Histograma (detalle: referencia/histograma.md) — en vivo con DISP; míralo tras CADA cambio de luz
+## Histograma — en vivo con DISP; míralo tras CADA cambio de luz
 
 safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho sin tocar bordes · charca: masa a la izquierda (ok) + joroba del animal sin tocar derecha · astro: montaña en el primer tercio, despegada del borde izquierdo
 

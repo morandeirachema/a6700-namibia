@@ -272,6 +272,6 @@ que más vas a usar.
 - Difracción y límite del sensor, con calculadora: <https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm>
 - Profundidad de campo e hiperfocal, con calculadora: <https://www.dofmaster.com/dofjs.html>
 - Curvas de ruido de lectura y rango dinámico medidos, cámara a cámara (Photons to Photos): <https://www.photonstophotos.net/>
-- Prueba de invarianza ISO de la a6700 hecha por usuarios (foro DPReview): <https://www.dpreview.com/forums/threads/4740029>
+- Prueba de invarianza ISO de la a6700 hecha por usuarios (foro DPReview): <https://www.dpreview.com/forums/threads/a6700-iso-invariance-test.4740029/>
 - Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Ficha oficial del Sony E 11mm F1.8: <https://www.sony.es/lenses/products/sel11f18>

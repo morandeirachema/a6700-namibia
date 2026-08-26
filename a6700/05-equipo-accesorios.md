@@ -186,7 +186,7 @@ guárdalas como respaldo de emergencia — funcionan, simplemente te frenan.
   adaptador da servicio a todos los cargadores a la vez
   ([logística](../campo/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
-  (`Interval Shoot Func.`) — un cable menos que comprar y que perder.
+  (`Func. capt. interv.`) — un cable menos que comprar y que perder.
 - **Trípode**: uno de viaje estable es suficiente (K&F Concept, Manfrotto
   Element, ~100–150 €). Imprescindible para astro y charca nocturna.
 - **Bean bag — qué es**: un saco de tela con cremallera relleno de legumbres

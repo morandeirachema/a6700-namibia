@@ -1,0 +1,11 @@
+/* Override para las dos chuletas: tienen que caber en UNA cara de A4 */
+@page { margin: 8mm 9mm; }
+body { font-size: 8.0pt; line-height: 1.22; }
+h1 { font-size: 12.5pt; margin: 0 0 3pt; padding-bottom: 2pt; }
+h2 { font-size: 9.2pt; margin: 5.5pt 0 2pt; padding: 1.5pt 3pt; }
+h3 { font-size: 8.4pt; margin: 4pt 0 1pt; }
+p, ul, ol { margin: 2pt 0; }
+li { margin: 0.5pt 0; }
+table { font-size: 7.3pt; margin: 2.5pt 0 4pt; }
+th, td { padding: 1.6pt 3pt; }
+code { font-size: 7.2pt; }

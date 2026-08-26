@@ -25,7 +25,7 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 - **Frontal de luz roja** (no arruina la visión nocturna) y un trozo de
   **cinta adhesiva**.
 - Para la noche 3, nada más: el **intervalómetro va integrado** en la cámara
-  (`Interval Shoot Func.`) — no hay cable que comprar.
+  (`Func. capt. interv.`) — no hay cable que comprar.
 - Batería llena. Siempre.
 
 **Ajustes que se ponen una vez** (y se quedan): calidad **RAW** ·
@@ -251,11 +251,11 @@ Y la dirección decide el dibujo:
 | WB | K = 3900 |
 | Reducción ruido larga exposición | **OFF** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
 | Enfoque | A estrella, como siempre, y cinta |
-| La serie | **`Interval Shoot Func.`**: exposición 30 s · intervalo de disparo 31 s · 90–180 tomas |
+| La serie | **`Func. capt. interv.`**: exposición 30 s · intervalo de disparo 31 s · 90–180 tomas |
 
 1. **La primera toma es sagrada**: revísala a fondo (encuadre, nivel,
    histograma) — será la base del suelo en el montaje.
-2. **Lanza la serie**: en `Interval Shoot Func.` el intervalo se mide de
+2. **Lanza la serie**: en `Func. capt. interv.` el intervalo se mide de
    inicio a inicio, así que 31 s deja solo 1 s de hueco entre fotos (no se
    nota; StarStaX además trae `Gap filling`). Pulsa el disparador y la
    cámara encadena sola las 90–180 tomas.

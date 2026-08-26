@@ -98,7 +98,7 @@ el anochecer ya es sin luna.)
   prueba definitiva, 4 minutos de Bulb para ver el centro de los arcos, está
   en [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 - **Receta**: 30 s · f/2.8 · ISO 800–1600, 90–180 tomas encadenadas con el
-  **intervalómetro integrado** (`Interval Shoot Func.`), NR de larga
+  **intervalómetro integrado** (`Func. capt. interv.`), NR de larga
   exposición OFF ([capítulo 2](../a6700/02-astrofotografia-namibia.md));
   apilado en StarStaX ([edición](../campo/edicion-basica.md)). Componer el remolino
   sobre un objeto — dirección, margen, la tierra durante la serie — está a
@@ -159,7 +159,7 @@ Tu foto en movimiento, por dos vías (de menos a más esfuerzo):
 1. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
    móvil quieto sobre una piedra, cuatro minutos y listo
    ([su guía](../tecnica/pixel-10-pro.md)). Es la vía "pon y olvida" de este viaje.
-2. **La a6700 con su intervalómetro integrado** (`Interval Shoot Func.`),
+2. **La a6700 con su intervalómetro integrado** (`Func. capt. interv.`),
    la versión de máxima calidad — sin cable que comprar, viene de serie:
    15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
    [capítulo 2](../a6700/02-astrofotografia-namibia.md), montaje en
