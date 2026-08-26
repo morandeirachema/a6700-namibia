@@ -74,6 +74,11 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
 | **AF con disparador** | `Enfoque → [AF/MF] → [AF con disparador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
+| **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
+| **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **Regla de tres** | Es la que se corresponde con los encuadres del atlas |
+| **Rev.automática** | `Ajustes → [Opción de visual.] → [Rev.automática]` | **Desactivar** | Te tapa el visor justo cuando la escena sigue pasando |
+| **Aj. DISP (vis. pant.)** | `Ajustes → [Personal. operac.] → [Aj. DISP (vis. pant.)]` | Deja solo **toda info. · histograma · nivel** | Menos pulsaciones de DISP en el campo |
+| **Valoración** | `Reproducc. → [Selección/nota] → [Valoración]` | A un botón, en reproducción | Marcar las 3 del día en cámara; Lightroom lee las estrellas al importar |
 
 ---
 

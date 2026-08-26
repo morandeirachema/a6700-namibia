@@ -20,6 +20,10 @@ que hay delante, y se ejecuta.
 └──────────────────────────────┘
 ```
 
+> **Antes de nada, enciende la cuadrícula**: `Toma → [Visualizac. toma] →
+> [Vis. lín. cuadrícul.] → Activar`, en **regla de tres**. Es la diferencia
+> entre intuir el encuadre y verlo ([capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)).
+
 Y la regla que gobierna el atlas entero, del [safari a fondo](../mejora/safari-a-fondo.md):
 **la distancia media es la muerte**. O muy cerca, o muy lejos. El animal
 entero flotando en el centro es la foto de inventario, y es la que hace todo

@@ -183,6 +183,64 @@ Los dos que cambian el viaje:
 Los botones de retención de foco del 11 mm y del 70-350 también son
 reasignables desde aquí — a un novato le renta dejarlos como vienen.
 
+## La pantalla de toma: qué te enseña y qué añadirle
+
+El botón **DISP** (flecha superior de la rueda) va pasando por varias vistas
+de la pantalla. De fábrica hay más de las que necesitas, y en el campo eso es
+un problema: cada pulsación de más es un segundo perdido.
+
+**Elige tú cuáles aparecen** — y por separado para la pantalla y para el
+visor:
+
+```
+MENU → Ajustes → [Personal. operac.] → [Aj. DISP (vis. pant.)] → [Monitor] o [Visor]
+```
+
+Las opciones son `Mostrar toda info.`, `Sin información`, `Histograma`,
+`Nivel`, `Para el visor` y `Monitor desactiv.` Deja marcadas **solo estas
+tres** y el ciclo de DISP se vuelve útil:
+
+| Vista | Para qué |
+|---|---|
+| **Mostrar toda info.** | El día a día: ajustes, batería, disparos restantes |
+| **Histograma** | Tras cada cambio de luz. Es la que decide la exposición |
+| **Nivel** | Horizontes: dunas, el pan, el mar. Un grado de inclinación **se nota** |
+
+### La cuadrícula: la herramienta de encuadre que nadie activa
+
+Viene desactivada de fábrica y es lo más útil que puedes encender hoy:
+
+```
+MENU → Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.] → Activar
+MENU → Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]
+```
+
+Con la **regla de tres** dibujada encima, dos cosas dejan de fallar:
+
+- **El aire de la mirada**: ves de un vistazo si el animal está en un tercio
+  o centrado como una foto de carnet ([atlas de encuadres](../tecnica/atlas-de-encuadres.md)).
+- **El horizonte torcido**: en el pan de Etosha, en las dunas y en la costa,
+  medio grado canta. La cuadrícula lo caza antes de disparar; el **Nivel**
+  del DISP lo remata.
+
+Y si te estorba en algún momento, se puede asignar a un botón para
+encenderla y apagarla sin entrar al menú
+(`Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`).
+
+### La revisión automática: apágala
+
+De fábrica, después de cada disparo la cámara te enseña la foto unos
+segundos. Suena bien y es un estorbo: **te tapa el visor justo cuando la
+escena sigue pasando**, y con ráfagas es directamente insufrible.
+
+```
+MENU → Ajustes → [Opción de visual.] → [Rev.automática] → Desactivar
+```
+
+Tú revisas **cuando tú decides**, con ▶, que es el siguiente apartado. En
+paisaje o astro, donde no hay prisa, puedes dejarla en 2 segundos si te gusta
+— pero en MR1, apagada.
+
 ## Reproducción: revisar como es debido
 
 Aquí está el gesto que este repo te pide una y otra vez ("verifica al
@@ -205,6 +263,33 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
 
 Si quieres que empiece más ampliada, `MENU → Reproducción → [Ampliación]`
 tiene el aumento y la posición iniciales.
+
+### Marca las buenas en la propia cámara
+
+Esto conecta la revisión de cada noche con el revelado de dentro de un mes, y
+casi nadie lo usa: la a6700 puede **poner estrellas a las fotos**, y esa
+valoración viaja dentro del archivo.
+
+```
+MENU → Reproducc. → [Selección/nota] → [Valoración]
+```
+
+Mejor todavía: asigna la valoración a un **botón personalizado** y cada
+pulsación va subiendo estrellas mientras revisas
+(`Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`, en el apartado de
+reproducción).
+
+**Para qué sirve de verdad**: el repaso de cada noche te pide elegir **las
+tres mejores del día** ([la mirada](../mejora/la-mirada.md)). Si además les
+pones tres estrellas ahí mismo, al importar en casa las tienes ya
+localizadas entre cuatro mil archivos — Lightroom y darktable leen la
+valoración de los RAW de Sony al importar (compruébalo con un par de
+archivos la primera vez). Sin eso, el criterio que tenías en Etosha se pierde
+por el camino.
+
+**Proteger** (`Reproducc. → [Selección/nota] → [Proteger]`) hace lo contrario
+de borrar: blinda una foto contra un borrado accidental. Útil para las dos o
+tres irrepetibles del viaje.
 
 **Borrar**: **C3** es la papelera en reproducción. La regla del viaje es
 **no borrar nada en la cámara** — se criba en el ordenador, donde se ve de

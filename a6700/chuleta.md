@@ -14,7 +14,7 @@
 
 ## Rutina de 10 s al llegar a una escena
 
-MR1 → obturación según escena → ¿luz nueva? histograma en vivo (DISP) → ¿recuadro en el ojo de TU animal? (toca la pantalla si no) → ráfaga corta
+MR1 → obturación según escena → ¿luz nueva? histograma en vivo (DISP) → ¿recuadro en el ojo de TU animal? (toca la pantalla si no) → **¿tercios y horizonte?** (cuadrícula) → ráfaga corta
 
 ## Obturación por escena (safari)
 

@@ -23,6 +23,8 @@ dice **qué haces**, **cuándo está aprobado** y de qué guía sale.
 | ☐ 2 | **Las capturas de menú** siguiendo el [guion](../referencia/img/menus/) | Las doce ★ hechas y `insertar.py` ejecutado |
 | ☐ 3 | **Paseo por las ocho pestañas** del menú, sin buscar nada concreto | Sabes decir qué vive en Toma, en Exposición/color y en Enfoque sin mirar |
 | ☐ 4 | **Guía en la cámara** asignada a un botón, y **Mi Menú** con seis ajustes | MENU abre directamente en Mi Menú |
+| ☐ 4b | **La pantalla a tu gusto**: cuadrícula en regla de tres, `Rev.automática` en Desactivar y el ciclo de DISP reducido a tres vistas | Pulsas DISP tres veces y vuelves al principio |
+| ☐ 4c | **Valoración a un botón** en reproducción, y prueba a marcar con estrellas 3 fotos de una salida | Las estrellas aparecen al importarlas en el ordenador |
 
 ## Bloque 1 · La cámara en la mano (dos tardes)
 
