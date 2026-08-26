@@ -52,39 +52,38 @@ conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
 
 ## 🔴 Urgente — esta semana
 
-### Antes de comprar nada: mira tus dos tarjetas
+### Tus tarjetas: dos V60 de 128 GB ✅ … pero te faltan una o dos
 
-Tienes dos, pero **no todas las SD valen lo mismo en esta cámara**. Dale la
-vuelta a cada una y mira dos cosas:
+Buena noticia: **V60 significa UHS-II** en la práctica (compruébalo de un
+vistazo: dale la vuelta y mira que hay **dos filas** de contactos dorados).
+Son exactamente las tarjetas que quiere esta cámara — con ellas el búfer se
+vacía en 8–9 segundos en vez de los 18–22 de una UHS-I.
+
+El problema no es la velocidad: es **el espacio**, y sale de que no llevas
+portátil.
 
 ```
-   ┌──────────────┐            ┌──────────────┐
-   │ ▤▤▤▤▤▤▤▤▤▤▤▤ │            │ ▤▤▤▤▤▤▤▤▤▤▤▤ │
-   │              │            │ ▤▤▤▤▤▤▤▤▤▤▤▤ │  ← SEGUNDA fila
-   │   UNA fila   │            │   DOS filas  │
-   └──────────────┘            └──────────────┘
-        UHS-I                       UHS-II
-    (de respaldo)              (la buena, V60/V90)
+   Lo que vas a generar        Lo que tienes
+   ~250–350 GB (solo Sony)     2 × 128 = 256 GB
+   ├──────────────────────┤    ├─────────────┤
+                                             ↑ justo aquí se acaba
 ```
 
-1. **Los contactos dorados de la parte de atrás**: si hay **dos filas**, es
-   **UHS-II** — la buena. Si solo hay una, es UHS-I y en ráfaga te va a
-   frenar (18–22 s para vaciar el búfer, frente a 8–9 s).
-2. **Los símbolos de la cara impresa**: busca una **V con un número**
-   (`V30`, `V60`, `V90`) y la capacidad. También suele haber un **II** junto
-   al logotipo de SD: es la confirmación de lo anterior.
+Y como **las tarjetas llenas son tu segunda copia y no se formatean en todo
+el viaje**, quedarte justo significa exactamente una cosa: llegar al día 11 y
+tener que borrar una tarjeta ya volcada para seguir disparando. Que es lo
+único que el sistema de copias no permite.
 
-Y ahora la decisión, según lo que veas:
+| Compras | Total | Qué te deja |
+|---|---|---|
+| **+1 tarjeta V60 128 GB** | 384 GB · 50–90 € | El mínimo con el que se duerme tranquilo |
+| **+2 tarjetas V60 128 GB** | 512 GB · 100–180 € | Margen real, incluido vídeo de sobra y la torpeza de un día |
 
-| Lo que ponen tus dos tarjetas | Qué te falta |
-|---|---|
-| **UHS-II V60 (o V90), 128 GB o más** | Solo **1 o 2 más**: ~50–180 € |
-| Una sí y otra no | **2 o 3 más** UHS-II V60: ~100–270 € |
-| **UHS-I / V30 / sin la segunda fila** | Las dos pasan a ser **respaldo de emergencia** y necesitas **3 o 4** UHS-II V60: ~150–360 € |
+**Mi recomendación: dos.** La diferencia son 50–90 € en un viaje de dos
+semanas, y la alternativa es tomar decisiones de borrado en un campamento de
+Etosha a las once de la noche.
 
-**Por qué tres o cuatro y no dos**: sin portátil, **las tarjetas llenas son
-tu segunda copia** y no se formatean en todo el viaje. El cálculo es
-~250–350 GB solo de la Sony en la quincena.
+Y si aparecen baratas de **256 GB**, una sola te resuelve el margen entero.
 
 ### La batería y el cargador: resueltos ✅
 
@@ -167,17 +166,16 @@ cronométrala en tu salón, no en Okaukuejo.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 Tarjetas (según cuáles tengas) | **50–360 €** | Ya |
+| 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Ya |
 | 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
 | 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Septiembre |
 | 🟢 Opcional | 235–435 € | Si sobra |
-| | **Total sin opcionales: ~155–525 €** — y lo único que queda de verdad son **tarjetas y cuatro conectores** — depende de qué tarjetas resulten ser las tuyas | |
+| | **Total sin opcionales: ~155–345 €** — dos tarjetas y cuatro conectores, y se acabó | |
 
-Con el tele prestado y el trípode, el bean bag, el frontal, el power bank y
-el SSD ya en casa, **el viaje se queda entre un séptimo y un tercio de lo que
-costaría partiendo de cero**. Lo que queda por comprar es casi todo
-consumible y conectores — y la horquilla la decide una sola cosa: **si tus
-dos tarjetas son UHS-II o no**.
+Con el tele prestado y casi todo lo demás en casa, el viaje se queda en
+**menos de la quinta parte** de lo que costaría partiendo de cero. Lo que
+queda son dos tarjetas y cuatro conectores: **nada que tarde en llegar y nada
+que haya que pensar mucho**.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
 o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
