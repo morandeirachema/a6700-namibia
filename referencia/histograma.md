@@ -1,5 +1,7 @@
 # El histograma por escenario — chuleta visual
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: juzgar si una foto está bien expuesta sin fiarte de la pantalla.
+
 El histograma es la única medición fiable (la pantalla engaña al sol y de
 noche). Regla universal: **el borde derecho es sagrado** — lo que lo toca es
 blanco quemado irrecuperable; el izquierdo perdona más, porque el RAW levanta
@@ -34,7 +36,7 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
   negros, medios y blancos. Es el histograma "de libro".
 - Amanecer en Deadvlei o interior de Kolmanskop: si para no quemar la derecha
   tienes que empotrar la izquierda (no cabe todo), la escena supera al sensor
-  → **horquillado ±2 EV** ([guía de paisaje](paisaje-namibia.md)).
+  → **horquillado ±2 EV** ([guía de paisaje](../tecnica/paisaje-namibia.md)).
 - **Excepción deliberada — siluetas al atardecer**: pico pegado al borde
   izquierdo (las siluetas negras) + joroba a la derecha (el cielo). Aquí el
   amontonamiento a la izquierda no es un error, es la foto.
@@ -82,3 +84,18 @@ exposición real que va a salir (salvo de noche con exposiciones largas: ahí
 no acumula los segundos — fíate del de la revisión). Para lo quemado, activa
 el **Zebra 100+** (en el menú de exposición/color): rayas en vivo sobre lo
 que se quema — aquí la alarma no espera a la revisión.
+
+## Ejercicio (15 minutos, una vez)
+
+Cinco fotos de la **misma pared blanca** con compensación −2, −1, 0, +1, +2.
+Míralas con el histograma en pantalla y quédate con la imagen mental: la
+misma pared, la misma luz, y la montaña recorriendo el gráfico de izquierda a
+derecha. A partir de ahí el histograma deja de ser un adorno.
+
+Repítelo con algo **negro** (una chaqueta oscura): verás lo contrario — la
+cámara intenta hacerla gris, y hay que compensar **en negativo**.
+
+## Referencias
+
+- El porqué de todo esto (rango dinámico y ETTR): [por qué funciona](../mejora/por-que-funciona.md)
+- Guía de ayuda de la a6700 (histograma y Zebra): <https://helpguide.sony.net/ilc/2320/v1/es/>

@@ -1,5 +1,7 @@
 # Paisaje diurno en Namibia — dunas, Deadvlei, Kolmanskop y costa
 
+> 🔵 **Básico** · Da por sabido: el capítulo 1 · Te desbloquea: las dunas, Deadvlei y la costa, escena a escena.
+
 La mitad diurna del país que no es fauna. Esta guía da la foto correcta y el
 mapa de la ruta; el salto a la foto buena — luz rasante, profundidad con el
 11 mm, escala, líneas, color, panorámicas — está en
@@ -24,7 +26,7 @@ cielo de forma desigual en un angular de 16,5 mm eq. Si acaso, un filtro
 protector contra el polvo — ojo, las roscas **no** coinciden: 55 mm el
 angular y 67 mm el tele (el anillo step-up del
 [equipo](../a6700/05-equipo-accesorios.md) los iguala por 8 €;
-[limpieza](limpieza-en-campo.md)).
+[limpieza](../campo/limpieza-en-campo.md)).
 
 Composición mínima que funciona: algo interesante **delante** (una acacia,
 una cresta de duna, huellas), horizonte fuera del centro (arriba o abajo,
@@ -99,7 +101,7 @@ Los dos sujetos de tu viaje que se mueven despacio y lucen acelerados:
   piedra — para redes, sobra.
 
 El montaje del clip (ffmpeg o DaVinci) es el mismo que el del timelapse
-nocturno: [edición](edicion-basica.md).
+nocturno: [edición](../campo/edicion-basica.md).
 
 ## Las paradas de tu ruta que casi nadie fotografía (y tú sí)
 
@@ -107,15 +109,15 @@ nocturno: [edición](edicion-basica.md).
   del Namib — el mirador da atardecer y amanecer sin moverte del
   alojamiento. Con el **tele**, comprime las llanuras y las montañas en
   capas azuladas (receta de abstractos de duna de
-  [mejora · parte 2](../mejora/parte-2-avanzado.md)); con el angular, un
+  [paisaje a fondo](../mejora/paisaje-a-fondo.md)); con el angular, un
   primer plano de rocas y el vacío detrás. Y de noche, el estreno del
-  11 mm ([las noches, día a día](mejores-horas.md)).
+  11 mm ([las noches, día a día](../plan/mejores-horas.md)).
 - **De Swakopmund a Terrace Bay (días 5–7), la Costa de los Esqueletos**:
   - **Cape Cross**: decenas de miles de lobos marinos — llega preparado
     para el olor y el ruido. Receta de fauna diurna con tele, agáchate a su
     altura en la pasarela, y busca el caos gráfico: la colonia entera como
     textura a 600 mm. Esa noche toca limpieza por salitre
-    ([limpieza](limpieza-en-campo.md)).
+    ([limpieza](../campo/limpieza-en-campo.md)).
   - **El pecio Zeila** (junto a Henties Bay): el barco varado y oxidado con
     cormoranes encima. Con niebla es la foto: silueta gris sobre gris;
     con sol, mejor al atardecer y con las olas rompiendo (1/15 s apoyado
@@ -153,7 +155,7 @@ entrando por una esquina. Y con el móvil o la cámara en el salpicadero, un
 
 Ojo con dos cosas: la **grava suelta** (para en el arcén firme, no en mitad
 de la curva) y el **polvo del coche de delante**, que a contraluz es una foto
-preciosa y, en la lente, una noche de limpieza ([limpieza](limpieza-en-campo.md)).
+preciosa y, en la lente, una noche de limpieza ([limpieza](../campo/limpieza-en-campo.md)).
 
 Las distancias, los horarios de puertas y qué carretera toca cada día están
 calculados en el dossier del viaje:

@@ -1,5 +1,7 @@
 # El vídeo del viaje — 3 minutos, sin que nadie hable
 
+> 🔵 **Básico** · Da por sabido: el capítulo 1 (los cinco ajustes de vídeo) · Te desbloquea: volver con un vídeo de tres minutos que se deja ver.
+
 Del viaje sale **un solo vídeo de unos 3 minutos**, y se cuenta **sin voz**:
 imágenes, **sonido ambiente** y una canción. Es la forma más fácil de que un
 vídeo casero se vea bien — nadie tiene que ponerse delante de la cámara a
@@ -18,7 +20,7 @@ solo en los planos de fauna.
 > estructura; el **Pixel** pone los **timelapses** y lo que la Sony no puede
 > hacer (el coche en marcha, el agua, el polvo), con su lista corta en
 > [su guía](pixel-10-pro.md). Todo acaba en la misma línea de tiempo
-> ([edición](edicion-basica.md)).
+> ([edición](../campo/edicion-basica.md)).
 
 ## La receta rápida
 
@@ -128,7 +130,7 @@ monta en casa.
 | **6 · La noche** | 2:30–2:50 | La charca con foco, el cielo, el timelapse de estrellas |
 | **7 · El cierre** | 2:50–3:00 | Un plano largo y tranquilo: la carretera vacía, el ala del avión, la última luz |
 
-## Las 17 tomas (márcalas como la [lista de fotos](lista-de-tomas.md))
+## Las 17 tomas (márcalas como la [lista de fotos](../plan/lista-de-tomas.md))
 
 Todas con la receta de arriba salvo lo que diga la columna de ajuste.
 **Puedes salir tú** en varias — de espaldas, en silueta, solo las manos —
@@ -169,7 +171,7 @@ pero nadie habla. Los timelapses los pone el móvil
    viaje, es el hilo que sustituye a la voz.
 4. **30 segundos de ambiente** en cada sitio con sonido propio, aunque no
    grabes imagen que valga.
-5. **Por la noche**, en el volcado ([logística](logistica-viaje.md)): los
+5. **Por la noche**, en el volcado ([logística](../campo/logistica-viaje.md)): los
    clips a su carpeta del día y **borra los fallidos** — es la única
    excepción a la regla de no borrar nada, porque un clip de 4K fallido son
    gigas muertos.
@@ -192,13 +194,13 @@ pero nadie habla. Los timelapses los pone el móvil
 ## El entrenamiento (dos tardes, antes de volar)
 
 Va con el resto del calendario en el
-[plan de entrenamiento](plan-de-entrenamiento.md):
+[plan de entrenamiento](../plan/plan-de-entrenamiento.md):
 
 1. **Tarde de planos**: 20 clips de 5 segundos de cualquier cosa (el mercado,
    un parque), en parejas de ancho y detalle, con Active puesto para los que
    lleven movimiento. Y 30 segundos de ambiente de ese sitio.
 2. **Tarde de montaje**: móntalos esa noche en un clip de 40 segundos con
-   música en DaVinci ([edición](edicion-basica.md)). Si sabes hacer eso, el
+   música en DaVinci ([edición](../campo/edicion-basica.md)). Si sabes hacer eso, el
    vídeo del viaje ya está resuelto — lo demás es llenar la carpeta.
 
 > **Para el coche**: todo lo operativo de esta guía cabe en una hoja — la
@@ -211,4 +213,4 @@ Va con el resto del calendario en el
 - Review de la a6700 con las cifras de vídeo (4K60 a ancho casi completo, 4K120 con recorte 1,58x, límites de calor) — DPReview: <https://www.dpreview.com/reviews/sony-a6700-review/> · PetaPixel: <https://petapixel.com/2023/07/12/sony-a6700-review-definitely-worth-the-wait/>
 - Ajustes de vídeo de la a6700 explicados para principiantes: <https://thecamera.school/learn/hubs/cameras/sony/sony-a6700-video-settings-total-beginners>
 - Filtros ND variables (K&F Concept): <https://www.kentfaith.es/filtros-nd> · mini trípodes (Ulanzi): <https://www.ulanzi.com/>
-- El montaje, paso a paso: [edición básica](edicion-basica.md) · DaVinci Resolve <https://www.blackmagicdesign.com/products/davinciresolve>
+- El montaje, paso a paso: [edición básica](../campo/edicion-basica.md) · DaVinci Resolve <https://www.blackmagicdesign.com/products/davinciresolve>

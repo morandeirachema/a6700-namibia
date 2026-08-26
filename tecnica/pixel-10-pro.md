@@ -1,5 +1,7 @@
 # El Pixel 10 Pro — la segunda cámara (la que siempre llevas encima)
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: sacarle al móvil lo que la Sony no hace, en vez de duplicar fotos.
+
 La a6700 hace la foto seria y los planos buenos del vídeo
 ([su guía](video-del-viaje.md)); el Pixel 10 Pro es todo lo demás: la cámara
 que **ya está en tu bolsillo cuando pasa algo**, la que pone el **recurso y
@@ -82,7 +84,7 @@ zooms digitales intermedios que pierden calidad).
 | **El tramo que la Sony no tiene** (25–113 mm eq): retrato, grupo, el coche en la pista, el animal pegado al coche | La foto que exigiría cambiar de objetivo con polvo en el aire | 1x, 2x o 5x, y encuadra con los pies | Más de 5x: ahí empieza a inventar |
 | **Vídeo** | **Todo el vídeo del viaje** (abajo tiene su lista de tomas) | **4K 30 fps** (24 fps si quieres aire de cine), 1x o 2x, clips de 10–20 s sin zoomear durante la toma; timelapse del campamento apoyado en una piedra (y **Timelapse con Visión Nocturna** para el crepúsculo, apoyado) | 8K y Video Boost: se procesan en la nube — en Namibia grabas y ya se cocinarán cuando vuelvas al wifi |
 | **Documentos** | La foto que ahorra disgustos | Los ajustes de la Sony antes de cambiarlos, el permiso del parque, la matrícula, el mapa en el capó, la etiqueta de la tarjeta | — |
-| **Herramienta de la Sony** | El mando y la pantalla grande de la a6700 | **Creators' App**: live view en la pantalla del móvil para enfocar la estrella con calma y disparar **sin tocar la cámara** (astro y charca), pasar los JPEG buenos al móvil cada noche y **geolocalizar** las fotos de la Sony con el GPS del Pixel; y PhotoPills, Stellarium y los mapas offline ([apps](apps-del-viaje.md)) | Emparejarla en casa, no en el campamento a oscuras |
+| **Herramienta de la Sony** | El mando y la pantalla grande de la a6700 | **Creators' App**: live view en la pantalla del móvil para enfocar la estrella con calma y disparar **sin tocar la cámara** (astro y charca), pasar los JPEG buenos al móvil cada noche y **geolocalizar** las fotos de la Sony con el GPS del Pixel; y PhotoPills, Stellarium y los mapas offline ([apps](../referencia/apps-del-viaje.md)) | Emparejarla en casa, no en el campamento a oscuras |
 
 ### La receta del cielo con el Pixel (modo Astrofotografía)
 
@@ -93,7 +95,7 @@ la a6700, porque **no te necesita**:
    la pantalla al mínimo y tema oscuro (te protege la visión nocturna).
 2. Abre la cámara → **Visión Nocturna**, zoom **1x** (el modo astro no
    funciona en 0.5x: pide 1x o más). Encuadra las **Nubes de Magallanes** con
-   la silueta de un árbol o la tienda ([el cielo del viaje](cielo-del-viaje.md)),
+   la silueta de un árbol o la tienda ([el cielo del viaje](../plan/cielo-del-viaje.md)),
    o el núcleo bajo al oeste-suroeste del 1 al 9.
 3. Apóyalo **quieto** contra una piedra, el bean bag o un mini trípode
    (10–15 €): en cuanto está estable, el disparador cambia solo a
@@ -103,7 +105,7 @@ la a6700, porque **no te necesita**:
    minutos** con una cuenta atrás. Al acabar tendrás la foto y, con el
    ajuste del nivel básico, un **mini-timelapse** del cielo moviéndose.
 5. Repite apuntando a otro sitio mientras la Sony hace su serie: es la
-   "tercera vía" del [plan noche a noche](cielo-del-viaje.md).
+   "tercera vía" del [plan noche a noche](../plan/cielo-del-viaje.md).
 
 Honestidad: saldrán estrellas, las Nubes y la banda de la Vía Láctea, con
 un procesado muy agresivo. Es la foto para enseñar en el móvil esa misma
@@ -119,13 +121,13 @@ sombras**, más la **elección de lente**, la **resolución de 50 Mpx** y
 - **Balance de blancos fijo en la hora dorada**: el AWB del móvil hace lo
   mismo que el de la cámara — neutraliza el naranja. Un toque al slider
   hacia cálido y la duna vuelve a ser naranja
-  ([balance de blancos](balance-de-blancos.md)).
+  ([balance de blancos](../referencia/balance-de-blancos.md)).
 - **Lente fija**: elegir "5x" en el Pro evita que el móvil te cuele el
   recorte digital de la principal cuando hay poca luz. Y "0.5x" fija el
   ultra gran angular para la panorámica de tomas sueltas.
 - **50 Mpx + RAW** para las 3–5 fotos de paisaje que vas a editar en
   serio: el DNG entra en Lightroom móvil o en el ordenador como cualquier
-  RAW ([edición](edicion-basica.md)). Para el resto, 12 Mpx JPEG.
+  RAW ([edición](../campo/edicion-basica.md)). Para el resto, 12 Mpx JPEG.
 - **Obturación e ISO a mano** casi nunca — el móvil expone mejor solo. La
   excepción: enfoque a mano al infinito si el astro/paisaje nocturno se
   empeña en enfocar la tienda de delante.
@@ -137,7 +139,7 @@ sombras**, más la **elección de lente**, la **resolución de 50 Mpx** y
 
 ## Las 10 fotos que solo hará el Pixel (márcalas)
 
-Complementan la [lista de tomas](lista-de-tomas.md) de la Sony:
+Complementan la [lista de tomas](../plan/lista-de-tomas.md) de la Sony:
 
 - ☐ 1 **El interior del coche** en marcha por la grava (0.5x, con la ventana y el retrovisor)
 - ☐ 2 **El mapa en el capó** con el café, en una parada (1x, luz de mañana)
@@ -176,13 +178,13 @@ las de la Sony:
 Y las tres reglas de rodaje, iguales para las dos cámaras: **no zoomes
 durante la toma**, deja **5 segundos quietos** al principio y al final, y
 graba **parejas** (un plano ancho y un detalle de cada escena). El montaje de
-todo junto, en la [guía de edición](edicion-basica.md).
+todo junto, en la [guía de edición](../campo/edicion-basica.md).
 
 ## Los archivos: energía y copias
 
 - **Batería**: 4.870 mAh dan el día si no dejas la pantalla al sol. En el
   coche va enchufado al USB (cable largo) y de noche al power bank o a la
-  regleta del alojamiento ([logística](logistica-viaje.md)). El modo astro y
+  regleta del alojamiento ([logística](../campo/logistica-viaje.md)). El modo astro y
   el timelapse comen mucho: móvil cargado antes de la noche.
 - **Copias**: en Namibia no cuentes con subir nada a Google Fotos (wifi
   escaso y lento). Cada 2–3 noches, copia la carpeta DCIM al **SSD** con el

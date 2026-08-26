@@ -1,5 +1,7 @@
 # 2. Astrofotografía en Namibia con la a6700 — paso a paso
 
+> 🔵 **Básico** · Da por sabido: el capítulo 1 (memoria MR2 guardada) · Te desbloquea: la Vía Láctea, las Nubes de Magallanes y los star trails.
+
 Namibia tiene algunos de los cielos más oscuros del planeta (NamibRand fue la
 primera Reserva Internacional de Cielo Oscuro de África, certificada en
 categoría Gold). De mayo a septiembre —estación seca— la Vía Láctea es
@@ -11,10 +13,13 @@ visible gran parte de la noche.
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
-> [Mejora, parte 1](../mejora/parte-1-principiante.md), el fino en la
-> [parte 2](../mejora/parte-2-avanzado.md), y el catálogo completo de lo
+> [la mirada](../mejora/la-mirada.md), el fino en
+> [estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md), y el catálogo completo de lo
 > fotografiable en tu ventana, objetivo a objetivo, en
-> [el cielo del viaje](../comun/cielo-del-viaje.md).
+> [el cielo del viaje](../plan/cielo-del-viaje.md).
+
+> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](../tecnica/fotografia-nocturna.md)
+> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
 
 ## Receta rápida
 
@@ -78,7 +83,8 @@ visible gran parte de la noche.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar nada.
    Se apilan luego en el ordenador y el ruido baja muchísimo — es la
    diferencia entre un cielo granulado y uno limpio.
-8. ¿Timelapse? Menú → **`Interval Shoot Func.`**: exposición de 15 s,
+8. ¿Timelapse? `MENU → Toma → `**`Func. capt. interv.`** (*Interval Shoot
+   Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
    inicio), 300 tomas ≈ 10 s de vídeo. Sin cables: le das a empezar y te
    olvidas.
@@ -129,7 +135,7 @@ para un novato: círculos de estrellas girando sobre el paisaje.
 4. **90–180 tomas** (45–90 minutos; cuanto más tiempo, más largos los arcos).
    Batería llena al empezar y no toques nada hasta el final.
 5. En casa se apilan con StarStaX (<https://markus-enzweiler.de/software/starstax/>),
-   explicado en la [guía de edición](../comun/edicion-basica.md).
+   explicado en la [guía de edición](../campo/edicion-basica.md).
 
 ## Apilado en casa
 
@@ -138,7 +144,7 @@ Apila las 10 tomas del paso 7 con Sequator (Windows, gratis:
 (macOS: <https://sites.google.com/site/starrylandscapestacker/>). Los RAW
 (.ARW) entran directamente. Es la diferencia entre un cielo ruidoso y uno
 limpio a ISO 1600–3200 — el paso a paso está en la
-[guía de edición](../comun/edicion-basica.md).
+[guía de edición](../campo/edicion-basica.md).
 
 ## El intervalómetro integrado y la película time-lapse
 
@@ -146,7 +152,7 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
 
 - **Fotos por intervalos** (`Interval Shoot Func.`, hasta 9999 tomas): la vía
   de máxima calidad — cada fotograma es un RAW que revelas y montas en vídeo
-  en casa ([edición](../comun/edicion-basica.md)). Es la de las recetas de
+  en casa ([edición](../campo/edicion-basica.md)). Es la de las recetas de
   este capítulo.
 - **Película time-lapse en cámara**: la cámara graba y monta ella sola el
   clip. Cero edición, menos control — perfecta como segunda serie "pon y
@@ -162,7 +168,7 @@ de los focos de la charca.
 
 **La app: PhotoPills** (pago único, iOS/Android:
 <https://www.photopills.com/>; instalación, pins y manejo básico, en
-[las apps del viaje](../comun/apps-del-viaje.md)). Las tres pantallas que
+[las apps del viaje](../referencia/apps-del-viaje.md)). Las tres pantallas que
 vas a usar:
 
 1. **Planificador**: pin sobre tu campamento (p. ej. Okaukuejo), activa la
@@ -191,7 +197,7 @@ planificador sobre mapa.
    tomas para apilar** — con cielo de luna nueva es cuando el apilado más luce.
 4. Si el resplandor de las farolas mancha el cielo bajo, encuadra más alto o
    inclúyelo asumido como "amanecer falso" naranja en el horizonte; la opción
-   `Reduce light pollution` de Sequator ([edición](../comun/edicion-basica.md))
+   `Reduce light pollution` de Sequator ([edición](../campo/edicion-basica.md))
    limpia bastante el degradado.
 5. Remata la noche en el mirador de la charca ([capítulo 4](04-safari-nocturno-charcas.md)):
    astro y rinocerontes en la misma salida.
@@ -215,9 +221,25 @@ planificador sobre mapa.
 Apoyado en una piedra o en un mini trípode, apuntando a **otra** parte del
 cielo, hace su foto astro de cuatro minutos y te deja además un
 mini-timelapse — sin que lo mires y sin robarte un solo ajuste de la Sony.
-Es la segunda vía del [plan noche a noche](../comun/cielo-del-viaje.md), la
+Es la segunda vía del [plan noche a noche](../plan/cielo-del-viaje.md), la
 de "pon y olvida", y su receta completa está en
-[la guía del Pixel](../comun/pixel-10-pro.md).
+[la guía del Pixel](../tecnica/pixel-10-pro.md).
+
+## Ejercicio antes de volar (dos noches, aunque tu cielo sea malo)
+
+No hace falta un cielo oscuro para entrenar lo que de verdad falla: el
+enfoque y el manejo a tientas.
+
+1. **La noche del enfoque** (basta un balcón). Monta el trípode, MR2, y
+   enfoca a la estrella más brillante con lupa + peaking hasta que sea un
+   punto. Cinta en el anillo. Repítelo **cinco veces** desenfocando entre
+   medias, con el cronómetro: el objetivo es bajar de dos minutos.
+2. **La noche a oscuras.** Sin mirar la cámara: enciende, gira a MR2, activa
+   Bright Monitoring, dispara con temporizador y revisa el histograma. Todo
+   con frontal roja. En Namibia lo harás medio dormido y con frío.
+3. **Y una serie de verdad**: 60 tomas de 30 s con el intervalómetro
+   apuntando a cualquier sitio, y apílalas en StarStaX. Aunque salgan cuatro
+   estrellas, habrás hecho el flujo completo una vez.
 
 ## Referencias
 

@@ -1,9 +1,12 @@
-# Mejora, parte 1 — tu primer safari y tu primera noche de estrellas
+# La mirada — cómo piensan los que hacen las fotos que te gustan
 
-Los capítulos 0–5 te enseñan a que la foto salga *bien*. Esta parte va de que
-salga *buena*: dónde estar, a qué hora, qué esperar y qué mirar — todo
-verificado con fuentes y pensado para tu quincena real (1–15 de noviembre).
-La [parte 2](parte-2-avanzado.md) afina la máquina; esta afina al fotógrafo.
+> 🔴 **Avanzado** · Da por sabido: los capítulos 0 a 5 · Te desbloquea: decidir tú dónde ponerte y qué esperar, en vez de reaccionar a lo que aparezca.
+
+Los capítulos 0–5 hacen que la foto salga **bien**. Esta guía va de que salga
+**buena**, y no trata de ajustes: trata de dónde estar, a qué hora, qué
+esperar y qué mirar. Es lo que separa al que vuelve con 3.000 fotos correctas
+del que vuelve con veinte que valen la pena — y se entrena, como todo lo
+demás.
 
 ## La mentalidad que separa las fotos buenas (lo que hacen los maestros)
 
@@ -13,7 +16,7 @@ mismo:
 
 1. **La foto se planifica antes de que ocurra.** Van Oosten: "la mayoría de
    mis fotos de Namibia las he previsualizado en casa". Tu versión: la
-   [lista de tomas](../comun/lista-de-tomas.md) repasada cada noche, y el
+   [lista de tomas](../plan/lista-de-tomas.md) repasada cada noche, y el
    plan de charcas de abajo decidido la víspera.
 2. **Volumen en el momento bueno.** Lanting disparó 321 tomas a los árboles
    de Deadvlei. Cuando la luz se abra, no hagas 3 fotos y te vayas: trabaja
@@ -66,6 +69,9 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 - **Noviembre**: llegan los migratorios — mejor mes de rapaces y abejarucos
   europeos en cables y ramas.
 
+La lista completa, especie por especie y con los ajustes de cada una:
+[la fauna, animal por animal](../tecnica/fauna-de-namibia.md).
+
 ## Noviembre: tu estrategia de quincena
 
 1. **Los días antes de la primera tormenta gorda valen doble.** Hasta que
@@ -75,7 +81,7 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 2. **La tormenta es un regalo fotográfico**: nubes negras + luz lateral
    sobre la sabana ("storm light"), atardeceres vívidos y, si llueve, olor a
    tierra y polvo asentado. Subexpón −2/3 y busca fauna contra ese cielo
-   ([extra 14 de la lista](../comun/lista-de-tomas.md)).
+   ([extra 14 de la lista](../plan/lista-de-tomas.md)).
 3. **El calor manda el ritmo**: 33–36 °C. Madruga con las puertas, siesta
    táctica vigilando una charca a mediodía (a la sombra, motor apagado), y
    última salida 16:00–cierre. El *heat haze* castigará el tele a mediodía a
@@ -83,90 +89,77 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 4. **El mediodía no se tira**: luz dura + calcreta blanca = **clave alta en
    blanco y negro**. Receta Delaney: mide, compensa **+2/3 a +1** (el
    medidor oscurece lo blanco), deja el fondo blanco puro y convierte en
-   edición ([flujo B/N](../comun/edicion-basica.md)). El "defecto" del
+   edición ([flujo B/N](../campo/edicion-basica.md)). El "defecto" del
    mediodía se vuelve estilo.
 5. **Contraluz con polvo al atardecer**: sol detrás del animal, −1 EV, y el
    polvo en suspensión se enciende dorado. En Okaukuejo, el atardecer ES a
    contraluz desde el mirador: siluetas y reflejos.
 
-## Tu primera noche de estrellas (1–15 de noviembre)
+## Y de noche, en una pantalla
 
-Lo primero: **tus fechas son buenas de verdad** — luna nueva el **9 de
-noviembre de 2026**: todos los anocheceres del 1 al 9 sin luna, y las noches
-completas más oscuras del **7 al 10**. Del 10 al 15 tampoco pierdes la noche:
-la luna creciente se pone entre ~1 h (día 10) y ~4,5 h (día 15) después del
-sol — mira su hora exacta en PhotoPills y a partir de ahí el cielo vuelve a
-ser tuyo. La oscuridad total llega ~75 min tras la puesta (≈ **20:25**) y
-dura hasta ≈ 04:55. Y lo segundo: tu cielo no es
-el de las postales de agosto — es **mejor en otras cosas**:
+El catálogo completo de tu cielo —qué hay cada noche, en qué dirección y con
+qué receta— vive en [el cielo del viaje](../plan/cielo-del-viaje.md), y la
+técnica desde cero en [estrellas con la tierra dentro](estrellas-con-tierra.md).
+Lo que importa para **la mirada**, en cinco líneas:
 
-- **El núcleo de la Vía Láctea, solo del 1 al 9 y al anochecer**: cuando
-  oscurece del todo está ya a ~26° sobre el **oeste-suroeste** y se pone a
-  las ~22:30. Tienes **45–75 minutos** de núcleo bajo y tumbado sobre el
-  horizonte — composición de panorámica o de banda diagonal con silueta, no
-  de arco cenital. A partir del ~10, la luna creciente ocupa justo ese cielo
-  del oeste: núcleo terminado por este año.
-- **Las protagonistas son las Nubes de Magallanes**: dos galaxias enteras a
-  simple vista, como jirones de nube que no se mueven, hacia el **sur**.
-  Noviembre es su gran mes y en tus noches están servidas desde el
-  anochecer: la Pequeña ya a ~33° de altura al caer la oscuridad, la Grande
-  subiendo de ~13° a ~27° hacia las 23:00. Con el 11 mm (16,5 mm equivalentes)
-  entran las dos con paisaje; son más tenues que la Vía Láctea, así que
-  **apila 15–20 tomas** con la receta estándar (20 s · f/1.8 · ISO 1600–3200)
-  y deja que Sequator haga el milagro ([edición](../comun/edicion-basica.md)).
-- **A partir de las ~23:00, la "otra" Vía Láctea**: sale por el este la
-  banda de verano (Orión, Can Mayor, Carina) — más tenue que el núcleo pero
-  preciosa después de medianoche, con Sirio y Canopus de faros. Mismos
-  ajustes.
-- **Saturno preside la noche**: recién pasada su oposición (4 de octubre),
-  es el "lucero" fijo y amarillento — a ~50° por el noreste al caer la
-  oscuridad, culminando altísimo hacia las 22:30–23:00. Venus ya no está en
-  el atardecer (pasó al alba a finales de octubre) y Mercurio tampoco. Bonus
-  madrugador: **conjunción Júpiter–Marte al alba del 14 de noviembre**.
-- **La cola de la luz zodiacal**: la temporada vespertina del hemisferio sur
-  dura hasta principios de noviembre — busca un cono de luz lechosa
-  inclinado sobre el horizonte **oeste**, ~90 minutos tras la puesta, las
-  primeras noches del viaje. Se fotografía con la receta de la Vía Láctea.
-- **Las Táuridas**: en tu ventana están activas las del Sur (pico ~5 de
-  noviembre) y las del Norte (~9–12): unas ~10 por hora entre ambas, pero
-  famosas por **bólidos lentos y brillantes** — con luna nueva y el radiante
-  bien alto desde Namibia (~50° de madrugada), condiciones ideales. No
-  montes la noche alrededor de ellas; deja la serie de star trails corriendo
-  y ella sola te cazará algún bólido
-  (<https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>).
-- **Star trails, siempre — pero sin la Cruz del Sur**: en tus anocheceres la
-  Cruz está **bajo el horizonte** (vuelve de madrugada). El polo sur celeste
-  sigue donde siempre: plano sur, a ~19° de altura (un centro de giro bajo:
-  entra con árbol o silueta). Para clavarlo: la **realidad aumentada de
-  PhotoPills**, o el truco a ojo de tus noches — las dos Nubes de Magallanes
-  forman con el polo un **triángulo equilátero** (el tercer vértice, la zona
-  "vacía", es el polo).
-- **Dos rarezas normales**: bandas verdosas/rojizas en tus fotos = airglow
-  (real y frecuente en Namibia, no es el sensor); rayas finas = satélites,
-  y el apilado los borra solo.
-- **Composición de van Oosten para tu 11 mm**: coloca la franja estelar (o
-  la Nube Grande) como **diagonal que entra por una esquina y NO corta** tu
-  silueta (árbol, torre de agua, mopane) — el primer plano a un lado, el
-  cielo fluyendo al otro.
-- **Nubes de tormenta**: el precio de noviembre es que no todas las noches
-  estarán despejadas (~2 de cada 3 sí, mejor al principio de tu quincena).
-  Las tormentas son vespertinas y suelen abrir después: no des la noche por
-  perdida a las 20:00.
+- **Tus fechas son buenas de verdad**: luna nueva el 9 de noviembre, cielos
+  Bortle 1–2 y oscuridad total de ~20:25 a ~04:55.
+- **Tu cielo no es el de las postales de agosto**: el núcleo de la Vía Láctea
+  sale bajo y tumbado al oeste, y dura 45–75 minutos. Composición de
+  panorámica o de banda diagonal, no de arco cenital.
+- **Las protagonistas son las Nubes de Magallanes**, al sur, toda la noche —
+  y noviembre es su mejor mes.
+- **El valor seguro es el star trails**: no depende de la luna ni de tu
+  puntería, y de regalo caza bólidos de las Táuridas.
+- **La decisión de la mirada**: elige la silueta **de día**, con luz, y
+  vuelve de noche. Nadie compone un primer plano a oscuras.
 
-## Paisaje, en secundario
+## Cómo se mide si estás mejorando
 
-Ya tienes la [guía de paisaje](../comun/paisaje-namibia.md); esta quincena
-añade dos cartas: **luz de tormenta** sobre cualquier horizonte (la sabana
-verde-incipiente contra nube negra) y los amaneceres limpios de polvo tras
-la primera lluvia. La lección de los maestros aplicada fácil: paisaje con
-**tele**, no solo con angular — comprime capas de sabana, aísla un árbol
-contra el pan, y guarda el 11 mm para el cielo.
+Sin esto, "practicar" es hacer más fotos iguales. El método es de una noche:
 
-## En una frase
+1. **Cada noche, cinco minutos de criba honesta.** Del día entero, marca las
+   **tres** que salvarías. Si no hay tres, no pasa nada: apunta por qué.
+2. **A cada descarte, una causa de una palabra**: *movida*, *plana*,
+   *fondo*, *tarde*, *lejos*, *sin gesto*. Sin justificaciones.
+3. **Cuenta las causas al final de la semana.** La que más se repita es tu
+   trabajo de la semana siguiente — y casi siempre no es la cámara: es la
+   hora a la que te levantas o la distancia a la que te conformas.
+4. **Las tres buenas, mírales el porqué**: ¿qué hiciste distinto? Luz
+   lateral, esperaste el gesto, bajaste el punto de vista, limpiaste el
+   fondo. Eso es lo que hay que repetir a propósito.
+5. **La pregunta de control**, la de van Oosten: ¿esta foto la habría hecho
+   igual cualquiera que pasara por aquí? Si la respuesta es sí, no es tuya
+   todavía.
 
-Planifica la charca según la luz, espera el momento quieto, exprime los
-días sin lluvia — y de noche, apunta al sur: tus galaxias son las Nubes de
-Magallanes.
+### Los cinco escalones (en este orden, no saltes)
+
+| Escalón | Lo tienes cuando… | Dónde se entrena |
+|---|---|---|
+| **1 · Nítida** | El ojo del animal aguanta el 100 % en la mayoría de tus ráfagas | [Capítulo 3](../a6700/03-safari-diurno.md) y los deberes del [capítulo 0](../a6700/00-de-movil-a-la-a6700.md) |
+| **2 · Bien expuesta** | Miras el histograma antes de que te lo pida nadie y compensas sin pensar | [El histograma](../referencia/histograma.md) |
+| **3 · Limpia** | Antes de disparar ya has mirado el fondo y has movido el coche medio metro | [Safari a fondo §5](safari-a-fondo.md) |
+| **4 · Con luz** | Dejas de disparar a mediodía sin remordimiento y madrugas sin discutirlo | [Mejores horas](../plan/mejores-horas.md) |
+| **5 · Con momento** | Esperas el gesto que sabes que va a llegar, con el encuadre ya montado | [La fauna, animal por animal](../tecnica/fauna-de-namibia.md) |
+
+Un escalón por semana de las once previas al viaje es un ritmo realista:
+está calendarizado en el [plan de entrenamiento](../plan/plan-de-entrenamiento.md).
+
+## Ejercicios (una tarde cada uno, en casa)
+
+1. **La foto de las 3 horas.** Elige un sitio a 10 minutos de casa y ve tres
+   veces: a mediodía, en la hora dorada y en la hora azul. Misma escena,
+   mismo encuadre. La comparación enseña más sobre luz que cualquier texto.
+2. **Veinte de la misma cosa.** Un solo sujeto (un perro, un pato del parque,
+   una farola), veinte fotos **distintas**: cerca, lejos, alto, bajo, a
+   contraluz, detalle, contexto. Obliga a agotar una escena, que es lo que
+   harás en Etosha cuando la luz se abra.
+3. **La criba de tres.** De esas veinte, quédate con tres y escribe una línea
+   por cada descarte. Es el método de arriba, en pequeño.
+4. **El fondo primero.** Una tarde entera eligiendo el **fondo** antes que el
+   sujeto: te colocas donde el fondo es limpio y esperas a que algo entre.
+   Cuesta y cambia tus fotos para siempre.
+
 
 ## Referencias
 

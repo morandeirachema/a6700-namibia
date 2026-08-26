@@ -3,7 +3,7 @@
 Repasos por momento del día, con el **porqué** de cada comprobación: si
 entiendes qué vigila cada punto, sabrás improvisar cuando algo no cuadre.
 Cada sección acaba en segundos; el orden importa. Imprímela junto a la
-[chuleta](chuleta.md) y la [lista de tomas](../comun/lista-de-tomas.md).
+[chuleta](chuleta.md) y la [lista de tomas](../plan/lista-de-tomas.md).
 
 ---
 
@@ -20,7 +20,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **La tarjeta**: formatéala **en la cámara** (nunca en el ordenador) y
   haz una foto de prueba. *Por qué:* la a6700 tiene una sola ranura — esa
   tarjeta es la única copia hasta el volcado de cada noche
-  ([logística](../comun/logistica-viaje.md)).
+  ([logística](../campo/logistica-viaje.md)).
 - [ ] **MR1 y MR2 guardados**: gira el dial a 1 y a 2 y verifica que cargan
   la receta (safari / astro, [capítulo 1](01-configuracion-basica.md)).
   *Por qué:* de noche o con un león delante no hay tiempo de menús.
@@ -34,7 +34,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Vídeo listo**: `Selector NTSC/PAL` en **PAL**, 4K 25p, y una prueba
   de 30 s **escuchada con auriculares**. *Por qué:* cambiar NTSC⇄PAL obliga
   a formatear la tarjeta — hacerlo en el viaje es perder lo que haya dentro
-  ([el vídeo del viaje](../comun/video-del-viaje.md)).
+  ([el vídeo del viaje](../tecnica/video-del-viaje.md)).
 - [ ] **Creators' App emparejada** con el móvil, en casa y con wifi.
   *Por qué:* allí no hay cobertura para descargar ni configurar nada.
 
@@ -91,10 +91,10 @@ asimétricas, ese ejemplar está descentrado.
   *Por qué:* el leopardo aparece 4 segundos y no espera tapas.
 - [ ] **El Pixel** cargado, con hueco y en el bolsillo (no en el
   salpicadero al sol): es tu segunda cámara y el recurso del vídeo
-  ([su guía](../comun/pixel-10-pro.md)).
+  ([su guía](../tecnica/pixel-10-pro.md)).
 - [ ] **Si hoy toca grabar vídeo**: selector en **Vídeo**, peluche del micro
   puesto y ND en el bolsillo — la rutina entera cabe en la
-  [chuleta de vídeo](../comun/chuleta-video.md).
+  [chuleta de vídeo](../tecnica/chuleta-video.md).
 
 ## 4 · Al llegar a una escena de fauna (10 s, de memoria)
 
@@ -113,8 +113,9 @@ asimétricas, ese ejemplar está descentrado.
 
 El repaso que separa "creo que la tengo" de "la tengo":
 
-- [ ] ▶ y **zoom al máximo sobre el ojo**. Lo que buscas: pestañas y pelo
-  definidos. Cómo leer el fallo si no lo están:
+- [ ] ▶ y **zoom al máximo sobre el ojo** (gira la rueda: amplía sola sobre
+  donde enfocó; el dial salta de foto sin perder el zoom). Lo que buscas:
+  pestañas y pelo definidos. Cómo leer el fallo si no lo están:
   - Ojo blando pero otra zona nítida → el reconocimiento enganchó a otra
     cosa (el lomo, la hierba, otro animal): antes de la siguiente ráfaga,
     mira **qué** marca el recuadro; si insiste, pasa a punto único.
@@ -155,7 +156,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] **El Pixel arranca primero** (1 min y trabaja solo mientras montas la
   Sony): apoyado en una piedra o mini trípode, apuntando a otra parte del
   cielo, modo Astrofotografía y no se toca más
-  ([plan noche a noche](../comun/cielo-del-viaje.md)).
+  ([plan noche a noche](../plan/cielo-del-viaje.md)).
 - [ ] Dial en **MR2** · RAW · reducción de ruido de larga exposición **OFF**
   (*por qué:* con ella ON, cada foto va seguida de otros tantos segundos a
   oscuras — adiós timelapse y arcos de star trails).
@@ -232,14 +233,14 @@ El repaso que separa "creo que la tengo" de "la tengo":
   D/M); la cámara también puede cargar por USB-C si hace falta.
 - [ ] **Repaso de 10 minutos**: tus 3 mejores del día → el error que se
   repite → **una** corrección concreta para mañana (una, no cinco).
-- [ ] [Lista de tomas](../comun/lista-de-tomas.md): marca conseguidas, elige
+- [ ] [Lista de tomas](../plan/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
 - [ ] Pixel al cargador; copia sus fotos y clips al SSD cada 2–3 noches
-  ([su guía](../comun/pixel-10-pro.md)).
+  ([su guía](../tecnica/pixel-10-pro.md)).
 - [ ] **Los clips de vídeo del día, a su carpeta — y borra los fallidos**
   (la única excepción a "no se borra nada": un clip de 4K fallido son gigas
   muertos). ¿Qué tomas de vídeo caen hoy? Márcalas en la
-  [chuleta de vídeo](../comun/chuleta-video.md).
+  [chuleta de vídeo](../tecnica/chuleta-video.md).
 - [ ] Pera sopladora a cuerpo y lentes; todo a la bolsa **cerrada** (*por
   qué:* del frío exterior al cuarto caliente, el equipo suda; dentro de la
   bolsa se aclimata sin condensación).
@@ -250,6 +251,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 | Ves… | Es… | Haces… |
 |---|---|---|
+| **No dispara y no sé por qué** | Por orden de frecuencia: sin tarjeta · SD con la **pestañita LOCK** subida · tarjeta llena · tapa del objetivo puesta · cámara en **MF** | Ranura, pestañita, hueco libre, tapa, interruptor AF/MF del objetivo |
 | Error o "objetivo no reconocido" | Fallo de comunicación cuerpo-objetivo | Apaga, desmonta, microfibra por los contactos dorados, remonta |
 | De repente no enfoca nada | El interruptor **AF/MF del objetivo** se movió, o tienes pulsado su botón de retención de foco | Interruptor a AF, mano fuera del botón, y comprueba el modo en pantalla |
 | Enfoca lentísimo recorriendo todo el rango | Poco contraste en lo que apuntas (este tele no tiene limitador) | Apunta a un borde con contraste, o punto único; con hierba por medio, DMF |

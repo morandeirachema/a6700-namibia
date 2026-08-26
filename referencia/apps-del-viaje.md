@@ -1,5 +1,7 @@
 # Las apps del viaje — qué instalar y cómo se usa cada una
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: llegar con el móvil preparado y el cielo ensayado desde casa.
+
 Todo lo que la guía recomienda cabe en un móvil, y casi todo funciona **sin
 cobertura** — que es exactamente lo que vas a tener en media Namibia. La
 regla: **todo instalado, comprado, configurado y probado en casa, con wifi**.
@@ -17,7 +19,7 @@ Allí solo se consulta.
 
 Las de ordenador para después (revelado, apilados, timelapse: darktable,
 Sequator, StarStaX…) están explicadas en la
-[guía de edición](edicion-basica.md). Si quieres el detalle de pistas y
+[guía de edición](../campo/edicion-basica.md). Si quieres el detalle de pistas y
 puntos de interés de Namibia a nivel local, el estándar de los self-drive es
 [Tracks4Africa](https://tracks4africa.co.za/) (de pago; opcional — con
 Organic Maps te sobra para esta ruta).
@@ -44,7 +46,7 @@ Organic Maps te sobra para esta ruta).
 2. En los paneles superiores (desliza entre ellos) tienes **amanecer, ocaso,
    crepúsculos y salida/puesta de la luna** del día que marques en la barra
    de tiempo. Apunta tres horas: amanecer (puerta), ocaso (vuelta) y luna
-   (tu ventana oscura — [las noches, día a día](mejores-horas.md)).
+   (tu ventana oscura — [las noches, día a día](../plan/mejores-horas.md)).
 3. Para la noche: activa la **capa de Vía Láctea** y mueve la barra de
    tiempo — el arco y el núcleo se dibujan sobre el mapa hora a hora. Las
    tres pantallas de astro, explicadas con el plan completo, están en el

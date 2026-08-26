@@ -1,5 +1,7 @@
 # Limpieza de objetivo y lentes en campo — polvo de Namibia
 
+> 🔵 **Básico** · Da por sabido: nada · Te desbloquea: sobrevivir al polvo de Etosha sin rayar una lente.
+
 El polvo de calcreta de Etosha es finísimo y se mete en todo; la arena, además,
 **raya**. Esta guía es el "cómo" detallado; la rutina diaria de 5 minutos y la
 prevención (cambios de objetivo, bolsas zip, condensación) están en la

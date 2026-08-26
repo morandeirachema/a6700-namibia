@@ -1,16 +1,30 @@
-# Mejora, parte 2 — safari y astro avanzados
+# El AF y la exposición a fondo — la máquina, a tu medida
 
-Para cuando la [parte 1](parte-1-principiante.md) ya sea rutina. Todo
-verificado contra el Help Guide oficial de la a6700 y la práctica de
-especialistas de safari y aves.
+> 🔴 **Avanzado** · Da por sabido: [capítulo 1](../a6700/01-configuracion-basica.md) y [capítulo 3](../a6700/03-safari-diurno.md) · Te desbloquea: sacarle a la cámara lo que la receta base deja sobre la mesa.
+
+Las recetas del capítulo 3 funcionan siempre y por eso son la base. Esto es
+lo que hay **por encima**: los tres mandos del autofoco que casi nadie toca,
+la medición ligada al punto de enfoque, una botonera pensada para no apartar
+el ojo del visor y los límites reales del 70-350. Todo verificado contra el
+Help Guide oficial de la a6700 y la práctica de especialistas de safari y
+aves.
+
+**El resto del nivel avanzado**: el porqué de todo esto está en
+[por qué funciona](por-que-funciona.md); lo creativo, en
+[safari a fondo](safari-a-fondo.md); el astro avanzado se mudó a
+[estrellas con la tierra dentro](estrellas-con-tierra.md) y el paisaje de
+los maestros, a [paisaje a fondo](paisaje-a-fondo.md).
 
 ## Safari avanzado
 
 ### El AF a medida (los tres mandos que importan)
 
 El AF de la a6700 se gobierna con **tres mandos**, y el salto de nivel es
-saber cuál tocar en cada escena (todos viven en la pestaña AF del menú;
-mételos en **Mi Menú**):
+saber cuál tocar en cada escena (los tres viven en la pestaña **Enfoque**
+del menú; mételos en **Mi Menú** con
+`MENU → Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y pon
+`[Mostrar de Mi Menú] → ON` para que MENU los abra directamente —
+[capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)):
 
 - **Sensib. seguim. AF** (1 fija … 5 reactiva): qué hace el AF si algo se
   cruza o el sujeto se tapa un instante. Baja = "aguanta con el sujeto
@@ -97,58 +111,9 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **El bonus de acercamiento**: 0,23x a 350 mm (enfoca desde 1,5 m) — da
   para texturas de corteza, flores grandes y el detalle del desayuno, pero
   **no es un macro**. El macro de verdad del viaje lo hace el móvil, a 3 cm
-  ([Pixel](../comun/pixel-10-pro.md)).
+  ([Pixel](../tecnica/pixel-10-pro.md)).
 - **Su firmware** se actualiza con el objetivo montado en la cámara, desde
   la web de soporte de Sony: <https://www.sony.es/electronics/support>
-
-## Astro avanzado (tu quincena de noviembre)
-
-### El plan de la noche completa (1–9 de noviembre)
-
-| Hora | Objetivo | Cómo |
-|---|---|---|
-| 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
-| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
-| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
-| Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
-| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
-
-### Técnica fina
-
-- **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
-  es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
-  vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
-  ajustes clavados; Lightroom las une (`Foto → Combinar → Panorama`).
-- **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
-  funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
-  trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
-  apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
-  seguimiento ligera para otro viaje.
-- **Light painting con cabeza** (método van Oosten, para tus noches de granja
-  y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
-  campamento): frontal al mínimo, barrido
-  de 1–2 s sobre el árbol/roca durante la exposición, desde un lateral;
-  revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
-  vecinos.
-- **Procesado de tus cielos**: el degradado verdoso del horizonte es
-  **airglow** — decide si es estética o estorbo (la opción
-  `Reduce light pollution` de Sequator lo suaviza); los satélites
-  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
-  y cálida, agradece contraste local suave antes que saturación.
-
-## Paisaje, en secundario (las recetas de los maestros)
-
-- **Deadvlei según Lanting**: se dispara con el **tele** (100–200 mm del
-  zoom, 150–300 mm equivalentes), cerrado a f/11–f/16, **sin cielo ni
-  horizonte** en el encuadre, en la
-  ventana en que la duna del fondo está encendida y la arcilla del vlei aún
-  en sombra (que se vuelve azul). Exposición para la duna iluminada; los
-  árboles, casi siluetas. Y volumen: Lanting hizo 321 tomas de esos árboles.
-- **Abstractos de duna según van Oosten**: 200 mm equivalentes o más, luz
-  rasante de primera o última hora, buscar la línea de cresta luz/sombra,
-  excluir el cielo. El 70-350 desde la carretera de Sossusvlei es tu pincel.
-- **Luz de tormenta de noviembre**: mide a la zona iluminada, −2/3, y espera
-  el claro entre nubes que enciende la sabana contra el fondo negro.
 
 ## Referencias
 

@@ -1,5 +1,7 @@
 # Estrellas con la tierra dentro — desde cero, en tres noches
 
+> 🔵 **Básico** → 🔴 avanzado al final · Da por sabido: nada: empieza desde cero · Te desbloquea: cielo con paisaje dentro, en tres noches de práctica.
+
 Esta guía te lleva **desde nunca haber fotografiado una estrella** hasta las
 dos fotos nocturnas grandes del viaje: la **postal** (la Vía Láctea o las
 Nubes con un árbol, un molino o una roca en silueta) y los **círculos** (el
@@ -79,7 +81,7 @@ Nada más.
    tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
 7. Cuando salga la buena: **haz 10 tomas idénticas seguidas** sin tocar
    nada. En casa se apilan con un programa gratis y el ruido baja
-   muchísimo ([cómo, paso a paso](../comun/edicion-basica.md)).
+   muchísimo ([cómo, paso a paso](../campo/edicion-basica.md)).
 
 | Si la foto sale… | Toca… |
 |---|---|
@@ -129,10 +131,10 @@ atrás o asume el tamaño.
   arruina la foto.
 - **Vertical** si el cielo sube como columna sobre el objeto; horizontal si
   es una banda tumbada. En tu noviembre: banda baja al anochecer, así que
-  mucha foto horizontal ([el cielo del viaje](../comun/cielo-del-viaje.md)).
+  mucha foto horizontal ([el cielo del viaje](../plan/cielo-del-viaje.md)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
-  ([mejora 1](parte-1-principiante.md)).
+  ([mejora 1](la-mirada.md)).
 
 ### 4 · Expón igual — y deja la silueta negra
 
@@ -158,7 +160,7 @@ solo los días 11–14.
 luna — o doble toma sin mover el trípode (una para el cielo con la receta
 normal + una para el suelo de 60–120 s a ISO 1600, fundidas en edición), o
 un barrido suave de frontal sobre el objeto
-([light painting, con su ética](parte-2-avanzado.md): solo en granjas y
+(**light painting**, con su ética, en el nivel avanzado del final: solo en granjas y
 campings, nunca en miradores).
 
 ## Noche 3 — el cielo girando: los círculos
@@ -188,7 +190,7 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    la app te enseña dónde está) y colócala en el centro de la pantalla.
    Calibra la brújula haciendo ochos con el móvil, **lejos de la chapa del
    coche y del trípode**, y luego coloca la cámara mirando a donde te
-   apunta el móvil ([apps](../comun/apps-del-viaje.md)). Sin cobertura da
+   apunta el móvil ([apps](../referencia/apps-del-viaje.md)). Sin cobertura da
    igual: PhotoPills y Stellarium hacen los cálculos y la RA en el propio
    móvil (solo el mapa del Planificador sale gris si no lo cacheaste), y el
    GPS no necesita datos — si tarda en fijar, déjalo un par de minutos a
@@ -211,7 +213,7 @@ datos), y la 2, la 3 y la 4 no usan más que tus ojos y la cámara:
    abajo a la izquierda (sureste): el polo está **a la misma altura que la
    Grande, dos puños a su derecha, y debajo de la Pequeña**. Según avanza
    la noche todo gira, pero el polo no se mueve
-   ([el cielo del viaje](../comun/cielo-del-viaje.md)).
+   ([el cielo del viaje](../plan/cielo-del-viaje.md)).
 4. **La prueba de giro** (la definitiva, 4 minutos): antes de lanzar la
    serie, una sola foto larga en la que las estrellas ya dibujen arcos
    cortos y el centro se vea. `Tipo de obturador: Mecánico` (Bulb no existe
@@ -264,7 +266,7 @@ Y la dirección decide el dibujo:
    la serie no te necesita.
 5. En casa: **StarStaX** (gratis, modo Lighten, `Gap filling` si hay
    microhuecos), con tu primera toma como base
-   ([edición](../comun/edicion-basica.md)).
+   ([edición](../campo/edicion-basica.md)).
 
 | Si los círculos salen… | Causa | Toca… |
 |---|---|---|
@@ -283,9 +285,44 @@ En las noches gordas de Etosha (7–12 nov) caben ambas sin conflicto:
 **postal primero** (20:25–22:00, con las Nubes y el núcleo servidos), luego
 recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
 charca de los rinos o a la cama. El reparto exacto por noche está en
-[el cielo del viaje](../comun/cielo-del-viaje.md) y el plan hora a hora en
-[mejora 2](parte-2-avanzado.md). El Pixel, mientras, hace su propia versión
-apuntando a otra parte del cielo ([su guía](../comun/pixel-10-pro.md)).
+[el cielo del viaje](../plan/cielo-del-viaje.md) y el plan hora a hora en
+[el nivel avanzado del final de esta guía](#nivel-avanzado--cuando-las-tres-noches-ya-salgan-solas). El Pixel, mientras, hace su propia versión
+apuntando a otra parte del cielo ([su guía](../tecnica/pixel-10-pro.md)).
+
+## Nivel avanzado — cuando las tres noches ya salgan solas
+
+### El plan de la noche completa (1–9 de noviembre)
+
+| Hora | Objetivo | Cómo |
+|---|---|---|
+| 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
+| 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
+| 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
+| Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
+| Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
+
+### Técnica fina
+
+- **La panorámica de la banda tumbada**: el núcleo horizontal de noviembre
+  es el escenario perfecto para tu primera pano nocturna: 3–4 tomas en
+  vertical, solapadas un tercio, girando solo el cabezal entre tomas, mismos
+  ajustes clavados; Lightroom las une (`Foto → Combinar → Panorama`).
+- **Las Nubes con detalle**: la tentación de meterles el 70-350 **no
+  funciona sin montura de seguimiento** (ya a 70 mm y f/4.5 el límite sin
+  trazas son ~5 s → ISO absurdo y cien tomas para poco). El camino real: 11 mm
+  apilado y recorte generoso (26 Mpx dan margen), o apuntar una montura de
+  seguimiento ligera para otro viaje.
+- **Light painting con cabeza** (método van Oosten, para tus noches de granja
+  y camping fuera de Etosha — Spreetshoogte, Hoada —, nunca en miradores de
+  campamento): frontal al mínimo, barrido
+  de 1–2 s sobre el árbol/roca durante la exposición, desde un lateral;
+  revisa y ajusta potencia; para. Menos es más — y cero luz hacia fauna o
+  vecinos.
+- **Procesado de tus cielos**: el degradado verdoso del horizonte es
+  **airglow** — decide si es estética o estorbo (la opción
+  `Reduce light pollution` de Sequator lo suaviza); los satélites
+  desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
+  y cálida, agradece contraste local suave antes que saturación.
 
 ## Referencias
 

@@ -1,5 +1,7 @@
 # 0. Del móvil a la a6700 — curso práctico exprés
 
+> 🟢 **Iniciación** · Da por sabido: nada — es el punto de partida · Te desbloquea: entender los tres números y perderle el miedo a la cámara.
+
 El móvil decide todo por ti y lo maquilla con software. En la a6700 decides
 tú **tres números**. No hace falta más teoría que esta página; el resto del
 tutorial son recetas.
@@ -63,7 +65,7 @@ La lección: el tele de fauna ve cosas que tu móvil jamás ha visto. Al
 principio te costará *encontrar* al animal por el visor a 350 mm — es normal,
 se entrena (deberes, abajo). Y el móvil no se jubila: lo que le sigues
 pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
-[la guía del Pixel 10 Pro](../comun/pixel-10-pro.md).
+[la guía del Pixel 10 Pro](../tecnica/pixel-10-pro.md).
 
 ## La cámara en la mano
 
@@ -77,17 +79,18 @@ pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
   para un novato: **cada modo recuerda sus propios ajustes**, así que poner
   la cámara en vídeo no te descoloca el modo safari. El vídeo del viaje —tres
   minutos sin voz, con sonido ambiente y música— tiene
-  [su guía](../comun/video-del-viaje.md).
+  [su guía](../tecnica/video-del-viaje.md).
 - **Tres ruedas**: la delantera (junto al disparador), la trasera superior y
   la rueda de control del respaldo. En M, dos llevan obturación y apertura y
   la tercera queda libre; haz una foto de prueba para ver el reparto y, si no
-  te convence, se cambia en el menú de personalización.
+  te convence, se cambia en `MENU → Ajustes → [Personal. operac.]`
+  ([capítulo 0.5](00b-menus-y-primer-dia.md)).
 - **El ISO**: flecha derecha de la rueda de control. Con ISO Auto no lo tocas.
 - **La compensación de exposición**: flecha **inferior** de la rueda de
   control (su sitio de serie). La usarás a diario — y funciona en todos los
   modos, M con ISO Auto incluido (tabla de medición, abajo). Si prefieres
   girar una rueda sin soltar el agarre, asígnala a la que quede libre en M
-  desde el menú de personalización.
+  desde `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`.
 - **No hay joystick**: el punto de enfoque se mueve con la rueda de control o
   **tocando la pantalla** — y lo moverás poco: el reconocimiento de animales
   (abajo) hace la mayor parte del trabajo.
@@ -163,19 +166,19 @@ la gráfica, no el ojo:
    en vivo no acumula los segundos y engaña).
 
 Cómo debe verse el histograma en cada escenario del viaje, dibujado:
-[chuleta visual del histograma](../comun/histograma.md).
+[chuleta visual del histograma](../referencia/histograma.md).
 
 ## RAW (y cómo pasar fotos al móvil en el viaje)
 
 En el móvil, Google/Apple editan la foto por ti. El RAW (.ARW en esta
 cámara) es el negativo sin editar: colores planos al principio, pero
 recuperas cielos, sombras y ruido de una forma imposible con JPEG. La
-edición está explicada en la [guía de edición](../comun/edicion-basica.md).
+edición está explicada en la [guía de edición](../campo/edicion-basica.md).
 
 - Configura **RAW+JPEG** si quieres compartir sobre la marcha.
 - La a6700 tiene wifi: con la app **Sony Creators' App** pasas los JPEG al
   móvil sin cables. El lector de tarjetas USB-C sigue en la maleta, pero
-  para el volcado nocturno ([logística](../comun/logistica-viaje.md)).
+  para el volcado nocturno ([logística](../campo/logistica-viaje.md)).
 
 ## Errores típicos de novato (y su antídoto)
 
@@ -183,7 +186,7 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 |---|---|
 | Una sola foto del momento bueno | Haz siempre 3; en fauna, ráfaga corta |
 | Salir por la mañana con el ISO 6400 de anoche | Las memorias 1/2 del dial lo resuelven solas: al volver a ellas recuperan lo guardado |
-| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en el ordenador. La a6700 tiene una sola ranura — lleva tarjetas de sobra ([logística](../comun/logistica-viaje.md)) |
+| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en el ordenador. La a6700 tiene una sola ranura — lleva tarjetas de sobra ([logística](../campo/logistica-viaje.md)) |
 | Fiarse del brillo de la pantalla a pleno sol | Histograma (arriba) |
 | Horizontes torcidos | Activa el **nivel electrónico** (botón DISP hasta verlo) |
 | Limpiar la lente con la camiseta | Pera + microfibra, siempre en la mochila |
@@ -194,7 +197,7 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 > Estas tardes, junto con todo lo demás que hay que practicar (las
 > monográficas, las noches de estrellas, el Pixel), están puestas en
 > calendario real — semana a semana hasta el avión — en el
-> [plan de entrenamiento](../comun/plan-de-entrenamiento.md).
+> [plan de entrenamiento](../plan/plan-de-entrenamiento.md).
 
 1. **Apertura**: modo A en un parque. La misma foto a la apertura mínima de
    tu objetivo y a f/8. Mira el fondo.
@@ -218,7 +221,7 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 6. **La cámara a ciegas**: configura los botones y las memorias MR1/MR2 del
    [capítulo 1](01-configuracion-basica.md) y practica el cambio sin mirar.
    Después vuelca las fotos y prueba el
-   [flujo de edición](../comun/edicion-basica.md) con las de la tarde 5.
+   [flujo de edición](../campo/edicion-basica.md) con las de la tarde 5.
 7. **Charca nocturna de ensayo**: busca una fuente o estatua **iluminada con
    focos** en tu ciudad, de noche: trípode, M, 1/60 s, f/6.3, ISO 6400, y
    ajusta el balance de blancos en K hasta que la piedra no salga naranja.
@@ -229,7 +232,15 @@ edición está explicada en la [guía de edición](../comun/edicion-basica.md).
 Cuando estas siete salgan solas: [Safari a fondo](../mejora/safari-a-fondo.md)
 propone tres tardes monográficas más (contraluces, barridos y fondos). Y la
 segunda cámara del viaje, el Pixel 10 Pro, tiene sus diez minutos de puesta a
-punto en [su guía](../comun/pixel-10-pro.md).
+punto en [su guía](../tecnica/pixel-10-pro.md).
+
+## Y ahora, ¿qué?
+
+Si la cámara acaba de llegar (o el menú te da miedo), el siguiente paso es
+el [capítulo 0.5](00b-menus-y-primer-dia.md): el día 0 de la caja a la
+primera foto, el mapa del menú y cómo revisar las fotos como es debido.
+Luego, el [capítulo 1](01-configuracion-basica.md) deja la cámara
+configurada para el viaje.
 
 ## Referencias
 

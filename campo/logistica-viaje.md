@@ -1,5 +1,7 @@
 # Logística del viaje — copias de seguridad, energía, avión, polvo y seguridad
 
+> 🔵 **Básico** · Da por sabido: nada · Te desbloquea: no perder ni una foto, ni una batería, ni el equipo en el avión.
+
 Lo que no es hacer fotos pero decide si vuelves con ellas.
 
 ## Copias de seguridad: la regla es "dos copias siempre"
@@ -121,6 +123,39 @@ Rutina diaria de 5 minutos que salva el equipo:
   riesgo estacional). Recomendaciones oficiales de viaje:
   <https://www.exteriores.gob.es/>
 
+## Personas, permisos y el dron que se queda en casa
+
+La parte del viaje que no aparece en ninguna receta y que sí te puede
+arruinar un rato — o algo peor.
+
+**Fotografiar personas.** En los pueblos de la ruta, en las gasolineras y en
+los mercados vas a ver escenas que piden foto. La regla es simple y no tiene
+excepciones cómodas:
+
+- **Pregunta antes**, aunque sea por gestos y desde lejos. Un gesto hacia la
+  cámara y una sonrisa bastan; si la respuesta es no, se acabó.
+- **Nada de teleobjetivo a escondidas** para "no molestar": molesta más.
+- **Si te piden dinero**, decide antes de disparar, no después. Y si pagas,
+  paga sin regatear y no dispares treinta fotos.
+- **Los niños, solo con un adulto delante y de acuerdo.**
+- Enseñar la foto en la pantalla es la mejor moneda de cambio que existe: se
+  tarda diez segundos y cambia el encuentro entero.
+
+**El dron se queda en casa.** No lo llevas en el equipo, pero por si surge la
+tentación de comprar uno: en Namibia los drones están **prohibidos en los
+parques nacionales** (Etosha, Sossusvlei, Costa de los Esqueletos) sin
+permiso escrito del Ministerio de Medio Ambiente. Y en **Etosha la
+prohibición es total**: si llegas con uno, lo dejas en la puerta. La razón es
+el furtivismo de rinoceronte — el parque concentra la mayoría de los rinos
+negros del país. Volar fuera de parques exige permiso de la autoridad de
+aviación civil (NCAA), solicitado **con unos dos meses de antelación**, solo
+de día y a la vista.
+
+**Y en el mirador de la charca**, la etiqueta que ya conoces pero conviene
+tener escrita: nada de flash, frontal solo en rojo y apuntando al suelo, y
+silencio ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)).
+
+
 ## El equipo en el avión
 
 La regla de oro: **óptica, cuerpos, baterías y datos van en cabina; a bodega
@@ -180,7 +215,7 @@ no en Etosha:
 - [ ] **Prueba de vídeo**: selector en Vídeo, PAL y 4K 25p confirmados, un
   clip de 30 segundos **escuchado con auriculares** (¿entra el ambiente sin
   ruido de viento?) y abierto en el ordenador
-  ([el vídeo del viaje](video-del-viaje.md)).
+  ([el vídeo del viaje](../tecnica/video-del-viaje.md)).
 - [ ] Baterías todas cargadas; fecha y hora de la cámara en hora local.
 - [ ] **Copia de seguridad hecha de todo lo que haya en la tarjeta — y
   entonces** formatearla EN la cámara (nunca en el ordenador).
@@ -194,15 +229,18 @@ no en Etosha:
   **pésala**: revisa la franquicia de tus vuelos; si te pasas, cámara al
   cuello y chaqueta de bolsillos grandes.
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
-  descargados ([cómo, paso a paso](apps-del-viaje.md)).
-- [ ] **El Pixel**: ajustes del [nivel básico](pixel-10-pro.md) puestos, una
+  descargados ([cómo, paso a paso](../referencia/apps-del-viaje.md)).
+- [ ] **El Pixel**: ajustes del [nivel básico](../tecnica/pixel-10-pro.md) puestos, una
   foto en modo astro hecha ya alguna noche en casa, memoria libre y el cable
   USB-C para copiar al SSD probado.
 - [ ] Imprime la [chuleta](../a6700/chuleta.md), la
-  [lista de tomas](lista-de-tomas.md) y la
-  [chuleta de vídeo](chuleta-video.md).
+  [lista de tomas](../plan/lista-de-tomas.md) y la
+  [chuleta de vídeo](../tecnica/chuleta-video.md).
 
 ## Referencias
+
+- Prohibición total de drones en Etosha (Ministerio de Medio Ambiente): <https://observer24.com.na/meft-outlaws-drones-in-etosha/>
+- Reglas de drones en Namibia y permisos de la NCAA: <https://drone-traveller.com/drone-laws-namibia/>
 
 - Namibia Wildlife Resorts (campamentos, puertas, reservas): <https://www.nwr.com.na/>
 - Enchufes y voltaje por país: <https://www.worldstandards.eu/electricity/plug-voltage-by-country/>

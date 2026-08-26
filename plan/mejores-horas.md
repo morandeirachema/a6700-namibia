@@ -1,5 +1,7 @@
 # Las mejores horas — el día del safari y las noches de tu viaje
 
+> 🔵 **Básico** · Da por sabido: nada · Te desbloquea: estar en el sitio correcto a la hora correcta, que es media foto.
+
 En Etosha no eliges cuándo salir: las puertas de los campamentos abren al
 amanecer y cierran al atardecer, y de noche no se circula. En tu quincena
 (1–15 de noviembre) eso significa **de ~06:15 a ~19:05** (sol: ~06:11–06:16 /
@@ -8,7 +10,7 @@ mayoría de las fotos buenas del viaje saldrán de las **dos primeras y las dos
 últimas horas de luz**. Esta guía es el reloj del viaje: el día de safari hora
 a hora, la fauna que sí tiene horario y las noches del 1 al 15 con su luna.
 Qué charca toca en cada franja está en
-[mejora · parte 1](../mejora/parte-1-principiante.md).
+[la mirada](../mejora/la-mirada.md).
 
 ## El día de safari en una tabla
 
@@ -38,12 +40,12 @@ que no dependen de la suerte:
 Con la cámara, en estas ventanas:
 
 - La luz cambia deprisa: **foto de prueba + histograma cada pocos minutos**
-  ([cómo leerlo](histograma.md)), no una vez por sesión.
+  ([cómo leerlo](../referencia/histograma.md)), no una vez por sesión.
 - Al caer la luz, baja la obturación antes que dejar que el ISO se dispare:
   la fila "atardecer" de la [receta por escena](../a6700/03-safari-diurno.md#receta-por-escena-solo-tocas-la-rueda-delantera)
   (1/250 s **con apoyo**) existe para esto.
 - Amaneceres y atardeceres: el AWB te roba el color — usa los valores de
-  [balance de blancos por escena](balance-de-blancos.md).
+  [balance de blancos por escena](../referencia/balance-de-blancos.md).
 - El contraluz con polvo dorado de la última hora es de las fotos del viaje:
   sol detrás del animal y siluetas. Buscado, no accidental
   ([composición](../a6700/03-safari-diurno.md#composición-de-foto-de-recuerdo-a-foto-decente)).
@@ -58,7 +60,7 @@ a mediodía:
   la ventanilla y esperar — la congregación de elefantes, cebras y jirafas
   en pleno día es foto de mediodía.
 - La luz dura + calcreta blanca funciona en **clave alta y blanco y negro**
-  (la receta está en [mejora · parte 1](../mejora/parte-1-principiante.md)).
+  (la receta está en [la mirada](../mejora/la-mirada.md)).
 - Si no hay actividad: come, duerme y repasa qué te falta de la
   [lista de tomas](lista-de-tomas.md). Un safari son muchos días — quemarse
   a mediodía roba las horas buenas de la tarde.
@@ -69,7 +71,7 @@ a mediodía:
 
 - Las puertas cierran **con la puesta de sol** (~19:05 en tu quincena) y
   llegar tarde es multa. Planifica el día como un lazo que **acaba al lado
-  del campamento**, no un ida-y-vuelta largo ([logística](logistica-viaje.md)).
+  del campamento**, no un ida-y-vuelta largo ([logística](../campo/logistica-viaje.md)).
 - Regla práctica: a las 18:00, estar como mucho a 30 minutos de la puerta.
   La última media hora se fotografía *de camino*, no alejándose.
 - Dentro del recinto el día no acaba: cena y sesión en el mirador de la
@@ -83,15 +85,17 @@ Merece la pena plantarse antes y esperarlos:
 
 | Quién | Cuándo | Dónde y detalle |
 |---|---|---|
-| **Gangas** (namaqua sandgrouse) | **~2 h después del amanecer** (entre las ~08:00 y las 09:00), en bandadas y con puntualidad británica | Charcas abiertas; los machos se llevan el agua en las plumas del pecho ([mejora · parte 1](../mejora/parte-1-principiante.md)) |
-| **Leones de Goas** | **16:00–18:00** (documentado por fotógrafos de la zona) | Charca de Goas, zona Halali ([mejora · parte 1](../mejora/parte-1-principiante.md)) |
+| **Gangas** (namaqua sandgrouse) | **~2 h después del amanecer** (entre las ~08:00 y las 09:00), en bandadas y con puntualidad británica | Charcas abiertas; los machos se llevan el agua en las plumas del pecho ([la mirada](../mejora/la-mirada.md)) |
+| **Leones de Goas** | **16:00–18:00** (documentado por fotógrafos de la zona) | Charca de Goas, zona Halali ([la mirada](../mejora/la-mirada.md)) |
 | **Rinoceronte negro** | **21:00–medianoche**, casi cada noche — fiable también en noviembre | Charca iluminada de Okaukuejo, desde el mirador ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)) |
 | **Elefantes** | Horas de más calor (mediodía–primera tarde); en Okaukuejo también al anochecer | Cualquier charca grande; en noviembre el calor los trae a beber a diario |
 | **Chacales** | Del anochecer en adelante | Rondando el campamento y la charca del mirador |
-| **Flamencos** (extra costero, día 6) | **Primera luz, ~06:15–07:30** — y la marea manda | Laguna de Walvis Bay ([paisaje](paisaje-namibia.md)) |
+| **Flamencos** (extra costero, día 6) | **Primera luz, ~06:15–07:30** — y la marea manda | Laguna de Walvis Bay ([paisaje](../tecnica/paisaje-namibia.md)) |
 
 El resto — leopardos incluidos — no tiene horario: por eso la estrategia son
-las ventanas de oro y la paciencia en la charca, no perseguir rumores.
+las ventanas de oro y la paciencia en la charca, no perseguir rumores. Especie
+a especie (el gesto que hay que esperar y los ajustes de cada una):
+[la fauna, animal por animal](../tecnica/fauna-de-namibia.md).
 
 ## Las noches del viaje, día a día (1–15 de noviembre)
 
@@ -102,10 +106,10 @@ Reglas generales de la noche namibia en tu quincena:
   (≈ 04:55).
 - **La primera hora oscura es la de la Vía Láctea**: en noviembre el núcleo
   cuelga bajo al oeste justo al anochecer y se pone pronto
-  ([mejora · parte 1](../mejora/parte-1-principiante.md)).
+  ([la mirada](../mejora/la-mirada.md)).
 - En Etosha, de **21:00 a medianoche** manda la charca (rinos); la madrugada
   es de círculos de estrellas y Nubes de Magallanes. El plan de la noche
-  completa, hora a hora, está en [mejora · parte 2](../mejora/parte-2-avanzado.md);
+  completa, hora a hora, está en [estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md);
   el catálogo de todo lo fotografiable en tu ventana, en
   [el cielo del viaje](cielo-del-viaje.md).
 
@@ -138,11 +142,11 @@ urbano.)
 
 1. Mira en [PhotoPills](https://www.photopills.com/) el amanecer, el ocaso y
    la **luna** exactos del día siguiente (cambian unos minutos a lo largo de
-   la quincena; cómo se usa la app, en [las apps del viaje](apps-del-viaje.md)).
+   la quincena; cómo se usa la app, en [las apps del viaje](../referencia/apps-del-viaje.md)).
    Los horarios oficiales de puertas están en el tablón de cada campamento
    de [NWR](https://www.nwr.com.na/).
 2. Elige la charca del amanecer con la tabla de
-   [mejora · parte 1](../mejora/parte-1-principiante.md) y calcula a qué hora
+   [la mirada](../mejora/la-mirada.md) y calcula a qué hora
    tienes que cruzar la puerta para llegar con la luz buena.
 3. Traza el lazo del día de forma que a las 18:00 estés a ≤30 min del
    campamento.

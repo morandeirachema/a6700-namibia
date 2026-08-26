@@ -1,11 +1,13 @@
 # 5. Equipo y accesorios para la a6700 (enfoque budget)
 
+> 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
+
 Situación de partida de este viaje: se empieza casi de cero y el kit son
 **tres compras** — el cuerpo, el gran angular de astro y paisaje, y el tele
 de fauna — elegidas para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
 cubre el hueco de en medio y el vídeo del viaje
-([su guía](../comun/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
+([su guía](../tecnica/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
 que más fabricantes terceros tiene (Sigma, Tamron, Samyang, Viltrox…) y un
 mercado de segunda mano enorme (<https://www.mpb.com/>), donde casi todo baja
 un 20–40 %.
@@ -35,7 +37,7 @@ Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
 
 - **Una sola ranura de tarjeta** (SD UHS-II): no hay copia automática en
   segunda tarjeta. La primera copia del viaje es el **volcado nocturno al
-  SSD** ([logística](../comun/logistica-viaje.md)) — con esta cámara no es
+  SSD** ([logística](../campo/logistica-viaje.md)) — con esta cámara no es
   opcional.
 - **La caja no trae cargador**: la batería se carga por USB-C en la propia
   cámara. Funciona (y un power bank la revive en el campo), pero compra el
@@ -102,13 +104,13 @@ Etosha y una sola bolsa vale oro.
 - **Empieza en 70 mm** (105 eq): entre el 11 mm y el tele queda un hueco que
   ningún objetivo tuyo cubre. Ese tramo — el retrato, el grupo, el coche en
   la pista, el animal pegado al coche — es del
-  [Pixel](../comun/pixel-10-pro.md), y se resuelve sin desmontar nada en un
+  [Pixel](../tecnica/pixel-10-pro.md), y se resuelve sin desmontar nada en un
   sitio con polvo en suspensión.
 
 Y algo que **no** tiene: modo macro. Su ampliación máxima es 0,23x a 350 mm
 — vale para texturas y flores grandes, no para insectos; el macro de verdad
 de este viaje lo hace el móvil, que enfoca a 3 cm
-([la guía del Pixel](../comun/pixel-10-pro.md)).
+([la guía del Pixel](../tecnica/pixel-10-pro.md)).
 
 ## Accesorios
 
@@ -116,7 +118,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
   sobra presupuesto): la a6700 tiene una sola ranura y es UHS-II — una SD
   lenta atasca las ráfagas. Las SD antiguas que ya tengas, de respaldo de
   emergencia. Una tarjeta llena **no se reutiliza** hasta volcarla
-  ([logística](../comun/logistica-viaje.md)).
+  ([logística](../campo/logistica-viaje.md)).
 - **2 baterías NP-FZ100 extra** (originales de segunda mano o compatibles de
   marca conocida) + **cargador doble por USB (~30–40 €)**: la caja no trae
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
@@ -125,7 +127,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
 - **2 adaptadores de enchufe tipo D/M + una regleta europea pequeña**: los
   enchufes de Namibia no son los europeos, y con la regleta un solo
   adaptador da servicio a todos los cargadores a la vez
-  ([logística](../comun/logistica-viaje.md)).
+  ([logística](../campo/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
   (`Interval Shoot Func.`) — un cable menos que comprar y que perder.
 - **Trípode**: uno de viaje estable es suficiente (K&F Concept, Manfrotto
@@ -151,7 +153,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
   para olas y niebla de 30 s a plena luz y un **polarizador circular**
   (~20–30 €) solo para el tele: en el 11 mm oscurece el cielo a trozos.
   (Ojo: con el step-up montado no entra el parasol del 11 mm.)
-- **Para el vídeo, dos cosas baratas** ([el vídeo del viaje](../comun/video-del-viaje.md)):
+- **Para el vídeo, dos cosas baratas** ([el vídeo del viaje](../tecnica/video-del-viaje.md)):
   un **peluche antiviento** para el micro interno (~10–15 €; sin él, la brisa
   del Namib se come el audio y no hay arreglo en edición) y un **filtro ND
   variable de 55 mm** de rango corto — ND2-32 o ND4-64, ~30–45 € — para poder
@@ -161,7 +163,7 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
   para los planos fijos largos y los timelapses. Micro de solapa **no**: el
   vídeo del viaje va sin voz, con sonido ambiente.
 - **Mini trípode o pinza de móvil (~10–15 €)**: para el modo astro y los
-  timelapses del [Pixel](../comun/pixel-10-pro.md) — una piedra también
+  timelapses del [Pixel](../tecnica/pixel-10-pro.md) — una piedra también
   vale, pero la pinza apunta donde tú quieres.
 - **Pera sopladora y paño de microfibra**: el polvo de Etosha es fino y
   omnipresente. Cambia de objetivo solo dentro del coche o de la bolsa — en

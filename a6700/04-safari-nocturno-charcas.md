@@ -1,5 +1,7 @@
 # 4. Safari nocturno en charcas con la a6700 — paso a paso
 
+> 🔵 **Básico** · Da por sabido: el capítulo 1 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
+
 Dos charcas de Etosha están **iluminadas con focos toda la noche** y tienen
 mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche,
 con ventana típica entre las **21:00 y la medianoche** — fiable también en
@@ -11,6 +13,9 @@ charca iluminada, con el bar y el restaurante asomados a ella
 (<https://onguma.com/>) — mismas recetas, y con la ventaja de que allí no te
 encierra la valla del parque. Es fauna con muy poca luz: trípode, ISO alto y paciencia.
 Info de campamentos: <https://www.nwr.com.na/>
+
+> ¿No es esta tu noche? [Fotografía nocturna: por dónde empezar](../tecnica/fotografia-nocturna.md)
+> compara las cuatro noches del viaje (charca, astro, cielo con tierra y game drive) en una tabla.
 
 ## Receta rápida
 
@@ -28,8 +33,8 @@ Info de campamentos: <https://www.nwr.com.na/>
 ## Al llegar al mirador (10 minutos de preparación)
 
 1. Monta el trípode en un lateral, sin bloquear a nadie.
-2. Pon el obturador en **Electrónico** (`Menú → Disparo → Obturador/Silencioso
-   → Tipo de obturador`): la cámara dispara **sin mover una sola pieza** — en
+2. Pon el obturador en **Electrónico** (`MENU → Toma → [Obturad./silenc.] →
+   [Tipo de obturador]`): la cámara dispara **sin mover una sola pieza** — en
    un mirador de noche se oye todo, y así no haces ningún ruido. El peaje:
    con focos LED parpadeantes el obturador electrónico puede sacar **franjas
    finas** (banding). Revisa las primeras fotos ampliadas: si aparecen, pasa
@@ -137,13 +142,29 @@ Con **Visión Nocturna**, apoyado en el murete y **sin flash jamás**, hace lo
 que la Sony no está haciendo: el ambiente — el foco sobre el agua, la gente
 en el murete, el reflejo, la luna —, y el clip de vídeo del rino si está
 quieto y cerca. Lo que no: el animal moviéndose bajo el foco, que sale
-movido siempre ([la guía del Pixel](../comun/pixel-10-pro.md)).
+movido siempre ([la guía del Pixel](../tecnica/pixel-10-pro.md)).
 
 ## Combinar con astro
 
 Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
 realista: charca al anochecer y de madrugada, Vía Láctea desde la zona oscura
 del campamento entre medias ([capítulo 2](02-astrofotografia-namibia.md)).
+
+## Ejercicio antes de volar (una noche, en tu ciudad)
+
+La charca es luz escasa, sujeto que se mueve poco y silencio. Eso se ensaya
+en cualquier parque con una farola:
+
+1. Busca **una fuente o un monumento iluminado** de noche. Trípode, M,
+   1/60, apertura mínima, ISO 6400, WB en K hasta que el color sea creíble.
+2. **Prueba de banding**: dispara con obturador electrónico y amplía al
+   100 %. Si hay franjas (muchas farolas LED las dan), pasa a mecánico. Ese
+   diagnóstico, hecho una vez en casa, te ahorra media hora en el mirador.
+3. **Enfoque en penumbra**: prueba punto único sobre un borde iluminado y
+   luego MF prefijado. Cronometra cuál es más rápido para ti.
+4. **La cuenta del ISO**: haz la misma foto a 6400, 12800 y 25600 y pásalas
+   por reducción de ruido por IA. Decide **tu** techo antes del viaje, no
+   con el rinoceronte delante.
 
 ## Referencias
 

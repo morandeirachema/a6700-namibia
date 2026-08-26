@@ -1,5 +1,7 @@
 # Las fotos icónicas de Namibia — cuáles caen en tu ruta y cuáles no
 
+> 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué postales caen en tu ruta y cuáles no, antes de volar.
+
 Namibia tiene unas veinte imágenes que todo el mundo ha visto antes de
 viajar: los árboles negros de Deadvlei, la ciudad tragada por la arena, el
 rinoceronte bajo el foco, el arco de granito con la Vía Láctea detrás. La
@@ -92,7 +94,7 @@ mitad de la lista de arriba:
   ([paisaje a fondo](../mejora/paisaje-a-fondo.md)).
 - **Las carreteras** (D1275, la C14 del Kuiseb, la carretera de sal C34):
   la cinta de grava vacía con el coche diminuto — la foto que dice "Namibia"
-  mejor que muchas dunas ([las carreteras](paisaje-namibia.md)).
+  mejor que muchas dunas ([las carreteras](../tecnica/paisaje-namibia.md)).
 - **El granito de Hoada bajo las estrellas** (D8): tu sustituto real de
   Spitzkoppe, con el mismo cielo y sin nadie alrededor.
 - **Terrace Bay en niebla** (D7): minimalismo puro, y es donde tu 11 mm y el
@@ -123,7 +125,7 @@ mitad de la lista de arriba:
   [capítulo 3](../a6700/03-safari-diurno.md), charcas de noche en el
   [4](../a6700/04-safari-nocturno-charcas.md), cielo en el
   [2](../a6700/02-astrofotografia-namibia.md), paisaje en
-  [su guía](paisaje-namibia.md) y en [Paisaje a fondo](../mejora/paisaje-a-fondo.md).
+  [su guía](../tecnica/paisaje-namibia.md) y en [Paisaje a fondo](../mejora/paisaje-a-fondo.md).
 - Lo que hay que **traerse sí o sí** está en la
   [lista de tomas](lista-de-tomas.md) — 12 fotos, no 30: esta guía es el
   mapa, esa es la brújula.

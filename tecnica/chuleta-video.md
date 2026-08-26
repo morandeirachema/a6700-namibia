@@ -1,6 +1,6 @@
 # Chuleta de vídeo — a6700 + 11 mm, para imprimir y llevar en el coche
 
-Detalle: `comun/video-del-viaje.md` · montaje: `comun/edicion-basica.md` — **3 minutos, sin voz: imágenes, ambiente y música**
+Detalle: `tecnica/video-del-viaje.md` · montaje: `campo/edicion-basica.md` — **3 minutos, sin voz: imágenes, ambiente y música**
 
 ## Ajustes (selector en **Vídeo** — guarda ajustes propios: no te pisa el modo safari)
 
@@ -32,7 +32,7 @@ Parado: **las dos manos, codos al cuerpo**, y apoya donde puedas (capó, murete,
 
 ☐ 1 el coche cargado saliendo · ☐ 2 la grava desde dentro (con sonido) · ☐ 3 salir del coche a un paisaje · ☐ 4 subiendo la duna de espaldas · ☐ 5 la cresta al amanecer (f/4 + ND) · ☐ 6 detalle de manos: arena, café, mapa (f/2.8) · ☐ 7 entrando en Deadvlei · ☐ 8 la niebla de la costa (15 s fijos) · ☐ 9 las focas de Cape Cross (**el sonido ES la escena**) · ☐ 10 el Zeila o la playa vacía · ☐ 11 montar el campamento · ☐ 12 la espera en el coche · ☐ 13 el animal en vídeo, con el tele sobre el bean bag · ☐ 14 la charca de noche (f/1.8, ISO 6400, en silencio) · ☐ 15 montar el trípode con el frontal rojo · ☐ 16 el cielo en movimiento (timelapse del cap. 2) · ☐ 17 el cierre: carretera vacía o el ala del avión
 
-Del móvil, los **timelapses** y el recurso (11 tomas, `comun/pixel-10-pro.md`): despegue · grava · atardecer de Spreetshoogte · sombras de dunas · niebla · espera en la charca · elefantes junto al coche · campamento · making of · vida pequeña. **Un solo vídeo entre las dos cámaras.**
+Del móvil, los **timelapses** y el recurso (11 tomas, `tecnica/pixel-10-pro.md`): despegue · grava · atardecer de Spreetshoogte · sombras de dunas · niebla · espera en la charca · elefantes junto al coche · campamento · making of · vida pequeña. **Un solo vídeo entre las dos cámaras.**
 
 ## Cada día
 

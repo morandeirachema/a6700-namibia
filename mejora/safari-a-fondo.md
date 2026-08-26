@@ -1,5 +1,7 @@
 # Safari a fondo — que la foto no salga plana
 
+> 🔴 **Avanzado** · Da por sabido: el capítulo 3 ya en automático · Te desbloquea: que la foto deje de ser correcta y empiece a ser buena.
+
 El [capítulo 3](../a6700/03-safari-diurno.md) te garantiza la foto *correcta*:
 nítida, bien expuesta, el ojo enfocado. Esta guía va del siguiente problema,
 el que nadie te avisa: la foto correcta **y muerta**. El animal centrado, a
@@ -11,7 +13,7 @@ por ti: la luz que había, la altura de tus ojos, el primer encuadre que
 salió, el momento en que pasabas y el ajuste "seguro". Esta guía repasa las
 cinco, cada una con receta. Prerrequisitos: la
 [rutina de 10 segundos](../a6700/03-safari-diurno.md) automatizada y el plan
-de charcas de la [parte 1](parte-1-principiante.md).
+de charcas de [la mirada](la-mirada.md).
 
 ## 1 · La luz ES la foto (la dirección, no la cantidad)
 
@@ -26,7 +28,7 @@ minuto de maniobra cambia la foto entera.
 | **Lateral** (sol a un costado) | Modela: cada músculo y arruga del elefante tiene su sombra. La luz de los retratos serios | Primera/última hora. Coloca el coche para que la luz cruce al animal de lado; expón normal y deja las sombras oscuras (no las levantes luego a tope) |
 | **Contraluz** (sol detrás del animal) | El borde del animal se enciende (*rim light*), el polvo se vuelve oro | Sol bajo, **−1 EV** de compensación (funciona también en M+ISO Auto), 1/2000 si hay acción. Busca animales con contorno peludo o polvo en el aire |
 | **Silueta** | Forma pura contra el cielo naranja | **−1 a −2 EV** midiendo al cielo; el animal, negro total. Necesita un perfil reconocible (jirafa, acacia, cuernos) y horizonte limpio |
-| **Dura de mediodía** | Sombras negras verticales, ojos apagados | No luches: **clave alta B/N** (+2/3 a +1 sobre la calcreta blanca, [parte 1](parte-1-principiante.md)) o guarda el tele y busca detalles a la sombra |
+| **Dura de mediodía** | Sombras negras verticales, ojos apagados | No luches: **clave alta B/N** (+2/3 a +1 sobre la calcreta blanca, [la mirada](la-mirada.md)) o guarda el tele y busca detalles a la sombra |
 | **De tormenta** (noviembre) | Sol lateral contra fondo de nubes negras: la luz más dramática del viaje | **−2/3 EV** para conservar el cielo oscuro; dispara al claro entre nubes que "enciende" al animal |
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Giraffe_at_sunset_%2823890747878%29.jpg/1280px-Giraffe_at_sunset_%2823890747878%29.jpg" alt="Silueta de jirafa contra el cielo del atardecer" width="100%">
@@ -88,14 +90,14 @@ una decisión:
   **punto único al ojo** o toca al animal en pantalla
   ([capítulo 3](../a6700/03-safari-diurno.md)); y el modo de enfoque **DMF**
   te deja acercar el foco a mano sin salir del AF
-  ([parte 2](parte-2-avanzado.md)).
+  ([AF y exposición a fondo](af-y-exposicion-a-fondo.md)).
 - El punto dulce del 70-350 (f/7.1–f/8 en el extremo largo) y el truco de
   recoger el zoom para ganar un tercio de paso están en la
-  [parte 2](parte-2-avanzado.md).
+  [guía del AF y la exposición](af-y-exposicion-a-fondo.md).
 
 ## 4 · El Kelvin como pincel (el color es un ajuste creativo)
 
-La [tabla por escena](../comun/balance-de-blancos.md) da la base; el salto es
+La [tabla por escena](../referencia/balance-de-blancos.md) da la base; el salto es
 entender que **el Kelvin decide el ánimo** de la foto, y que la regla
 mnemotécnica es una: *número arriba = foto más cálida; número abajo = más
 fría*.
@@ -108,7 +110,7 @@ fría*.
   "arregles": duna azul + cielo naranja es una paleta, no un error.
 - **Luz dura de mediodía**: el color ya no aporta — pasa el chip a
   **blanco y negro mental**: busca contraste, textura y forma, y convierte
-  en edición ([flujo](../comun/edicion-basica.md)). El WB da igual: es RAW.
+  en edición ([flujo](../campo/edicion-basica.md)). El WB da igual: es RAW.
 - **Noche de charca**: los 2800–4000 K de la
   [prueba de color](../a6700/04-safari-nocturno-charcas.md) buscan piel
   natural; si el ambiente pide misterio, deja 3000 K y asume el tono frío
@@ -128,7 +130,7 @@ fría*.
   El hábito: recorre el borde del visor antes de apretar.
 - **Espacio negativo**: el pan de Etosha es un regalo minimalista — un órix
   pequeño contra el vacío blanco (charca de Okondeka,
-  [parte 1](parte-1-principiante.md)) dice "desierto" mejor que cualquier
+  [la mirada](la-mirada.md)) dice "desierto" mejor que cualquier
   primer plano. Deja MUCHO más aire del que te pide el instinto, y en la
   dirección de la mirada.
 - **Capas**: a 70–100 mm, una manada en profundidad — cebra nítida delante,
@@ -148,7 +150,7 @@ fría*.
 - **Reflejos**: charca en calma = simetría gratis. Cámara al ras del murete
   o de la ventanilla, animal Y reflejo enteros en el encuadre (o solo el
   reflejo, girado luego en edición: nadie lo sabrá). Las charcas del
-  amanecer sin viento ([Chudop, Klein Namutoni](parte-1-principiante.md))
+  amanecer sin viento ([Chudop, Klein Namutoni](la-mirada.md))
   son las buenas.
 - **Grupos**: tres mejor que cuatro (el impar ordena), y espera la
   **geometría**: los cuellos de dos jirafas en X, la fila de cebras en
@@ -166,7 +168,7 @@ fría*.
 ## 6 · El momento: la vida está en el gesto
 
 La diferencia entre "un león" y "una foto de león" es un gesto — y los gestos
-**se anuncian**. La paciencia de la [parte 1](parte-1-principiante.md) con
+**se anuncian**. La paciencia de [la mirada](la-mirada.md) con
 señales concretas:
 
 | Ves… | Viene… | Prepárate |
@@ -183,7 +185,7 @@ señales concretas:
 
 <sub>**Léela**: el gesto anunciado de la tabla, cazado — fíjate en el barro aún mojado alrededor del ojo y la oreja: acaba de salir del agua, así que el baño de polvo era cuestión de segundos. La nube dibuja el movimiento alrededor de un cuerpo casi quieto, el fondo claro hace legible cada mota, y el B/N se queda con la textura. Réplica: encuadre listo ANTES de que empiece, 1/2000 y ráfaga en el lanzamiento. Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:097_African_bush_elephant_dust_bathing_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
-Y el consejo de volumen de Lanting ([parte 1](parte-1-principiante.md)):
+Y el consejo de volumen de Lanting ([la mirada](la-mirada.md)):
 cuando el gesto llegue, **trabaja la escena** — variaciones de encuadre,
 horizontal y vertical, apretado y abierto — hasta que se acabe. Las 321
 tomas de Deadvlei no eran indecisión: eran oficio.
@@ -200,20 +202,20 @@ intenta salir con cinco fotos distintas — en cualquier orden:
 5. **La salida**: el animal yéndose — la foto melancólica que cierra la
    serie (y el contraluz de despedida si el sol acompaña).
 
-La [lista de tomas](../comun/lista-de-tomas.md) te chequea el conjunto del
+La [lista de tomas](../plan/lista-de-tomas.md) te chequea el conjunto del
 viaje; la secuencia de cinco te chequea cada escena.
 
 ## 8 · ¿Y vídeo? (el clip del elefante, sin engañarse)
 
 - **Regla general en pleno safari: los clips, con el móvil.** El Pixel
   estabiliza, enfoca solo y no te roba la escena mientras disparas
-  ([su guía](../comun/pixel-10-pro.md)) — dividir tu atención entre foto y
+  ([su guía](../tecnica/pixel-10-pro.md)) — dividir tu atención entre foto y
   vídeo con la Sony es la forma más rápida de perder las dos.
 - **Fuera del momento de fauna**, el vídeo del viaje sí es de la a6700 con el
   11 mm — tres minutos sin voz, con sonido ambiente y música: la estructura y
   las 17 tomas están en
-  [El vídeo del viaje](../comun/video-del-viaje.md), con
-  [chuleta](../comun/chuleta-video.md).
+  [El vídeo del viaje](../tecnica/video-del-viaje.md), con
+  [chuleta](../tecnica/chuleta-video.md).
 - La a6700, eso sí, **es una cámara de vídeo seria** (4K con AF de
   seguimiento y reconocimiento de animales), y tiene su hueco: la escena
   estática a 525 mm equivalentes que el móvil no alcanza — el
@@ -224,7 +226,7 @@ viaje; la secuencia de cinco te chequea cada escena.
   toma.
 - Los timelapses nocturnos tienen receta propia en el
   [capítulo 2](../a6700/02-astrofotografia-namibia.md) y el
-  [catálogo del cielo](../comun/cielo-del-viaje.md).
+  [catálogo del cielo](../plan/cielo-del-viaje.md).
 
 ## Si tu foto sale plana… (el diagnóstico)
 
@@ -238,7 +240,7 @@ viaje; la secuencia de cinco te chequea cada escena.
 | Congelada pero estática, sin sensación de movimiento | 1/2000 "seguro" en escena de movimiento | Barrido a 1/40 siguiendo al animal, o aleteo a 1/320: deja que algo se mueva |
 | El color, anodino | AWB neutralizándolo todo | 5200 K fijo en la hora dorada; 6000 K si quieres incendio; azul del alba respetado |
 | Un montón de animales sin foto | Multitud sin geometría | Espera el impar, la diagonal, la X de cuellos, la interacción — o aísla a uno |
-| Bonita pero igual a las otras 400 | Solo disparaste el retrato | La secuencia de cinco; y repasa qué falta en la [lista de tomas](../comun/lista-de-tomas.md) |
+| Bonita pero igual a las otras 400 | Solo disparaste el retrato | La secuencia de cinco; y repasa qué falta en la [lista de tomas](../plan/lista-de-tomas.md) |
 
 ## El entrenamiento (una tarde por tema, antes de volar)
 
@@ -256,7 +258,7 @@ tardes monográficas — en el parque, con perros, patos o palomas:
 
 ## Referencias
 
-- Los maestros de Namibia, con sus lecciones aplicadas: [mejora · parte 1](parte-1-principiante.md)
+- Los maestros de Namibia, con sus lecciones aplicadas: [la mirada](la-mirada.md)
 - Marsel van Oosten (Squiver), composición y previsualización: <https://www.squiver.com/>
 - Nick Brandt, el retrato solemne de fauna: <https://www.nickbrandt.com/>
 - Frans Lanting: <https://www.lanting.com/>

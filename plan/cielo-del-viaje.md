@@ -1,10 +1,12 @@
 # El cielo del viaje — todo lo fotografiable del 31 oct al 14 nov
 
+> 🔵 **Básico** · Da por sabido: el capítulo 2 · Te desbloquea: saber qué hay en el cielo cada noche concreta de tu viaje.
+
 Este es el catálogo completo: **cada foto de astro que tu ventana puede dar**,
 con su fecha, su dirección, su aparato y su receta. Las otras piezas del
 puzle: el plan noche a noche con la luna está en
 [las mejores horas](mejores-horas.md), el plan de una noche hora a hora en
-[mejora · parte 2](../mejora/parte-2-avanzado.md) y la técnica base en el
+[estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md) y la técnica base en el
 [capítulo 2](../a6700/02-astrofotografia-namibia.md).
 
 Por qué tu ventana es excepcional: cielos **Bortle 1–2**, luna nueva el
@@ -34,7 +36,7 @@ el anochecer ya es sin luna.)
 - **Con qué**: a6700 + el 11 mm + trípode.
 - **Receta**: la estándar (20 s · f/1.8 · ISO 1600–3200 · WB 3900 K), y como
   está tumbado, la composición es de **banda diagonal con silueta** o la
-  **panorámica de 3–4 verticales** ([mejora · parte 2](../mejora/parte-2-avanzado.md)).
+  **panorámica de 3–4 verticales** ([estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md)).
   El arte de meter el objeto en tierra — elegirlo, enfocarlo, repartir el
   encuadre — tiene guía propia:
   [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
@@ -64,7 +66,7 @@ el anochecer ya es sin luna.)
 - **Con qué**:
   - **a6700 + el 11 mm**: las dos con paisaje en un encuadre; son tenues:
     **apila 15–20 tomas** (20 s · f/1.8 · ISO 1600–3200) con Sequator
-    ([edición](edicion-basica.md)).
+    ([edición](../campo/edicion-basica.md)).
   - **Prismáticos 8x42**: el paseo por dentro de las Nubes es el mejor
     descanso entre serie y serie.
 
@@ -98,7 +100,7 @@ el anochecer ya es sin luna.)
 - **Receta**: 30 s · f/2.8 · ISO 800–1600, 90–180 tomas encadenadas con el
   **intervalómetro integrado** (`Interval Shoot Func.`), NR de larga
   exposición OFF ([capítulo 2](../a6700/02-astrofotografia-namibia.md));
-  apilado en StarStaX ([edición](edicion-basica.md)). Componer el remolino
+  apilado en StarStaX ([edición](../campo/edicion-basica.md)). Componer el remolino
   sobre un objeto — dirección, margen, la tierra durante la serie — está a
   fondo en [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
 - **Ojo**: la Cruz del Sur **no está** en tus anocheceres (vuelve de
@@ -130,7 +132,7 @@ el anochecer ya es sin luna.)
 
 - **La menguante del alba, 1–4 nov**: colgada al amanecer — el día 4, sobre
   las dunas en el madrugón de Deadvlei: paisaje con luna, receta normal de
-  paisaje ([guía](paisaje-namibia.md)).
+  paisaje ([guía](../tecnica/paisaje-namibia.md)).
 - **La creciente fina con luz cenicienta, 11–13 nov**: al anochecer sobre el
   oeste, el "abrazo" de la luna vieja. Dos fotos:
   - Con el **11 mm**: creciente + resplandor + horizonte, receta de paisaje
@@ -156,12 +158,12 @@ Tu foto en movimiento, por dos vías (de menos a más esfuerzo):
 
 1. **El Pixel**: el modo astro regala un mini-timelapse sin montar nada —
    móvil quieto sobre una piedra, cuatro minutos y listo
-   ([su guía](pixel-10-pro.md)). Es la vía "pon y olvida" de este viaje.
+   ([su guía](../tecnica/pixel-10-pro.md)). Es la vía "pon y olvida" de este viaje.
 2. **La a6700 con su intervalómetro integrado** (`Interval Shoot Func.`),
    la versión de máxima calidad — sin cable que comprar, viene de serie:
    15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
    [capítulo 2](../a6700/02-astrofotografia-namibia.md), montaje en
-   [edición](edicion-basica.md)). Resérvala para la noche estrella.
+   [edición](../campo/edicion-basica.md)). Resérvala para la noche estrella.
 
 Las siluetas buenas: la línea de mopanes y el depósito de agua de Okaukuejo,
 el granito de Hoada, el molino o los tejados de la granja de Spreetshoogte,

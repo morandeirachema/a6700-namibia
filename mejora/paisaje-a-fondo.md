@@ -1,6 +1,8 @@
 # Paisaje a fondo — que la duna no salga plana
 
-La [guía de paisaje](../comun/paisaje-namibia.md) te da la foto *correcta*
+> 🔴 **Avanzado** · Da por sabido: la guía de paisaje de Namibia · Te desbloquea: que la duna no salga plana.
+
+La [guía de paisaje](../tecnica/paisaje-namibia.md) te da la foto *correcta*
 (f/8, ISO 100, horizonte recto, la hora buena) y el mapa de tu ruta. Esta va
 del siguiente problema: la duna correcta **y plana** — la foto que sale igual
 que la de todos los que se bajaron del coche en el mismo aparcamiento: la
@@ -14,7 +16,7 @@ puede seguir desde cero.
 
 | Decisión | La regla | Con tu equipo |
 |---|---|---|
-| **Luz** | Rasante y lateral: mitad luz, mitad sombra | Primera y última hora; PhotoPills dice el minuto ([apps](../comun/apps-del-viaje.md)) |
+| **Luz** | Rasante y lateral: mitad luz, mitad sombra | Primera y última hora; PhotoPills dice el minuto ([apps](../referencia/apps-del-viaje.md)) |
 | **Profundidad** | Algo a un metro y algo en el infinito, ambos nítidos | 11 mm · f/8 · **enfoca a un metro y pasa el objetivo a MF**: nítido de ~0,45 m al infinito |
 | **Escala** | Algo que mida: árbol, órix, persona, coche | Pequeño y en un tercio, contra una zona lisa |
 | **Líneas** | Una cresta en S o una diagonal que entre por una esquina; horizonte fuera del centro y recto | Nivel electrónico (DISP), y el **tele** para aislar la línea |
@@ -124,7 +126,7 @@ foto en "grande"**.
   media mañana o media tarde, cuando el paisaje grande ha muerto. Ojo con
   el mediodía en serio: el aire caliente **tiembla** y a 350 mm todo lo
   lejano sale blando aunque enfoques bien (la calima de
-  [mejores horas](../comun/mejores-horas.md)); acércate al sujeto o espera.
+  [mejores horas](../plan/mejores-horas.md)); acércate al sujeto o espera.
 - **Vertical existe**: un árbol de Deadvlei con su sombra, una cresta que
   sube, la torre de nubes de la tormenta — la escena buena merece la versión
   horizontal Y la vertical, y la vertical es la que casi nadie hace.
@@ -133,16 +135,16 @@ foto en "grande"**.
 
 - **Kelvin fijo, AWB prohibido** en la hora buena: **5200 K** de día — el
   automático "corrige" el naranja de la duna y el azul del alba, que es
-  justo lo que viniste a buscar ([balance de blancos](../comun/balance-de-blancos.md)).
+  justo lo que viniste a buscar ([balance de blancos](../referencia/balance-de-blancos.md)).
 - **La pareja naranja/azul** es la paleta de Namibia: duna contra cielo,
   arcilla blanca de Deadvlei entre las dos. Funciona sola si no quemas ninguno
   de los dos: activa el **Zebra 100+** y baja la exposición hasta que las
-  rayas desaparezcan del cielo ([histograma](../comun/histograma.md)).
+  rayas desaparezcan del cielo ([histograma](../referencia/histograma.md)).
 - **Cielo blanco = fuera cielo**: con calima o a mediodía, el cielo es una
   mancha lechosa que no aporta. Reencuadra con el tele para dejarlo fuera.
 - **Blanco y negro mental** cuando el color no cuenta nada (mediodía,
   niebla): la foto pasa a ser de forma, línea y textura. Es RAW: se decide
-  en casa ([edición](../comun/edicion-basica.md)), pero se **ve** allí.
+  en casa ([edición](../campo/edicion-basica.md)), pero se **ve** allí.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/054c_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg/1280px-054c_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg" alt="Árboles muertos de Deadvlei con la duna naranja detrás y el cielo azul" width="100%">
 
@@ -161,16 +163,16 @@ En la costa, la obturación vuelve a ser un pincel:
 - **Olas congeladas**: 1/1000 y el momento del reventón — la misma escena,
   la foto contraria. Haz las dos.
 - **¿Polarizador?** En el 11 mm no (oscurece el cielo a trozos, como dice la
-  [guía base](../comun/paisaje-namibia.md)); en el **tele**, uno circular de
+  [guía base](../tecnica/paisaje-namibia.md)); en el **tele**, uno circular de
   67 mm (~20–30 €) sí ayuda: cielo más azul, menos velo de calima en las
   capas de Spreetshoogte y las dunas de la costa. Opcional; y para astro,
   ningún filtro nunca ([equipo](../a6700/05-equipo-accesorios.md)).
 - **La niebla entrando** en Sandwich Harbour o Terrace Bay: es un timelapse
-  ([paisaje](../comun/paisaje-namibia.md)), o una foto larga de 30 s si
+  ([paisaje](../tecnica/paisaje-namibia.md)), o una foto larga de 30 s si
   hay ND: la niebla se convierte en velo.
 - **La versión sin trípode**: el modo *Larga exposición* del Pixel hace las
   olas sedosas a pulso, para el recuerdo
-  ([la guía del Pixel](../comun/pixel-10-pro.md)).
+  ([la guía del Pixel](../tecnica/pixel-10-pro.md)).
 
 ## 7 · La panorámica: cuando el paisaje es más ancho que el 11 mm
 
@@ -190,7 +192,7 @@ mejor que cualquier barrido automático.
    derecha; 4–8 tomas. Empieza y acaba con una foto de tu mano: marca la
    serie para encontrarla luego.
 5. En casa: **Lightroom → Fusionar → Panorama**, o **Hugin** (gratis:
-   <https://hugin.sourceforge.io/>). El [Pixel](../comun/pixel-10-pro.md)
+   <https://hugin.sourceforge.io/>). El [Pixel](../tecnica/pixel-10-pro.md)
    trae panorámica en el móvil: para el recuerdo, sobra.
 
 ## 8 · Cuando la escena no cabe en el sensor
@@ -198,7 +200,7 @@ mejor que cualquier barrido automático.
 - El contraste de Deadvlei o el interior de un cañón contra el cielo supera
   a cualquier cámara: **horquillado ±2 EV** (`Bracket: 3 fotos ±2 EV`) con
   temporizador de 2 s, y fusiona en casa — receta completa en la
-  [guía de paisaje](../comun/paisaje-namibia.md).
+  [guía de paisaje](../tecnica/paisaje-namibia.md).
 - Cuando sí cabe pero justo: **expón lo más claro posible sin quemar** (el
   Zebra 100+ empieza a aparecer en el cielo → media rueda menos). Levantar
   sombras del RAW de la a6700 sale limpio; recuperar un cielo quemado, no.
@@ -219,6 +221,20 @@ mejor que cualquier barrido automático.
 | **Hoada** | Las bolas de granito de frente, planas | Rasante lateral que enciende la roca; una bola de primer plano | Atardecer, 11 mm a f/8 con la hiperfocal puesta, cámara baja, la bola grande a un metro |
 | **Etosha: mirador del pan, Okondeka** | El horizonte al medio y blanco | Cuatro franjas y un punto; el vacío como sujeto | Tele para comprimir las franjas, horizonte recto, +2/3 EV sobre la calcreta ([Safari a fondo](safari-a-fondo.md)) |
 | **Cualquier campamento al ocaso** | La puesta de sol sin nada delante | La silueta: acacia, mopane, depósito de agua | −1 a −2 EV midiendo al cielo; el sujeto negro y reconocible; después, quédate para el azul |
+
+## 10 · Las recetas de los maestros, aplicadas a tu ruta
+
+- **Deadvlei según Lanting**: se dispara con el **tele** (100–200 mm del
+  zoom, 150–300 mm equivalentes), cerrado a f/11–f/16, **sin cielo ni
+  horizonte** en el encuadre, en la
+  ventana en que la duna del fondo está encendida y la arcilla del vlei aún
+  en sombra (que se vuelve azul). Exposición para la duna iluminada; los
+  árboles, casi siluetas. Y volumen: Lanting hizo 321 tomas de esos árboles.
+- **Abstractos de duna según van Oosten**: 200 mm equivalentes o más, luz
+  rasante de primera o última hora, buscar la línea de cresta luz/sombra,
+  excluir el cielo. El 70-350 desde la carretera de Sossusvlei es tu pincel.
+- **Luz de tormenta de noviembre**: mide a la zona iluminada, −2/3, y espera
+  el claro entre nubes que enciende la sabana contra el fondo negro.
 
 ## Si el paisaje sale plano… (el diagnóstico)
 
@@ -253,7 +269,7 @@ un parque, una playa, un descampado con un árbol:
 
 ## Referencias
 
-- La base y el mapa de la ruta: [Paisaje en Namibia](../comun/paisaje-namibia.md) · las horas: [Mejores horas](../comun/mejores-horas.md)
+- La base y el mapa de la ruta: [Paisaje en Namibia](../tecnica/paisaje-namibia.md) · las horas: [Mejores horas](../plan/mejores-horas.md)
 - Marsel van Oosten (Squiver), Deadvlei y las dunas de Namibia con criterio: <https://www.squiver.com/>
 - Hougaard Malan, paisaje de Namibia y el desierto del Namib: <https://www.hougaardmalan.com/>
 - Frans Lanting: <https://www.lanting.com/>

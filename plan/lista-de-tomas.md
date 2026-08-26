@@ -19,7 +19,7 @@ reportaje y no con un carrete de pruebas.
 4. **Acción congelada**: carrera, salpicón en la charca, polvo al aire
    (1/2000 s y ráfaga).
 5. **Aves en vuelo**: flamencos en Walvis Bay o rapaces en Etosha
-   (1/2500 s+, [paisaje](paisaje-namibia.md)).
+   (1/2500 s+, [paisaje](../tecnica/paisaje-namibia.md)).
 6. **Detalle abstracto**: el tele como lupa — piel de elefante, cuello de
    jirafa, patas de flamenco en el agua. Ninguna necesita al animal entero.
 
@@ -30,13 +30,13 @@ reportaje y no con un carrete de pruebas.
 8. **Vía Láctea con silueta** en noche sin luna
    ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) — en tu noviembre,
    solo al anochecer del 1 al 9 y baja al OSO; el plan A del cielo son las
-   **Nubes de Magallanes** ([mejora, parte 1](../mejora/parte-1-principiante.md)).
+   **Nubes de Magallanes** ([la mirada](../mejora/la-mirada.md)).
 9. **Star trails** girando sobre un primer plano (mismo capítulo).
 
 ## Paisaje
 
 10. **Duna con luz lateral**: mitad luz, mitad sombra, al amanecer
-    ([paisaje](paisaje-namibia.md)).
+    ([paisaje](../tecnica/paisaje-namibia.md)).
 11. **Los árboles de Deadvlei** con la duna encendida detrás.
 12. **Silueta al atardecer**: acacia o animal en negro contra el cielo
     naranja — la postal africana, sale todos los días.
@@ -69,10 +69,10 @@ reportaje y no con un carrete de pruebas.
 - ¿Y los iconos que no están aquí (Kolmanskop, árboles aljaba, Spitzkoppe)?
   No caen en tu ruta: el reparto, en
   [las fotos icónicas](fotos-iconicas-namibia.md).
-- En el [repaso de cada noche](edicion-basica.md) marca las conseguidas y
+- En el [repaso de cada noche](../campo/edicion-basica.md) marca las conseguidas y
   elige cuál persigues mañana.
 - Regla del segundo intento: si una foto de la lista salió "casi", repítela —
   la segunda vez ya sabes qué falló.
 - El **vídeo** tiene su lista aparte: 17 tomas de la a6700 en
-  [el vídeo del viaje](video-del-viaje.md) (con [chuleta](chuleta-video.md))
-  y 11 de recurso en la [guía del Pixel](pixel-10-pro.md) — **un solo vídeo**.
+  [el vídeo del viaje](../tecnica/video-del-viaje.md) (con [chuleta](../tecnica/chuleta-video.md))
+  y 11 de recurso en la [guía del Pixel](../tecnica/pixel-10-pro.md) — **un solo vídeo**.

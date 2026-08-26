@@ -1,7 +1,12 @@
 # 1. Configuración básica de la Sony a6700
 
+> 🔵 **Básico** · Da por sabido: los capítulos 0 y 0.5 · Te desbloquea: dejar la cámara lista para el viaje y no volver a configurarla.
+
 > Si vienes del móvil y los términos (obturación, ISO, modo M) aún te bailan,
 > empieza por el [capítulo 0](00-de-movil-a-la-a6700.md): 10 minutos y listo.
+> Y si lo que te pierde es **el menú** —dónde está cada cosa, cómo se navega,
+> cómo se reasigna un botón—, el [capítulo 0.5](00b-menus-y-primer-dia.md) es
+> el mapa: este capítulo lo da por sabido.
 
 El objetivo es poder cambiar entre "modo safari" y "modo astro" girando el
 dial a las memorias **1/2 (MR)**, sin bucear en menús de noche o con un león
@@ -33,7 +38,7 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 El cambio de configuración más útil de la cámara para safari:
 
-1. En el menú de enfoque: **AF con disparador → OFF** (quita el AF del
+1. `MENU → Enfoque → [AF con disparador] → OFF` (quita el AF del
    disparador).
 2. El botón **AF-ON** ya inicia el enfoque de serie: no hay que tocarlo.
 
@@ -46,10 +51,12 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
 - **La compensación de exposición, a mano**: de serie vive en la flecha
   **inferior** de la rueda de control. Las recetas de safari la usan a diario
   (funciona también en M con ISO Auto); si prefieres girar una rueda sin
-  soltar el agarre, asígnala a la que quede libre en M desde el menú de
-  personalización.
-- **Bright Monitoring en un botón custom**: en el menú de personalización,
-  asigna "Bright Monitoring" a un botón libre. Amplifica la pantalla en
+  soltar el agarre, asígnala a la que quede libre en M desde
+  `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`
+  ([capítulo 0.5](00b-menus-y-primer-dia.md)).
+- **Bright Monitoring en un botón custom**: en
+  `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`,
+  asigna "Bright Monitoring" a C1 o C2. Amplifica la pantalla en
   plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
   nocturna de esta cámara ([capítulo 2](02-astrofotografia-namibia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
@@ -58,7 +65,7 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
 - **Los botones de los objetivos**: tanto el 11 mm como el 70-350 llevan un
   **botón de retención de foco** en el barrilete (de serie congela el
   enfoque mientras lo mantienes) y un **interruptor AF/MF**. El botón es
-  reasignable desde el menú de personalización de la cámara — a un novato le
+  reasignable desde el mismo `[Ajuste t. pers./dial]` — a un novato le
   renta dejarlo como viene.
 
 ## Vídeo: los cinco ajustes que se ponen una vez
@@ -76,13 +83,13 @@ sin tocar el modo safari:
 | SteadyShot (película) | **Active** | Estabilización extra para andar grabando (recorta 1,1x) |
 
 El resto —encuadre, audio, cómo se sujeta y qué grabar— está en
-[el vídeo del viaje](../comun/video-del-viaje.md), con
-[chuleta imprimible](../comun/chuleta-video.md).
+[el vídeo del viaje](../tecnica/video-del-viaje.md), con
+[chuleta imprimible](../tecnica/chuleta-video.md).
 
 ## Memorias del dial: MR1 y MR2
 
 Configura la cámara como quieras que quede y guárdala con
-`Memoria ajustes cám.` (Camera Set. Memory) → 1 o 2:
+`MENU → Toma → [Memoria ajustes cám.]` (*Camera Set. Memory*) → 1 o 2:
 
 - **MR1 — Safari diurno**: M, 1/1000 s, apertura mínima del zoom,
   ISO Auto (100–12800), AF-C, reconocimiento de sujeto **Animal**, área
@@ -105,7 +112,7 @@ así que la primera copia de seguridad es el **volcado de cada noche** al SSD,
 y las tarjetas llenas **no se reutilizan** hasta estar volcadas y
 comprobadas. Compra la tarjeta rápida (**UHS-II**, V60 va sobrada) para que
 las ráfagas en RAW no se atasquen. El sistema completo de copias del viaje
-está en la [guía de logística](../comun/logistica-viaje.md).
+está en la [guía de logística](../campo/logistica-viaje.md).
 
 ## Si la cámara está en inglés
 
@@ -122,7 +129,7 @@ está en la [guía de logística](../comun/logistica-viaje.md).
 | Ráfaga Hi | Cont. Shooting: Hi |
 | Balance de blancos | White balance |
 | Memoria ajustes cám. | Camera Set. Memory |
-| Función disparo intervalos | Interval Shoot Func. |
+| Func. capt. interv. (intervalómetro) | Interval Shoot Func. |
 | Selector NTSC/PAL | NTSC/PAL Selector |
 | Perfil de imagen | Picture Profile |
 | Retención de enfoque | Focus Hold |

@@ -1,5 +1,7 @@
 # 3. Safari diurno con la a6700 — recetas desde el coche
 
+> 🔵 **Básico** · Da por sabido: el capítulo 1 (memoria MR1 guardada) · Te desbloquea: fauna nítida desde el coche, con el AF trabajando para ti.
+
 En Etosha el safari se hace desde el coche: cámara apoyada en la ventanilla,
 luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 (memoria MR1) y tú solo tocas dos cosas.
@@ -14,7 +16,7 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 1](01-configuracion-basica.md)) |
 | Reconocimiento de sujeto | **Animal** (cámbialo a Pájaro para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | La estándar; con hierba/ramas robando el foco, un punto menos ([mejora, parte 2](../mejora/parte-2-avanzado.md)) |
+| Sensibilidad de seguimiento | La estándar; con hierba/ramas robando el foco, un punto menos ([AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -22,6 +24,11 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 Con esto, el 80 % del safari es mantener el pulgar en AF-ON, seguir al animal
 y ráfagas cortas. Sobre la marcha ajustas la **obturación** (rueda delantera)
 según el movimiento.
+
+> Este capítulo organiza el safari por **cómo se mueve** el animal. El otro
+> eje —**quién** tienes delante: dónde y cuándo sale cada especie, qué gesto
+> esperar y qué números pedirle a la cámara con cada una— está en
+> [la fauna, animal por animal](../tecnica/fauna-de-namibia.md).
 
 ## La rutina de 10 segundos (cada vez que llegas a una escena)
 
@@ -52,7 +59,11 @@ aquí viene de serie. Tu trabajo cambia, no desaparece:
 - **Verifica en la revisión**: zoom al 100 % sobre el ojo en la primera
   ráfaga de cada escena. La IA acierta muchísimo, pero cuando falla (oreja,
   lomo, hierba), falla toda la serie igual — mejor descubrirlo en la foto 5
-  que en la 500.
+  que en la 500. **Cómo se hace, que es lo que nadie cuenta**: ▶ y **gira la
+  rueda de control** — la cámara amplía sola **sobre el punto donde enfocó**
+  (o sea, sobre el ojo), no tienes que buscarlo; y **girando el dial
+  delantero o el trasero saltas de foto manteniendo la ampliación**, así
+  revisas la ráfaga entera en diez segundos ([capítulo 0.5](00b-menus-y-primer-dia.md)).
 
 ## Exposición en la práctica
 
@@ -61,7 +72,7 @@ En M con ISO Auto la compensación de exposición **funciona con normalidad**
 oscuro (sombra, noche) → **−0.7 a −1**; escena normal → 0. Es la única
 corrección que necesitas de día. Para casos finos (animal pequeño a
 contraluz), la medición **puntual vinculada al punto de enfoque** mide justo
-donde enfocas ([mejora, parte 2](../mejora/parte-2-avanzado.md)).
+donde enfocas ([AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md)).
 
 ## Configurar una sola vez
 
@@ -137,7 +148,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
    (525 mm eq) **y** el plano abierto a 70–100 mm con el animal en su
    paisaje — este zoom empieza en 105 mm equivalentes: las dos fotos salen
    **sin cambiar de objetivo**. El zoom sirve para elegir encuadre, no solo
-   para acercar. La [lista de tomas](../comun/lista-de-tomas.md) te recuerda
+   para acercar. La [lista de tomas](../plan/lista-de-tomas.md) te recuerda
    cuáles te faltan.
 
 ## Práctica desde el coche
@@ -165,7 +176,7 @@ polvo dorado — buscados, no accidentales.
 
 El plan completo — el día hora a hora, la fauna que sí tiene horario y las
 noches de tu quincena con su luna — está en
-[las mejores horas](../comun/mejores-horas.md).
+[las mejores horas](../plan/mejores-horas.md).
 
 Y cuando la rutina de este capítulo salga sola, el siguiente piso — luz,
 velocidad, apertura, Kelvin y encuadre como decisiones creativas, no como
@@ -177,7 +188,7 @@ En el bolsillo, hace la foto *de alrededor* y el vídeo: el elefante junto al
 coche con el paisaje entero, el interior del coche a 0.5x, la gente, los
 clips de 4K del recuerdo y el timelapse de la espera en la charca apoyado en
 el salpicadero. Lo que **no** le pidas: el animal lejano a 20x — ahí inventa
-detalle, y para eso está el tele ([la guía del Pixel](../comun/pixel-10-pro.md)).
+detalle, y para eso está el tele ([la guía del Pixel](../tecnica/pixel-10-pro.md)).
 
 ## Referencias
 

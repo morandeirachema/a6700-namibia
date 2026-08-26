@@ -1,5 +1,7 @@
 # Edición básica — del RAW a la foto terminada
 
+> 🔵 **Básico** · Da por sabido: haber disparado en RAW · Te desbloquea: del archivo en bruto a la foto terminada, en pasos.
+
 Todo el tutorial te hace disparar en RAW; esta guía es el "después". Sin
 teoría de color: un flujo que funciona, en orden.
 
@@ -22,7 +24,7 @@ volcado de seguridad ([logística](logistica-viaje.md)), con las fotos del día:
    vez. ¿Animales oscuros? → compensación. ¿Ojo blando? → punto AF. Las
    tablas de "si la foto sale…" de cada capítulo dan la corrección.
 3. Decide **una sola cosa** que harás distinto mañana. Una, no cinco.
-4. Marca en la [lista de tomas](lista-de-tomas.md) las conseguidas y elige
+4. Marca en la [lista de tomas](../plan/lista-de-tomas.md) las conseguidas y elige
    la que persigues mañana.
 5. **No borres nada.**
 
@@ -122,7 +124,7 @@ El cierre del viaje: **un solo vídeo de unos 3 minutos y sin voz** — imágene
 sonido ambiente y una canción — con los dos materiales: los planos de la
 a6700, que son el esqueleto, y los timelapses y el recurso del Pixel. El
 guion ya lo rodaste: es la estructura en siete bloques de
-[el vídeo del viaje](video-del-viaje.md) (gancho → el viaje empieza →
+[el vídeo del viaje](../tecnica/video-del-viaje.md) (gancho → el viaje empieza →
 desierto → costa → safari → noche → cierre). El montaje, paso a paso en
 **DaVinci Resolve** (gratis:
 <https://www.blackmagicdesign.com/products/davinciresolve>):
@@ -177,6 +179,14 @@ mientras te animas con el montaje bueno.
 De cada sesión de edición deben salir **pocas fotos rematadas**, no muchas a
 medias: tres redondas por día de viaje son un reportaje espectacular de
 cuarenta y cinco.
+
+## Ejercicio antes de volar (una tarde)
+
+Coge **veinte RAW** de cualquier salida tuya y haz el flujo entero de esta
+guía, cronometrado: criba en dos pasadas, revelado de las cinco marcadas en
+el orden de la tabla, ruido por IA en la más oscura y exportación a sRGB.
+Objetivo: **menos de una hora en total**. En el viaje harás esto cada noche
+con sueño, y si te lleva tres horas, no lo harás.
 
 ## Referencias
 
