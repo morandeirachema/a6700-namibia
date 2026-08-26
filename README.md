@@ -64,6 +64,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 
 | Guía | Qué resuelve |
 |---|---|
+| 🖼️ [**Atlas de encuadres**](tecnica/atlas-de-encuadres.md) | El repertorio: 14 encuadres de fauna y 6 de cielo, cada uno con su diagrama, su focal, dónde cae en tu ruta y **el error que lo mata** |
 | 🦓 [La fauna, animal por animal](tecnica/fauna-de-namibia.md) | Ficha por especie de tu ruta: dónde y cuándo, **el gesto que hay que esperar**, focal, obturación y AF, y el fallo típico |
 | 🌙 [Fotografía nocturna: por dónde empezar](tecnica/fotografia-nocturna.md) | Cuál de las cuatro noches tienes delante (charca, astro, cielo con tierra, game drive) y las cuatro recetas comparadas |
 | 👤 [Retrato de viaje](tecnica/retrato-de-viaje.md) | Las personas del viaje: el 70-350 a 70 mm es focal de retrato, la sombra abierta contra el sol duro y los cuatro retratos que sí querrás |
@@ -103,6 +104,8 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 |---|---|
 | [**Por qué funciona**](mejora/por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con **los números de tu equipo**, difracción, compresión, ruido e invarianza ISO, el AF por dentro y tus dos objetivos sin marketing |
 | [**La mirada**](mejora/la-mirada.md) | Cómo piensan los maestros, el plan de charcas por luz, el comportamiento que se anticipa — y **cómo se mide si estás mejorando** |
+| [**Fotos desmontadas**](mejora/fotos-desmontadas.md) | Trece imágenes de Namibia analizadas: lo que ves, la decisión que se tomó, lo que la habría arruinado y cómo repetirla en tu ruta |
+| [**Fotógrafos de referencia**](mejora/fotografos-de-referencia.md) | Doce fotógrafos con doce estilos distintos: qué hace especial a cada uno y **qué robarle**, con enlaces a su obra |
 | [Safari a fondo](mejora/safari-a-fondo.md) | Luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas: el antídoto contra la foto plana |
 | [Paisaje a fondo](mejora/paisaje-a-fondo.md) | Que la duna no salga plana: luz rasante, profundidad, escala, líneas, color, panorámica y las recetas de los maestros |
 | [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | **Desde cero, en tres noches**: la primera foto de estrellas, la postal y los círculos — con el nivel avanzado al final |
@@ -130,6 +133,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Del histograma](referencia/histograma.md) (15 min) · [del balance de blancos](referencia/balance-de-blancos.md) (10 min) · [de edición](campo/edicion-basica.md) (una tarde cronometrada)
 - [Entrenamiento de safari](mejora/safari-a-fondo.md) · [de paisaje](mejora/paisaje-a-fondo.md) · [de vídeo](tecnica/video-del-viaje.md) — una tarde por tema
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
+- **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado
 - [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md) y [la cadena de copia del Pixel](tecnica/pixel-10-pro.md)
 - Todo esto, **en calendario**: [el plan de entrenamiento de 11 semanas](plan/plan-de-entrenamiento.md)
 
@@ -141,6 +145,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 | ✅ [Verificación in situ](a6700/verificacion-in-situ.md) | Checklists por momento del día, con el porqué de cada comprobación, y diagnóstico de averías | [PDF](pdf/verificacion-in-situ.pdf) |
 | 🎯 [Lista de tomas](plan/lista-de-tomas.md) | Las 12 fotos con las que hay que volver — disparar con intención, no en reactivo | [PDF](pdf/lista-de-tomas.pdf) |
 | 🎥 [Chuleta de vídeo](tecnica/chuleta-video.md) | Los ajustes, el guion de 3 minutos y las 17 tomas para marcar | [PDF](pdf/chuleta-video.pdf) |
+| ✏️ [Cuaderno de composición](plan/cuaderno-de-composicion.md) | 20 ejercicios en escalera con criterio de aprobado, para tachar: ver, encuadrar, esperar y contar | [PDF](pdf/cuaderno-de-composicion.pdf) |
 
 Los PDF están maquetados para A4 — **las dos chuletas caben en una sola cara** — y se
 regeneran desde el Markdown con `./pdf/generar.sh` (necesita `pandoc` y Chrome;

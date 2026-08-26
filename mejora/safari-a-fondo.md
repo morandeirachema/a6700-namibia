@@ -116,6 +116,9 @@ fría*.
   natural; si el ambiente pide misterio, deja 3000 K y asume el tono frío
   azulado del fondo — también es una decisión, no un fallo.
 
+> El catálogo de encuadres concretos, con diagramas y con el error que mata
+> cada uno: [atlas de encuadres](../tecnica/atlas-de-encuadres.md).
+
 ## 5 · El encuadre: las decisiones que nadie ve pero todos notan
 
 - **La altura lo cambia todo** (la regla nº 1 elevada al máximo): cada 10 cm

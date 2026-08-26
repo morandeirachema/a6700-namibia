@@ -13,6 +13,7 @@ declare -A HOJAS=(
   [verificacion-in-situ]="a6700/verificacion-in-situ.md"
   [lista-de-tomas]="plan/lista-de-tomas.md"
   [chuleta-video]="tecnica/chuleta-video.md"
+  [cuaderno-de-composicion]="plan/cuaderno-de-composicion.md"
 )
 
 hacer() {

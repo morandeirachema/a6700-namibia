@@ -11,6 +11,11 @@ ejercicios — las [7 tardes](../a6700/00-de-movil-a-la-a6700.md), las
 el calendario, con tus **dos lunas nuevas de práctica** (las de septiembre y
 octubre) en su sitio.
 
+**El cuaderno paralelo**: los 20 ejercicios de
+[composición](cuaderno-de-composicion.md) van en escalera junto a este
+calendario (bloque 1 en las semanas 1–3, bloque 2 en las 4–7, bloque 3 en las
+8–9 y bloque 4 en las 10–11).
+
 **Cómo usarlo**: una tarde entre semana + una salida de fin de semana. Si
 una semana se pierde, no pasa nada — al final hay una lista de qué es
 recortable y qué no.

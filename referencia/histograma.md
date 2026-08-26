@@ -75,6 +75,88 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
   de campamento… o te has pasado de ISO.
 - Las estrellas son picos minúsculos a la derecha: normal, ignóralos.
 
+## Silueta y contraluz
+
+```
+│█                    ▄█│
+│██▄                 ███│
+└┴──────────────────┴──┘
+ ↑ el animal          ↑ el cielo
+```
+
+- **Dos picos separados y el centro vacío**: el animal empotrado a la
+  izquierda (negro de verdad) y el cielo cerca de la derecha. El valle del
+  medio no es un fallo: **es la foto**.
+- Expón para que el pico derecho se acerque al borde **sin tocarlo** — el
+  color del cielo es lo único que hay que salvar. Compensación **−1/−1.7**.
+- Si intentas rescatar el animal, pierdes el cielo y te quedas con una foto
+  gris a medio camino ([fotos desmontadas](../mejora/fotos-desmontadas.md), nº 5).
+- **Con polvo a contraluz** el pico izquierdo se ensancha y sube hacia el
+  centro: es la luz atravesando las partículas. Perfecto.
+
+## Clave alta: mediodía sobre la calcreta
+
+```
+│              ▄▄███████│
+│           ▄██████████▓│
+└┴──────────────────┴──┘
+        ↑ casi todo a la derecha
+```
+
+- **Casi todo amontonado a la derecha, sin llegar a tocar el borde.** Es el
+  histograma que parece "mal expuesto" y no lo es: el pan de Etosha **es**
+  blanco.
+- El medidor querrá oscurecerlo hasta gris: compensa **+2/3 a +1** y
+  comprueba con el **Zebra 100+** que la calcreta raya solo en los brillos
+  puntuales, no en toda la superficie.
+- Es la receta de la foto en clave alta que luego se convierte a blanco y
+  negro ([edición](../campo/edicion-basica.md)).
+
+## Aves contra el cielo
+
+```
+│    ▄▄               ██│
+│   ████             ███│
+└┴──────────────────┴──┘
+```
+
+- Parecido a la silueta, pero **el pico del cielo manda**: un cielo blanco
+  quemado deja el ave recortada sobre nada.
+- Con cielo claro, **+1** para que el ave no salga en negro; con cielo azul
+  intenso, **0 o −0.3**.
+- Comprueba en revisión que el borde derecho no está tocado: en cielo blanco
+  se quema sin avisar.
+
+## Retrato de personas
+
+```
+│      ▄▄███▄▄▄         │
+│   ▄████████████▄      │
+└┴──────────────────┴──┘
+      ↑ la cara, aquí
+```
+
+- Lo único que importa es **dónde cae la piel**: en el centro-derecha, nunca
+  en el tercio izquierdo.
+- Con arena o cielo detrás, la cara se va a la izquierda sola: **+0.7/+1**.
+- A contraluz, **+1 a +1.7** — y da igual que el fondo se queme: la foto es
+  la cara ([retrato de viaje](../tecnica/retrato-de-viaje.md)).
+
+## De un vistazo
+
+| Tipo de foto | Dónde va la masa | Compensación de partida |
+|---|---|---|
+| Safari, luz normal | Centro ancho, sin tocar bordes | 0 |
+| Animal oscuro sobre calcreta | Dos jorobas; la derecha cerca del borde | **+0.7 / +1** |
+| Mediodía en el pan (clave alta) | Casi todo a la derecha | **+2/3 a +1** |
+| Silueta y contraluz | Dos picos, valle en medio | **−1 / −1.7** |
+| Ave contra cielo claro | Pico del cielo a la derecha | **+1** |
+| Retrato de persona | La piel en el centro-derecha | **+0.7 / +1** |
+| Paisaje "de libro" | Usa todo el ancho | 0 |
+| Paisaje que no cabe | Empotrado en **ambos** bordes → horquilla | ±2 EV |
+| Charca de noche | Masa pegada a la izquierda + joroba pequeña | Ninguna: **no la toques** |
+| Astro | Una montaña en el primer tercio, despegada | Subir ISO, no segundos |
+
 ## Cómo verlo en la a6700
 
 En revisión (▶), botón DISP hasta la vista con histograma. Y la ventaja de

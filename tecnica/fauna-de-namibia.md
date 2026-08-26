@@ -65,6 +65,9 @@ Y solo te desvías de ahí en tres casos, que son los que marcan las fichas:
   muy claro o muy oscuro): compensación de exposición, la flecha de abajo
   de la rueda. En M con ISO Auto **funciona con normalidad** en esta cámara.
 
+> Y el **encuadre** que le va a cada situación —con diagrama, focal y el
+> error típico— está en el [atlas de encuadres](atlas-de-encuadres.md).
+
 ## Cómo se leen las fichas
 
 Cada animal trae lo mismo: **dónde y cuándo** en tu itinerario real ·
