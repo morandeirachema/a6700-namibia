@@ -141,6 +141,28 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 | Nivel | Level |
 | Zebra / Bright Monitoring | (igual en ambos idiomas) |
 
+## Ejercicio (una tarde, en casa)
+
+Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
+
+1. **Firmware** del cuerpo y de los dos objetivos al día, con todo cargado.
+2. **La tabla de ajustes generales**, uno a uno, con la
+   [referencia de ajustes](../referencia/ajustes-a6700.md) al lado para la
+   ruta exacta. Tacha cada fila.
+3. **El pulgar**: `AF con disparador` en Desactivar y cincuenta fotos por
+   casa enfocando solo con AF-ON.
+4. **MR1 y MR2 guardadas** y comprobadas: gira el dial a 1 y dicta en voz
+   alta los valores del visor; a 2, lo mismo. Deben ser los de la tabla.
+5. **Los cinco de vídeo** puestos (PAL ya está: formatea ahora, en casa) y
+   el selector de vuelta a Foto — comprueba que el modo foto no cambió.
+6. Apaga, enciende, y **MR1 → MR2 → MR1 sin mirar** la cámara.
+
+**Aprobado cuando**: cada valor que dicta el visor coincide con la tabla,
+el cambio de memoria te sale en menos de cinco segundos a ciegas, y no
+vuelves a tocar el menú hasta el viaje. (Los ejercicios 1–10 de
+[qué practicar con el 11 mm](../plan/ejercicios-11mm.md) son la versión
+larga de esto.)
+
 ## Si algo no cuadra…
 
 | Problema | Solución |

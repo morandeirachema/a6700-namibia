@@ -1,5 +1,7 @@
 # Qué practicar YA, solo con la a6700 y el 11 mm
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: entrenar desde hoy el 70 % del viaje sin esperar al tele.
+
 Tienes el cuerpo y el 11 mm, y el tele todavía no. Buena noticia: **el 70 %
 de lo que decide tus fotos en Namibia no depende del teleobjetivo**. Se
 entrena ahora, en tu ciudad, y cuando llegue el 70-350 solo tendrás que

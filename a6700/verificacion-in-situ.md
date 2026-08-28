@@ -52,7 +52,8 @@ en lugar de descubrirlos en Etosha:
   interna. Polvillo suelto interior es normal y no sale en fotos.
 - [ ] **Prueba de nitidez**: a plena luz, trípode o apoyo firme, un objeto
   con texto a 20–30 m. Foto a 70, 200 y 350 mm a 1/1000. Al 100 % el texto
-  debe leerse; blando solo a un lado no (elemento descentrado → devolución).
+  debe leerse; blando solo a un lado no (elemento descentrado → devolución
+  si es comprado; si es prestado, díselo al dueño y trabaja a 300 mm).
 - [ ] **Estabilizador (OSS)**: interruptor en ON, media pulsación — la
   imagen del visor debe "asentarse". Foto a 350 mm a 1/100 apoyado: nítida =
   el OSS trabaja.
@@ -60,7 +61,9 @@ en lugar de descubrirlos en Etosha:
   desde lejos cada vez. ¿Las 10 igual de nítidas? *Por qué es tajante:* en
   una mirrorless el AF mide en el propio sensor — no existe descalibración
   de fase que lo excuse. Si la nitidez baila, el ejemplar tiene un problema
-  → devolución.
+  → devolución si es comprado; si es prestado, avisa al dueño y decide con
+  tiempo: otro ejemplar en [mpb](https://www.mpb.com/) o el
+  [Pixel de día](../tecnica/pixel-10-pro-de-dia.md) como tele.
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara

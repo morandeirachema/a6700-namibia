@@ -136,6 +136,9 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Ejercicio de fauna](tecnica/fauna-de-namibia.md) (dos tardes) · [de astro](a6700/02-astrofotografia-namibia.md) (dos noches) · [de charca nocturna](a6700/04-safari-nocturno-charcas.md) (una noche, con una farola)
 - [Del histograma](referencia/histograma.md) (15 min) · [del balance de blancos](referencia/balance-de-blancos.md) (10 min) · [de edición](campo/edicion-basica.md) (una tarde cronometrada)
 - [Entrenamiento de safari](mejora/safari-a-fondo.md) · [de paisaje](mejora/paisaje-a-fondo.md) · [de vídeo](tecnica/video-del-viaje.md) — una tarde por tema
+- [El AF a fondo](mejora/af-y-exposicion-a-fondo.md) (una tarde con un perro tras una valla) · [las cuatro noches en una](tecnica/fotografia-nocturna.md) (una noche en tu ciudad) · [la duna de tu ciudad](tecnica/paisaje-namibia.md) (un día, tres horas)
+- [Las dos tardes del atlas de encuadres](tecnica/atlas-de-encuadres.md) — el repertorio, con lo que haya en tu ciudad
+- [Configurar la cámara](a6700/01-configuracion-basica.md) (una tarde) · [las apps en modo avión](referencia/apps-del-viaje.md) (una tarde con wifi) · [la limpieza cronometrada](campo/limpieza-en-campo.md) (20 min)
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
 - **[Los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
 - **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado

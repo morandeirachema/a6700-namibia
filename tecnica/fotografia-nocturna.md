@@ -121,6 +121,29 @@ Hagas la noche que hagas, esto se repite. Conviértelo en rutina:
 | El cielo salió bien pero el suelo, negro | Necesitas dos tomas y mezclarlas | [Estrellas con la tierra](../mejora/estrellas-con-tierra.md) |
 | Nubes | En noviembre ~1 de cada 3 noches; suelen abrir de madrugada. Y la charca con foco **no depende del cielo** | [Cielo del viaje](../plan/cielo-del-viaje.md) |
 
+## Ejercicio (una noche, en tu ciudad: las cuatro noches en una)
+
+Un parque con una fuente o una estatua iluminada, un rincón oscuro y una
+farola. Sal media hora antes de que se ponga el sol:
+
+1. **Hora azul**: la silueta de un árbol o una torre contra el cielo,
+   exponiendo para el cielo (−1 a −2). Es la "noche 0" de todas las demás.
+2. **La charca**: la fuente iluminada es tu Okaukuejo. Receta de charca
+   (M, 1/250, apertura mínima, ISO Auto hasta 12800, obturador electrónico),
+   diez fotos de la gente y los patos bajo el foco. Si ves **franjas**,
+   pasa a mecánico: acabas de ver el fallo de la charca en casa.
+3. **El astro**: al rincón oscuro, MR2 (20 s · f/1.8 · ISO 1600), una
+   foto, y el histograma en el **primer tercio** — aunque el cielo sea
+   naranja, la mecánica es la misma.
+4. **El cielo con tierra**: la misma foto con la farola apagando la
+   silueta de un banco: dos tomas (cielo y suelo) para fundirlas en casa.
+5. Antes de guardar: **decide en voz alta**, delante de cada escena, cuál
+   de las cuatro noches es y qué dos ajustes cambian. Treinta segundos.
+
+**Aprobado cuando**: delante de cualquier escena nocturna dices en treinta
+segundos qué receta toca y qué dos ajustes cambian respecto a la anterior,
+sin mirar la tabla.
+
 ## Y el Pixel, mientras tanto
 
 Es la única de las dos cámaras que hace astro **sola**: su modo Visión

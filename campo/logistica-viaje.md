@@ -174,6 +174,28 @@ Rutina diaria de 5 minutos que salva el equipo:
    no está a tu nombre: muchas solo cubren lo propio, y ahí te juegas
    700–900 € que además son de otra persona.
 
+## Si la cámara falla en mitad del viaje
+
+No hay tienda de fotografía a mano entre Sesriem y Etosha, así que el plan
+está decidido de antemano:
+
+1. **Descarta lo barato primero**: batería (cambia por otra cargada),
+   tarjeta (otra), interruptor **AF/MF** del objetivo, contactos con
+   microfibra seca, y la tabla de señales de alarma de la
+   [verificación in situ](../a6700/verificacion-in-situ.md). Nueve de cada
+   diez "averías" están ahí.
+2. **Si es el objetivo**: el otro sigue funcionando. Sin el tele, el
+   [Pixel de día](../tecnica/pixel-10-pro-de-dia.md) es el tele y el 11 mm
+   se queda con el paisaje y la noche; sin el 11 mm, el astro pasa al modo
+   Astrofotografía del móvil y el paisaje a su 0.5x.
+3. **Si es el cuerpo**: el Pixel pasa a ser *la* cámara —
+   [su guía](../tecnica/pixel-10-pro.md) cubre paisaje, personas, macro,
+   vídeo y astro, y la de día cubre la fauna hasta donde llega. Cambia la
+   lista de tomas, no el viaje.
+4. **Fotografía la avería** (pantalla de error, el objetivo por todos
+   lados) y apunta fecha y lugar: es lo que pedirá el seguro — y el dueño
+   del 70-350.
+
 ## Seguridad nocturna (importa para el plan fotográfico)
 
 - **Etosha**: las puertas de los campamentos cierran **del atardecer al

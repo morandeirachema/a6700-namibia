@@ -115,6 +115,41 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **Su firmware** se actualiza con el objetivo montado en la cámara, desde
   la web de soporte de Sony: <https://www.sony.es/electronics/support>
 
+## Si sale mal…
+
+| Problema | Solución |
+|---|---|
+| El AF salta al arbusto cada vez que algo se cruza | `Sens. Seguim. AF` demasiado alta: bájala a **1–2** (aguanta con el sujeto original) |
+| El animal se movió y el AF se quedó clavado en donde estaba | Lo contrario: sensibilidad **4–5**, o área Ancha con seguimiento |
+| El reconocimiento no encuentra el ojo entre hierba o manchas (leopardo) | **Punto único + DMF**: acerca el foco con el anillo y deja que el AF remate |
+| La medición puntual vinculada expone "al revés" | El punto AF está sobre el fondo, no sobre el animal: mueve el punto y la medición lo sigue |
+| DMF no responde al anillo | El interruptor **AF/MF** del objetivo está en MF (o el modo de enfoque no es DMF) |
+| El AF recorre todo el rango a 350 mm y no fija | No hay limitador: apunta a un borde con contraste antes de soltar AF-ON, o llévale el foco cerca con DMF |
+| MR3 no recupera el reconocimiento en Pájaro | Guardaste la memoria con otro `Dest. reconocim.`: ponlo en Pájaro y vuelve a guardar con `Mem. ajustes cám` |
+| Bright Monitoring no aparece en el botón | Solo funciona en modo foto (no en vídeo) y con la exposición manual: comprueba el selector y el modo M |
+| A f/8 el ISO se dispara y la foto sale ruidosa | Compraste nitidez de borde pagándola con ruido: vuelve a f/6.3 — la regla es nunca cerrar a costa del ISO o de la obturación |
+
+## Ejercicio (una tarde, antes de volar)
+
+Un parque con una valla o unos arbustos, y un perro (o palomas, o bicis):
+
+1. **Los tres mandos, uno a uno**: el perro corriendo detrás de una valla o
+   entre arbustos. Diez ráfagas con `Sens. Seguim. AF` en **1** y diez en
+   **5**. Cuenta en cuántas fotos el foco se quedó en el perro y en cuántas
+   se fue a la valla. Ese número es tu respuesta a "¿cuándo bajo a 1?".
+2. **Punto único + DMF** a través de la valla: acerca tú el foco con el
+   anillo hasta el perro y suelta al AF. Cinco fotos.
+3. **La puntual vinculada**: algo oscuro sobre una pared blanca (un
+   cubo de basura, una persona con abrigo negro). Una foto con medición
+   multi y otra con puntual vinculada al punto: mira los dos histogramas.
+4. **MR3 de vuelo**: palomas levantando el vuelo, 1/2500 · Hi+ · Pájaro.
+   Giras el dial a 3 y disparas; vuelves a 1 y compruebas que el safari
+   sigue intacto.
+
+**Aprobado cuando**: en la ráfaga tras la valla, más de la mitad de las
+fotos tienen el foco en el perro con la sensibilidad que tú elegiste; y
+sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
+
 ## Referencias
 
 - Sensibilidad de seguimiento del AF (Help Guide oficial a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0405D_af_tracking_sensitivity.html>

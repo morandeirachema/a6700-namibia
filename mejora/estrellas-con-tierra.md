@@ -324,6 +324,20 @@ apuntando a otra parte del cielo ([su guía](../tecnica/pixel-10-pro.md)).
   desaparecen solos al apilar ≥10 tomas; y la Vía Láctea de noviembre, baja
   y cálida, agradece contraste local suave antes que saturación.
 
+## Si sale mal…
+
+| Problema | Solución |
+|---|---|
+| La silueta sale gris y con ruido, no negra | Expusiste para el suelo: vuelve a la exposición del cielo (20 s · f/1.8 · ISO 1600) y deja que el objeto se hunda en negro — o dos tomas y fúndelas |
+| El objeto tapa las Nubes o el núcleo | Lo elegiste de noche: vuelve de día, decide el sitio con PhotoPills (RA) y marca el punto en el suelo |
+| Los círculos salen a rayitas con huecos | `RR exposic. larga` en Activar, o intervalo mayor que exposición + 1 s: 30 s y 31 s |
+| Los círculos no giran alrededor de nada (arcos sueltos) | El polo quedó fuera del encuadre: ~19° sobre el horizonte sur; el triángulo de las Nubes te lo señala |
+| La serie se cortó a los 40 minutos | Batería: la original (no la compatible) para la noche, y cargada del todo; en frío, un power bank por USB-C |
+| Las estrellas de las últimas tomas salen gordas | Rocío en la lente al bajar la temperatura: mira el frontal cada 20 tomas y sécalo a toques; con humedad, tapa entre series |
+| El light painting quema la roca | Demasiada potencia o demasiado cerca: frontal al mínimo, desde más lejos, y un barrido de 1 s en vez de 2 |
+| La panorámica de la banda no cose | Cambió algo entre tomas (ISO, enfoque, el zoom) o solapaste menos de un tercio: todo fijo, gira solo el cabezal, solapa un tercio |
+| El cielo salió, el suelo negro del todo | Es la noche 2 tal cual — la mezcla de dos tomas está en [edición](../campo/edicion-basica.md), punto 5 |
+
 ## Referencias
 
 - Lonely Speck (nightscapes: cielo + tierra, en inglés): <https://www.lonelyspeck.com/>

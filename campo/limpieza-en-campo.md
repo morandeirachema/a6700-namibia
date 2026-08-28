@@ -90,6 +90,33 @@ desgasta los tratamientos.
 - **Gotas secas de lluvia con polvo** ("barro fino"): pera + húmeda directa;
   el pincel solo lo esparce.
 
+## Si sale mal…
+
+| Problema | Solución |
+|---|---|
+| Queda un **velo** después de la limpieza húmeda | Demasiado líquido o pañuelo saturado: pasada seca con microfibra limpia, y la próxima vez líquido en el pañuelo, no en la lente |
+| Aparece una **rayita** nueva | Arena arrastrada: te saltaste la pera. No se arregla; a partir de ahora, pera **siempre** antes de tocar |
+| Ves **polvo dentro** del objetivo a contraluz | Normal en un zoom que bombea aire: no sale en las fotos. No lo abras |
+| La cámara dice "objetivo no reconocido" | Contactos dorados sucios: microfibra seca en los del objetivo y los del cuerpo, dentro del coche |
+| **Puntos oscuros** en las fotos a f/8 o más cerrado | Motas en el sensor: se clonan en edición, el sensor se limpia en casa. En el viaje no se toca |
+| La lente se **empaña** al entrar en el coche | Condensación: mochila cerrada 20–30 minutos y no la limpies mientras suda |
+| El pincel deja **pelusa** | Pincel sucio: sacúdelo, lávalo en el alojamiento y déjalo secar; mientras, solo pera |
+| La pera **escupe polvo** | Se guardó suelta en la mochila: en su bolsa zip, y unas ráfagas al aire antes de apuntar a la lente |
+
+## Ejercicio (20 minutos, en casa, antes de volar)
+
+1. Mancha **a propósito** el filtro protector (no la lente) con una huella
+   y un poco de polvo de la estantería.
+2. Cronómetro: la secuencia completa — pera boca abajo, pincel del centro
+   hacia fuera, húmeda en el pañuelo, seca, revisión a contraluz.
+3. Contactos de los dos objetivos y del cuerpo con microfibra seca, y
+   monta y desmonta el objetivo **con el cuerpo hacia abajo**.
+4. Guarda el kit como irá en el viaje: todo en su bolsa zip, en el bolsillo
+   que sabrás encontrar a oscuras.
+
+**Aprobado cuando**: a contraluz no hay motas ni velos, has tardado menos
+de cinco minutos y no has tocado el cristal en seco ni una vez.
+
 ## Referencias
 
 - Consejos de mantenimiento y soporte oficial Sony: <https://www.sony.es/electronics/support>

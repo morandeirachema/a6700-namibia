@@ -134,6 +134,10 @@ y perfecta: no la "arregles".
 **Encuadres**: 7 (patrón), 6 (detalle), 9 (peleas, 1/1000), 3 (la pasarela
 con el mar detrás, 70–105 mm).
 
+**El Pixel**: a 5–10 m de la colonia su 5x/10x es un tele de verdad, y le da
+igual el salitre — la masa a 5x, un cachorro a 10x y el clip con el sonido
+([el Pixel de día](../tecnica/pixel-10-pro-de-dia.md)).
+
 **En ruta**: el **pecio Zeila** junto a Henties Bay (con niebla es la foto:
 gris sobre gris), y la carretera de sal C34.
 

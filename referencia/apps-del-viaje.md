@@ -99,6 +99,27 @@ de los más oscuros del planeta. Úsala en casa para elegir el sitio de las
 tu zona en <https://www.lightpollutionmap.info/> y vete a lo más oscuro que
 tengas a menos de una hora.
 
+## Ejercicio (una tarde con wifi, y diez minutos sin ella)
+
+1. Instala y compra todo lo de la tabla; PhotoPills con la cuenta que vaya
+   a estar en el móvil del viaje.
+2. **Los doce pins** de las paradas de [hojas por parada](../plan/hojas-por-parada.md)
+   en el Planificador de PhotoPills. Para Okaukuejo el 9 de noviembre, apunta
+   la hora del ocaso, el fin del crepúsculo astronómico y a qué altura está
+   el núcleo a las 20:30: esos tres números son tu noche estrella.
+3. **Stellarium** en Okaukuejo, 9 de noviembre a las 21:00: encuentra las
+   dos Nubes de Magallanes y el polo sur celeste sin ayuda.
+4. **Organic Maps** con Namibia entera descargada, y el área de la ruta en
+   Google Maps sin conexión.
+5. **Creators' App** emparejada: pasa un JPEG de la cámara al móvil y haz
+   una foto por control remoto desde el sofá.
+6. **Modo avión** diez minutos: repite la consulta de PhotoPills (pin de
+   Okaukuejo), la realidad aumentada en el balcón y una ruta en Organic
+   Maps. Lo que no funcione así, no funcionará en Namibia.
+
+**Aprobado cuando**: los tres números de la noche estrella están apuntados,
+y todo lo del punto 6 funciona con el móvil en modo avión.
+
 ## Si la app te lía…
 
 | Problema | Solución |

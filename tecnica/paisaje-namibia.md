@@ -167,6 +167,25 @@ La postal africana barata de conseguir: **expón para el cielo** (compensación
 −1 a −2, o mide puntual al cielo) y deja la acacia/animal en silueta negra
 total. Funciona todos los días del viaje.
 
+## Ejercicio (una tarde, antes de volar: la duna de tu ciudad)
+
+Un montículo, un muro con textura, una playa o un campo con surcos — algo
+con relieve que puedas fotografiar tres veces el mismo día:
+
+1. **Mediodía**: el mismo encuadre en A · f/8 · ISO 100, nivel visible.
+   Guárdala: es la foto plana que no volverás a hacer en Namibia.
+2. **Una hora antes del ocaso**: mismo encuadre, mismos ajustes. Mira las
+   dos juntas: mitad luz, mitad sombra — eso es lo que buscas en Sossusvlei.
+3. **Hora azul**: la misma otra vez, ya con trípode (o apoyo) y temporizador
+   2 s, y a la vuelta una **silueta** exponiendo para el cielo (−1 a −2).
+4. **El horquillado**: la escena con el cielo más claro que encuentres, tres
+   tomas ±2 EV con temporizador, y fúndelas esa noche
+   ([edición](../campo/edicion-basica.md)).
+
+**Aprobado cuando**: el horizonte está recto en todas sin corregirlo en
+casa, ves con tus ojos por qué la de mediodía no tiene volumen y la silueta
+es negra de verdad, no gris.
+
 ## Si el paisaje sale mal…
 
 | Problema | Solución |

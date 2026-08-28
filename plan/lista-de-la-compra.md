@@ -1,5 +1,7 @@
 # La lista de la compra — qué falta, cuánto cuesta y cuándo pedirlo
 
+> 🟢 **Iniciación** · Da por sabido: nada · Te desbloquea: saber qué falta, cuánto cuesta y en qué orden pedirlo, sin releer el capítulo de equipo.
+
 Todos los precios del repo están repartidos por el
 [capítulo de equipo](../a6700/05-equipo-accesorios.md) y por
 [logística](../campo/logistica-viaje.md). Esto es la misma información
