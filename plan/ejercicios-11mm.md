@@ -86,17 +86,18 @@ entrena ya.
 ## Lo que NO puedes practicar todavía
 
 Lo que falta por comprar, con precios y en qué orden pedirlo, está en
-[la lista de la compra](lista-de-la-compra.md). El **70-350 es lo urgente**:
-bloquea las semanas 3 a 5 del calendario.
+[la lista de la compra](lista-de-la-compra.md). El **70-350 llega prestado**
+estos días y bloquea las semanas 3 a 5 del calendario; si se retrasa, el
+[Pixel a 5x](../tecnica/pixel-10-pro-de-dia.md) hace de tele de entrenamiento.
 
 Y qué hacer mientras, para que el día que llegue el tele no pierdas tiempo:
 
 | Necesita el 70-350 | Mientras tanto |
 |---|---|
-| Seguimiento de animales en movimiento (AF-C + ráfaga) | Practica el **gesto de seguir** con el 11 mm apuntando a bicis o corredores: la mecánica de la ráfaga y del pulgar es la misma |
-| Encuadres 1, 2, 6, 7 del atlas (retratos y detalle) | Estúdialos en [fotos desmontadas](../mejora/fotos-desmontadas.md) y ten claro cuál buscarás primero |
+| Seguimiento de animales en movimiento (AF-C + ráfaga) | Practica el **gesto de seguir** con el 11 mm apuntando a bicis o corredores: la mecánica de la ráfaga y del pulgar es la misma. Y a escala de tele, con el **Pixel a 5x** ([el Pixel de día](../tecnica/pixel-10-pro-de-dia.md)) |
+| Encuadres 1, 2, 6, 7 del atlas (retratos y detalle) | Estúdialos en [fotos desmontadas](../mejora/fotos-desmontadas.md) y ten claro cuál buscarás primero — y ensáyalos con palomas y patos a 5x–10x del móvil |
 | La compresión y el fondo desenfocado | El bloque 2 te deja el concepto entendido; con el tele solo cambia la escala |
-| La prueba de aceptación del objetivo | Está escrita y esperando: [verificación, §2](../a6700/verificacion-in-situ.md). **Hazla el día que llegue, dentro del plazo de devolución** |
+| La prueba de aceptación del objetivo | Está escrita y esperando: [verificación, §2](../a6700/verificacion-in-situ.md). **Hazla el día que llegue**: es prestado, así que no sirve para devolverlo sino para conocer sus defectos con tiempo |
 
 Y dos que no dependen de ningún objetivo: la **cadena de copias** (hub +
 lector + SSD, cronometrada) en cuanto tengas el kit, y los ejercicios de

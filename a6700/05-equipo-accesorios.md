@@ -18,8 +18,9 @@ un 20–40 %.
 
 > **Estado a 26 de agosto de 2026**: el cuerpo, el **11 mm**, el trípode, el
 > bean bag, el frontal, el power bank y el SSD ya están en casa, y el
-> **70-350 llega prestado** estos días. Lo que queda por comprar —tarjetas,
-> baterías, cargador, lector, hub y cable— está en
+> **70-350 llega prestado** estos días. Las tres baterías y el cargador ya están
+> resueltos; lo que queda por comprar —lector, hub, cable, filtro y las
+> menudencias— está en
 > [la lista de la compra](../plan/lista-de-la-compra.md), con precios y
 > urgencias. Las secciones de abajo explican **por qué** se eligió cada
 > cosa; siguen valiendo como referencia aunque ya no haya que comprarla.

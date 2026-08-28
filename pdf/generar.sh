@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Regenera los PDF de las cuatro hojas de campo desde su Markdown.
-# Uso: ./pdf/generar.sh [nombre]   (sin argumento, las cuatro)
+# Regenera los PDF de las seis hojas de campo desde su Markdown.
+# Uso: ./pdf/generar.sh [nombre]   (sin argumento, las seis)
 # Requiere: pandoc y google-chrome (o chromium).
 set -euo pipefail
 cd "$(dirname "$0")/.."

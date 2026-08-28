@@ -11,7 +11,10 @@ angular** de 123°, **macro** a 3 cm, un modo **astro** que dispara y monta un
 timelapse solo, y el **tramo intermedio** (25–113 mm equivalentes) que tus
 dos objetivos no cubren. Esta guía dice qué le pides en cada escena del
 viaje, qué no le pidas (fauna lejana y la charca de noche son de la Sony),
-cómo se ajusta una vez para no pensar más y qué tomas de vídeo son suyas. Es autocontenida: sin haber tocado un ajuste del móvil se puede
+cómo se ajusta una vez para no pensar más y qué tomas de vídeo son suyas.
+Y si el 70-350 no está en la mano —no ha llegado, falla o se quedó en la
+bolsa— el móvil es el tele de día: hasta dónde llega de verdad y qué le pides
+con cada animal está en [el Pixel de día](pixel-10-pro-de-dia.md). Es autocontenida: sin haber tocado un ajuste del móvil se puede
 seguir.
 
 ## La ficha (verificada)
@@ -71,7 +74,7 @@ zooms digitales intermedios que pierden calidad).
 
 | Escena | Con el Pixel | Cómo | Y lo que NO |
 |---|---|---|---|
-| **Safari, animal cerca del coche** (elefante en la pista, jirafa a 15 m) | La foto de recuerdo con el paisaje alrededor | 1x o 2x, ventanilla abajo, **cámara a la altura del animal** (la lección de [Safari a fondo](../mejora/safari-a-fondo.md) vale igual); 5x solo si está muy cerca | Nada de 20x–100x "para acercar": inventa. El animal lejano es de la Sony |
+| **Safari, animal cerca del coche** (elefante en la pista, jirafa a 15 m) | La foto de recuerdo con el paisaje alrededor | 1x o 2x, ventanilla abajo, **cámara a la altura del animal** (la lección de [Safari a fondo](../mejora/safari-a-fondo.md) vale igual); 5x solo si está muy cerca | Nada de 20x–100x "para acercar": inventa. El animal lejano es de la Sony — y si el tele no está, [hasta dónde llega el móvil](pixel-10-pro-de-dia.md) |
 | **Safari, la escena** (el atasco de cebras, la manada cruzando, el interior del coche) | El contexto que la Sony no cuenta | **0.5x** desde dentro del coche, incluyendo la ventanilla y el volante: la foto del "estábamos allí" | — |
 | **Personas del viaje** | Retratos y grupos | Modo Retrato a 2x; **Add Me** para salir tú también en la de grupo; Auto Best Take en los grupos | — |
 | **Paisaje: dunas, Deadvlei, Spreetshoogte** | El gran angular más ancho de tu equipo, y la panorámica | **0.5x agachado**, algo a un metro (la [profundidad](../mejora/paisaje-a-fondo.md)); **50 Mpx** para las 3–5 buenas; **Panorámica** en Spreetshoogte y el pan de Etosha | Sol alto: tampoco el Pixel salva una duna plana |
@@ -154,7 +157,7 @@ Complementan la [lista de tomas](../plan/lista-de-tomas.md) de la Sony:
 
 ## El recurso del vídeo — las tomas que son del móvil
 
-Del viaje sale **un solo vídeo**, de 3 a 5 minutos. Su esqueleto —la
+Del viaje sale **un solo vídeo**, de 3 minutos. Su esqueleto —la
 estructura y los planos buenos— lo rueda la a6700 con el 11 mm
 ([el vídeo del viaje](video-del-viaje.md)); el móvil pone lo que la Sony no
 puede o no debe hacer: **los timelapses**, el coche en marcha, el agua y el

@@ -47,6 +47,11 @@ conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
      ([logística](../campo/logistica-viaje.md)).
   3. Si te deja **actualizarle el firmware**. Es buena idea y es reversible
      en la práctica, pero se pregunta antes de tocar el aparato de nadie.
+- **Y el plan B, por si no llega**: el Pixel a 5x es un 70 mm de bolsillo
+  —hasta dónde llega y qué fotos sobreviven sin el tele, en
+  [el Pixel de día](../tecnica/pixel-10-pro-de-dia.md)— y, si a mediados de
+  septiembre sigue sin aparecer, un 70-350 de segunda mano en
+  [mpb](https://www.mpb.com/) (450–550 €) que se revende a la vuelta.
 
 ---
 

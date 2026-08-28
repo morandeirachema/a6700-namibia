@@ -413,7 +413,10 @@ Ni lo intentes con fauna a distancia: el "5x" del Pixel son ~113 mm
 equivalentes y el resto es recorte digital. Su papel aquí es otro —
 **el contexto**: la manada como puntitos en la llanura enorme, el coche con
 los elefantes cruzando delante, la charca entera con la gente esperando, y
-el vídeo de recurso. Todo eso, en [su guía](pixel-10-pro.md).
+el vídeo de recurso. Todo eso, en [su guía](pixel-10-pro.md). Y si el tele
+**no está** —no ha llegado, falla o se quedó en la bolsa—, esta misma tabla
+de animales pasada a lo que sí puede el móvil (5x sí, 10x justo, 20x
+recuerdo) está en [el Pixel de día](pixel-10-pro-de-dia.md).
 
 ## Ejercicio antes de volar (dos tardes)
 
