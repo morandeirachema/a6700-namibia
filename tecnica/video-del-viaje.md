@@ -216,7 +216,7 @@ Va con el resto del calendario en el
    vídeo del viaje ya está resuelto — lo demás es llenar la carpeta.
 
 > **Para el coche**: todo lo operativo de esta guía cabe en una hoja — la
-> [chuleta de vídeo](chuleta-video.md), imprimible junto a las otras tres.
+> [chuleta de vídeo](chuleta-video.md), imprimible junto a las otras cinco.
 
 ## Referencias
 

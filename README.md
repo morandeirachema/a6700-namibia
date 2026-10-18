@@ -48,7 +48,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | [El Pixel 10 Pro](tecnica/pixel-10-pro.md) | Qué le pides al móvil para que no duplique lo que hace la Sony |
 | [**El Pixel de día: el plan B del 70-350**](tecnica/pixel-10-pro-de-dia.md) | Hasta dónde llega el móvil como tele (5x sí, 10x justo, 20x recuerdo), qué fotos de la lista sobreviven sin el objetivo, la rutina en el coche animal por animal y cómo entrenar el safari mientras no llega |
 | 🛒 [**La lista de la compra**](plan/lista-de-la-compra.md) | Qué hay ya en casa, qué falta, cuánto cuesta y en qué orden pedirlo — con casillas y totales |
-| [**Qué practicar ya, con el 11 mm**](plan/ejercicios-11mm.md) | 27 ejercicios que no necesitan el teleobjetivo: la cámara, el histograma, la hiperfocal, la noche entera y el vídeo |
+| [**Qué practicar ya, con el 11 mm**](plan/ejercicios-11mm.md) | 29 ejercicios que no necesitan el teleobjetivo: la cámara, el histograma, la hiperfocal, la noche entera y el vídeo |
 | [El plan de entrenamiento](plan/plan-de-entrenamiento.md) | Las 11 semanas hasta el avión, convertidas en calendario |
 
 ### 🔵 Básico — las recetas del viaje
@@ -109,7 +109,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 | [**Por qué funciona**](mejora/por-que-funciona.md) | El modelo detrás de las recetas: el paso como moneda, ETTR, profundidad de campo con **los números de tu equipo**, difracción, compresión, ruido e invarianza ISO, el AF por dentro y tus dos objetivos sin marketing |
 | [**La mirada**](mejora/la-mirada.md) | Cómo piensan los maestros, el plan de charcas por luz, el comportamiento que se anticipa — y **cómo se mide si estás mejorando** |
 | [**Fotos desmontadas**](mejora/fotos-desmontadas.md) | Trece imágenes de Namibia analizadas: lo que ves, la decisión que se tomó, lo que la habría arruinado y cómo repetirla en tu ruta |
-| [**Fotógrafos de referencia**](mejora/fotografos-de-referencia.md) | Doce fotógrafos con doce estilos distintos: qué hace especial a cada uno y **qué robarle**, con enlaces a su obra |
+| [**Fotógrafos de referencia**](mejora/fotografos-de-referencia.md) | Trece fotógrafos con trece estilos distintos: qué hace especial a cada uno y **qué robarle**, con enlaces a su obra |
 | [Safari a fondo](mejora/safari-a-fondo.md) | Luz, velocidad, apertura, Kelvin y encuadre como decisiones creativas: el antídoto contra la foto plana |
 | [Paisaje a fondo](mejora/paisaje-a-fondo.md) | Que la duna no salga plana: luz rasante, profundidad, escala, líneas, color, panorámica y las recetas de los maestros |
 | [Estrellas con la tierra dentro](mejora/estrellas-con-tierra.md) | **Desde cero, en tres noches**: la primera foto de estrellas, la postal y los círculos — con el nivel avanzado al final |
@@ -140,10 +140,12 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Las dos tardes del atlas de encuadres](tecnica/atlas-de-encuadres.md) — el repertorio, con lo que haya en tu ciudad
 - [Configurar la cámara](a6700/01-configuracion-basica.md) (una tarde) · [las apps en modo avión](referencia/apps-del-viaje.md) (una tarde con wifi) · [la limpieza cronometrada](campo/limpieza-en-campo.md) (20 min)
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
-- **[Los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
+- **[Los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
 - **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado
 - [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md), [la cadena de copia del Pixel](tecnica/pixel-10-pro.md) y [el safari con el móvil](tecnica/pixel-10-pro-de-dia.md) (una tarde con patos)
 - Todo esto, **en calendario**: [el plan de entrenamiento de 11 semanas](plan/plan-de-entrenamiento.md)
+
+<a id="para-imprimir"></a>
 
 ## 🖨️ Para imprimir y llevar en el coche
 
@@ -164,13 +166,13 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 ## 🧭 ¿Por dónde empiezo?
 
 - 🛒 *¿Qué me falta por comprar?* → [la lista de la compra](plan/lista-de-la-compra.md), por urgencia y con precios.
-- 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 27 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
+- 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
 - 📵 *El tele no ha llegado (o no llega)* → [el Pixel de día](tecnica/pixel-10-pro-de-dia.md): hasta dónde llega el móvil como tele y qué fotos persigues con él.
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
 - 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md).
 - 🤔 *Me he perdido con una palabra* → [el glosario](referencia/glosario.md).
 - 📅 *Tengo semanas por delante* → [el plan de entrenamiento](plan/plan-de-entrenamiento.md).
-- ✈️ *Salgo pronto* → imprime [las seis hojas de campo](#-para-imprimir-y-llevar-en-el-coche).
+- ✈️ *Salgo pronto* → imprime [las seis hojas de campo](#para-imprimir).
 - 🚙 *Ya estoy allí y algo no cuadra* → [verificación in situ](a6700/verificacion-in-situ.md), tabla de señales de alarma al final.
 - 🏡 *Ya he vuelto* → [el archivo y la selección](campo/archivo-y-seleccion.md).
 

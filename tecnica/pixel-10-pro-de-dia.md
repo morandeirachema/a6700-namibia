@@ -141,7 +141,7 @@ con la manada fuera — que son fotos que el tele **no** hace.
 
 ## Entrenar el safari con el móvil mientras no llega el tele
 
-Los [27 ejercicios del 11 mm](../plan/ejercicios-11mm.md) dejan una tabla de
+Los [29 ejercicios del 11 mm](../plan/ejercicios-11mm.md) dejan una tabla de
 "necesita el 70-350 / mientras tanto". El Pixel a 5x rellena tres de esas
 casillas — **el gesto es el mismo, cambia la escala**:
 
@@ -197,4 +197,4 @@ ojo aguanta el 100 % y sabes, sin pensar, cuándo usas ráfaga y cuándo clip.
 - Segunda mano con garantía, por si el tele no llega: <https://www.mpb.com/>
 - La guía general del móvil (vídeo, macro, astro, el ordenador del viaje): [el Pixel 10 Pro](pixel-10-pro.md)
 - Lo que hace cada animal y qué le pide al tele: [la fauna, animal por animal](fauna-de-namibia.md)
-- Lo que sí se entrena sin el tele: [los 27 ejercicios del 11 mm](../plan/ejercicios-11mm.md)
+- Lo que sí se entrena sin el tele: [los 29 ejercicios del 11 mm](../plan/ejercicios-11mm.md)

@@ -237,7 +237,7 @@ punto en [su guía](../tecnica/pixel-10-pro.md).
 ## Y ahora, ¿qué?
 
 **Si ya tienes la cámara en las manos**, empieza por los
-[27 ejercicios del 11 mm](../plan/ejercicios-11mm.md): están ordenados de hoy
+[29 ejercicios del 11 mm](../plan/ejercicios-11mm.md): están ordenados de hoy
 hacia delante y no necesitan el teleobjetivo.
 
 Si la cámara acaba de llegar (o el menú te da miedo), el siguiente paso es

@@ -10,7 +10,7 @@ demás.
 
 ## La mentalidad que separa las fotos buenas (lo que hacen los maestros)
 
-> Los doce fotógrafos, uno a uno, con qué robarle a cada uno y enlaces a su
+> Los trece fotógrafos, uno a uno, con qué robarle a cada uno y enlaces a su
 > obra: [fotógrafos de referencia](fotografos-de-referencia.md).
 
 Investigamos a los grandes que han fotografiado Namibia — Frans Lanting,

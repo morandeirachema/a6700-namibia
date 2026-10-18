@@ -140,4 +140,4 @@ mitad de la lista de arriba:
 - Twyfelfontein, patrimonio UNESCO: <https://whc.unesco.org/en/list/1255/>
 - Reserva Internacional de Cielo Oscuro NamibRand (DarkSky): <https://darksky.org/places/namibrand-dark-sky-reserve/>
 - Vuelos panorámicos (verificados en el dossier del viaje): globo <https://balloon-safaris.com/ballooning-namibia/> · avioneta <https://sossusvleiscenicflights.com/> · <https://sossusfly.com/>
-- Turismo oficial de Namibia: <https://www.namibiatourism.com.na/>
+- Turismo oficial de Namibia: <https://visitnamibia.com.na/>

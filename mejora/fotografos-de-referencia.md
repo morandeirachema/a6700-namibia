@@ -6,7 +6,7 @@ Mirar buenas fotos enseña más rápido que leer sobre ellas, pero solo si
 miras **con una pregunta**. La pregunta no es "¿qué bonito, cómo lo habrá
 hecho?" sino **"¿qué decidió esta persona que yo no habría decidido?"**.
 
-Doce fotógrafos con doce maneras distintas de resolver el mismo problema.
+Trece fotógrafos con trece maneras distintas de resolver el mismo problema.
 De cada uno: qué lo hace especial, **qué robarle** —concreto, aplicable a tu
 viaje— y con qué encuadre del [atlas](../tecnica/atlas-de-encuadres.md) se
 corresponde. Ninguno se parece a otro: esa es la idea.

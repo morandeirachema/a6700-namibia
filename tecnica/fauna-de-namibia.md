@@ -437,9 +437,8 @@ recuerdo) está en [el Pixel de día](pixel-10-pro-de-dia.md).
 
 - Campamentos, charcas y reservas de Etosha (NWR): <https://www.nwr.com.na/>
 - Puertas, tarifas e información del parque: <https://etoshanationalpark.com.na/>
-- Reserva privada de Onguma (última noche): <https://onguma.com/>
-- Turismo de Namibia (información general de zonas y fauna): <https://www.namibiatourism.com.na/>
-- Atlas de biodiversidad de Namibia (fichas de especies y distribución): <https://biodiversity.org.na/>
+- Reserva privada de Onguma (última noche de safari): <https://onguma.com/>
+- Turismo de Namibia (información general de zonas y fauna): <https://visitnamibia.com.na/>
 - El impala de cara negra, historia y estado en Etosha: <https://travelnam.com/etoshas-special-species/>
 - Lobos marinos de El Cabo, biología y colonia de Cape Cross (Conservation Namibia): <https://conservationnamibia.com/>
 - Cape Cross, hoja informativa oficial: <https://namibiahc.org.uk/perch/resources/pdf/cape-cross-brochure-fact-sheet-cape-cross.pdf>

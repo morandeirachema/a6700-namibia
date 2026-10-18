@@ -13,7 +13,7 @@ Allí solo se consulta.
 |---|---|---|---|
 | [PhotoPills](https://www.photopills.com/) (iOS/Android) | Sol, luna y Vía Láctea de cada día y lugar — el planificador del viaje | ~11 €, pago único | **Sí** (los cálculos y la realidad aumentada, siempre; el mapa solo si lo viste antes con wifi) |
 | [Stellarium](https://stellarium.org/) (PC) / [Stellarium Web](https://stellarium-web.org/) / [móvil](https://stellarium-labs.com/) | Ver cómo será el cielo de una fecha y hora — para ensayar en casa | Gratis (versión de pago opcional en móvil) | La de PC/móvil sí; la web no |
-| [Sony Creators' App](https://creatorsapp.sony.net/) (iOS/Android) | La app de la a6700: pasar los JPEG al móvil y disparo remoto | Gratis | **Sí** (wifi/Bluetooth directo cámara-móvil) — pero emparéjala en casa |
+| [Sony Creators' App](https://www.sony.net/ca/) (iOS/Android) | La app de la a6700: pasar los JPEG al móvil y disparo remoto | Gratis | **Sí** (wifi/Bluetooth directo cámara-móvil) — pero emparéjala en casa |
 | [Organic Maps](https://organicmaps.app/) o [Google Maps](https://www.google.com/maps) | Mapas offline y GPS en ruta | Gratis | **Sí**, si descargas Namibia antes |
 | [Light Pollution Map](https://www.lightpollutionmap.info/) (web) | Comprobar lo oscuro que es un sitio | Gratis | No (se usa en casa) |
 
@@ -134,7 +134,7 @@ y todo lo del punto 6 funciona con el móvil en modo avión.
 ## Referencias
 
 - PhotoPills, con sus tutoriales oficiales: <https://www.photopills.com/> · uso sin cobertura: <https://www.photopills.com/videos/3-tips-to-use-photopills-offline-photopills-tip-7>
-- Sony Creators' App: <https://creatorsapp.sony.net/>
+- Sony Creators' App: <https://www.sony.net/ca/>
 - Stellarium (escritorio): <https://stellarium.org/> · web: <https://stellarium-web.org/> · móvil: <https://stellarium-labs.com/>
 - Organic Maps: <https://organicmaps.app/>
 - Tracks4Africa: <https://tracks4africa.co.za/>

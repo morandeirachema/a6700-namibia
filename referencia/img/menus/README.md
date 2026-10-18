@@ -19,7 +19,7 @@ las pega solas en [la referencia de ajustes](../../ajustes-a6700.md).
 4. **Recorta a la pantalla** y guarda en JPEG, lado largo ~1200 px.
 5. Nombre exacto de la tabla de abajo, en esta carpeta.
 
-Las **★** son las doce imprescindibles. Si solo vas a hacer doce, haz esas.
+Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz esas.
 
 ## El guion, en orden de navegación
 

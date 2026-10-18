@@ -1,6 +1,6 @@
 # Todos los ajustes de la a6700 — el manual de tu cámara, con tus valores
 
-> 🔵 **Básico** · Da por sabido: el [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
+> 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
 **referencia única**: cada ajuste que toca este viaje, con su **ruta exacta

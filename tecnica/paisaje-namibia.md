@@ -131,7 +131,7 @@ nocturno: [edición](../campo/edicion-basica.md).
   atardecer la roca se enciende naranja — súbete a una bola (bota cerrada:
   escorpiones) y usa otra de primer plano. Es además el ensayo general del
   cielo de Etosha, con el granito de silueta.
-- Turismo e info general de estas zonas: <https://www.namibiatourism.com.na/>
+- Turismo e info general de estas zonas: <https://visitnamibia.com.na/>
 
 ## Las carreteras que son foto (y timelapse)
 
