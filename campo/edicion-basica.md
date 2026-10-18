@@ -217,8 +217,8 @@ filling* si hay microhuecos entre tomas):
 (Los del Pixel salen ya montados del móvil — esto es para las series del
 intervalómetro integrado de la a6700, que es la versión de máxima calidad.)
 
-Para la serie de intervalos del capítulo 2 (300 tomas ≈ 10 s de clip a 24
-fotogramas por segundo):
+Para la serie de intervalos del capítulo 2 (300 tomas ≈ 12 s de clip a 25
+fotogramas por segundo, los del vídeo del viaje):
 
 1. Revela **una** foto de la serie y sincroniza/pega el ajuste a todas
    (misma exposición fija en cámara = mismo revelado para todas).
@@ -226,7 +226,7 @@ fotogramas por segundo):
    carpeta vacía y con numeración ordenada.
 3. Móntalo gratis con **ffmpeg** (<https://ffmpeg.org/>), un solo comando
    desde esa carpeta:
-   `ffmpeg -framerate 24 -pattern_type glob -i '*.jpg' -c:v libx264 -pix_fmt yuv420p timelapse.mp4`
+   `ffmpeg -framerate 25 -pattern_type glob -i '*.jpg' -c:v libx264 -pix_fmt yuv420p timelapse.mp4`
    (en Windows, cambia el patrón: `-i img%04d.jpg`).
    Alternativa con interfaz: **DaVinci Resolve** gratis
    (<https://www.blackmagicdesign.com/products/davinciresolve>) importa la

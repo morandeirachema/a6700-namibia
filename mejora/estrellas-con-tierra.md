@@ -167,7 +167,7 @@ campings, nunca en miradores).
 ## Noche 3 — el cielo girando: los círculos
 
 Ahora dejamos que las estrellas dibujen. Encadenarás **90–180 fotos de
-30 segundos** (de 45 minutos a 2 horas) y un programa gratis las fundirá en
+30 segundos** (de 45 minutos a hora y media) y un programa gratis las fundirá en
 arcos. Es la foto nocturna más agradecida para un novato: casi no puede
 salir mal si la serie corre.
 
@@ -261,7 +261,7 @@ Y la dirección decide el dibujo:
    nota; StarStaX además trae `Gap filling`). Pulsa el disparador y la
    cámara encadena sola las 90–180 tomas.
 3. A la **toma 5, un vistazo**: ¿alguna farola está pintando tu objeto de
-   naranja? Mejor perder 3 minutos recolocándote que 2 horas de serie.
+   naranja? Mejor perder 3 minutos recolocándote que hora y media de serie.
 4. Y ya: **no toques nada** hasta el final. 90 tomas = 45 min de arcos
    discretos; 180+ = remolino serio. Tú, mientras, a la charca o a dormir —
    la serie no te necesita.
@@ -273,7 +273,7 @@ Y la dirección decide el dibujo:
 |---|---|---|
 | Arcos a rayitas con huecos | NR larga exposición ON o intervalo largo | NR OFF · intervalo 31 s · `Gap filling` |
 | La serie muere a mitad | Batería o tarjeta | Batería llena SIEMPRE; tarjeta con hueco de sobra |
-| Objeto quemado de naranja | Una farola, 2 horas pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
+| Objeto quemado de naranja | Una farola, hora y media pintándolo | El vistazo de la toma 5; o asume y pasa a B/N |
 | Remolino descentrado | El polo no estaba donde creías | Los 4 minutos de la **prueba de giro** (o la RA de PhotoPills) ANTES de encuadrar |
 | Sin cobertura, la RA "no va" o apunta raro | No es la red (la RA no la usa): brújula descalibrada o GPS sin fijar | Ochos con el móvil lejos del coche; móvil a cielo abierto 1–2 min. Y sin móvil: dos puños + prueba de giro |
 | El polo se queda fuera por arriba | Cámara demasiado inclinada al suelo, o mucho tele | Horizonte en el tercio bajo con la cámara nivelada; a 11 mm entra seguro |

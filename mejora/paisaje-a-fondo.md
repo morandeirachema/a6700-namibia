@@ -65,7 +65,8 @@ La receta, con el 11 mm (autofoco, así que es más fácil de lo que suena):
 2. **Enfoca con el AF a algo que esté a un metro** —una piedra, tu propio
    pie— y pasa el interruptor del objetivo a **MF**: a f/8 todo sale nítido
    **desde unos 45 cm hasta el infinito**. Si dudas, mejor un pelín más
-   lejos que más cerca de un metro: antes del metro, el fondo se ablanda.
+   lejos que más cerca: por debajo de unos 80 cm (la hiperfocal a f/8), el
+   fondo se ablanda.
    No vuelvas a tocar el enfoque en toda la sesión: es la "hiperfocal", y ya
    está puesta. (Comprueba la distancia en la escala que la cámara dibuja en
    pantalla al enfocar a mano.)
@@ -225,7 +226,7 @@ mejor que cualquier barrido automático.
 ## 10 · Las recetas de los maestros, aplicadas a tu ruta
 
 - **Deadvlei según Lanting**: se dispara con el **tele** (100–200 mm del
-  zoom, 150–300 mm equivalentes), cerrado a f/11–f/16, **sin cielo ni
+  zoom, 150–300 mm equivalentes), cerrado a f/8–f/11, **sin cielo ni
   horizonte** en el encuadre, en la
   ventana en que la duna del fondo está encendida y la arcilla del vlei aún
   en sombra (que se vuelve azul). Exposición para la duna iluminada; los

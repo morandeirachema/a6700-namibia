@@ -45,7 +45,8 @@ un portátil.
 3. En la tarjeta, entra en `DCIM` y **selecciona la carpeta del día entera**
    (mantén pulsado). Menú `⋮` → **Copiar a** → el SSD → la carpeta que toque.
    La estructura que te ahorrará meses de líos en casa:
-   `namibia-2026/2026-11-09_etosha-okaukuejo/`.
+   `2026-11-namibia/2026-11-09_etosha-okaukuejo/` (la misma que en
+   [archivo y selección](archivo-y-seleccion.md)).
 4. **Copiar, nunca mover.** "Mover" borra el origen, y el origen es tu otra
    copia.
 5. **Comprueba antes de dormir**: entra en la carpeta del SSD, mira que el

@@ -89,7 +89,7 @@ visible gran parte de la noche.
 8. ¿Timelapse? `MENU → Toma → `**`Func. capt. interv.`** (*Interval Shoot
    Func.* en inglés): exposición de 15 s,
    intervalo de disparo 17 s (en Sony el intervalo se mide de inicio a
-   inicio), 300 tomas ≈ 10 s de vídeo. Sin cables: le das a empezar y te
+   inicio), 300 tomas ≈ 12 s de vídeo a 25 fps. Sin cables: le das a empezar y te
    olvidas.
 9. Antes de recoger: revisa la última foto **ampliada al máximo** por si el
    enfoque se movió.

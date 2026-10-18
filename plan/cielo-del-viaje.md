@@ -164,7 +164,7 @@ Tu foto en movimiento, por dos vías (de menos a más esfuerzo):
    ([su guía](../tecnica/pixel-10-pro.md)). Es la vía "pon y olvida" de este viaje.
 2. **La a6700 con su intervalómetro integrado** (`Func. capt. interv.`),
    la versión de máxima calidad — sin cable que comprar, viene de serie:
-   15 s de foto / intervalo 17 s / 300 tomas ≈ 10 s de vídeo (receta en el
+   15 s de foto / intervalo 17 s / 300 tomas ≈ 12 s de vídeo a 25 fps (receta en el
    [capítulo 2](../a6700/02-astrofotografia-namibia.md), montaje en
    [edición](../campo/edicion-basica.md)). Resérvala para la noche estrella.
 

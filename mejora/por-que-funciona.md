@@ -22,7 +22,7 @@ que necesitas, y los tres controles la manejan con escalas distintas:
 | Control | Un paso más de luz es… | La escala |
 |---|---|---|
 | **Obturación** | El doble de tiempo | 1/1000 → 1/500 → 1/250 → 1/125… |
-| **Apertura** | Un número f **dividido entre √2** | f/1.8 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso) |
+| **Apertura** | Un número f **dividido entre √2** | f/2 → 2.8 → 4 → 5.6 → 8 → 11 (cada salto ahí es un paso; el f/1.8 del 11 mm es un tercio más que f/2) |
 | **ISO** | El doble de amplificación | 100 → 200 → 400 → 800 → 1600… |
 
 De ahí sale lo único que hay que interiorizar: **tres exposiciones que dejan
@@ -32,7 +32,7 @@ entrar la misma luz** y dan tres fotos completamente distintas.
 |---|---|
 | 1/2000 · f/6.3 · ISO 6400 | El animal congelado, ruido alto |
 | 1/500 · f/6.3 · ISO 1600 | Dos pasos menos de ruido, riesgo de movida |
-| 1/500 · f/3.2 · ISO 800 | Aún más limpia — pero tu tele no abre a f/3.2 |
+| 1/500 · f/3.2 · ISO 400 | Aún más limpia — pero tu tele no abre a f/3.2 |
 
 **La decisión**: cuando falte luz, decides **qué pagas**. Movimiento
 (obturación), profundidad (apertura) o ruido (ISO). El orden que usa este
@@ -197,8 +197,8 @@ el rango.
 
 Y hay un número que lo explica casi todo: la ficha de Sony da sensibilidad de
 AF **de −3 EV a +20 EV**, medida **a f/2.0**. Tu 70-350 abre a **f/6.3**: son
-casi **tres pasos y medio** menos de luz llegando al sensor. El AF que en el
-papel ve a −3 EV, con tu tele puesto se queda alrededor de **+0,4 EV** — que
+algo más de **tres pasos** (3,3) menos de luz llegando al sensor. El AF que
+en el papel ve a −3 EV, con tu tele puesto se queda alrededor de **+0,3 EV** — que
 es, exactamente, la penumbra de la charca de Okaukuejo.
 
 **Las decisiones**:
@@ -251,15 +251,16 @@ que más vas a usar.
 | A 350 mm y el animal cerca | Menos de un metro de profundidad | El ojo, y verificación al 100 % |
 | Quieres todo nítido en paisaje | La difracción castiga a partir de f/11 | f/8 e hiperfocal; si no llega, aleja el primer plano |
 | Quieres el sujeto pequeño en un fondo enorme | La compresión es distancia, no focal | Aléjate y zoomea |
-| El AF caza y no fija de noche | Con f/6.3 pierdes 3,5 pasos de sensibilidad | Punto único a un borde iluminado, o MF prefijado |
+| El AF caza y no fija de noche | Con f/6.3 pierdes algo más de 3 pasos de sensibilidad | Punto único a un borde iluminado, o MF prefijado |
 
 ## Ejercicios (tres tardes, antes de volar)
 
 1. **La tarde del paso** (ejercicio del punto 1): cuatro exposiciones
    equivalentes de la misma escena. Aprendes a pensar en pasos, no en números
    sueltos.
-2. **La tarde de la profundidad**: pon tres objetos a 1, 3 y 10 metros.
-   Fotografía la fila a 70 mm y a 350 mm, y luego a f/4.5 y a f/11. Cuatro
+2. **La tarde de la profundidad**: pon tres objetos a 2, 4 y 10 metros
+   (a 350 mm el tele no enfoca a menos de 1,5 m). Fotografía la fila a 70 mm
+   y a 350 mm, y luego a f/6.3 (lo más abierto a 350 mm) y a f/11. Cuatro
    fotos que enseñan la tabla del punto 3 mejor que la tabla.
 3. **La tarde de la difracción**: un cartel con texto pequeño, trípode, misma
    escena a f/4, f/8, f/11 y f/16. Amplía al 100 %. Verás con tus ojos dónde

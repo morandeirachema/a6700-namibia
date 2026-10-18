@@ -100,7 +100,8 @@ Los dos sujetos de tu viaje que se mueven despacio y lucen acelerados:
 - La versión sin esfuerzo: el **modo timelapse del móvil** apoyado en una
   piedra — para redes, sobra.
 
-El montaje del clip (ffmpeg o DaVinci) es el mismo que el del timelapse
+El montaje del clip ([ffmpeg](https://ffmpeg.org/) o
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)) es el mismo que el del timelapse
 nocturno: [edición](../campo/edicion-basica.md).
 
 ## Las paradas de tu ruta que casi nadie fotografía (y tú sí)
