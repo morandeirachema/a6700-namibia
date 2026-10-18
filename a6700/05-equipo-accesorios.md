@@ -3,8 +3,8 @@
 > 🔵 **Básico** · Da por sabido: nada · Te desbloquea: saber qué comprar, qué no, y por qué.
 
 Situación de partida de este viaje: se empieza casi de cero y el kit son
-**tres compras** — el cuerpo, el gran angular de astro y paisaje, y el tele
-de fauna — elegidas para cubrir safari, charcas nocturnas y cielo con el
+**dos compras y un préstamo** — el cuerpo y el gran angular de astro y
+paisaje, comprados, y el tele de fauna, prestado — elegidos para cubrir safari, charcas nocturnas y cielo con el
 mínimo dinero razonable. La cuarta cámara-que-ya-tienes, el **Pixel 10 Pro**,
 cubre el hueco de en medio y el vídeo del viaje
 ([su guía](../tecnica/pixel-10-pro.md)). Ventaja de la montura E de Sony: es la
@@ -14,13 +14,13 @@ un 20–40 %.
 
 **El kit del viaje, en una línea**: a6700 (~1.000–1.200 €) + 11mm F1.8
 (~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
-1.600–1.800 € comprando las dos ópticas de segunda mano en mpb.
+1.800–2.100 € comprando las dos ópticas de segunda mano en mpb.
 
 > **Estado a 26 de agosto de 2026**: el cuerpo, el **11 mm**, el trípode, el
 > bean bag, el frontal, el power bank y el SSD ya están en casa, y el
 > **70-350 llega prestado** estos días. Las tres baterías y el cargador ya están
-> resueltos; lo que queda por comprar —lector, hub, cable, filtro y las
-> menudencias— está en
+> resueltos; lo que queda por comprar —una o dos tarjetas V60, lector, hub,
+> cable, filtro y las menudencias— está en
 > [la lista de la compra](../plan/lista-de-la-compra.md), con precios y
 > urgencias. Las secciones de abajo explican **por qué** se eligió cada
 > cosa; siguen valiendo como referencia aunque ya no haya que comprarla.
@@ -36,7 +36,7 @@ esta y no otra:
   valiosa que existe — hace por ti la habilidad que antes llevaba años
   entrenar ([capítulo 3](03-safari-diurno.md)).
 - **Estabilizador en el cuerpo (IBIS)** de ~5 pasos: suma con el del tele y
-  estabiliza también el objetivo manual de astro.
+  estabiliza también el 11 mm, que no lleva estabilizador propio.
 - **Intervalómetro integrado**: los timelapses y star trails del
   [capítulo 2](02-astrofotografia-namibia.md) sin comprar ni un cable.
 - **26 Mpx APS-C**: margen de recorte en edición, y su recorte 1.5x
@@ -49,9 +49,9 @@ Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
   SSD** ([logística](../campo/logistica-viaje.md)) — con esta cámara no es
   opcional.
 - **La caja no trae cargador**: la batería se carga por USB-C en la propia
-  cámara. Funciona (y un power bank la revive en el campo), pero compra el
-  cargador doble de la lista de abajo: cargar dos baterías mientras la
-  cámara sigue contigo lo vale.
+  cámara. Funciona (y un power bank la revive en el campo), y el cargador doble
+  aparte ya está resuelto: cargar dos baterías mientras la cámara sigue
+  contigo lo vale.
 
 ## Astrofotografía y paisaje: el Sony E 11mm F1.8
 
@@ -156,8 +156,8 @@ existe el búfer, y lo que decide la tarjeta es **cuánto tarda en vaciarlo**:
 
 Y un dato de la propia cámara que conviene tener en la cabeza: el búfer son
 unas **1.000 fotos en JPEG, 59 en RAW comprimido y solo 23 en RAW comprimido
-sin pérdida** — que es el formato que usa este repo. **23 fotos a 11 fps son
-dos segundos.** O sea: la regla de "ráfagas de 1–2 segundos" no es
+sin pérdida** — que es el formato que usa este repo. **23 fotos son unos dos
+segundos** (en RAW sin pérdida la ráfaga va a ~10 fps). O sea: la regla de "ráfagas de 1–2 segundos" no es
 estilística, es que **el búfer se llena justo ahí**.
 
 **La decisión**: el escenario que lo paga es la charca. Los rinocerontes
@@ -197,8 +197,9 @@ guárdalas como respaldo de emergencia — funcionan, simplemente te frenan.
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
   — pero el cargador doble deja las tres baterías listas cada noche sin
   secuestrar la cámara.
-- **2 adaptadores de enchufe tipo D/M + una regleta europea pequeña**: los
-  enchufes de Namibia no son los europeos, y con la regleta un solo
+- **2 adaptadores de enchufe tipo M + una regleta europea pequeña**: el
+  enchufe oficial de Namibia es el M (el europeo entra en algunos, no en
+  todos), y con la regleta un solo
   adaptador da servicio a todos los cargadores a la vez
   ([logística](../campo/logistica-viaje.md)).
 - **Intervalómetro: no hace falta.** Viene integrado en la cámara
@@ -216,7 +217,8 @@ guárdalas como respaldo de emergencia — funcionan, simplemente te frenan.
   15–25 € vacío (busca "camera bean bag"), o hazlo tú: una funda pequeña de
   cojín con cremallera. Viaja **vacío** (pesa 1,5–2 kg lleno) y se rellena
   allí con arroz o alubias del primer supermercado; se vacía antes de volver.
-- **Filtros (opcionales) y el anillo que ahorra dinero**: los dos objetivos
+- **Filtros (el protector, obligatorio: el tele es prestado) y el anillo
+  que ahorra dinero**: los dos objetivos
   **no** comparten rosca — el 11 mm es de **55 mm** y el 70-350 de **67 mm**.
   La solución barata es un **anillo step-up 55→67** (~8 €): compras todos los
   filtros en 67 mm y sirven para los dos. Con eso: un **filtro protector**

@@ -24,7 +24,7 @@ urgente y qué puede esperar.
 | ☑ | **PhotoPills** instalada |
 | ☑ | **Toallas de microfibra** |
 | ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
-| ☑ | **2 tarjetas SD** y **batería** — pero mira abajo: hay que comprobar cuáles |
+| ☑ | **2 tarjetas SD UHS-II V60 de 128 GB** — faltan una o dos más (abajo) |
 
 ## Prestado 🤝 — el 70-350, llega estos días
 
@@ -115,7 +115,7 @@ que se apaga a mitad se lleva por delante la serie entera. Las compatibles,
 para el día, donde cambiarlas cuesta diez segundos.
 
 Comprueba también que el cargador **carga por USB**: en Namibia irás de
-regleta y adaptador tipo D/M, y un cargador de enchufe grande estorba más de
+regleta y adaptador tipo M, y un cargador de enchufe grande estorba más de
 lo que parece.
 
 ## 🟠 El resto del kit de copias — antes de octubre
@@ -138,12 +138,12 @@ cronométrala en tu salón, no en Okaukuejo.
 |---|---|---|---|
 | ☐ | **Filtro protector 67 mm** para el 70-350 | 25–40 € | Es prestado y va a Etosha. **Para astro, quítalo** |
 | ☐ | **Anillo step-up 55→67** | ~8 € | Un solo juego de filtros para los dos objetivos |
-| ☐ | **2 adaptadores tipo D/M + regleta europea** | 15–20 € | Los enchufes de Namibia no son europeos; con regleta, un adaptador da para todos los cargadores |
+| ☐ | **2 adaptadores tipo M + regleta europea** | 15–20 € | El enchufe oficial de Namibia es el M (el europeo entra en algunos, no en todos); con regleta, un adaptador da para todos los cargadores |
 | ☐ | **Cinta de carrocero o gaffer** | 3–5 € | Para fijar el anillo de enfoque en astro. Suena a broma y es el truco más útil de la noche |
 
 **Subtotal: ~50–75 €**
 
-> **Sobre las microfibras que ya tienes**: para el cuerpo, la pantalla y secar, una toalla de microfibra normal va perfecta. Para el **cristal frontal**, en cambio, conviene un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Si las tuyas son de las grandes de secar, reserva una esquina limpia solo para lentes, o añade dos paños de óptica por 5–8 €. El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
+> **Sobre las microfibras que ya tienes**: para el cuerpo, la pantalla y secar, una toalla de microfibra normal va perfecta. Para el **cristal frontal**, en cambio, conviene un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Si las tuyas son de las grandes de secar, reserva una esquina limpia solo para lentes, o añade dos paños de óptica por 5–8 €. Del [kit de limpieza](../campo/limpieza-en-campo.md) te faltan además el **pincel óptico o LensPen** y el **líquido con pañuelos ópticos** (el kit entero ronda 25–35 €). El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
 
 ## 🟢 Opcional
 
@@ -153,6 +153,10 @@ cronométrala en tu salón, no en Okaukuejo.
 | ☐ | **Prismáticos** | 80–200 € | Encontrar antes al animal rinde más de lo que parece |
 | ☐ | **Filtro ND1000** | 25–40 € | Larga exposición diurna en la costa |
 | ☐ | **Peluche antiviento** para el micro | 10–15 € | El viento del Namib se come el audio y no hay arreglo en edición |
+| ☐ | **Filtro ND variable 55 mm** de rango corto (ND2-32 o ND4-64) | 30–45 € | Vas a grabar vídeo a 1/50 con sol ([el vídeo del viaje](../tecnica/video-del-viaje.md)) |
+| ☐ | **Mini trípode** | 20–30 € | Planos fijos largos y timelapses del vídeo |
+| ☐ | **Polarizador circular 67 mm** | 20–30 € | Te pica el paisaje con el tele (en el 11 mm oscurece el cielo a trozos) |
+| ☐ | **Funda impermeable** de cámara | ~10 € | Te pilla una tormenta de noviembre ([logística](../campo/logistica-viaje.md)) |
 
 ---
 
@@ -176,12 +180,12 @@ cronométrala en tu salón, no en Okaukuejo.
 | 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Ya |
 | 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
 | 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Septiembre |
-| 🟢 Opcional | 235–435 € | Si sobra |
-| | **Total sin opcionales: ~155–345 €** — dos tarjetas y cuatro conectores, y se acabó | |
+| 🟢 Opcional | 315–550 € | Si sobra |
+| | **Total sin opcionales: ~155–345 €** — una o dos tarjetas y cuatro conectores, y se acabó | |
 
 Con el tele prestado y casi todo lo demás en casa, el viaje se queda en
 **menos de la quinta parte** de lo que costaría partiendo de cero. Lo que
-queda son dos tarjetas y cuatro conectores: **nada que tarde en llegar y nada
+queda son una o dos tarjetas y cuatro conectores: **nada que tarde en llegar y nada
 que haya que pensar mucho**.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)

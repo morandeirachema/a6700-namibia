@@ -66,7 +66,7 @@ a mediodía:
 - Si no hay actividad: come, duerme y repasa qué te falta de la
   [lista de tomas](lista-de-tomas.md). Un safari son muchos días — quemarse
   a mediodía roba las horas buenas de la tarde.
-- Lo que **no** funciona a mediodía: retratos lejanos a 600 mm (calima) y
+- Lo que **no** funciona a mediodía: retratos lejanos a 350 mm (calima) y
   pelearse contra las sombras verticales. No es tu técnica, es la física.
 
 ## La última hora: la más rentable y la más peligrosa

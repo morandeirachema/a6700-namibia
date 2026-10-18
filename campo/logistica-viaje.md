@@ -20,15 +20,17 @@ consecuencias que hay que tener claras antes de comprar nada:
    cámara y con la [lista de tomas](../plan/lista-de-tomas.md), y todo el
    revelado espera ([edición](edicion-basica.md), [archivo](archivo-y-seleccion.md)).
 
-### El kit de copias (lo que hay que comprar)
+### El kit de copias (lo que hay que tener)
+
+Qué falta todavía, en la [lista de la compra](../plan/lista-de-la-compra.md).
 
 | Qué | Para qué | Precio orientativo |
 |---|---|---|
 | **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real. Los lectores UHS-I baratos son **3–4 veces más lentos** | 25–40 € (Kingston, Lexar, ProGrade) |
-| **SSD portátil de 1 TB USB-C** | El destino de todo. Samsung T7 o SanDisk Extreme | 110–150 € (**suben en 2026: no lo dejes para el final**) |
+| **SSD portátil de 1 TB USB-C** | El destino de todo. Samsung T7 o SanDisk Extreme | **Ya en casa** ✅ |
 | **Hub USB-C con entrada de carga (PD)** | La pieza clave: el móvil necesita **lector y SSD a la vez**, y alimentarlos | 20–35 € |
 | **Cable USB-C corto de datos** | Muchos cables de carga **no llevan datos**. Comprueba el tuyo en casa | 8–12 € |
-| Tarjetas SD UHS-II V60 de sobra | Son la segunda copia (abajo, la cuenta) | 40–60 € las de 128 GB |
+| Tarjetas SD UHS-II V60 de sobra | Son la segunda copia (abajo, la cuenta) | 50–90 € las de 128 GB |
 
 Todo eso cabe en una bolsita de la mochila y pesa menos que el cargador de
 un portátil.
@@ -85,14 +87,15 @@ hace otra cosa), existe la categoría de los **FileHub**: una cajita con
 batería, ranura SD y puerto USB que copia la tarjeta al SSD **pulsando un
 botón**, sin teléfono ni ordenador (RAVPower RP-WD009, NewQ FileHub y
 similares, 60–80 €). Es más lento —del orden de **12–18 MB/s**, o sea
-media hora larga por cada 20 GB— pero funciona solo mientras cenas, y de
+unos 20–30 minutos por cada 20 GB— pero funciona solo mientras cenas, y de
 paso hace de router wifi para ver los archivos desde el móvil.
 
 ### Y las reglas que no cambian
 
-- **Reparte las copias físicamente**: tarjetas llenas en la mochila que va
-  contigo, SSD en la maleta o el coche. Nunca todo en el mismo sitio, nunca
-  todo en el mismo vuelo de vuelta.
+- **Reparte las copias físicamente**: durante el viaje, tarjetas llenas en la
+  mochila que va contigo y SSD en la maleta o el coche — nunca todo en el
+  mismo sitio. En el vuelo de vuelta, las dos en cabina y repartidas
+  ([el equipo en el avión](#el-equipo-en-el-avión)), nunca facturadas.
 - **No se borra nada en cámara**, con una sola excepción: los **clips de
   vídeo fallidos** del Pixel, que son gigas muertos. Las fotos, ninguna.
 - El **vídeo y las fotos del Pixel** entran en el mismo volcado: conecta el
@@ -111,10 +114,10 @@ paso hace de router wifi para ver los archivos desde el móvil.
 | **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | Memoria libre en el móvil antes de volar + copia al SSD cada 2–3 noches |
 | **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas; cada astro guarda foto + mini-vídeo | Despreciable frente al vídeo | — |
 
-**El SSD**: entre el RAW de la Sony y el vídeo del móvil, el viaje completo
-se mueve en torno a **400–600 GB**. Un SSD de 1 TB va sobrado si cribas los
-clips fallidos al volcar; si vas a grabar mucho vídeo, 2 TB. Decide antes de
-comprar, no en Etosha.
+**El SSD**: sumando la tabla (Sony 250–350 GB, su vídeo 8–12, el vídeo del
+Pixel 60–80), el viaje completo se mueve en torno a **320–450 GB**. Uno de
+1 TB va sobrado; con uno de 500 GB vas justo. Mira la capacidad del que ya
+tienes antes de volar, no en Etosha.
 
 ### La cuenta de la energía
 
@@ -126,18 +129,20 @@ comprar, no en Etosha.
 
 ## Energía
 
-- Namibia usa enchufes **tipo D y M** (los redondos de tres clavijas gordas,
-  distintos del europeo): lleva 2 adaptadores + una **regleta europea**
-  pequeña — un solo adaptador da servicio a todos los cargadores a la vez.
-  <https://www.worldstandards.eu/electricity/plug-voltage-by-country/>
+- Namibia usa enchufes **tipo M** (el oficial: tres clavijas redondas
+  gordas) y, cada vez más, **C y N**; en edificios antiguos aún quedan de
+  **tipo D**. 230 V y 50 Hz, como en casa. El enchufe europeo de dos clavijas
+  finas (tipo C) entra en muchos, pero no en los M: lleva 2 adaptadores
+  **tipo M** + una **regleta europea** pequeña — un solo adaptador da
+  servicio a todos los cargadores a la vez.
+  <https://www.worldstandards.eu/electricity/plug-voltage-by-country/namibia/>
 - **Todo el equipo carga por USB-C** (la a6700, el móvil, el power bank): la
-  regleta + los adaptadores D/M + un par de cargadores USB-C dan servicio a
-  todo. Ojo: la caja de la a6700 **no trae cargador** — compra
-  uno USB-C (o el cargador doble de NP-FZ100, ~30–40 €) antes del viaje,
-  y 2 baterías de repuesto.
+  regleta + los adaptadores tipo M + un par de cargadores USB-C dan servicio
+  a todo. La caja de la a6700 **no trae cargador**, pero eso ya está
+  resuelto: tres baterías y su cargador ([lista de la compra](../plan/lista-de-la-compra.md)).
 - En el coche de alquiler: los puertos USB cargan power bank, móvil y, si
   hace falta, la propia cámara de camino.
-- **En tu quincena (1–15 de noviembre) el enemigo es el calor, no el frío**:
+- **En tu quincena (31 oct–14 nov) el enemigo es el calor, no el frío**:
   en Etosha, días de 33–36 °C (con picos de 40) y noches suaves de ~20 °C.
   Las baterías no sufrirán frío, pero **no dejes equipo al sol dentro del
   coche** (el habitáculo aparcado supera con mucho los 40 °C): mochila en el
@@ -205,8 +210,8 @@ está decidido de antemano:
   charca, dentro del recinto. <https://www.nwr.com.na/>
 - No salgas del recinto vallado a pie de noche, tampoco "un momento a por la
   toma": los campamentos están vallados por algo.
-- **Fuera de Etosha** (Spreetshoogte, Sesriem, Hoada y la última noche, ya en
-  **Onguma Tamboti**): granjas, campings y reservas privadas donde sí saldrás
+- **Fuera de Etosha** (Spreetshoogte, Sesriem, Hoada y la última noche de safari, ya
+  en **Onguma Tamboti**): granjas, campings y reservas privadas donde sí saldrás
   a cielo abierto de noche. Pregunta al llegar hasta dónde
   conviene alejarse (por la zona de Hoada pueden rondar elefantes); el riesgo
   cotidiano son los escorpiones — bota cerrada, frontal al suelo y sacude las
@@ -264,7 +269,7 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 |---|---|
 | La a6700 (con el 70-350 montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
 | El 11 mm en su compartimento | Bean bag **vacío** |
-| **Todas** las baterías (NP-FZ100) y el power bank | Cargadores, regleta y adaptadores D/M |
+| **Todas** las baterías (NP-FZ100) y el power bank | Cargadores, regleta y adaptadores tipo M |
 | El micro (si lo llevas) y el filtro ND, en su funda | Peluche antiviento y mini trípode |
 | Tarjetas SD y el SSD | Kit de limpieza, bolsas zip, cinta |
 | El móvil y el mini trípode o pinza | Ropa alrededor de todo, haciendo de acolchado |

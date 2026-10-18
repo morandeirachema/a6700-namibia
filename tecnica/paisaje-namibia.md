@@ -116,7 +116,7 @@ nocturno: [edición](../campo/edicion-basica.md).
   - **Cape Cross**: decenas de miles de lobos marinos — llega preparado
     para el olor y el ruido. Receta de fauna diurna con tele, agáchate a su
     altura en la pasarela, y busca el caos gráfico: la colonia entera como
-    textura a 600 mm. Esa noche toca limpieza por salitre
+    textura a 350 mm. Esa noche toca limpieza por salitre
     ([limpieza](../campo/limpieza-en-campo.md)).
   - **El pecio Zeila** (junto a Henties Bay): el barco varado y oxidado con
     cormoranes encima. Con niebla es la foto: silueta gris sobre gris;

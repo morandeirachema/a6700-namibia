@@ -22,6 +22,7 @@ Actualiza al firmware más reciente desde la página de soporte de Sony:
 dos objetivos también tienen firmware, y al ser Sony se actualizan **con el
 objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
+El 70-350 es **prestado**: actualiza el suyo solo con permiso de su dueño.
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
@@ -113,8 +114,8 @@ guardar. Caben 3 memorias en la cámara y 4 más (M1–M4) en la tarjeta.
 La a6700 tiene **una sola ranura SD** — no existe la segunda tarjeta espejo,
 así que la primera copia de seguridad es el **volcado de cada noche** al SSD
 —que en este viaje se hace **con el Pixel, sin portátil**: hub, lector y SSD—,
-y las tarjetas llenas **no se reutilizan** hasta estar volcadas y
-comprobadas. Compra la tarjeta rápida (**UHS-II**, V60 va sobrada) para que
+y las tarjetas llenas **no se reutilizan en todo el viaje**: volcadas y
+comprobadas, son la segunda copia. Compra la tarjeta rápida (**UHS-II**, V60 va sobrada) para que
 las ráfagas en RAW no se atasquen. El sistema completo de copias del viaje
 está en la [guía de logística](../campo/logistica-viaje.md).
 
@@ -145,7 +146,8 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 
 Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 
-1. **Firmware** del cuerpo y de los dos objetivos al día, con todo cargado.
+1. **Firmware** del cuerpo y de los dos objetivos al día, con todo cargado
+   (el del 70-350, solo si su dueño te ha dicho que sí).
 2. **La tabla de ajustes generales**, uno a uno, con la
    [referencia de ajustes](../referencia/ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.

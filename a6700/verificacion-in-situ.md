@@ -12,8 +12,9 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Dioptrías**: ruedecita junto al visor hasta ver nítidos los números.
   *Por qué:* de fábrica viene en una posición cualquiera; con las dioptrías
   mal, todo te parecerá desenfocado y desconfiarás del AF sin motivo.
-- [ ] **Fecha y hora** en hora de Namibia. *Por qué:* ordenarás miles de
-  fotos por hora de captura, y deben encajar con las del móvil.
+- [ ] **Fecha y hora** en hora de casa, y **el día que aterrices, a hora de
+  Namibia**. *Por qué:* ordenarás miles de fotos por hora de captura, y deben
+  encajar con las del móvil.
 - [ ] **Prueba de polvo**: foto al cielo liso a f/11 y revisa en pantalla con
   zoom. Motas oscuras = polvo en sensor. *Qué hacer:* nada en el viaje — se
   clonan en edición en un clic. Solo importa saber que están.
@@ -27,7 +28,8 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 - [ ] **Zebra 100+ activado**. *Por qué:* es tu aviso de quemados **en
   vivo**, antes de disparar — la alarma de exposición más rápida que tiene
   esta cámara.
-- [ ] **Firmware al día**: el de la cámara y el de los dos objetivos (se
+- [ ] **Firmware al día**: el de la cámara y el de los dos objetivos (el del
+  70-350, solo con permiso de su dueño; se
   actualizan con el objetivo montado, conectando la cámara al ordenador
   desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
   hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
@@ -40,10 +42,9 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
 
 ## 2 · El día que llegue el tele (20 min, una sola vez)
 
-Prueba de aceptación del 70-350 (nuevo, usado **o prestado**). Si lo has
-comprado, se hace dentro del plazo de devolución; si **te lo prestan**, se
-hace igual pero para otra cosa: **conocer sus defectos con tiempo** y decidir
-cómo trabajar con ellos (encuadrar a 300 mm y recortar, evitar f/6.3 a tope…)
+Prueba de aceptación del 70-350, que es **prestado**: no es para devolverlo,
+sino para **conocer sus defectos con tiempo** y decidir cómo trabajar con
+ellos (encuadrar a 300 mm y recortar, evitar f/6.3 a tope…)
 en lugar de descubrirlos en Etosha:
 
 - [ ] Zoom y anillos giran suaves en todo el recorrido; sin arenilla ni
@@ -52,8 +53,8 @@ en lugar de descubrirlos en Etosha:
   interna. Polvillo suelto interior es normal y no sale en fotos.
 - [ ] **Prueba de nitidez**: a plena luz, trípode o apoyo firme, un objeto
   con texto a 20–30 m. Foto a 70, 200 y 350 mm a 1/1000. Al 100 % el texto
-  debe leerse; blando solo a un lado no (elemento descentrado → devolución
-  si es comprado; si es prestado, díselo al dueño y trabaja a 300 mm).
+  debe leerse; blando solo a un lado no (elemento descentrado → díselo al
+  dueño y trabaja a 300 mm).
 - [ ] **Estabilizador (OSS)**: interruptor en ON, media pulsación — la
   imagen del visor debe "asentarse". Foto a 350 mm a 1/100 apoyado: nítida =
   el OSS trabaja.
@@ -61,16 +62,14 @@ en lugar de descubrirlos en Etosha:
   desde lejos cada vez. ¿Las 10 igual de nítidas? *Por qué es tajante:* en
   una mirrorless el AF mide en el propio sensor — no existe descalibración
   de fase que lo excuse. Si la nitidez baila, el ejemplar tiene un problema
-  → devolución si es comprado; si es prestado, avisa al dueño y decide con
-  tiempo: otro ejemplar en [mpb](https://www.mpb.com/) o el
+  → avisa al dueño y decide con tiempo: otro ejemplar en [mpb](https://www.mpb.com/) o el
   [Pixel de día](../tecnica/pixel-10-pro-de-dia.md) como tele.
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara
-  (<https://www.sony.es/electronics/support>, busca "SEL70350G"). *Si es
-  prestado, pregúntaselo antes a su dueño.*
-- [ ] **Si es prestado**: fotografía el objetivo por todos lados **antes de
-  usarlo** (marcas, rozaduras, el estado del cristal). Cinco minutos que
+  (<https://www.sony.es/electronics/support>, busca "SEL70350G"). *Pregúntaselo
+  antes a su dueño.*
+- [ ] **Antes de usarlo**: fotografía el objetivo por todos lados (marcas, rozaduras, el estado del cristal). Cinco minutos que
   evitan una conversación incómoda a la vuelta. Y ponle **filtro
   protector**: va a Etosha.
 
@@ -244,7 +243,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   sin portátil no hay red debajo. **Nada se formatea** hasta casa, y la
   tarjeta llena se etiqueta y se guarda **lejos del SSD**.
 - [ ] Baterías gastadas al **cargador doble USB** en la regleta (adaptador
-  D/M); la cámara también puede cargar por USB-C si hace falta.
+  tipo M); la cámara también puede cargar por USB-C si hace falta.
 - [ ] **Repaso de 10 minutos**: tus 3 mejores del día → el error que se
   repite → **una** corrección concreta para mañana (una, no cinco).
 - [ ] [Lista de tomas](../plan/lista-de-tomas.md): marca conseguidas, elige

@@ -184,9 +184,10 @@ pero nadie habla. Los timelapses los pone el móvil
 4. **30 segundos de ambiente** en cada sitio con sonido propio, aunque no
    grabes imagen que valga.
 5. **Por la noche**, en el volcado ([logística](../campo/logistica-viaje.md)): los
-   clips a su carpeta del día y **borra los fallidos** — es la única
-   excepción a la regla de no borrar nada, porque un clip de 4K fallido son
-   gigas muertos.
+   clips a su carpeta del día. De la tarjeta **no se borra nada** —es tu
+   segunda copia— y la criba de clips espera a casa; la única excepción del
+   viaje son los clips fallidos **del Pixel**, que son gigas muertos en el
+   móvil.
 
 ## Si el vídeo sale mal…
 

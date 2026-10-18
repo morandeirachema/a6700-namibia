@@ -303,8 +303,8 @@ cuarenta y cinco.
 Coge **veinte RAW** de cualquier salida tuya y haz el flujo entero de esta
 guía, cronometrado: criba en dos pasadas, revelado de las cinco marcadas en
 el orden de la tabla, ruido por IA en la más oscura y exportación a sRGB.
-Objetivo: **menos de una hora en total**. En el viaje harás esto cada noche
-con sueño, y si te lleva tres horas, no lo harás.
+Objetivo: **menos de una hora en total**. A la vuelta tendrás miles de
+fotos, no veinte: si estas te llevan tres horas, aquellas no las harás.
 
 ## Referencias
 

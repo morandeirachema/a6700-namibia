@@ -159,7 +159,7 @@ Cinco reglas que no requieren técnica, solo acordarse:
 - **Bean bag** en la ventanilla (mejor que trípode dentro del coche; qué es
   y cómo se usa: [equipo](05-equipo-accesorios.md)). Llévalo
   vacío y rellénalo allí con arroz o alubias.
-- **Motor apagado** en las tomas importantes: la vibración se nota a 600 mm
+- **Motor apagado** en las tomas importantes: la vibración se nota a 525 mm
   equivalentes.
 - Cámara encendida con el tele montado **siempre en el regazo**: los leopardos
   no esperan.

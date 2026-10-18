@@ -18,9 +18,9 @@ nada más hoy**: eso es el capítulo 1.
 
 1. **Carga la batería.** La caja de la a6700 **no trae cargador**: se carga
    por USB-C con la batería dentro de la cámara (cualquier cargador de
-   móvil con USB-C PD sirve). Luz naranja encendida = cargando. Un cargador
-   doble aparte es la primera compra del viaje
-   ([equipo](05-equipo-accesorios.md)).
+   móvil con USB-C PD sirve). Luz naranja encendida = cargando. El cargador
+   doble aparte, para cargar fuera de la cámara, ya está resuelto
+   ([lista de la compra](../plan/lista-de-la-compra.md)).
 2. **Monta el objetivo.** Cámara apagada, quita las tapas, alinea el
    **punto blanco** del objetivo con el punto blanco de la montura y gira
    hasta el clic. Hazlo con el cuerpo mirando hacia abajo: en una cámara
@@ -42,8 +42,8 @@ nada más hoy**: eso es el capítulo 1.
    limpia y con el sistema de archivos que la cámara espera. Aviso para
    siempre: formatear **borra todo y no se recupera nada** — incluidas las
    fotos protegidas y las memorias M1–M4 guardadas en la tarjeta. Por eso
-   en el viaje **no se formatea nada** hasta estar volcado y comprobado
-   ([logística](../campo/logistica-viaje.md)).
+   en el viaje **no se formatea ninguna tarjeta llena**, ni siquiera ya
+   volcada: es tu segunda copia ([logística](../campo/logistica-viaje.md)).
 8. **Ajusta las dioptrías.** La ruedecita pegada al visor. Mira por el
    visor y gírala hasta que **los números y letras** se vean nítidos. Viene
    de fábrica en una posición cualquiera: si no lo haces, verás borroso y
