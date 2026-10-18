@@ -198,7 +198,7 @@ mejor que cualquier barrido automático.
 ## 8 · Cuando la escena no cabe en el sensor
 
 - El contraste de Deadvlei o el interior de un cañón contra el cielo supera
-  a cualquier cámara: **horquillado ±2 EV** (`Bracket: 3 fotos ±2 EV`) con
+  a cualquier cámara: **horquillado ±2 EV** (`Modo manejo` → `Variación expos.`: 3 fotos ±2 EV) con
   temporizador de 2 s, y fusiona en casa — receta completa en la
   [guía de paisaje](../tecnica/paisaje-namibia.md).
 - Cuando sí cabe pero justo: **expón lo más claro posible sin quemar** (el

@@ -22,9 +22,9 @@ que no, se acabó. Las reglas completas, en
 | Modo | A (prioridad a la apertura) o M con ISO Auto |
 | Apertura | **La mínima**: f/4.5 a 70 mm, f/5 hasta 113 mm. Es lo que separa a la persona del fondo |
 | Obturación | **1/250 s** (la gente se mueve más de lo que crees). 1/500 si hay niños |
-| Enfoque | AF-C · **Reconocimiento de sujeto: Humano** · el ojo, siempre el ojo |
-| Medición | Matricial, y **+0.7 si el fondo es arena o cielo** (si no, la cara sale oscura) |
-| Balance de blancos | En K: 5200 a la sombra abierta, 6500 con nubes, 3400 con la luz del atardecer |
+| Enfoque | AF-C · **`Dest. reconocim.`: Humano** · el ojo, siempre el ojo |
+| Medición | Multi, y **+0.7 si el fondo es arena o cielo** (si no, la cara sale oscura) |
+| Balance de blancos | Fijo, como en la [tabla de balance](../referencia/balance-de-blancos.md): Sombra (7000 K) a la sombra abierta, Nublado (6000 K) con nubes, Luz de día (5200 K) al atardecer para que el dorado se quede |
 
 Y la distancia: **tres o cuatro metros**. Más cerca deformas la cara, más
 lejos gritas para hablar.

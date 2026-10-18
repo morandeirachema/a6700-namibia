@@ -28,13 +28,13 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 | Ajuste | Valor | Motivo |
 |---|---|---|
-| Calidad de imagen | RAW (comprimido sin pérdida) | Máxima latitud de edición |
-| Zebra | **ON, nivel 100+** | Rayado en vivo sobre lo que va a salir quemado — tu aviso de altas luces *antes* de disparar |
-| Reducción ruido larga exposición | OFF | Duplica el tiempo entre fotos de astro |
-| Reducción ruido alta sens. ISO | OFF/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
+| `Formato archivo` (en `Calid. img/grab.`) | RAW, con `Tipo archivo RAW` comprimido sin pérdida | Máxima latitud de edición |
+| `Visualizac. cebra` | **Activar, nivel `100 IRE o +`** | Rayado en vivo sobre lo que va a salir quemado — tu aviso de altas luces *antes* de disparar |
+| `RR exposic. larga` | Desactivar | Duplica el tiempo entre fotos de astro |
+| `RR ISO Alta` | Desactivar/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
 | Señales de audio | OFF | Silencio en charcas y miradores |
 | DRO (optimizador de rango dinámico) | OFF | No toca el RAW, pero maquilla el JPEG y el histograma — engaña justo a lo que usas para exponer |
-| SteadyShot | **Auto** | Los dos objetivos son Sony con contactos: la cámara sabe la focal sola. En trípode, **OFF** |
+| `SteadyShot` | **Activar** | Los dos objetivos son Sony con contactos: la cámara sabe la focal sola (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
 
 ## Enfoque con el pulgar (back-button focus)
@@ -83,7 +83,7 @@ sin tocar el modo safari:
 | Formato de archivo / ajustes de grabación | XAVC S 4K · **25p · 100 Mbps** | Calidad de sobra y archivos manejables (~45 GB/hora) |
 | Modo de exposición (en Vídeo) | **M con ISO Auto**, obturación **1/50** | La "regla del 180°": movimiento natural |
 | Perfil de imagen | **OFF** | S-Log3 obliga a etalonar en casa; no es para este viaje |
-| SteadyShot (película) | **Active** | Estabilización extra para andar grabando (recorta 1,1x) |
+| SteadyShot (película) | **Activo** | Estabilización extra para andar grabando (recorta 1,1x) |
 
 El resto —encuadre, audio, cómo se sujeta y qué grabar— está en
 [el vídeo del viaje](../tecnica/video-del-viaje.md), con

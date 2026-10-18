@@ -23,13 +23,13 @@ El AF de la a6700 se gobierna con **tres mandos**, y el salto de nivel es
 saber cuál tocar en cada escena (los tres viven en la pestaña **Enfoque**
 del menú; mételos en **Mi Menú** con
 `MENU → Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y pon
-`[Mostrar de Mi Menú] → ON` para que MENU los abra directamente —
+`[Mostrar de Mi Menú] → Activar` para que MENU los abra directamente —
 [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)):
 
 - **Sens. Seguim. AF** (`Enfoque → [AF/MF]`; 1 fija … 5 reactiva): qué hace el AF si algo se
   cruza o el sujeto se tapa un instante. Baja = "aguanta con el sujeto
   original aunque pase una rama"; alta = "salta rápido a lo nuevo".
-- **Reconocimiento de sujeto**: pon el objetivo en **Animal** (o **Pájaro**
+- **Reconocimiento de sujeto**: pon el objetivo en **Animal** (o **Ave**
   para las aves) y la cámara busca el cuerpo, la cabeza y **el ojo** ella
   sola. Tu trabajo cambia: ya no es clavar el punto, es **verificar** que el
   recuadro está sobre el animal correcto — y tocar la pantalla para
@@ -42,7 +42,7 @@ Valores de partida que funcionan (ajústalos a lo que veas, no son dogma):
 
 | Escenario | Dest. reconocim. | Área | Sens. Seguim. |
 |---|---|---|---|
-| Ave en vuelo | **Pájaro** | Zona | 3 |
+| Ave en vuelo | **Ave** | Zona | 3 |
 | Animal tras hierba/ramas | Animal | **Punto único + DMF** | **1** |
 | Animal acercándose a la charca | Animal | Seguimiento (tracking) | 3 |
 | Carrera/caza a por todas | Animal | Ancha con seguimiento | **4–5** |
@@ -53,11 +53,11 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 ### El flujo de exposición fino
 
 - **Compensación también en M + ISO Auto**: en esta cámara la compensación
-  (±5 EV) funciona en todos los modos, incluido M con ISO Auto — tu modo
+  (±5 EV en foto; en vídeo, ±2) funciona en todos los modos, incluido M con ISO Auto — tu modo
   safari. Animal oscuro sobre calcreta blanca → +0.7 y a otra cosa. Sin
   trucos ni rodeos.
-- **Puntual ligada al punto de enfoque**: `Punto de medición puntual →
-  Vínculo punto enfoque` hace que la medición puntual siga a tu punto AF —
+- **Puntual ligada al punto de enfoque**: `Exposición/color → [Medición] →
+  [Punto med. punt.] → Vínc. punto enf.` hace que la medición puntual siga a tu punto AF —
   mides exactamente sobre el animal **sin recomponer**. Actívalo una vez y
   olvídate: es la medición puntual como debería haber sido siempre.
 - **Zebra 100+**: rayas en vivo sobre lo que va a salir quemado, antes de
@@ -87,16 +87,19 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
   donde beben y esperar. Se puede reasignar desde la personalización de
   botones de la cámara, pero de serie ya hace lo más útil.
 - **MR3 = preajuste de vuelo**: guarda 1/2500 · apertura mínima · ISO Auto ·
-  reconocimiento **Pájaro** · ráfaga Hi+ — un giro de dial y estás en modo
-  "despegue" ([capítulo 1](../a6700/01-configuracion-basica.md)).
+  reconocimiento **Ave** · área Zona · Sens. Seguim. 3 · ráfaga Hi+ — un
+  giro de dial y estás en modo "despegue". Se guarda igual que MR1 y MR2
+  ([las tres memorias](../referencia/ajustes-a6700.md#las-tres-memorias-del-dial)).
 - **Valoración con estrellas** en la revisión de cada noche: marca ★ los
   aciertos y el cribado en casa empieza hecho.
 
 ### El 70-350 al límite
 
-- **Punto dulce**: es un objetivo de la serie G y a 350 mm ya rinde a plena
-  apertura (f/6.3); con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8**
-  afina un poco los bordes. Regla: nunca compres f/8 pagándolo con
+- **Punto dulce**: es un objetivo de la serie G y a 350 mm es usable a plena
+  apertura (f/6.3), aunque ahí está su punto más blando: si el animal lo
+  permite, encuadra a ~300 mm y recorta ([por qué funciona](por-que-funciona.md)).
+  Con el sol alto y el ISO sobrado, cerrar a **f/7.1–f/8** afina un poco los
+  bordes. Regla: nunca compres f/8 pagándolo con
   obturación insuficiente o ISO ruidoso.
 - **El escalón de apertura, usado a propósito**: f/4.5 hasta 81 mm, f/5
   hasta 113, f/5.6 hasta 199 y f/6.3 de 200 a 350. En luz justa, recoger el
@@ -125,7 +128,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 | La medición puntual vinculada expone "al revés" | El punto AF está sobre el fondo, no sobre el animal: mueve el punto y la medición lo sigue |
 | DMF no responde al anillo | El interruptor **AF/MF** del objetivo está en MF (o el modo de enfoque no es DMF) |
 | El AF recorre todo el rango a 350 mm y no fija | No hay limitador: apunta a un borde con contraste antes de soltar AF-ON, o llévale el foco cerca con DMF |
-| MR3 no recupera el reconocimiento en Pájaro | Guardaste la memoria con otro `Dest. reconocim.`: ponlo en Pájaro y vuelve a guardar con `Mem. ajustes cám` |
+| MR3 no recupera el reconocimiento en Ave | Guardaste la memoria con otro `Dest. reconocim.`: ponlo en Ave y vuelve a guardar con `Mem. ajustes cám` |
 | Bright Monitoring no aparece en el botón | Solo funciona en modo foto (no en vídeo) y con la exposición manual: comprueba el selector y el modo M |
 | A f/8 el ISO se dispara y la foto sale ruidosa | Compraste nitidez de borde pagándola con ruido: vuelve a f/6.3 — la regla es nunca cerrar a costa del ISO o de la obturación |
 
@@ -142,7 +145,7 @@ Un parque con una valla o unos arbustos, y un perro (o palomas, o bicis):
 3. **La puntual vinculada**: algo oscuro sobre una pared blanca (un
    cubo de basura, una persona con abrigo negro). Una foto con medición
    multi y otra con puntual vinculada al punto: mira los dos histogramas.
-4. **MR3 de vuelo**: palomas levantando el vuelo, 1/2500 · Hi+ · Pájaro.
+4. **MR3 de vuelo**: palomas levantando el vuelo, 1/2500 · Hi+ · Ave.
    Giras el dial a 3 y disparas; vuelves a 1 y compruebas que el safari
    sigue intacto.
 

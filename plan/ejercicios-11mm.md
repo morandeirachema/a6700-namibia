@@ -82,7 +82,7 @@ entrena ya.
 | ☐ | Ejercicio | Aprobado cuando… |
 |---|---|---|
 | ☐ 25 | Deja el `Selector NTSC/PAL` en **PAL** (formatea la tarjeta: hazlo ahora, no en el viaje) y los cinco ajustes de vídeo del [capítulo 1](../a6700/01-configuracion-basica.md) | El selector de Vídeo tiene su receta y no te pisa el modo foto |
-| ☐ 26 | **Veinte clips de 5 s** en parejas (ancho + detalle), con SteadyShot **Active**, y 30 s de sonido ambiente | Los ves en pantalla grande y no tiemblan |
+| ☐ 26 | **Veinte clips de 5 s** en parejas (ancho + detalle), con SteadyShot **Activo**, y 30 s de sonido ambiente | Los ves en pantalla grande y no tiemblan |
 | ☐ 27 | **Un clip de 40 s** montado con música esa misma noche | Existe. Aunque sea malo |
 
 ## Lo que NO puedes practicar todavía

@@ -15,12 +15,12 @@ Detalle: la guía del vídeo · montaje: la guía de edición — **3 minutos, s
 | WB | **K fijo**: día 5200 · nublado 6000 · tienda 3200 | Nunca AWB: cambia de color a mitad del plano |
 | Perfil | **OFF** (o S-Cinetone) | **S-Log3 nunca** |
 | Enfoque | AF-C · sujeto **Animal** · transición **lenta (2–3)** | Toca en pantalla para elegir sujeto |
-| SteadyShot | **Active** andando · **Standard** parado · **OFF** en trípode | Active recorta 1,1x |
+| SteadyShot | **Activo** andando · **Estándar** parado · **OFF** en trípode | Activo recorta 1,1x |
 | Audio | Micro interno **con peluche**, de espaldas al viento | El ambiente es la mitad del vídeo |
 
 ## A pulso: cómo se sujeta
 
-Parado: **las dos manos, codos al cuerpo**, y apoya donde puedas (capó, murete, ventanilla) · Andando: **Active**, cámara **por delante y baja**, **paso de talón a punta** · Siguiendo algo: gira **desde la cintura** · Plano largo o timelapse: mini trípode · Coche: bean bag y **motor apagado** · Noche: trípode
+Parado: **las dos manos, codos al cuerpo**, y apoya donde puedas (capó, murete, ventanilla) · Andando: **Activo**, cámara **por delante y baja**, **paso de talón a punta** · Siguiendo algo: gira **desde la cintura** · Plano largo o timelapse: mini trípode · Coche: bean bag y **motor apagado** · Noche: trípode
 
 ## Las 3 reglas · el guion de 3 minutos (≈30 planos de 5–7 s)
 
@@ -50,7 +50,7 @@ Mirador de la charca y campamentos de noche: **silencio absoluto**, sin flash ni
 
 | Sale… | Toca… |
 |---|---|
-| Tembloroso al caminar | SteadyShot **Active** + paso de ninja; y acércate al sujeto |
+| Tembloroso al caminar | SteadyShot **Activo** + paso de ninja; y acércate al sujeto |
 | A trompicones, con saltos | Obturación demasiado rápida → vuelve a **1/50** |
 | Quemado, cielo blanco | ND variable (sin pasar del 70 % de su giro: pinta una X); o f/8–f/11; o 1/200 |
 | El color cambia en mitad del plano | WB estaba en Auto → **K fijo** |

@@ -35,7 +35,7 @@ visible gran parte de la noche.
 | Estabilizador | SteadyShot **OFF** (en trípode siempre) |
 | Disparo | Temporizador 2 s |
 | Tipo de obturador | **Electrónico**: dispara sin ninguna pieza en movimiento — cero vibración |
-| Reducción ruido larga exposición | OFF |
+| `RR exposic. larga` | Desactivar |
 
 > Cada ajuste con su **ruta de menú**, en
 > [la referencia de ajustes](../referencia/ajustes-a6700.md#c2-astro-la-receta-de-mr2).
@@ -67,7 +67,7 @@ visible gran parte de la noche.
    Láctea es alto y estrecho, y en vertical entra entero con su primer plano.
 4. **Enfoca a una estrella** (la parte más delicada, 2 minutos):
    1. Interruptor **AF/MF del objetivo en MF**, SteadyShot OFF.
-   2. Activa la **lupa de enfoque** (Focus Magnifier) y lleva el recuadro a
+   2. Activa la **lupa de enfoque** (`Amplific. enfoque`) y lleva el recuadro a
       la estrella más brillante.
    3. Amplía al máximo aumento.
    4. Gira el anillo de enfoque despacio hasta que la estrella sea el punto

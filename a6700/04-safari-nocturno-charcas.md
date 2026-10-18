@@ -52,7 +52,7 @@ Info de campamentos: <https://www.nwr.com.na/>
    una zona con contraste iluminada por el foco; el reconocimiento de
    **Animal** puede engancharse si el animal está bajo el foco, pero no te
    fíes de él en penumbra profunda. Si el AF patina, enfoca en manual con la
-   **lupa (Focus Magnifier) + peaking** a la orilla donde beben, y deja el
+   **lupa (`Amplific. enfoque`) + peaking** a la orilla donde beben, y deja el
    enfoque en MF clavado ahí.
 5. Espera. Los animales llegan a la luz; tú ya estás listo.
 
@@ -117,7 +117,7 @@ todo respecto al mirador: vas a pulso y la luz se mueve.
 | Obturación | 1/125 s (vehículo parado) · 1/250 s (en marcha) |
 | Apertura | La más baja |
 | ISO | Manual 6400–12800 (tope práctico de la a6700) |
-| Medición | **Puntual vinculada al punto de enfoque** (`Punto de medición puntual → Vínculo punto enfoque`) |
+| Medición | **Puntual vinculada al punto de enfoque** (`Exposición/color → [Medición] → [Punto med. punt.] → Vínc. punto enf.`) |
 | Enfoque | AF-C, punto único (o reconocimiento de Animal) sobre lo iluminado |
 | Estabilizador | **ON los dos: OSS del objetivo y SteadyShot** (sin trípode) |
 

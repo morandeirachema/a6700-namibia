@@ -14,9 +14,9 @@ luz durísima a mediodía y polvo en todas partes. La cámara va preconfigurada
 | Obturación | 1/1000 s |
 | Apertura | La mínima del zoom (f/4.5–6.3: al zoomear cambia sola, olvídate) |
 | Enfoque | **AF-C** + AF-ON con el pulgar ([capítulo 1](01-configuracion-basica.md)) |
-| Reconocimiento de sujeto | **Animal** (cámbialo a Pájaro para aves) |
+| Reconocimiento de sujeto | **Animal** (cámbialo a Ave para aves) |
 | Área AF | Zona — o Ancha si la escena está limpia |
-| Sensibilidad de seguimiento | La estándar; con hierba/ramas robando el foco, un punto menos ([AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md)) |
+| Sensibilidad de seguimiento | **3** (la estándar); con hierba/ramas robando el foco, **1** ([AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md)) |
 | Ráfaga | **Hi+** (11 fps) — en Hi+ el visor no va en tiempo real durante la ráfaga; si te cuesta seguir al animal, baja a Hi |
 | Formato | RAW en la SD (UHS-II, con hueco) |
 | Estabilizador | **OSS del objetivo en ON**; el IBIS de la cámara se suma solo (los dos, OFF en trípode) |
@@ -83,7 +83,7 @@ donde enfocas ([AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md))
    12800 (el Help Guide oficial indica la ruta exacta de tu firmware:
    <https://helpguide.sony.net/ilc/2320/v1/es/>).
 2. **Reconocimiento de sujeto en Animal**, y la opción de cambiar de objetivo
-   de reconocimiento (Animal ⇄ Pájaro) a mano en el menú Fn, para hacerlo
+   de reconocimiento (Animal ⇄ Ave) a mano en el menú Fn, para hacerlo
    sin bucear en menús.
 3. **Los mandos del 70-350** (son cuatro y están todos en el lado izquierdo
    del barrilete; revísalos cada mañana con el pulgar, sin mirar — se mueven

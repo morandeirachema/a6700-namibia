@@ -53,7 +53,7 @@ plano mucho más de lo que te parece natural.
   primera luz, cuando la duna de fondo está encendida y el vlei aún en sombra
   — el contraste naranja/blanco/negro es la foto clásica.
 - Ese contraste es brutal para el sensor: usa el **horquillado** — en el
-  menú de avance, `Bracket: 3 fotos ±2 EV`, disparadas con el temporizador
+  `Modo manejo` → `Variación expos.`: 3 fotos ±2 EV, disparadas con el temporizador
   de 2 s para no moverlas — y fusiónalas después (HDR en Lightroom) o
   quédate con la mejor.
 - El reparto: primero el tele desde lejos (la compresión duna-árboles),
@@ -93,7 +93,7 @@ Los dos sujetos de tu viaje que se mueven despacio y lucen acelerados:
 
 - **La tormenta de la tarde creciendo** (noviembre las regala): la a6700 en
   trípode o bean bag, **modo M con todo fijo** (exposición, ISO y WB fijos =
-  sin parpadeo), su intervalómetro integrado (`Interval Shoot`) a **un
+  sin parpadeo), su intervalómetro integrado (`Func. capt. interv.`) a **un
   disparo cada 3–5 s**, 300 tomas ≈ 12 s de clip.
 - **Las sombras barriendo las dunas** a primera/última hora: igual, pero a
   un disparo cada **20–30 s** durante 30–60 min.
@@ -192,7 +192,7 @@ es negra de verdad, no gris.
 |---|---|
 | Duna plana, sin volumen | Es la hora, no tú: con el sol alto no hay foto de dunas — vuelve a primera/última hora (mitad luz, mitad sombra) |
 | Horizonte torcido | Nivel electrónico visible SIEMPRE en paisaje (botón DISP) |
-| Cielo quemado o sombra negra: no cabe todo | La escena supera al sensor: horquillado (Bracket) ±2 EV con temporizador 2 s y fusiona en edición |
+| Cielo quemado o sombra negra: no cabe todo | La escena supera al sensor: horquillado (`Variación expos.`) ±2 EV con temporizador 2 s y fusiona en edición |
 | Todo blando en las esquinas | ¿Bajaste de f/8 sin querer, o moviste la cámara? f/8 · ISO 100 · apoyo |
 | Huellas en la arena de la foto | Camina por la cresta o la cara de sombra — y mira ANTES de pisar |
 | Niebla en la costa "estropea" el plan | No es mal tiempo, es atmósfera: siluetas y minimalismo — cambia el chip, no el sitio |

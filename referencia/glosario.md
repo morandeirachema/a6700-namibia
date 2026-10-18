@@ -15,7 +15,7 @@ español e inglés, en el [capítulo 1](../a6700/01-configuracion-basica.md).
 | **EV** | *Exposure Value*. En la práctica, un sinónimo de "paso": "+1 EV" es "un paso más claro" |
 | **Exposición equivalente** | Combinaciones distintas de los tres números que dejan entrar la misma luz — y dan fotos distintas |
 | **Compensación de exposición** | Decirle a la cámara "más claro / más oscuro" que lo que ella cree. En la a6700 funciona **también en M con ISO Auto** (±5 EV) |
-| **Medición** | Cómo mide la cámara la luz: **matricial** (toda la escena), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
+| **Medición** | Cómo mide la cámara la luz: **Multi** (toda la escena; la *matricial* de otras marcas), **puntual** (solo un punto), **puntual vinculada** (ese punto es el de enfoque) |
 | **ETTR** (*expose to the right*) | Exponer lo más a la derecha posible del histograma sin quemar, porque el RAW guarda mucha más información en las altas luces |
 | **Histograma** | El gráfico de cuánta foto hay en cada nivel de brillo: izquierda sombras, derecha luces. La única forma honesta de juzgar la exposición ([chuleta](histograma.md)) |
 | **Quemado** (*clipping*) | Zona tan clara que el sensor saturó: ahí ya no hay información, y no se recupera |
@@ -35,7 +35,7 @@ español e inglés, en el [capítulo 1](../a6700/01-configuracion-basica.md).
 | **Sensibilidad de seguimiento** | Cuánto tarda el AF en soltar tu sujeto si algo se cruza. 1 = tozudo, 5 = saltarín |
 | **Back-button focus** | Enfocar con el pulgar (**AF-ON**) y disparar con el índice, por separado. El mejor ajuste del repo |
 | **Peaking** | Resalte de colores sobre lo que está enfocado, en manual |
-| **Focus Magnifier** (lupa) | Ampliar la imagen en vivo para enfocar a mano con precisión. Imprescindible en astro |
+| **Amplific. enfoque** (lupa; *Focus Magnifier* en inglés) | Ampliar la imagen en vivo para enfocar a mano con precisión. Imprescindible en astro |
 | **Retención de foco** | El botón del barrilete del objetivo que congela el enfoque mientras lo mantienes pulsado |
 
 ## Óptica
@@ -54,7 +54,7 @@ español e inglés, en el [capítulo 1](../a6700/01-configuracion-basica.md).
 | **Coma** | Estrellas de las esquinas con "alitas" a máxima apertura. Se corrige cerrando un tercio o dos tercios |
 | **Viñeteo** | Esquinas más oscuras que el centro. Se corrige en revelado en dos clics |
 | **OSS / IBIS / SteadyShot** | Estabilizador: **OSS** en el objetivo, **IBIS** en el cuerpo. Los dos **OFF** sobre trípode |
-| **SteadyShot Active** | El estabilizador extra de vídeo. Recorta la imagen un 1,1x |
+| **SteadyShot Activo** (*Active* en inglés) | El estabilizador extra de vídeo. Recorta la imagen un 1,1x |
 
 ## Obturador y movimiento
 
@@ -73,7 +73,7 @@ español e inglés, en el [capítulo 1](../a6700/01-configuracion-basica.md).
 | Término | Qué es |
 |---|---|
 | **Balance de blancos (WB)** | Decirle a la cámara de qué color es la luz para que el blanco salga blanco |
-| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo en K**, nunca automático |
+| **Kelvin (K)** | La escala de la temperatura de la luz: 3200 K naranja, 5500 K día, 7500 K sombra azulada. En este repo, **siempre fijo** — en K o en un preajuste (Luz de día, Nublado, Sombra) —; el automático, como mucho a mediodía ([balance de blancos](balance-de-blancos.md)) |
 | **Hora dorada / hora azul** | La hora de luz cálida y rasante tras el amanecer o antes del ocaso; y el rato azulado posterior al ocaso |
 | **Contraluz** | El sol detrás del sujeto: siluetas, bordes encendidos y polvo dorado |
 | **Clave alta** | Foto deliberadamente muy clara, casi sin sombras. La estrategia del mediodía en la calcreta blanca |

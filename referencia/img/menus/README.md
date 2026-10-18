@@ -45,7 +45,7 @@ Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz es
 | ☐ ★ | ISO, con ISO AUTO máximo/mínimo | `Exposición/color → [Exposición]` | `iso-auto-limites.jpg` |
 | ☐ ★ | Nivel de cebra = 100 IRE o + | `Exposición/color → [Visualizac. cebra]` | `nivel-de-cebra.jpg` |
 | ☐ | Visualizac. cebra = Activar | `Exposición/color → [Visualizac. cebra]` | `visualizac-cebra.jpg` |
-| ☐ | Modo medición | `Exposición/color` | `modo-medicion.jpg` |
+| ☐ | Modo medición | `Exposición/color → [Medición]` | `modo-medicion.jpg` |
 | ☐ | Balance blanco en K | `Exposición/color` | `balance-blanco.jpg` |
 
 ### Pestaña Enfoque
@@ -67,7 +67,7 @@ Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz es
 | ☐ | Ajuste t. pers./dial | `Ajustes → [Personal. operac.]` | `ajuste-t-pers-dial.jpg` |
 | ☐ | Ajustes del menú Fn | `Ajustes → [Personal. operac.]` | `ajustes-menu-fn.jpg` |
 | ☐ | Ajuste Mi Menú | `Mi Menú` | `mi-menu.jpg` |
-| ☐ | Ampliación (reproducción) | `Reproducción` | `ampliacion.jpg` |
+| ☐ | Aumento (reproducción) | `Reproducc. → [Aumento]` | `ampliacion.jpg` |
 | ☐ | Restablecer ajuste | `Ajustes → [Rest/guard ajust]` | `restablecer-ajuste.jpg` |
 
 ### Y tres que no son de menú, pero valen más que muchas

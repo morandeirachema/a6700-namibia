@@ -113,7 +113,7 @@ El móvil enfoca "solo" porque decide por ti. Aquí eliges dos cosas:
    animal dormido). **AF-C reenfoca sin parar** mientras mantienes el botón
    (todo lo que se mueve: safari entero en AF-C).
 2. **A quién enfoca**: activa el **reconocimiento de sujeto** en Animal (o
-   Pájaro) y la cámara busca el **ojo** ella sola y lo sigue por el encuadre.
+   Ave) y la cámara busca el **ojo** ella sola y lo sigue por el encuadre.
    Es la gran ventaja de esta cámara — pero no te jubila: tu trabajo es
    encuadrar, comprobar que el recuadrito está de verdad sobre el ojo (si se
    va al arbusto, **toca al animal en la pantalla** — funciona incluso con el

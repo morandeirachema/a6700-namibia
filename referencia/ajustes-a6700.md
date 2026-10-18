@@ -41,10 +41,10 @@ Las ocho pestañas, y los grupos que vas a usar de verdad en este viaje:
 │                  │  Func. capt. interv. · Estabiliz. de img     │
 │                  │  Soporte                                     │
 │ ▸ Exposición/    │  Exposición · Visualizac. cebra              │
-│    color         │  Balance blanco · Modo medición              │
+│    color         │  Balance blanco · Medición                   │
 │ ▸ Enfoque        │  AF/MF · Área de enfoque · Reconoc. motivo   │
 │                  │  Visualiz. resalte                           │
-│ ▸ Reproducción   │  Ampliación                                  │
+│ ▸ Reproducc.     │  Aumento · Selección/nota                    │
 │ ▸ Red            │  (emparejar con Creators' App)               │
 │ ▸ Ajustes        │  Personal. operac. · Área/fecha              │
 │                  │  Idioma · Rest/guard ajust                   │
@@ -110,11 +110,11 @@ solo tocas la rueda delantera.
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-C** | Todo lo que se mueve |
 | **Área de enfoque** | `Enfoque → [Área de enfoque] → [Área de enfoque]` | **Zona** (o *Ancho* si la escena está limpia) | Deja trabajar al reconocimiento sin perder el control |
 | **Rec. motivo en AF** | `Enfoque → [Reconoc. motivo] → [Rec. motivo en AF]` | **Activar** | La cámara busca el ojo sola |
-| **Dest. reconocim.** | `Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` | **Animal** (→ *Pájaro* para aves) | Es el ajuste que más vas a cambiar: ponlo en el **Fn** |
+| **Dest. reconocim.** | `Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` | **Animal** (→ *Ave* para aves) | Es el ajuste que más vas a cambiar: ponlo en el **Fn** |
 | **Sens. Seguim. AF** | `Enfoque → [AF/MF] → [Sens. Seguim. AF]` | **3** (estándar) · **1** con hierba delante · **4–5** en persecución | 1 = tozudo, 5 = saltarín |
-| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **Continuo Hi+** | 11 fps. En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
-| **Modo medición** | `Exposición/color → [Modo medición]` | **Multi** de partida · **Punto** vinculado al AF para el nivel avanzado | El detalle, en [AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md) |
+| **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md) |
 | **Balance blanco** | `Exposición/color → [Balance blanco]` | **Luz día** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
@@ -146,7 +146,7 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **Área de enfoque** | `Enfoque → [Área de enfoque]` | **Punto: S o M** sobre lo iluminado |
 | **Tipo de obturador** | `Toma → [Obturad./silenc.] → [Tipo de obturador]` | **Obturad. electr.** — silencio absoluto |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** (y el OSS del objetivo, también) |
-| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | Temporizador **2 s** |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`**: ráfagas cortas de 3–4 en los momentos quietos; si sale todo movido, **`Autodisp.(senc)`** de 2 s |
 
 ### C2, astro: la receta de MR2
 
@@ -170,17 +170,19 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | **Visualiz. resalte** | `Enfoque → [Visualiz. resalte]` | **Activar** — el peaking, para enfocar a mano |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
-| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | Temporizador **2 s** |
-| **Star trails / timelapse** | `Toma → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas |
+| **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
+| **Star trails** | `Toma → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md)) |
+| **Timelapse del cielo** | `Toma → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
 ### C3, game drive nocturno con foco
 
-Igual que la charca, con tres cambios: **ISO manual 6400–12800**,
-**1/125–1/250** (vas a pulso en un vehículo abierto), **SteadyShot Activar**
-y medición **puntual vinculada al punto de enfoque** — porque el fondo negro
-engaña al medidor al revés que de día.
+Igual que la charca, con estos cambios: **ISO manual 6400–12800**,
+**1/125–1/250** (vas a pulso en un vehículo abierto), **AF-C** con punto
+único (o *Animal*) sobre lo iluminado, **SteadyShot Activar** (y el OSS),
+sin temporizador, y medición **puntual vinculada al punto de enfoque** —
+porque el fondo negro engaña al medidor al revés que de día.
 
 ---
 
@@ -189,7 +191,7 @@ engaña al medidor al revés que de día.
 Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
 **Mi Menú**, y no volverás a entrar al menú con un león delante:
 
-1. **Dest. reconocim.** (Animal ⇄ Pájaro)
+1. **Dest. reconocim.** (Animal ⇄ Ave)
 2. **Área de enfoque** (Zona ⇄ Punto)
 3. **Sens. Seguim. AF** (3 ⇄ 1)
 
@@ -202,13 +204,31 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
 
 ---
 
+## Bloque E, vídeo: con el selector en Vídeo
+
+El selector **Foto / Vídeo / S&Q** guarda ajustes propios por modo: esto se
+pone una vez, en casa, y no toca a MR1 ni a MR2. El porqué de cada valor, en
+el [capítulo 1](../a6700/01-configuracion-basica.md) y en
+[el vídeo del viaje](../tecnica/video-del-viaje.md).
+
+| Ajuste | Ruta | Valor |
+|---|---|---|
+| **Selector NTSC/PAL** | `Ajustes → [Área/fecha] → [Selector NTSC/PAL]` | **PAL** — cambiarlo **formatea la tarjeta**: en casa, nunca en el viaje |
+| **Formato archivo** (película) | `Toma → [Calid. img/grab.] → [Formato archivo]` | **XAVC S 4K**, a **25p · 100 Mbps** |
+| Modo · obturación | Dial y ruedas | **M con ISO AUTO**, **1/50** |
+| **Perfil de imagen** | `Exposición/color → [Color/tono] → [Perfil de imagen]` | **OFF** (sin perfil: nada de S-Log3) |
+| **SteadyShot** (película) | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activo** andando (recorta 1,1x) · **Estándar** parado · **Desactivar** en trípode |
+| **Temp. APAGA auto** | `Ajustes → [Opc. ajuste enrg.] → [Temp. APAGA auto]` | **Estándar** a pulso; **Alto** solo en trípode (Sony avisa de quemaduras si la sujetas) |
+
+---
+
 ## Las tres memorias del dial
 
 | Memoria | Para qué | Se guarda con |
 |---|---|---|
 | **1** | Safari diurno (bloque B) | `Toma → [Modo de toma] → [Mem. ajustes cám] → 1` |
 | **2** | Astro (bloque C2) | Ídem → 2 |
-| **3** | Aves: *Dest. reconocim.* Pájaro, área Zona, 1/2500, Sens. Seguim. 3 | Ídem → 3 |
+| **3** | Aves en vuelo: como MR1, pero **1/2500**, *Dest. reconocim.* **Ave**, área **Zona**, Sens. Seguim. **3** y Continuo Hi+ | Ídem → 3 |
 
 **Cómo funcionan**: al girar el dial recuperan **lo guardado**, no lo que
 tenías puesto. Es una ventaja — nunca heredas los ajustes raros de anoche —

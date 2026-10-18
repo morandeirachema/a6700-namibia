@@ -33,7 +33,7 @@ Tres cosas más y ya estás listo:
 2. **Enfoque con el pulgar**: el botón **AF-ON** enfoca, el disparador solo
    dispara. Pulgar apretado = la cámara persigue al animal sola.
 3. **La cámara busca el ojo ella sola**: con el reconocimiento de sujeto en
-   **Animal** (o **Pájaro** para aves) te clava el foco en el ojo. Tu
+   **Animal** (o **Ave** para aves) te clava el foco en el ojo. Tu
    trabajo ya no es acertar, es **verificar** que el recuadro está sobre tu
    animal — y tocar la pantalla para corregirlo si se va al arbusto.
 
@@ -50,7 +50,7 @@ Déjala guardada en **MR1** y vuelve a ella siempre:
 | Obturación | 1/1000 s de partida |
 | Apertura | La mínima del zoom (cambia sola: f/4.5 → f/6.3) |
 | Enfoque | AF-C + **AF-ON** con el pulgar |
-| Reconocimiento | **Animal** (a **Pájaro** para aves) · área **Zona** |
+| Reconocimiento | **Animal** (a **Ave** para aves) · área **Zona** |
 | Ráfaga | Hi+ (11 fps) — a **Hi** si te cuesta seguir al animal |
 | Formato | RAW · estabilizador **OSS ON** (OFF los dos en trípode) |
 
@@ -59,8 +59,8 @@ Y solo te desvías de ahí en tres casos, que son los que marcan las fichas:
 - **Poca luz** (sombra densa, penumbra del amanecer, animal bajo el foco de
   la charca): baja la obturación con apoyo y deja subir el ISO. De noche en
   la charca, cambia de receta entera → [capítulo 4](../a6700/04-safari-nocturno-charcas.md).
-- **Velocidad** (carrera, salto, vuelo): 1/2000 a 1/3200 y área **Ancha con
-  seguimiento**.
+- **Velocidad** (carrera, salto): 1/2000 a 1/3200 y área **Ancha con
+  seguimiento**; las aves en vuelo, **Ave + Zona**.
 - **Fondo que engaña al medidor** (calcreta blanca, cielo, arena, un animal
   muy claro o muy oscuro): compensación de exposición, la flecha de abajo
   de la rueda. En M con ISO Auto **funciona con normalidad** en esta cámara.
@@ -293,14 +293,14 @@ apoyado en el suelo, 1/1000.
 
 ## Aves (que serán la mitad de lo que veas)
 
-Cambia el reconocimiento de sujeto a **Pájaro** y el área a **Zona**: es un
+Cambia el reconocimiento de sujeto a **Ave** y el área a **Zona**: es un
 segundo desde el menú Fn y cambia por completo el acierto del AF.
 
 | Quién | Cuándo y dónde | La foto y los números |
 |---|---|---|
-| **Gangas namaqua** | **~2 h después del amanecer** (08:00–09:00), con puntualidad de reloj, en cualquier charca abierta | Bandada en vuelo rápido y bajo: **1/2500–1/3200**, Pájaro + Zona, preenfoca la orilla y ráfaga. Los machos se llevan agua en las plumas del pecho para las crías |
+| **Gangas namaqua** | **~2 h después del amanecer** (08:00–09:00), con puntualidad de reloj, en cualquier charca abierta | Bandada en vuelo rápido y bajo: **1/2500–1/3200**, Ave + Zona, preenfoca la orilla y ráfaga. Los machos se llevan agua en las plumas del pecho para las crías |
 | **Abejarucos europeos** | **Noviembre es su mes**: llegan migrando, en cables y ramas | Salen a cazar y **vuelven a la misma percha**: preenfoca la percha, 1/2000 y espera la salida. Es la foto de acción más fácil del viaje |
-| **Rapaces** (águila marcial, milanos, cernícalos) y **buitres dorsiblancos** | Todo el día; los buitres, donde haya carroña o termales de mediodía | Posadas: 350 mm, 1/1000. En vuelo: **1/2500**, Pájaro + Ancha con seguimiento. Contra cielo claro, **+1** |
+| **Rapaces** (águila marcial, milanos, cernícalos) y **buitres dorsiblancos** | Todo el día; los buitres, donde haya carroña o termales de mediodía | Posadas: 350 mm, 1/1000. En vuelo: **1/2500**, Ave + Zona. Contra cielo claro, **+1** |
 | **Avestruz** | Llanuras del pan, todo el día | A 350 mm sobre el espejismo del pan sale surrealista — pero a mediodía el *heat haze* te destroza la nitidez: hazla temprano |
 | **Avutarda kori** y **secretario** | Caminando por la llanura abierta | Andan despacio: 1/1000 y ponte a su altura. El secretario cazando serpientes a patadas es lotería |
 | **Flamencos y pelícanos** | **Laguna de Walvis Bay**, primera luz (06:15–07:30) — y manda la marea | Agáchate hasta la altura de sus patas: cambia la foto entera. 1/2000 si vuelan. El rosa se quema fácil: **-0.3** y mira el Zebra |
@@ -369,8 +369,8 @@ paciencia: se van en cuanto paras el coche.
 | Grande y quieto (elefante bebiendo, león tumbado) | 1/500 | Animal + Zona | Recoge a 70–135 mm: más luz y el animal en su entorno |
 | Grande caminando | 1/1000 | Animal + seguimiento | Aire hacia donde camina |
 | Carrera, salto, pelea | 1/2000–1/2500 | Ancha con seguimiento, sensib. **4–5** | Ráfaga Hi+ de 1–2 s, no metralleta |
-| Ave posada | 1/1000 | **Pájaro** + Zona | 350 mm y acércate con el coche, no con el zoom |
-| Ave en vuelo | 1/2500–1/3200 | **Pájaro** + Zona/Ancha | Preenfoca donde va a pasar |
+| Ave posada | 1/1000 | **Ave** + Zona | 350 mm y acércate con el coche, no con el zoom |
+| Ave en vuelo | 1/2500–1/3200 | **Ave** + Zona/Ancha | Preenfoca donde va a pasar |
 | Pequeño en sombra (dik-dik, kudu) | 1/500 | **Punto único** | Deja subir el ISO: 6400 es trabajable |
 | Tras hierba o ramas | 1/1000 | Punto único + **DMF**, sensib. **1** | Retocas el anillo sin salir del AF |
 | De noche bajo el foco | 1/60 (trípode) | AF-S punto único | Receta entera del [capítulo 4](../a6700/04-safari-nocturno-charcas.md) |

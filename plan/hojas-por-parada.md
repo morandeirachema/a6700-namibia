@@ -237,7 +237,7 @@ mañana, con puntualidad de reloj. **Chudop** al amanecer, para reflejos.
 
 **Horas**:
 - Alba: Chudop o Klein Namutoni (de cara al amanecer), agua espejo.
-- **~2 h tras el amanecer: las gangas** llegan a beber. 1/2500, Pájaro, Zona.
+- **~2 h tras el amanecer: las gangas** llegan a beber. 1/2500, Ave, Zona.
 - Ocaso: Namutoni **a contraluz** = siluetas.
 
 **Encuadres**: 2 (el impala), 5 (reflejo), 9 (gangas en vuelo), 4 (siluetas

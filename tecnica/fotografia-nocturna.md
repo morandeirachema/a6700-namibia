@@ -77,7 +77,7 @@ Hagas la noche que hagas, esto se repite. Conviértelo en rutina:
    toque.
 4. **Balance de blancos en Kelvin, nunca en automático.** El AWB de noche
    inventa: la charca sale naranja butano y el cielo, marrón.
-5. **Enfoca una vez y clávalo.** Lupa (*Focus Magnifier*) + peaking sobre
+5. **Enfoca una vez y clávalo.** Lupa (`Amplific. enfoque`) + peaking sobre
    una estrella brillante o sobre la orilla iluminada; luego a MF y no lo
    vuelvas a tocar (en astro, cinta en el anillo).
 6. **Baja el brillo de la pantalla** al mínimo y usa frontal **roja**: tu
@@ -129,7 +129,7 @@ farola. Sal media hora antes de que se ponga el sol:
 1. **Hora azul**: la silueta de un árbol o una torre contra el cielo,
    exponiendo para el cielo (−1 a −2). Es la "noche 0" de todas las demás.
 2. **La charca**: la fuente iluminada es tu Okaukuejo. Receta de charca
-   (M, 1/250, apertura mínima, ISO Auto hasta 12800, obturador electrónico),
+   (M, 1/60, apertura mínima, ISO 6400 con tope 12800, obturador electrónico),
    diez fotos de la gente y los patos bajo el foco. Si ves **franjas**,
    pasa a mecánico: acabas de ver el fallo de la charca en casa.
 3. **El astro**: al rincón oscuro, MR2 (20 s · f/1.8 · ISO 1600), una

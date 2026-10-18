@@ -29,7 +29,7 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 - Batería llena. Siempre.
 
 **Ajustes que se ponen una vez** (y se quedan): calidad **RAW** ·
-`Reducción ruido larga exposición` **OFF** (importantísimo: si está ON,
+`RR exposic. larga` **Desactivar** (importantísimo: si está ON,
 cada foto va seguida de la misma pausa a oscuras) · disparo con
 **temporizador de 2 s** (para no mover la cámara al pulsar) ·
 **Bright Monitoring** asignado a un botón (amplifica la pantalla en plena oscuridad: tu linterna para
@@ -63,7 +63,7 @@ Nada más.
    una **"foto sucia"** de 5 s a ISO 25600 — sale horrible, pero te enseña
    el encuadre. Ajusta, repite, y devuelve el ISO a 1600.)
 3. **Enfoca a una estrella** (la parte delicada; 2 minutos):
-   1. Activa la **lupa de enfoque** (Focus Magnifier).
+   1. Activa la **lupa de enfoque** (`Amplific. enfoque`).
    2. Mueve el recuadro a la estrella más brillante que veas.
    3. Amplía hasta el aumento máximo.
    4. Gira el anillo de enfoque **despacio** hasta que la estrella sea el
@@ -73,9 +73,10 @@ Nada más.
       un anillo electrónico: la cinta evita el roce, pero el foco no queda
       "bloqueado" — tras cambiar la batería, vuelve a mirarlo con la lupa.)
 4. **Dispara** (el temporizador de 2 s ya evita el meneo del dedo).
-5. **Mira el histograma**, no la foto — pulsa **DISP** y lo tienes incluso
-   **en vivo**, antes de disparar: la montaña debe estar en el **primer
-   tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
+5. **Mira el histograma**, no la foto — el de la **revisión** (▶ y **DISP**):
+   el histograma en vivo no acumula los 20 s de exposición y aquí no vale
+   ([capítulo 2](../a6700/02-astrofotografia-namibia.md)). La montaña debe
+   estar en el **primer tercio izquierdo, despegada del borde**. ¿Pegada al borde? Sube a ISO
    3200. La pantalla a oscuras engaña: el histograma no.
 6. **Amplía una estrella al máximo** en la revisión: ¿es un punto? Lo
    tienes. ¿Una rayita? Baja a 15 s. ¿Una bola? Repite el paso 3.
@@ -249,7 +250,7 @@ Y la dirección decide el dibujo:
 | Apertura | f/2.8 |
 | ISO | 800–1600 |
 | WB | K = 3900 |
-| Reducción ruido larga exposición | **OFF** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
+| `RR exposic. larga` | **Desactivar** (si no, entre foto y foto hay 30 s a oscuras y los arcos salen cortados) |
 | Enfoque | A estrella, como siempre, y cinta |
 | La serie | **`Func. capt. interv.`**: exposición 30 s · intervalo de disparo 31 s · 90–180 tomas |
 

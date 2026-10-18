@@ -39,8 +39,8 @@ hace falta gastar una memoria del dial ([capítulo 1](../a6700/01-configuracion-
 | ISO | Auto, tope 6400 | De noche sube solo; el 11 mm es luminoso |
 | Balance de blancos | **K fijo**: 5200 día · 6000 nublado/tormenta · 3200 luz de tienda | El AWB cambia de color en mitad de un plano y en vídeo eso no se arregla |
 | Perfil de imagen | **OFF** (o **S-Cinetone** si quieres color de cine sin editar) | **Nada de S-Log3**: obliga a etalonar y no lo vas a hacer |
-| Enfoque | AF-C · **Reconocimiento de sujeto: Animal** · velocidad de transición **lenta (2–3)** | El mismo AF que en safari; lento = sin saltos bruscos |
-| SteadyShot | **Active** al caminar · **Standard** parado | Active añade estabilización digital con un recorte de 1,1x |
+| Enfoque | AF-C · **`Dest. reconocim.`: Animal** · velocidad de transición **lenta (2–3)** | El mismo AF que en safari; lento = sin saltos bruscos |
+| SteadyShot | **Activo** al caminar · **Estándar** parado | Activo añade estabilización digital con un recorte de 1,1x |
 | Audio | Micro interno + **peluche antiviento**, siempre grabando | El sonido ambiente ES la mitad de este vídeo |
 
 **El detalle que casi nadie te dice**: con esos ajustes y sol de mediodía, la
@@ -65,14 +65,14 @@ no aporta nada. Detalle y precios, en [equipo](../a6700/05-equipo-accesorios.md)
 ## ¿A pulso o con apoyo? — la respuesta
 
 **A pulso, y sin gimbal.** Con un 16,5 mm equivalente el temblor se ve
-muchísimo menos que con un tele, y el IBIS de la a6700 más el modo **Active**
+muchísimo menos que con un tele, y el IBIS de la a6700 más el modo **Activo**
 resuelven el 90 % de lo que vas a grabar. Un gimbal es un kilo más, otra
 batería y media hora de aprendizaje que no necesitas para tres minutos.
 
 | Situación | Cómo se sujeta |
 |---|---|
-| **Plano fijo** (la mayoría del vídeo) | Las dos manos, codos pegados al cuerpo, y si hay dónde, apoya la cámara: capó, murete, ventanilla, una piedra. Standard |
-| **Caminando** (la pista, la duna, entrar en Deadvlei) | **Active ON**, cámara **por delante y baja**, a la altura del pecho, y anda **de talón a punta doblando un poco las rodillas** — el "paso de ninja". Pasos cortos, mirada al frente |
+| **Plano fijo** (la mayoría del vídeo) | Las dos manos, codos pegados al cuerpo, y si hay dónde, apoya la cámara: capó, murete, ventanilla, una piedra. Estándar |
+| **Caminando** (la pista, la duna, entrar en Deadvlei) | **Activo**, cámara **por delante y baja**, a la altura del pecho, y anda **de talón a punta doblando un poco las rodillas** — el "paso de ninja". Pasos cortos, mirada al frente |
 | **Siguiendo algo que se mueve** | Gira **desde la cintura**, no con los brazos, y acompaña el movimiento antes y después de que entre en el encuadre |
 | **Timelapse o plano de varios minutos** | Mini trípode en una piedra, una mesa o el capó — o el móvil, que para esto es mejor ([su guía](pixel-10-pro.md)) |
 | **Desde el coche** | Bean bag en la ventanilla ([equipo](../a6700/05-equipo-accesorios.md)) y **motor apagado** |
@@ -151,23 +151,23 @@ pero nadie habla. Los timelapses los pone el móvil
 
 | # | La toma | Cómo | Ajuste |
 |---|---|---|---|
-| ☐ 1 | **El coche cargado saliendo** | Plano fijo apoyado; el coche entra y sale del encuadre | Standard |
-| ☐ 2 | **La grava desde dentro** | Cámara en el salpicadero, carretera recta delante — y **deja que se oiga** | Active · audio |
-| ☐ 3 | **Salir del coche a un paisaje** | Grabas **antes** de mirar: abres la puerta, sales, giro lento desde la cintura | Active |
-| ☐ 4 | **Tú subiendo la duna, de espaldas** | Alguien te graba, o cámara en el mini trípode y entras al encuadre | Standard · f/5.6 |
+| ☐ 1 | **El coche cargado saliendo** | Plano fijo apoyado; el coche entra y sale del encuadre | Estándar |
+| ☐ 2 | **La grava desde dentro** | Cámara en el salpicadero, carretera recta delante — y **deja que se oiga** | Activo · audio |
+| ☐ 3 | **Salir del coche a un paisaje** | Grabas **antes** de mirar: abres la puerta, sales, giro lento desde la cintura | Activo |
+| ☐ 4 | **Tú subiendo la duna, de espaldas** | Alguien te graba, o cámara en el mini trípode y entras al encuadre | Estándar · f/5.6 |
 | ☐ 5 | **La cresta al amanecer** | Sol de lado, cámara baja, la línea luz/sombra cruzando el encuadre | f/4 · ND |
 | ☐ 6 | **Detalle de manos**: arena cayendo, el café, el mapa | A 20–30 cm del objeto (el 11 mm enfoca a 15 cm) | f/2.8 |
-| ☐ 7 | **Entrando en Deadvlei** | Andando entre los árboles muertos, cámara baja | Active |
-| ☐ 8 | **La niebla de la costa** | Plano fijo sobre apoyo, 15 segundos sin tocar nada | Standard |
-| ☐ 9 | **Las focas de Cape Cross** | Desde la pasarela — **el sonido es la escena**: graba 30 s largos | Standard · audio |
-| ☐ 10 | **El Zeila o la playa vacía** | Andando hacia el objeto, que crezca en el encuadre | Active |
-| ☐ 11 | **Montar el campamento** | Plano fijo, tú entras y sales del encuadre trabajando | Standard |
-| ☐ 12 | **La espera en el coche en Etosha** | Cámara en el salpicadero mirando al frente, en silencio | Standard |
+| ☐ 7 | **Entrando en Deadvlei** | Andando entre los árboles muertos, cámara baja | Activo |
+| ☐ 8 | **La niebla de la costa** | Plano fijo sobre apoyo, 15 segundos sin tocar nada | Estándar |
+| ☐ 9 | **Las focas de Cape Cross** | Desde la pasarela — **el sonido es la escena**: graba 30 s largos | Estándar · audio |
+| ☐ 10 | **El Zeila o la playa vacía** | Andando hacia el objeto, que crezca en el encuadre | Activo |
+| ☐ 11 | **Montar el campamento** | Plano fijo, tú entras y sales del encuadre trabajando | Estándar |
+| ☐ 12 | **La espera en el coche en Etosha** | Cámara en el salpicadero mirando al frente, en silencio | Estándar |
 | ☐ 13 | **El animal, en vídeo** | Sobre el bean bag, con el **70-350**: el rino bebiendo, los elefantes en la charca. Sin zoomear | 4K25 · 1/50 · AF-C Animal |
 | ☐ 14 | **La charca de noche** | Apoyado en el murete, **en silencio absoluto**, sin flash ni luz | f/1.8 · ISO 6400 |
 | ☐ 15 | **Montar el trípode con el frontal rojo** | Plano fijo, tú de silueta trabajando bajo las estrellas | f/1.8 · ISO 6400 |
 | ☐ 16 | **El cielo en movimiento** | El timelapse de estrellas del [capítulo 2](../a6700/02-astrofotografia-namibia.md), montado como clip | Intervalómetro |
-| ☐ 17 | **El cierre**: la carretera vacía o el ala del avión | Plano fijo largo, 15 segundos | Standard |
+| ☐ 17 | **El cierre**: la carretera vacía o el ala del avión | Plano fijo largo, 15 segundos | Estándar |
 
 ## Cómo se rueda un día (los 5 pasos)
 
@@ -192,7 +192,7 @@ pero nadie habla. Los timelapses los pone el móvil
 
 | Sale… | Es… | Toca… |
 |---|---|---|
-| Todo tembloroso al caminar | SteadyShot en Standard | **Active** y paso de ninja; y acércate más al sujeto: el temblor se ve en el fondo lejano |
+| Todo tembloroso al caminar | SteadyShot en Estándar | **Activo** y paso de ninja; y acércate más al sujeto: el temblor se ve en el fondo lejano |
 | Movido "a saltos", como a trompicones | Obturación demasiado rápida (1/500, 1/1000) | Vuelve a **1/50**, y si sobra luz, ND o cerrar el diafragma |
 | Quemado, cielos blancos | 1/50 s con sol y sin ND | ND variable, o f/8–f/11, o sube a 1/200 |
 | El color cambia solo en mitad del plano | Balance de blancos en Auto | **K fijo** (5200 de día) |
@@ -209,7 +209,7 @@ Va con el resto del calendario en el
 [plan de entrenamiento](../plan/plan-de-entrenamiento.md):
 
 1. **Tarde de planos**: 20 clips de 5 segundos de cualquier cosa (el mercado,
-   un parque), en parejas de ancho y detalle, con Active puesto para los que
+   un parque), en parejas de ancho y detalle, con Activo puesto para los que
    lleven movimiento. Y 30 segundos de ambiente de ese sitio.
 2. **Tarde de montaje**: móntalos esa noche en un clip de 40 segundos con
    música en DaVinci ([edición](../campo/edicion-basica.md)). Si sabes hacer eso, el

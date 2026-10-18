@@ -123,7 +123,7 @@ ajuste y con los valores de fauna y de noche, está en
 | Intervalómetro (star trails, timelapse) | `MENU → Toma → [Func. capt. interv.]` |
 | Formatear la tarjeta | `MENU → Toma → [Soporte] → [Formatear]` |
 | Quitar el AF del disparador | `MENU → Enfoque → [AF/MF] → [AF con disparador] → Desactivar` |
-| Reconocimiento de sujeto (Animal/Pájaro) | `MENU → Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` |
+| Reconocimiento de sujeto (Animal/Ave) | `MENU → Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` |
 | Guardar una memoria MR | `MENU → Toma → [Modo de toma] → [Mem. ajustes cám] → 1, 2 o 3` |
 | Cambiar los 12 iconos del Fn | `MENU → Ajustes → [Personal. operac.] → [Ajustes del menú Fn]` |
 | Reasignar un botón | `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` |
@@ -145,7 +145,7 @@ menú Fn y te lleva a cambiarlo. Foto y vídeo guardan **listas distintas**.
 Los doce que le rentan a un novato en este viaje: modo de enfoque, área de
 enfoque, reconocimiento de sujeto, modo de manejo (ráfaga/temporizador),
 balance de blancos, ISO, medición, calidad de imagen, SteadyShot, Zebra,
-DISP y tipo de obturador.
+sensibilidad de seguimiento (`Sens. Seguim. AF`) y tipo de obturador.
 
 ## Mi Menú: tu propio menú, en 2 minutos
 
@@ -156,7 +156,7 @@ recorrer pestañas.
 1. `MENU → Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`.
 2. Navega hasta el ajuste que quieras y acéptalo. Repite.
 3. `[Ordenar elemento]` los coloca en el orden que te convenga.
-4. Y el remate: `[Mostrar de Mi Menú] → ON` hace que **el botón MENU abra
+4. Y el remate: `[Mostrar de Mi Menú] → Activar` hace que **el botón MENU abra
    directamente tu pestaña**, no la última que usaste.
 
 Los que merecen estar ahí, según lo que usan las guías de este repo:
@@ -174,7 +174,7 @@ reproducción.
 
 Los dos que cambian el viaje:
 
-- **Bright Monitoring** a C1 o C2 — amplifica la pantalla en plena
+- **Bright Monitoring** a C1 — amplifica la pantalla en plena
   oscuridad para **componer la Vía Láctea viéndola**
   ([capítulo 2](02-astrofotografia-namibia.md)).
 - **Guía en la cámara** a C2 mientras aprendes: te explica en pantalla el
@@ -261,8 +261,9 @@ Aquí está el gesto que este repo te pide una y otra vez ("verifica al
    bien, porque la pantalla en la oscuridad siempre parece más clara de lo
    que la foto es ([el histograma por escenario](../referencia/histograma.md)).
 
-Si quieres que empiece más ampliada, `MENU → Reproducción → [Ampliación]`
-tiene el aumento y la posición iniciales.
+Si quieres que empiece más ampliada, `MENU → Reproducc. → [Aumento]`
+tiene el aumento y la posición iniciales (`Aum. aumento inic` y
+`Aum. posic. inicial`).
 
 ### Marca las buenas en la propia cámara
 
@@ -315,7 +316,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 |---|---|---|
 | "Ese ajuste no existe en mi cámara" | El selector **Foto / Vídeo / S&Q** está en otro modo: el menú cambia con él | Pon el selector en Foto y vuelve a buscar |
 | No encuentro un ajuste corriente | Está en el **Fn** casi seguro | Pulsa Fn antes de bucear en el menú |
-| Me pierdo cada vez que entro al menú | No has hecho tu **Mi Menú** | Diez minutos hoy, y `[Mostrar de Mi Menú] → ON` |
+| Me pierdo cada vez que entro al menú | No has hecho tu **Mi Menú** | Diez minutos hoy, y `[Mostrar de Mi Menú] → Activar` |
 | **No dispara y no sé por qué** | Sin tarjeta · tarjeta **bloqueada (LOCK)** · tarjeta llena · buffer volcando tras una ráfaga · tapa del objetivo puesta · objetivo mal montado | Por ese orden: mira la ranura, la pestañita lateral de la SD, el hueco libre, espera unos segundos, quita la tapa, remonta el objetivo |
 | No enfoca nada de repente | El interruptor **AF/MF** del objetivo se movió en la mochila | Ponlo en AF (lo llevan los dos objetivos) |
 | El visor se ve borroso pero las fotos salen nítidas | **Dioptrías** | La ruedecita del visor, hasta ver nítidos los números |

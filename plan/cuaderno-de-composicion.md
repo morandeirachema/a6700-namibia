@@ -40,7 +40,7 @@ bloque hasta tener el anterior entero. Los encuadres numerados son los del
 | ☐ 13 | **Media hora sin disparar.** Elige un animal y obsérvalo 30 min sin cámara. Aprende su ciclo. Luego, 5 fotos. | Puedes predecir lo que va a hacer 5 segundos antes de que lo haga |
 | ☐ 14 | **El gesto anunciado.** Caza tres gestos que **veías venir** (un estiramiento, un bostezo, un salto, un despegue). | Tres, y en las tres estabas ya encuadrado |
 | ☐ 15 | **Treinta segundos más.** Cinco veces: cuando pienses "ya está", quédate medio minuto más y dispara. | Al menos una de esas cinco es mejor que la que ya tenías |
-| ☐ 16 | **El ave en vuelo.** Reconocimiento **Pájaro**, 1/2500, preenfoque a un punto de paso. | 3 de cada 10 salen nítidas y con el pájaro entero dentro |
+| ☐ 16 | **El ave en vuelo.** Reconocimiento **Ave**, 1/2500, preenfoque a un punto de paso. | 3 de cada 10 salen nítidas y con el pájaro entero dentro |
 
 ## Bloque 4 · CONTAR
 

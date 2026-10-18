@@ -155,7 +155,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
   al infinito, y ya no lo tocas en toda la sesión. Con el tele, AF-S a un
   tercio de la escena.
 - [ ] Contraste imposible (vlei en sombra + duna encendida): histograma
-  empotrado en **ambos** bordes → horquillado: menú de avance → `Bracket`,
+  empotrado en **ambos** bordes → horquillado: `Modo manejo` → `Variación expos.`,
   3 fotos ±2 EV, con temporizador 2 s.
 - [ ] Tras la primera foto: zoom al 100 % en una esquina — ¿nítida? (a f/8
   debería; si no, ¿moviste la cámara?).
@@ -179,7 +179,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] **Bright Monitoring** (el botón que configuraste en el
   [capítulo 1](01-configuracion-basica.md)): la pantalla se amplifica y ves
   la Vía Láctea para componer, sin fotos de prueba a ciegas.
-- [ ] **Enfoque a estrella**: lupa (`Focus Magnifier`) sobre la estrella más
+- [ ] **Enfoque a estrella**: lupa (`Amplific. enfoque`) sobre la estrella más
   brillante → anillo despacio hasta el punto **más pequeño** (si engorda, te
   pasaste; el peaking chispea al rozar el foco) → **cinta en el anillo**.
 - [ ] Foto de prueba 20 s · ISO 1600 · temporizador 2 s. Histograma: una
