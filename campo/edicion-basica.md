@@ -250,13 +250,16 @@ desierto → costa → safari → noche → cierre). El montaje, paso a paso en
 1. Proyecto nuevo → importa la carpeta de clips del viaje (ya volcados por
    días al SSD). Los de la Sony y los del móvil van juntos: distinta cámara,
    misma línea de tiempo (si el color no casa, iguala el del móvil al de la
-   Sony con la rueda de temperatura, no al revés).
+   Sony con la rueda de temperatura, no al revés). La frecuencia de la línea
+   de tiempo, a **25 fps** —la de la Sony—, fijada en los ajustes del
+   proyecto **antes** de crear la línea de tiempo; los clips del Pixel, que
+   graba a 24/30/60, entran igual y DaVinci los adapta.
 2. **Primero la música**: elige la canción antes de montar — sin voz, es
    ella la que marca el ritmo. Luego coloca los planos por bloques, cortando
    en los golpes que te pida la música. Nunca en el orden de grabación: la
    historia manda.
 3. Recorta cada clip a sus **3–6 segundos buenos** (herramienta de corte;
-   los 5 s quietos que dejaste al grabar son el margen). Fuera todo lo que
+   los 3 s quietos que dejaste al grabar son el margen). Fuera todo lo que
    dude: mejor 3 minutos redondos que 8 regulares.
 4. Los timelapses del Pixel ya vienen montados: entran como un clip más. Los
    de la a6700, como los exportaste

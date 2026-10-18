@@ -67,7 +67,8 @@ Tres reglas de continuidad que el ojo nota aunque nadie sepa nombrarlas:
   neutro (frontal) entre medias.
 - **Corta en movimiento**. Un plano que empieza con algo ya moviéndose se
   engancha con el anterior; uno que empieza quieto y arranca después, no. Por
-  eso al rodar dejabas 5 segundos de más: para poder entrar tarde.
+  eso al rodar dejabas 3 segundos quieto antes y después: para poder entrar
+  tarde.
 
 ## 4 · Igualar el color entre clips (el paso que casi nadie da)
 

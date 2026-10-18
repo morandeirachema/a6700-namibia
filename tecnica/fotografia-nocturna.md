@@ -60,7 +60,7 @@ de star trails), eso está resuelto noche a noche en
 | Estabilizador | **OFF** los dos (trípode) | **OFF** los dos | OFF los dos | **ON** |
 | Extra | **Obturador electrónico** (mudo) | Temporizador 2 s | Dos tomas y mezcla | Medición **puntual vinculada** al punto de AF |
 
-Esa tabla también está en la [chuleta imprimible](../a6700/chuleta.md) —
+Lo esencial de esa tabla también está en la [chuleta imprimible](../a6700/chuleta.md) —
 llévala al mirador, no el móvil con la pantalla encendida.
 
 ## Los siete gestos que valen para cualquier noche

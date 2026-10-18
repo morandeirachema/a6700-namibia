@@ -45,7 +45,7 @@ hace falta gastar una memoria del dial ([capítulo 1](../a6700/01-configuracion-
 
 **El detalle que casi nadie te dice**: con esos ajustes y sol de mediodía, la
 imagen se **quema** — a 1/50 s no hay diafragma que aguante. O cierras a
-f/11–f/16 (y pierdes algo de calidad), o **subes la obturación a 1/200** y
+f/8–f/11 (y pierdes algo de calidad), o **subes la obturación a 1/200** y
 aceptas un movimiento un pelín más "nítido" (en un vídeo de viaje no se
 nota), o llevas el **filtro ND variable** de la lista de abajo, que es la
 solución de verdad.
@@ -126,7 +126,8 @@ solapa** — ese es para grabar voz, y aquí nadie habla.
 
 ## La estructura de los 3 minutos
 
-Tres minutos son ~180 segundos y **unos 30 planos de 5–7 segundos**. Sin voz,
+Tres minutos son ~180 segundos y **unos 30 planos de 5–7 segundos** de media (el ritmo, variándolos, en
+[vídeo a fondo](../mejora/video-a-fondo.md)). Sin voz,
 el hilo lo llevan **la música y el orden de las imágenes**: se empieza por lo
 más potente, se agrupa por sitios y se cierra en calma. Regla de novato:
 **graba el triple de lo que vas a usar** y no te preocupes por el orden — se
@@ -203,6 +204,7 @@ pero nadie habla. Los timelapses los pone el móvil
 | Todo el vídeo parece el mismo plano | Siempre a la misma altura y distancia | Agáchate, acércate, sube a una piedra: variar el punto de vista es gratis |
 | Una X oscura en el cielo | Filtro ND variable forzado al máximo | No pases del 70 % de su recorrido; por eso se compra de rango corto |
 | Sale una hora de material y no hay vídeo | Planos largos y sin pareja | 5 segundos por plano, en parejas, y una toma-firma al día |
+| La cámara se para con el icono de temperatura | Calor: en 4K continuo, Sony da ~5 min a 40 °C con `Temp. APAGA auto` en Estándar y ~10 min en Alto | Clips cortos (los tuyos son de 5–20 s) y cámara a la sombra entre tomas; para una toma larga, en trípode, `Ajustes → [Opc. ajuste enrg.] → [Temp. APAGA auto]` en **Alto** — a pulso no: Sony avisa de quemaduras |
 
 ## El entrenamiento (dos tardes, antes de volar)
 

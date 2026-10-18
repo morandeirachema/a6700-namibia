@@ -26,7 +26,7 @@ bloque hasta tener el anterior entero. Los encuadres numerados son los del
 | ☐ | Ejercicio | Aprobado cuando… |
 |---|---|---|
 | ☐ 6 | **Veinte del mismo bicho.** Un solo sujeto, 20 fotos **distintas**: cerca, lejos, alto, bajo, detalle, contexto. | Las 20 son reconociblemente distintas entre sí |
-| ☐ 7 | **Ocho encuadres del atlas** con ese mismo animal (1, 2, 3, 6, 8, 10, 12, 13). | Tienes los ocho, identificables sin explicártelos |
+| ☐ 7 | **Ocho encuadres del atlas** con ese mismo animal (1, 2, 3, 6, 8, 9, 12, 13). | Tienes los ocho, identificables sin explicártelos |
 | ☐ 8 | **El aire.** Diez fotos con el sujeto descentrado y **dos tercios de aire** hacia donde mira. | Ninguna tiene el aire detrás. Ninguna |
 | ☐ 9 | **Ni una a tu altura.** Una sesión entera sin disparar de pie: todo agachado o apoyado en el suelo. | 20 fotos y ni una desde la altura de tus ojos |
 | ☐ 10 | **Déjalo pequeño.** Cinco fotos donde el sujeto ocupe **menos de un décimo** del encuadre y la foto siga funcionando. | Las cinco, y resististe el impulso de zoomear |

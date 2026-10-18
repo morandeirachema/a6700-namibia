@@ -8,7 +8,7 @@ que **ya está en tu bolsillo cuando pasa algo**, la que pone el **recurso y
 los timelapses** del vídeo del viaje, y la que tiene cuatro cosas que la Sony
 no tiene — un **ultra gran
 angular** de 123°, **macro** a 3 cm, un modo **astro** que dispara y monta un
-timelapse solo, y el **tramo intermedio** (25–113 mm equivalentes) que tus
+timelapse solo, y el **tramo intermedio** (de 25 a ~105 mm equivalentes) que tus
 dos objetivos no cubren. Esta guía dice qué le pides en cada escena del
 viaje, qué no le pidas (fauna lejana y la charca de noche son de la Sony),
 cómo se ajusta una vez para no pensar más y qué tomas de vídeo son suyas.
@@ -22,9 +22,9 @@ seguir.
 | | |
 |---|---|
 | Cámaras traseras | **Principal 50 Mpx** f/1.68, ~25 mm eq ("1x"), sensor 1/1,3" con estabilizador · **Ultra gran angular 48 Mpx** f/1.7, 123° ("0.5x", ~13 mm eq) con **enfoque macro** · **Tele 48 Mpx** f/2.8, **5x óptico** (~113 mm eq) |
-| Zoom | Óptico hasta 5x; **Super Res Zoom** hasta 20x (útil); **Pro Res Zoom** hasta 100x (IA generativa: para el recuerdo, no para la foto — por encima de 30x guarda también la versión sin IA) |
+| Zoom | Óptico 5x, y **calidad óptica hasta 10x** según Google; **Pro Res Zoom** hasta 100x (IA generativa por encima de 30x: para el recuerdo, no para la foto — guarda también la versión sin IA). 20x, como límite útil para el recuerdo. En vídeo, **Super Res Zoom** hasta 20x |
 | Frontal | 42 Mpx ultra gran angular (103°) |
-| Vídeo | 4K a 24/30/60 fps; **8K a 24 fps solo con Video Boost** (se procesa en la nube de Google, no en el móvil) |
+| Vídeo | 4K a 24/30/60 fps; **8K a 24/30 fps solo con Video Boost** (se procesa en la nube de Google, no en el móvil) |
 | Modos que usarás | Foto · Retrato · **Visión Nocturna** (y **Astrofotografía** dentro de ella) · **Movimiento** (Barrido y **Larga exposición**) · **Panorámica** · Timelapse · Vídeo |
 | Controles Pro | Enfoque, obturación, ISO, balance de blancos, brillo/sombras, elección de lente, **50 Mpx** y **RAW+JPEG (DNG)** |
 | IA de la foto | Add Me / *Añádeme* (tú también en la de grupo), Auto Best Take (la mejor cara de cada uno en la de grupo), **Camera Coach** (Gemini te sugiere encuadre y luz) |
@@ -84,8 +84,8 @@ zooms digitales intermedios que pierden calidad).
 | **Atardecer y siluetas** | La postal para compartir esa misma noche | Toca el cielo, **baja el brillo** con el deslizador hasta que la acacia quede negra, y bloquea (pulsación larga) | El AWB calienta o enfría a su aire: si el naranja se pierde, WB en los controles Pro (abajo) |
 | **Charca nocturna** | El ambiente: el foco, la gente en el murete, la luna, el reflejo | **Visión Nocturna** apoyado en el murete, sin flash JAMÁS (el flash está prohibido y espanta) | El rinoceronte moviéndose bajo el foco: de la a6700 ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)) |
 | **El cielo** | El modo **Astrofotografía**: foto + timelapse solos | Abajo, la receta completa | La Vía Láctea "de bolsillo" es eso, de bolsillo: la buena es del 11 mm |
-| **El tramo que la Sony no tiene** (25–113 mm eq): retrato, grupo, el coche en la pista, el animal pegado al coche | La foto que exigiría cambiar de objetivo con polvo en el aire | 1x, 2x o 5x, y encuadra con los pies | Más de 5x: ahí empieza a inventar |
-| **Vídeo** | **Todo el vídeo del viaje** (abajo tiene su lista de tomas) | **4K 30 fps** (24 fps si quieres aire de cine), 1x o 2x, clips de 10–20 s sin zoomear durante la toma; timelapse del campamento apoyado en una piedra (y **Timelapse con Visión Nocturna** para el crepúsculo, apoyado) | 8K y Video Boost: se procesan en la nube — en Namibia grabas y ya se cocinarán cuando vuelvas al wifi |
+| **El tramo que la Sony no tiene** (de 25 a ~105 mm eq): retrato, grupo, el coche en la pista, el animal pegado al coche | La foto que exigiría cambiar de objetivo con polvo en el aire | 1x, 2x o 5x, y encuadra con los pies | Más de 5x: ahí empieza a inventar |
+| **Vídeo** | **Los timelapses y el recurso** del vídeo del viaje (abajo, su lista de tomas; el esqueleto lo rueda la Sony) | **4K 30 fps** (24 fps si quieres aire de cine), 1x o 2x, clips de 10–20 s sin zoomear durante la toma; timelapse del campamento apoyado en una piedra (y **Timelapse con Visión Nocturna** para el crepúsculo, apoyado) | 8K y Video Boost: se procesan en la nube — en Namibia grabas y ya se cocinarán cuando vuelvas al wifi |
 | **Documentos** | La foto que ahorra disgustos | Los ajustes de la Sony antes de cambiarlos, el permiso del parque, la matrícula, el mapa en el capó, la etiqueta de la tarjeta | — |
 | **Herramienta de la Sony** | El mando y la pantalla grande de la a6700 | **Creators' App**: live view en la pantalla del móvil para enfocar la estrella con calma y disparar **sin tocar la cámara** (astro y charca), pasar los JPEG buenos al móvil cada noche y **geolocalizar** las fotos de la Sony con el GPS del Pixel; y PhotoPills, Stellarium y los mapas offline ([apps](../referencia/apps-del-viaje.md)) | Emparejarla en casa, no en el campamento a oscuras |
 
@@ -161,8 +161,8 @@ Del viaje sale **un solo vídeo**, de 3 minutos. Su esqueleto —la
 estructura y los planos buenos— lo rueda la a6700 con el 11 mm
 ([el vídeo del viaje](video-del-viaje.md)); el móvil pone lo que la Sony no
 puede o no debe hacer: **los timelapses**, el coche en marcha, el agua y el
-polvo (es IP68), y el *making of*. Estas once son suyas y no se solapan con
-las de la Sony:
+polvo (es IP68), y el *making of*. Estas once son suyas y completan las de
+la Sony:
 
 | # | La toma | Cómo | Ajuste |
 |---|---|---|---|
@@ -178,9 +178,10 @@ las de la Sony:
 | ☐ 10 | **El making of de la Sony** | Tú con el tele sobre el bean bag, el trípode de noche con el frontal rojo | Vídeo 4K30, clips de 5–10 s |
 | ☐ 11 | **La vida pequeña y lo mojado** | Café al amanecer, la ducha de campamento, el mapa en el capó, la lluvia de la tormenta (el móvil es IP68 y la cámara no) | Vídeo 4K30 |
 
-Y las tres reglas de rodaje, iguales para las dos cámaras: **no zoomes
-durante la toma**, deja **5 segundos quietos** al principio y al final, y
-graba **parejas** (un plano ancho y un detalle de cada escena). El montaje de
+Y las tres reglas de rodaje, iguales para las dos cámaras
+([chuleta de vídeo](chuleta-video.md)): **3 segundos quieto** antes y después
+del movimiento, **un movimiento por plano** y **nunca zoomes** durante la
+toma. Y graba **parejas** (un plano ancho y un detalle de cada escena). El montaje de
 todo junto, en la [guía de edición](../campo/edicion-basica.md).
 
 ## El Pixel es el ordenador del viaje
@@ -214,8 +215,9 @@ trabajo, y es un papel más importante que cualquiera de sus modos de cámara:
   volcado que las tarjetas de la Sony. Al volver a casa, Google Fotos lo
   subirá solo.
 - **Espacio**: el 4K ocupa del orden de 15 GB por hora; los DNG de 50 Mpx,
-  decenas de MB cada uno; el modo astro guarda foto + vídeo. Como aquí el
-  vídeo del viaje entero es suyo, sal de casa con **al menos 100 GB libres**
+  decenas de MB cada uno; el modo astro guarda foto + vídeo. Como los
+  timelapses y el recurso del vídeo son suyos, sal de casa con **al menos
+  100 GB libres**
   y vacía al SSD cada 2–3 noches.
 - **Polvo y calor**: IP68 aguanta el polvo, no el sol directo en el
   salpicadero — si se calienta, la cámara se apaga sola. A la sombra o en el

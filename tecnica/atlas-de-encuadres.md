@@ -474,7 +474,8 @@ La foto que solo puedes hacer en el hemisferio sur, y noviembre es su mes.
 
 ## 20 · El primer plano cercano
 
-El paisaje nocturno que casi nadie intenta: algo a un metro de la lente.
+El paisaje nocturno que casi nadie intenta: algo cerca de la lente — a
+más de cuatro metros, que a f/1.8 es "cerca".
 
 ```
 ┌──────────────────────────────┐

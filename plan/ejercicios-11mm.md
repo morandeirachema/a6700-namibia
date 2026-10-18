@@ -50,7 +50,7 @@ harás en Sossusvlei y en Deadvlei.
 | ☐ 11 | **La hiperfocal**: f/8, enfoca a **0,8 m**, pasa a MF y no lo toques. Doce fotos con algo a medio metro de la lente | Todas tienen el primer plano **y** el fondo nítidos, comprobado al 100 % |
 | ☐ 12 | **La tarde de la profundidad**: objetos a 1, 3 y 10 m, fotografiados a f/1.8 y a f/11 | Ves con tus ojos lo que dice la tabla de profundidad de campo |
 | ☐ 13 | **La tarde de la difracción**: un cartel con letra pequeña a f/4, f/8, f/11 y f/16, con trípode | Sabes dónde deja de mejorar tu objetivo, y no vuelves a cerrar por inercia |
-| ☐ 14 | **Primer plano a un metro**: doce fotos con algo cerca abajo y el fondo lejos (encuadre 20 del [atlas](../tecnica/atlas-de-encuadres.md)) | En seis de ellas el primer plano **aporta**, no estorba |
+| ☐ 14 | **Primer plano a un metro**: doce fotos con algo cerca abajo y el fondo lejos, a f/8 con la hiperfocal (la versión de día del encuadre 20 del [atlas](../tecnica/atlas-de-encuadres.md); de noche, a f/1.8, el objeto va a más de cuatro metros) | En seis de ellas el primer plano **aporta**, no estorba |
 | ☐ 15 | **Líneas y escala**: busca una diagonal (una calle, un muro, un río) y mete una persona diminuta para dar medida | Tienes tres fotos donde el vacío es el sujeto |
 | ☐ 16 | **La panorámica**: 5 verticales solapadas un tercio, todo manual y fijo, cosidas esa noche | La costura no se ve |
 | ☐ 17 | **Hora dorada y hora azul** el mismo día, mismo sitio, mismo encuadre | Puedes explicar en una frase qué cambia, y no es "que es más bonita" |

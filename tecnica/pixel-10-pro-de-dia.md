@@ -45,8 +45,8 @@ Dos verdades que salen de la tabla:
 > charca), la **6** (detalle, si el animal está pegado al coche) y la **13**
 > (elefante fantasma saliendo de la charca) sobreviven; la **1** (retrato a
 > tope de zoom), la **4** (acción congelada) y la **5** y **15** (aves) no.
-> Y las **10–12** (paisaje) y toda la noche son del 11 mm: no dependen del
-> tele.
+> Y las **10–12** (paisaje) y la noche son del 11 mm y no dependen del
+> tele — salvo la **7** (la charca iluminada), que es del 70-350.
 
 ## Receta rápida: los ajustes del Pixel para fauna (5 minutos, una vez)
 
@@ -135,7 +135,7 @@ con la manada fuera — que son fotos que el tele **no** hace.
 | Cuándo | Qué haces |
 |---|---|
 | **El día que llega** (semana 3 del [plan](../plan/plan-de-entrenamiento.md)) | La [prueba de aceptación](../a6700/verificacion-in-situ.md) entera, y **fotografía el objetivo por todos lados**. Un ejemplar blando a 350 mm no es tragedia: encuadras a 300 y recortas |
-| **Si a mediados de septiembre no está**, o el préstamo se cae | Decide, no esperes: un 70-350 **de segunda mano** en [mpb](https://www.mpb.com/) cuesta 450–550 € y se revende a la vuelta perdiendo 50–100 €; el precio de nuevo está en [equipo](../a6700/05-equipo-accesorios.md). La semana 9 (ensayo general en Cabárceno) necesita el tele en la mano |
+| **Si a mediados de septiembre no está**, o el préstamo se cae | Decide, no esperes: un 70-350 **de segunda mano** en [mpb](https://www.mpb.com/) cuesta 450–550 € y se revende a la vuelta perdiendo 50–100 €; el precio de nuevo está en [equipo](../a6700/05-equipo-accesorios.md). La semana 9 (ensayo general en Cabárceno) rinde mucho más con el tele en la mano, aunque sin él se hace igual |
 | **Si se rompe o se llena de polvo en el viaje** | Esta guía es el tele: 5x/10x y la tabla de animales. El 11 mm se queda con el paisaje y la noche, que son la mitad de la lista de tomas. Y el seguro: la [logística](../campo/logistica-viaje.md) explica qué cubre con material prestado |
 | **Cada día del viaje, aunque todo vaya bien** | El Pixel a 5x es el tele **que siempre está en el bolsillo**: el elefante que cruza mientras la Sony está en la bolsa se hace con él, no se pierde |
 

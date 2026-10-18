@@ -96,9 +96,9 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg/1280px-Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg" alt="Los acacias muertas de Deadvlei sobre la arcilla blanca, con la duna encendida al fondo" width="82%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg/1280px-Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_%2823394319372%29.jpg" alt="Las acacias muertas de Deadvlei sobre la arcilla blanca, con la duna encendida al fondo" width="82%">
 
-<sub><b>Esta sí la vas a hacer</b>: Deadvlei, la mañana del <b>día 4</b> de tu ruta. Léela antes de ir — tres capas y ni una de cielo: la arcilla blanca abajo, los troncos negros de 900 años en medio y la duna encendida al fondo. La foto existe solo en la ventana en que el sol ya toca la cresta pero el vlei sigue en sombra, y se dispara con el <b>tele</b>, no con el angular ([paisaje a fondo](mejora/paisaje-a-fondo.md)). Foto de [Michael Schwarz](https://commons.wikimedia.org/wiki/File:Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_(23394319372).jpg), CC BY-SA 2.0, vía Wikimedia Commons</sub>
+<sub><b>Esta sí la vas a hacer</b>: Deadvlei, la mañana del <b>día 4</b> de tu ruta. Léela antes de ir — tres franjas: la arcilla blanca abajo, la duna encendida en medio y el cielo arriba, con un tronco negro de 900 años recortado sobre las tres y su sombra en la arcilla. Es la de pleno sol, con angular. La que casi nadie trae es la otra: a primera luz, cuando el sol ya toca la cresta pero el vlei sigue en sombra, con el <b>tele</b> y ni un centímetro de cielo ([paisaje a fondo](mejora/paisaje-a-fondo.md)). Foto de [Michael Schwarz](https://commons.wikimedia.org/wiki/File:Dead_Vlei_-_Sossusvlei_-_Namib-Desert_-_Namibia_(23394319372).jpg), CC BY-SA 2.0, vía Wikimedia Commons</sub>
 
 </div>
 

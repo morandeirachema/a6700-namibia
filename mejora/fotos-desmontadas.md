@@ -154,24 +154,27 @@ Nueve son de tierra y cuatro de cielo, a propósito.
   masa negra del histograma **debe** estar a la izquierda: no la toques
   ([histograma](../referencia/histograma.md)).
 
-## 8 · Deadvlei sin cielo
+## 8 · Deadvlei a pleno sol (y la versión sin cielo)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/054c_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg/1280px-054c_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg" alt="Acacias muertas de Deadvlei sobre la arcilla blanca con la duna naranja al fondo" width="100%">
 
 <sub>Foto de [Giles Laurent](https://commons.wikimedia.org/wiki/File:054c_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg), CC BY-SA 4.0, vía Wikimedia Commons</sub>
 
-- **Lo que ves**: troncos negros sobre arcilla blanca, con la duna encendida
-  ocupando todo el fondo. Ni un centímetro de cielo.
-- **La decisión**: **quitar el cielo**, que es la decisión que convierte
-  Deadvlei en una foto gráfica en lugar de en una postal. Eso obliga a usar
-  el **tele**, no el angular. Y el momento: el sol ya toca la duna pero el
-  vlei sigue en sombra — una ventana de veinte minutos.
-- **Lo que la habría arruinado**: llegar media hora tarde, cuando el sol
-  entra en el vlei, se acaba el contraste y la arcilla deja de ser blanca.
-  O poner el 11 mm y meter cielo, horizonte y turistas.
-- **Tu versión**: día 4, entrando por la puerta interior de Sesriem antes
-  del amanecer. **70–200 mm**, f/8, y trabaja la escena en variaciones (el
-  volumen de Lanting). Encuadres 6 y 7.
+- **Lo que ves**: un tronco negro enorme en primer plano, recortado sobre
+  tres franjas —arcilla blanca, duna naranja y cielo azul—, y su sombra
+  dibujada en la arcilla. El sol ya está alto y el vlei, iluminado.
+- **La decisión**: con la luz alta la duna sale plana, así que **cambia el
+  sujeto**: la forma del árbol y su sombra. Angular, bajo y cerca del tronco,
+  para que domine el encuadre y el cielo limpio lo recorte.
+- **Lo que la habría arruinado**: otro tronco cruzándose con las ramas, o
+  gente en la arcilla — la foto vive de que la silueta esté sola.
+- **Tu versión**: día 4, y son dos. Primero la que casi nadie trae: entrando
+  por la puerta interior de Sesriem antes del amanecer, **70–200 mm**, f/8 y
+  **ni un centímetro de cielo** — la duna encendida de fondo mientras el vlei
+  sigue en sombra, una ventana de veinte minutos que se acaba cuando el sol
+  entra en el vlei. Después, ya con el sol alto, esta: 11 mm agachado a un
+  par de metros del tronco ([paisaje a fondo](paisaje-a-fondo.md)), y trabaja
+  la escena en variaciones (el volumen de Lanting). Encuadres 6 y 7.
 
 ## 9 · La duna como línea
 
