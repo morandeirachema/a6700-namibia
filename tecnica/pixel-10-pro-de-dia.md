@@ -2,11 +2,10 @@
 
 > 🟢 **Iniciación** · Da por sabido: nada (la [guía general del Pixel](pixel-10-pro.md) amplía, no hace falta) · Te desbloquea: no quedarte sin foto de fauna si el tele no llega, falla o no está en la mano — y entrenar el safari desde hoy.
 
-El teleobjetivo del safari **es prestado y todavía no está en casa**. Eso
-abre tres situaciones en las que el móvil pasa de "segunda cámara" a **el
-único tele que tienes**: mientras no llega (las semanas de entrenamiento),
-si llega con un defecto serio o el préstamo se cae, y en el propio viaje
-cuando el 70-350 no está en la mano — el elefante que aparece con la cámara
+El teleobjetivo del safari **es prestado** (ya está en casa y pasó la
+prueba). Aun así hay dos situaciones en las que el móvil pasa de "segunda
+cámara" a **el único tele que tienes**: si el préstamo se cae antes de
+volar, y en el propio viaje cuando el 70-350 no está en la mano — el elefante que aparece con la cámara
 en la bolsa, el paseo a pie de Cape Cross, el campamento. Esta guía dice
 **hasta dónde llega de verdad** el Pixel como tele (con números, no con el
 "100x" de la caja), qué fotos de la [lista de tomas](../plan/lista-de-tomas.md)
@@ -134,8 +133,8 @@ con la manada fuera — que son fotos que el tele **no** hace.
 
 | Cuándo | Qué haces |
 |---|---|
-| **El día que llega** (semana 3 del [plan](../plan/plan-de-entrenamiento.md)) | La [prueba de aceptación](../a6700/verificacion-in-situ.md) entera, y **fotografía el objetivo por todos lados**. Un ejemplar blando a 350 mm no es tragedia: encuadras a 300 y recortas |
-| **Si a mediados de septiembre no está**, o el préstamo se cae | Decide, no esperes: un 70-350 **de segunda mano** en [mpb](https://www.mpb.com/) cuesta 450–550 € y se revende a la vuelta perdiendo 50–100 €; el precio de nuevo está en [equipo](../a6700/05-equipo-accesorios.md). La semana 9 (ensayo general en Cabárceno) rinde mucho más con el tele en la mano, aunque sin él se hace igual |
+| **El día que llega** (semana 3 del [plan](../plan/plan-de-entrenamiento.md)) — hecho ✅ | La [prueba de aceptación](../a6700/verificacion-in-situ.md) entera, y **fotografía el objetivo por todos lados**. Un ejemplar blando a 350 mm no es tragedia: encuadras a 300 y recortas |
+| **Si el préstamo se cae antes de volar** | Decide, no esperes: un 70-350 **de segunda mano** en [mpb](https://www.mpb.com/) cuesta 450–550 € y se revende a la vuelta perdiendo 50–100 €; el precio de nuevo está en [equipo](../a6700/05-equipo-accesorios.md). La semana 9 (ensayo general en Cabárceno) rinde mucho más con el tele en la mano, aunque sin él se hace igual |
 | **Si se rompe o se llena de polvo en el viaje** | Esta guía es el tele: 5x/10x y la tabla de animales. El 11 mm se queda con el paisaje y la noche, que son la mitad de la lista de tomas. Y el seguro: la [logística](../campo/logistica-viaje.md) explica qué cubre con material prestado |
 | **Cada día del viaje, aunque todo vaya bien** | El Pixel a 5x es el tele **que siempre está en el bolsillo**: el elefante que cruza mientras la Sony está en la bolsa se hace con él, no se pierde |
 

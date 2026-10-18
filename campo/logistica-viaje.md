@@ -26,8 +26,8 @@ Qué falta todavía, en la [lista de la compra](../plan/lista-de-la-compra.md).
 
 | Qué | Para qué | Precio orientativo |
 |---|---|---|
-| **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real. Los lectores UHS-I baratos son **3–4 veces más lentos** | 25–40 € (Kingston, Lexar, ProGrade) |
-| **SSD portátil de 1 TB USB-C** | El destino de todo. Samsung T7 o SanDisk Extreme | **Ya en casa** ✅ |
+| **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real. Los lectores UHS-I baratos son **3–4 veces más lentos** | **Ya en casa** ✅ |
+| **SSD portátil USB-C** (el tuyo, de 500 GB) | El destino de todo | **Ya en casa** ✅ |
 | **Hub USB-C con entrada de carga (PD)** | La pieza clave: el móvil necesita **lector y SSD a la vez**, y alimentarlos | 20–35 € |
 | **Cable USB-C corto de datos** | Muchos cables de carga **no llevan datos**. Comprueba el tuyo en casa | 8–12 € |
 | Tarjetas SD UHS-II V60 de sobra | Son la segunda copia (abajo, la cuenta) | 50–90 € las de 128 GB |
@@ -117,8 +117,9 @@ paso hace de router wifi para ver los archivos desde el móvil.
 
 **El SSD**: sumando la tabla (Sony 250–350 GB, su vídeo 8–12, el vídeo del
 Pixel 60–80), el viaje completo se mueve en torno a **320–450 GB**. Uno de
-1 TB va sobrado; con uno de 500 GB vas justo. Mira la capacidad del que ya
-tienes antes de volar, no en Etosha.
+1 TB va sobrado; **el tuyo es de 500 GB**: cabe, pero sin margen. Mira el
+espacio libre en cada volcado, y si quieres margen, el de 1 TB está en la
+[lista de la compra](../plan/lista-de-la-compra.md).
 
 ### La cuenta de la energía
 

@@ -167,7 +167,7 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 
 - 🛒 *¿Qué me falta por comprar?* → [la lista de la compra](plan/lista-de-la-compra.md), por urgencia y con precios.
 - 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
-- 📵 *El tele no ha llegado (o no llega)* → [el Pixel de día](tecnica/pixel-10-pro-de-dia.md): hasta dónde llega el móvil como tele y qué fotos persigues con él.
+- 📵 *El tele falla o no está a mano* → [el Pixel de día](tecnica/pixel-10-pro-de-dia.md): hasta dónde llega el móvil como tele y qué fotos persigues con él.
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
 - 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md).
 - 🤔 *Me he perdido con una palabra* → [el glosario](referencia/glosario.md).

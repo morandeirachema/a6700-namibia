@@ -8,7 +8,7 @@ Todos los precios del repo están repartidos por el
 convertida en **lista con casillas**: qué hay ya en casa, qué falta, qué es
 urgente y qué puede esperar.
 
-**Estado a 26 de agosto de 2026** · quedan **9 semanas** para el vuelo
+**Estado a 18 de octubre de 2026** · quedan **12 días** para el vuelo
 (30 de octubre).
 
 ## Ya está en casa ✅
@@ -20,23 +20,22 @@ urgente y qué puede esperar.
 | ☑ | **Pixel 10 Pro** (segunda cámara) |
 | ☑ | **Trípode** · **bean bag** · **frontal** · **power bank** |
 | ☑ | **Pera sopladora** para limpieza |
-| ☑ | **SSD** para las copias |
+| ☑ | **SSD de 500 GB** para las copias — cabe, pero justo (abajo) |
+| ☑ | **Lector de tarjetas UHS-II USB-C** |
 | ☑ | **PhotoPills** instalada |
 | ☑ | **Toallas de microfibra** |
 | ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
 | ☑ | **2 tarjetas SD UHS-II V60 de 128 GB** — faltan una o dos más (abajo) |
 
-## Prestado 🤝 — el 70-350, llega estos días
+## Prestado 🤝 — el 70-350, ya en casa y probado ✅
 
 El teleobjetivo del safari **te lo prestan**. Eso cambia tres cosas, y
 conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
 
-- **La prueba de aceptación se hace igual, pero sirve para otra cosa.** No
-  vas a devolverlo: la haces para **conocer sus defectos y decidir con
-  tiempo**. Si resulta que ese ejemplar está blando a 350 mm o el AF baila,
-  no es una tragedia — es información: encuadras a 300 mm y recortas, o
-  buscas alternativa mientras hay margen. Hazla **el día que llegue**, no en
-  Windhoek ([verificación, §2](../a6700/verificacion-in-situ.md)).
+- **La prueba de aceptación: hecha ✅.** No era para devolverlo, sino para
+  **conocer sus defectos con tiempo** ([verificación, §2](../a6700/verificacion-in-situ.md));
+  lo que te enseñó, apúntalo en la chuleta: si está blando a 350 mm,
+  encuadras a 300 y recortas.
 - **Es de otro, y va a un sitio con polvo.** El **filtro protector** deja de
   ser opcional y pasa a ser obligatorio, y la [limpieza en
   campo](../campo/limpieza-en-campo.md) también. Devuélvelo como te lo
@@ -49,11 +48,9 @@ conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
      ([logística](../campo/logistica-viaje.md)).
   3. Si te deja **actualizarle el firmware**. Es buena idea y es reversible
      en la práctica, pero se pregunta antes de tocar el aparato de nadie.
-- **Y el plan B, por si no llega**: el Pixel a 5x es un 70 mm de bolsillo
-  —hasta dónde llega y qué fotos sobreviven sin el tele, en
-  [el Pixel de día](../tecnica/pixel-10-pro-de-dia.md)— y, si a mediados de
-  septiembre sigue sin aparecer, un 70-350 de segunda mano en
-  [mpb](https://www.mpb.com/) (450–550 €) que se revende a la vuelta.
+- **Y el plan B, por si falla en el viaje**: el Pixel a 5x es un tele de
+  bolsillo —hasta dónde llega y qué fotos sobreviven sin el 70-350, en
+  [el Pixel de día](../tecnica/pixel-10-pro-de-dia.md).
 
 ---
 
@@ -118,21 +115,23 @@ Comprueba también que el cargador **carga por USB**: en Namibia irás de
 regleta y adaptador tipo M, y un cargador de enchufe grande estorba más de
 lo que parece.
 
-## 🟠 El resto del kit de copias — antes de octubre
+## 🟠 El resto del kit de copias — esta semana
 
-Ya tienes el SSD; faltan las tres piezas que lo conectan al móvil, porque
-**el volcado nocturno lo hace el Pixel** ([logística](../campo/logistica-viaje.md)).
+Ya tienes el SSD y el lector; faltan las dos piezas que los conectan al
+móvil, porque **el volcado nocturno lo hace el Pixel**
+([logística](../campo/logistica-viaje.md)). Y la cadena entera hay que
+probarla antes del [simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar).
 
 | ☐ | Qué | Precio | Nota |
 |---|---|---|---|
-| ☐ | **Lector de tarjetas UHS-II USB-C** | 25–40 € | Un lector UHS-I barato es 3–4 veces más lento y alarga cada volcado |
+| ☑ | **Lector de tarjetas UHS-II USB-C** | ya en casa | Un lector UHS-I barato es 3–4 veces más lento y alarga cada volcado |
 | ☐ | **Hub USB-C con entrada de carga (PD)** | 20–35 € | Lector + SSD + power bank colgando del móvil **a la vez** |
 | ☐ | **Cable USB-C de datos** | 8–12 € | Muchos cables de carga **no llevan datos**: compruébalo en casa |
 
-**Subtotal: ~55–90 €** · Y en cuanto lleguen, monta la cadena entera y
+**Subtotal: ~28–47 €** · Y en cuanto lleguen, monta la cadena entera y
 cronométrala en tu salón, no en Okaukuejo.
 
-## 🟡 Menudencias — durante septiembre
+## 🟡 Menudencias — antes de la semana 11 (26 oct), que es de maleta
 
 | ☐ | Qué | Precio | Para qué |
 |---|---|---|---|
@@ -149,6 +148,7 @@ cronométrala en tu salón, no en Okaukuejo.
 
 | ☐ | Qué | Precio | Merece la pena si… |
 |---|---|---|---|
+| ☐ | **SSD de 1 TB** USB-C (Samsung T7 o SanDisk Extreme) | 110–150 € | Quieres margen: el viaje genera ~320–450 GB ([la cuenta](../campo/logistica-viaje.md)) y el tuyo es de 500 GB |
 | ☐ | Una tarjeta **V90** | 120–180 € | Vas a grabar **cámara lenta** (S&Q 4K120): sin V90 la cámara ni te deja |
 | ☐ | **Prismáticos** | 80–200 € | Encontrar antes al animal rinde más de lo que parece |
 | ☐ | **Filtro ND1000** | 25–40 € | Larga exposición diurna en la costa |
@@ -178,14 +178,14 @@ cronométrala en tu salón, no en Okaukuejo.
 | Bloque | Coste | Cuándo |
 |---|---|---|
 | 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Ya |
-| 🟠 Lector, hub y cable | **55–90 €** | Antes de octubre |
-| 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Septiembre |
-| 🟢 Opcional | 315–550 € | Si sobra |
-| | **Total sin opcionales: ~155–345 €** — una o dos tarjetas y cuatro conectores, y se acabó | |
+| 🟠 Hub y cable | **28–47 €** | Esta semana |
+| 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Antes del 26 de octubre |
+| 🟢 Opcional | 425–700 € | Si sobra |
+| | **Total sin opcionales: ~128–302 €** — una o dos tarjetas, un hub, un cable y las menudencias, y se acabó | |
 
 Con el tele prestado y casi todo lo demás en casa, el viaje se queda en
 **menos de la quinta parte** de lo que costaría partiendo de cero. Lo que
-queda son una o dos tarjetas y cuatro conectores: **nada que tarde en llegar y nada
+queda son una o dos tarjetas, un hub, un cable y las menudencias: **nada que tarde en llegar y nada
 que haya que pensar mucho**.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
