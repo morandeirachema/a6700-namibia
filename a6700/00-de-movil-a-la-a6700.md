@@ -52,9 +52,9 @@ principal del móvil ≈ 24 mm ≈ "1x"):
 | Móvil | Milímetros | En este viaje |
 |---|---|---|
 | Ultra gran angular (0.5x) | ~13 mm | El **11 mm** (16,5 mm equivalentes — casi lo mismo que tu 0.5x): la Vía Láctea con paisaje, y el primer plano de las dunas |
-| Principal (1x) | ~24 mm | — (ese encuadre es del móvil) |
-| Retrato (3x) | ~77 mm | — (el hueco entre tus dos objetivos: lo cubre el Pixel) |
-| Tele (5x) | ~120 mm | El extremo corto del **70-350** (105 mm equivalentes): el animal en su paisaje |
+| Principal (1x) | ~25 mm | — (ese encuadre es del móvil) |
+| 2x (recorte del principal) | ~50 mm | — (el hueco entre tus dos objetivos: lo cubre el Pixel) |
+| Tele (5x) | ~113 mm | El extremo corto del **70-350** (105 mm equivalentes): el animal en su paisaje |
 | No existe en móvil | 350 mm = 525 mm equivalentes ≈ "21x" | El extremo largo del **70-350**: un león a 50 m llenando el encuadre |
 
 Fíjate en el hueco: entre 16,5 y 105 mm equivalentes tus objetivos no llegan

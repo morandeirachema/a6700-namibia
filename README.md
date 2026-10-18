@@ -142,7 +142,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
 - **[Los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
 - **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado
-- [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md), [la cadena de copia del Pixel](tecnica/pixel-10-pro.md) y [el safari con el móvil](tecnica/pixel-10-pro-de-dia.md) (una tarde con patos)
+- [Los ejercicios de la mirada](mejora/la-mirada.md), [los del modelo técnico](mejora/por-que-funciona.md), [el de montaje de vídeo](mejora/video-a-fondo.md), [el de retrato](tecnica/retrato-de-viaje.md), [la cadena de copia del Pixel](tecnica/pixel-10-pro.md), [el safari con el móvil](tecnica/pixel-10-pro-de-dia.md) (una tarde con patos), [desmontar una foto](mejora/fotos-desmontadas.md) y [estudiar a un fotógrafo](mejora/fotografos-de-referencia.md) (una tarde por fotógrafo)
 - Todo esto, **en calendario**: [el plan de entrenamiento de 11 semanas](plan/plan-de-entrenamiento.md)
 
 <a id="para-imprimir"></a>

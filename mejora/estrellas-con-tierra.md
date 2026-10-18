@@ -135,7 +135,7 @@ atrás o asume el tamaño.
   mucha foto horizontal ([el cielo del viaje](../plan/cielo-del-viaje.md)).
 - El truco de composición que usan los maestros: la franja de estrellas
   como **diagonal que entra por una esquina y no corta tu objeto**
-  ([mejora 1](la-mirada.md)).
+  ([la mirada](la-mirada.md)).
 
 ### 4 · Expón igual — y deja la silueta negra
 

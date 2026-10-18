@@ -151,8 +151,10 @@ movido siempre ([la guía del Pixel](../tecnica/pixel-10-pro.md)).
 ## Combinar con astro
 
 Los campamentos de Etosha también dan cielo oscuro lejos de los focos. Plan
-realista: charca al anochecer y de madrugada, Vía Láctea desde la zona oscura
-del campamento entre medias ([capítulo 2](02-astrofotografia-namibia.md)).
+realista: la Vía Láctea en la primera hora oscura (hasta el 10 es cuando está,
+[capítulo 2](02-astrofotografia-namibia.md)), la charca de 21:00 a medianoche,
+y de madrugada círculos de estrellas o las Nubes de Magallanes desde la zona
+oscura del campamento.
 
 ## Ejercicio antes de volar (una noche, en tu ciudad)
 

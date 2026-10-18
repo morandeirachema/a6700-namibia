@@ -9,7 +9,7 @@ visible gran parte de la noche.
 
 > **Tu viaje es en noviembre y el cielo cambia**: el núcleo galáctico solo
 > asoma bajo, al OSO, los primeros ~45–75 min de oscuridad y **solo del 1 al
-> 9** (luego entra la luna en ese cielo); las protagonistas pasan a ser las
+> 10** (luego entra la luna en ese cielo); las protagonistas pasan a ser las
 > **Nubes de Magallanes**, Saturno y las Táuridas, y la Cruz del Sur no está
 > al anochecer. Las recetas y el enfoque de este capítulo valen igual; el
 > **plan de tus noches concretas** está en
@@ -158,8 +158,9 @@ Dos caminos para el cielo en movimiento, ya montados en la cámara:
   en casa ([edición](../campo/edicion-basica.md)). Es la de las recetas de
   este capítulo.
 - **Película time-lapse en cámara**: la cámara graba y monta ella sola el
-  clip. Cero edición, menos control — perfecta como segunda serie "pon y
-  olvida" mientras la buena corre por intervalos.
+  clip. Cero edición, menos control — perfecta como serie "pon y olvida"
+  la noche que no quieras revelar nada (es una cámara: o una serie u otra,
+  no las dos a la vez).
 
 ## Vía Láctea desde Etosha en noches sin luna
 
