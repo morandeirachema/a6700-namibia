@@ -2,12 +2,13 @@
 
 > 🔵 **Básico** · Da por sabido: el capítulo 1 y saber usar el trípode · Te desbloquea: el rinoceronte de Okaukuejo a medianoche.
 
-Dos charcas de Etosha están **iluminadas con focos toda la noche** y tienen
-mirador junto al campamento: Okaukuejo (rinocerontes negros casi cada noche,
-con ventana típica entre las **21:00 y la medianoche** — fiable también en
-noviembre) y Halali (charca Moringa). El hide de Olifantsrus, en el oeste, abre 24 h pero
+Tres charcas de Etosha están **iluminadas con focos** y tienen mirador junto
+al campamento: Okaukuejo (rinocerontes negros casi cada noche, con ventana
+típica entre las **21:00 y la medianoche** — fiable también en noviembre),
+Halali (charca Moringa) y Namutoni (charca King Nehale, junto al fuerte:
+<https://www.nwr.com.na/resorts/namutoni-resort/>). El hide de Olifantsrus, en el oeste, abre 24 h pero
 se ilumina solo con **focos rojos**: fotos monocromas rojizas, asúmelo como
-estética. Y tu **última noche** cae fuera del parque, en la reserva privada
+estética. Y tu **última noche de safari** cae fuera del parque, en la reserva privada
 de **Onguma** (Tamboti, junto a la puerta Von Lindequist): también tiene
 charca iluminada, con el bar y el restaurante asomados a ella
 (<https://onguma.com/>) — mismas recetas, y con la ventaja de que allí no te

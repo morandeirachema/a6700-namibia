@@ -112,7 +112,7 @@ nocturno: [edición](../campo/edicion-basica.md).
   [paisaje a fondo](../mejora/paisaje-a-fondo.md)); con el angular, un
   primer plano de rocas y el vacío detrás. Y de noche, el estreno del
   11 mm ([las noches, día a día](../plan/mejores-horas.md)).
-- **De Swakopmund a Terrace Bay (días 5–7), la Costa de los Esqueletos**:
+- **De Swakopmund a Terrace Bay (días 6–7), la Costa de los Esqueletos**:
   - **Cape Cross**: decenas de miles de lobos marinos — llega preparado
     para el olor y el ruido. Receta de fauna diurna con tele, agáchate a su
     altura en la pasarela, y busca el caos gráfico: la colonia entera como

@@ -12,7 +12,8 @@ puzle: el plan noche a noche con la luna está en
 Por qué tu ventana es excepcional: cielos **Bortle 1–2**, luna nueva el
 **9 de noviembre**, y el cielo austral de principios de verano — las Nubes de
 Magallanes en su mejor mes. La oscuridad total va de ~20:25 a ~04:55
-(~21:15 en adelante los últimos días, cuando la creciente se pone).
+(del 11 en adelante, desde que se pone la creciente: ~21:15 el 11, ~22:05
+el 12 y ~23:00 el 13).
 
 ## La ventana en tres bloques
 
@@ -20,18 +21,20 @@ Magallanes en su mejor mes. La oscuridad total va de ~20:25 a ~04:55
 |---|---|---|
 | **31 oct – 4 nov** | Menguante (~60 % → ~27 %), sale de madrugada | Anocheceres totalmente oscuros: núcleo, luz zodiacal y Nubes; la madrugada, con luna |
 | **5 – 10 nov** | De ~19 % a **nueva (día 9)** | Las noches gordas: oscuridad de punta a punta — todo el catálogo disponible |
-| **11 – 14 nov** | Creciente fina vespertina, se pone 1–2 h tras el sol | Foto de la creciente al anochecer y cielo negro desde ~21:00–21:30 |
+| **11 – 14 nov** | Creciente fina vespertina, se pone de 2 a 4 h tras el sol | Foto de la creciente al anochecer y cielo negro desde ~21:15 (el 11) hasta ~23:00 (el 13) |
 
 (La noche del 31, en Windhoek con jet lag, es de dormir — pero si te asomas,
 el anochecer ya es sin luna.)
 
 ## El catálogo, objetivo a objetivo
 
-### 1 · El núcleo de la Vía Láctea, tumbado al anochecer — solo hasta el 9
+### 1 · El núcleo de la Vía Láctea, tumbado al anochecer — solo hasta el 10
 
-- **Cuándo**: del 31 oct al 9 nov, los **45–75 primeros minutos** de
-  oscuridad (desde ~20:25); se pone hacia las 22:30. A partir del ~10, la
-  creciente ocupa ese cielo: se acabó por este año.
+- **Cuándo**: del 31 oct al 10 nov, los **45–75 primeros minutos** de
+  oscuridad (desde ~20:25); se pone hacia las 22:30. El 10 la luna ya se ha
+  puesto (~20:20) antes de que oscurezca del todo; a partir del 11, la
+  creciente comparte ese cielo hasta que se pone (~21:10 el 11, ~22:00 el
+  12): se acabó por este año.
 - **Dónde**: bajo, al **oeste-suroeste**, en diagonal sobre el horizonte.
 - **Con qué**: a6700 + el 11 mm + trípode.
 - **Receta**: la estándar (20 s · f/1.8 · ISO 1600–3200 · WB 3900 K), y como

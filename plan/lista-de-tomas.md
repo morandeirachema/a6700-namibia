@@ -31,7 +31,7 @@ reportaje y no con un carrete de pruebas.
    ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)).
 8. **Vía Láctea con silueta** en noche sin luna
    ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) — en tu noviembre,
-   solo al anochecer del 1 al 9 y baja al OSO; el plan A del cielo son las
+   solo al anochecer del 1 al 10 y baja al OSO; el plan A del cielo son las
    **Nubes de Magallanes** ([la mirada](../mejora/la-mirada.md)).
 9. **Star trails** girando sobre un primer plano (mismo capítulo).
 

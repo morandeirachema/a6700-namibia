@@ -42,17 +42,18 @@ La luz decide la charca. Con fuentes de fotógrafos que las trabajan:
 | Mediodía (calor) | Cualquier charca abierta: en noviembre el calor **obliga** a beber a todas horas — elefantes, cebras y jirafas en pleno día | Congregación por sed; luz dura → clave alta B/N (abajo) |
 | Tarde | **Okondeka** (borde del pan: animales contra el vacío blanco, y manada de leones residente emboscando), **Gemsbokvlakte**, **Goas** (leones 16:00–18:00) | Mejor luz de tarde documentada |
 | Última hora | Vuelta hacia el campamento con margen; **Klein Namutoni y Namutoni a contraluz = siluetas** | Puertas cierran con el sol (~19:05) |
-| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; y la última noche, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 4](../a6700/04-safari-nocturno-charcas.md) |
+| Noche | Mirador de **Okaukuejo**: rinos negros 21:00–24:00 casi garantizados; **Moringa** (Halali) para rino/hiena/leopardo al anochecer; **King Nehale**, junto al fuerte de Namutoni; y la última noche de safari, la charca iluminada de **Onguma Tamboti**, ya fuera del parque | [Capítulo 4](../a6700/04-safari-nocturno-charcas.md) |
 
 - **Kalkheuwel** aparece citada como "la mejor charca para muchos
   fotógrafos" (mopane, elefantes, jirafas, rapaces): métela en ruta.
 - Espía las charcas antes del viaje: hay **webcam en directo de la charca de
   Okaukuejo** (busca "Okaukuejo waterhole live cam") — sirve para calibrar
   expectativas y horas.
-- Y el consejo de reserva que se deduce de toda esta guía: **duerme en
-  Okaukuejo las noches clave** — la charca de los rinos queda a un paseo de
-  tu cama, y en noviembre ya es temporada baja (más fácil y más barato).
-  Reservas: <https://www.nwr.com.na/>
+- Y el consejo de reserva que se deduce de toda esta guía: tu única noche en
+  Okaukuejo (el 9, con luna nueva) es **la noche clave** — la charca de los
+  rinos queda a un paseo de tu cama. Si el itinerario aún admite cambios,
+  una segunda noche allí es lo que más rinde; en noviembre ya es temporada
+  baja (más fácil y más barato). Reservas: <https://www.nwr.com.na/>
 
 ## Comportamiento que puedes anticipar (= fotos que puedes esperar)
 
@@ -80,7 +81,7 @@ La lista completa, especie por especie y con los ajustes de cada una:
 1. **Los días antes de la primera tormenta gorda valen doble.** Hasta que
    rompan las lluvias, las charcas concentran caza mayor a niveles de
    temporada alta; tras la primera lluvia general, la fauna se dispersa **en
-   días**. Traducción: exprime las charcas desde el día 1 — no "ya iré".
+   días**. Traducción: exprime las charcas desde tu primer día en Etosha (el 9) — no "ya iré".
 2. **La tormenta es un regalo fotográfico**: nubes negras + luz lateral
    sobre la sabana ("storm light"), atardeceres vívidos y, si llueve, olor a
    tierra y polvo asentado. Subexpón −2/3 y busca fauna contra ese cielo

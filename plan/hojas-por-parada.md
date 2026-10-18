@@ -243,8 +243,11 @@ mañana, con puntualidad de reloj. **Chudop** al amanecer, para reflejos.
 **Encuadres**: 2 (el impala), 5 (reflejo), 9 (gangas en vuelo), 4 (siluetas
 del ocaso).
 
-**La noche — Táuridas y cielo**:
-- Serie larga de **star trails** con la muralla blanca del fuerte de silueta.
+**La noche — charca, Táuridas y cielo**:
+- Al anochecer, la charca **King Nehale**, iluminada junto al fuerte: la
+  receta de charca de siempre. La luna (~4 %) se pone hacia las 21:10.
+- Después, serie larga de **star trails** con la muralla blanca del fuerte
+  de silueta.
 - El polo sur queda a solo ~19° sobre el sur: cabe de sobra con el fuerte
   debajo. Encuadre 17.
 - Deja la serie corriendo: caza bólidos ella sola.
@@ -268,7 +271,8 @@ horarios que dentro de Etosha.
 **La noche — el gran nocturno**:
 - Charca iluminada al anochecer.
 - Y después, **lo que falte de la lista**: panorámica, Nubes con silueta,
-  star trails. Es tu última noche de cielo oscuro.
+  star trails. Es tu última noche de cielo oscuro, y empieza cuando se pone
+  la luna (~9 %), hacia las 22:00.
 - Repasa la [lista de tomas](lista-de-tomas.md) y ataca lo que quede en rojo.
 
 **Si sale mal**: no hay "si sale mal". Es la noche de recuperar lo que

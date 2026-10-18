@@ -79,7 +79,7 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 
 | Guía | Qué resuelve |
 |---|---|
-| 🕐 [Las mejores horas](plan/mejores-horas.md) | El día de safari hora a hora, la fauna con horario y las noches del 1 al 15 de noviembre |
+| 🕐 [Las mejores horas](plan/mejores-horas.md) | El día de safari hora a hora, la fauna con horario y las noches del 1 al 14 de noviembre |
 | 🌌 [El cielo del viaje](plan/cielo-del-viaje.md) | El catálogo astro completo de la quincena y el plan **noche a noche** del itinerario real |
 | 🏆 [Las fotos icónicas de Namibia](plan/fotos-iconicas-namibia.md) | Qué postales caen en tu ruta, cuáles no y por qué, con el sustituto de cada una |
 | 🗺️ [Hojas por parada](plan/hojas-por-parada.md) | Las doce paradas del itinerario, una ficha cada una: fauna, foto del día, horas, encuadres y la noche |

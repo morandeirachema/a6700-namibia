@@ -99,7 +99,7 @@ la a6700, porque **no te necesita**:
 2. Abre la cámara → **Visión Nocturna**, zoom **1x** (el modo astro no
    funciona en 0.5x: pide 1x o más). Encuadra las **Nubes de Magallanes** con
    la silueta de un árbol o la tienda ([el cielo del viaje](../plan/cielo-del-viaje.md)),
-   o el núcleo bajo al oeste-suroeste del 1 al 9.
+   o el núcleo bajo al oeste-suroeste del 1 al 10.
 3. Apóyalo **quieto** contra una piedra, el bean bag o un mini trípode
    (10–15 €): en cuanto está estable, el disparador cambia solo a
    **Astrofotografía**. Si no cambia, desliza el control de Visión Nocturna

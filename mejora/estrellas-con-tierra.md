@@ -282,7 +282,7 @@ Y la dirección decide el dibujo:
 
 ## En el viaje: las dos en la misma noche
 
-En las noches gordas de Etosha (7–12 nov) caben ambas sin conflicto:
+En las noches gordas de Etosha (9–12 nov) caben ambas sin conflicto:
 **postal primero** (20:25–22:00, con las Nubes y el núcleo servidos), luego
 recolocas el trípode al sur, lanzas la serie de círculos **y te vas** — a la
 charca de los rinos o a la cama. El reparto exacto por noche está en
@@ -292,14 +292,14 @@ apuntando a otra parte del cielo ([su guía](../tecnica/pixel-10-pro.md)).
 
 ## Nivel avanzado — cuando las tres noches ya salgan solas
 
-### El plan de la noche completa (1–9 de noviembre)
+### El plan de la noche completa (1–10 de noviembre)
 
 | Hora | Objetivo | Cómo |
 |---|---|---|
 | 20:25–21:30 | **Núcleo bajo al OSO** (+26° y bajando) + cola de la **luz zodiacal** en el mismo cielo | Panorámica de 3–4 verticales solapadas 30 %, o banda diagonal con silueta |
 | 21:30–23:00 | **Nubes de Magallanes** altas al sur | 15–20 tomas apiladas, 20 s · f/1.8 · ISO 1600–3200 |
 | 23:00 en adelante | **Banda de Orión–Carina** subiendo por el este; Saturno culminando | Mismos ajustes; Saturno como "estrella" ancla de composición |
-| Toda la noche | **Star trails** centrados en el polo (~19° sur) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
+| Toda la noche | **Star trails** centrados en el polo (a ~19–24° de altura, según la parada) | Triángulo de las Nubes o AR; serie de 90–180 tomas que además caza bólidos de las Táuridas |
 | Alba del 14 | **Conjunción Júpiter–Marte** al este | El zoom corto o el 11 mm con paisaje, en el crepúsculo |
 
 ### Técnica fina
