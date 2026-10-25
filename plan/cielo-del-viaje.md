@@ -19,8 +19,8 @@ el 12 y ~23:00 el 13).
 
 | Noches | La luna | Qué mandan |
 |---|---|---|
-| **31 oct – 4 nov** | Menguante (~60 % → ~27 %), sale de madrugada | Anocheceres totalmente oscuros: núcleo, luz zodiacal y Nubes; la madrugada, con luna |
-| **5 – 10 nov** | De ~19 % a **nueva (día 9)** | Las noches gordas: oscuridad de punta a punta — todo el catálogo disponible |
+| **31 oct – 4 nov** | Menguante (~66 % → ~23 %), sale de madrugada (00:50 el 1 → 03:30 el 5) | Anocheceres totalmente oscuros: núcleo, luz zodiacal y Nubes; la madrugada, con luna |
+| **5 – 10 nov** | De ~15 % a **nueva (día 9, 09:02 hora de Namibia)** | Las noches gordas: oscuridad de punta a punta — todo el catálogo disponible |
 | **11 – 14 nov** | Creciente fina vespertina, se pone de 2 a 4 h tras el sol | Foto de la creciente al anochecer y cielo negro desde ~21:15 (el 11) hasta ~23:00 (el 13) |
 
 (La noche del 31, en Windhoek con jet lag, es de dormir — pero si te asomas,
@@ -30,11 +30,30 @@ el anochecer ya es sin luna.)
 
 ### 1 · El núcleo de la Vía Láctea, tumbado al anochecer — solo hasta el 10
 
-- **Cuándo**: del 31 oct al 10 nov, los **45–75 primeros minutos** de
-  oscuridad (desde ~20:25); se pone hacia las 22:30. El 10 la luna ya se ha
-  puesto (~20:20) antes de que oscurezca del todo; a partir del 11, la
-  creciente comparte ese cielo hasta que se pone (~21:10 el 11, ~22:00 el
-  12): se acabó por este año.
+- **Cuándo**: del 31 oct al 10 nov, al caer la oscuridad (~20:25–20:40), y
+  **cada noche dura menos**: el núcleo arranca más bajo y se hunde antes. Los
+  45–75 minutos de la chuleta son la media; noche a noche (cálculo con los
+  datos del USNO, en tu parada de cada noche):
+
+  | Noche | Parada | Núcleo al oscurecer | Por encima de 15° hasta | De 10°, hasta |
+  |---|---|---|---|---|
+  | 1 nov | Spreetshoogte | **30°** | 21:39 | 22:03 |
+  | 3 nov | Sesriem | 27° | 21:34 | 21:59 |
+  | 5 nov | Walvis Bay | 25° | 21:28 | 21:52 |
+  | 8 nov | Hoada | 23° | 21:10 | 21:33 |
+  | 9 nov | Okaukuejo | 22° | 20:59 | 21:23 |
+  | 10 nov | Halali | 21° | 20:53 | 21:16 |
+
+  Traducido: **las noches del núcleo son las primeras** (Spreetshoogte y
+  Sesriem, hora y media larga de trabajo); en Etosha te queda **media hora
+  buena**, así que el trípode va montado y compuesto **antes** de que
+  oscurezca. Truco para ganar altura: empieza a disparar en el último
+  crepúsculo (~20:00–20:25), con el cielo aún azul marino: el núcleo está
+  más alto y la silueta sale con algo de cielo detrás. Toca el horizonte
+  entre ~22:45 (1 nov) y ~22:00 (10 nov), pero por debajo de 10° ya no da
+  foto. El 10 la luna ya se ha puesto (20:21) antes de que oscurezca del
+  todo; el 11 la creciente (4 %) se pone a las 21:12 y el núcleo ya solo
+  sube 20°: se acabó por este año.
 - **Dónde**: bajo, al **oeste-suroeste**, en diagonal sobre el horizonte.
 - **Con qué**: a6700 + el 11 mm + trípode.
 - **Receta**: la estándar (20 s · f/1.8 · ISO 1600–3200 · WB 3900 K), y como
@@ -106,8 +125,8 @@ el anochecer ya es sin luna.)
   apilado en StarStaX ([edición](../campo/edicion-basica.md)). Componer el remolino
   sobre un objeto — dirección, margen, la tierra durante la serie — está a
   fondo en [Estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md).
-- **Ojo**: la Cruz del Sur **no está** en tus anocheceres (vuelve de
-  madrugada, baja al sureste antes del alba).
+- **Ojo**: la Cruz del Sur **no está** en tus anocheceres: vuelve de
+  madrugada, por el sur-sureste (la nº 7b del catálogo).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_trails_over_La_Silla_%28eso_la_silla-cc%29.jpg/1280px-Star_trails_over_La_Silla_%28eso_la_silla-cc%29.jpg" alt="Círculos de estrellas girando alrededor del polo sur celeste" width="100%">
 
@@ -130,6 +149,24 @@ el anochecer ya es sin luna.)
   Canopus de faros y Orión "cabeza abajo".
 - **Receta**: la estándar de Vía Láctea; funciona muy bien de segundo plato
   cuando el núcleo ya se fue.
+
+### 7b · La Vía Láctea austral del alba — Carina y la Cruz del Sur (6–13 nov)
+
+- **Cuándo**: la hora antes del alba, **03:30–04:30**, del 6 al 13 de
+  noviembre. Antes del 6 la menguante sale de madrugada y estorba (el 5 sale
+  a las 04:10); a partir del 6 sale ya con el crepúsculo o de día, y la
+  madrugada es negra hasta el alba (~04:50).
+- **Dónde**: al **sur-sureste**. A las 04:15, la nebulosa de Carina a ~30°
+  y la **Cruz del Sur a ~18°**, con el Saco de Carbón (la mancha negra junto a
+  la Cruz) y la Nube Grande de Magallanes alta en el mismo lado: la parte
+  **más brillante** de la Vía Láctea austral, que en tus anocheceres está
+  bajo el horizonte.
+- **Con qué y receta**: la estándar (20 s · f/1.8 · ISO 1600–3200 ·
+  WB 3900 K), vertical, con la Cruz en el tercio bajo.
+- **Dónde encaja**: en Etosha (9–11 nov) duermes **dentro** del campamento:
+  despertador a las 03:45, cinco minutos andando hasta el rincón oscuro de la
+  valla y de vuelta a la cama antes de que abran las puertas. Es la foto de
+  la quincena que casi nadie hace porque nadie se levanta.
 
 ### 8 · La Luna como sujeto (los extremos de la quincena)
 
@@ -230,3 +267,4 @@ foco no depende del cielo ([capítulo 4](../a6700/04-safari-nocturno-charcas.md)
 - Calendario de lluvias de meteoros (AMS): <https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/>
 - Pases de la ISS y satélites brillantes: <https://www.heavens-above.com/>
 - Horas de sol y luna por fecha y lugar: <https://www.timeanddate.com/>
+- Datos de sol, luna y fases del USNO (los de las tablas de esta página): <https://aa.usno.navy.mil/data/>

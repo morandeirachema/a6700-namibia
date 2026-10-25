@@ -122,11 +122,11 @@ PhotoPills):
 
 | Noche | Duermes en | Luna (aprox.) | Ventana oscura | El plan |
 |---|---|---|---|---|
-| dom 1 | Spreetshoogte | Menguante ~50 %, sale de madrugada | ~20:30 → salida de la luna | Estreno del 11 mm: núcleo al anochecer sobre la escarpa |
+| dom 1 | Spreetshoogte | Menguante ~55 %, sale de madrugada (01:41) | ~20:30 → salida de la luna | Estreno del 11 mm: núcleo al anochecer sobre la escarpa |
 | lun 2 | Spreetshoogte | ~42 % | ~20:30 → madrugada | Día sin volante: repite la toma de anoche corrigiendo errores |
 | mar 3 | Sesriem | ~34 % | ~20:35 → madrugada | Cielo del desierto — pero acuéstate pronto: el 4 se madruga (~05:10) |
-| mié 4 | Sesriem | ~27 %, colgada al alba | La foto es al amanecer | La menguante sobre las dunas en el amanecer de Deadvlei |
-| jue 5 | Walvis Bay | ~19 % | Si la niebla respeta | Costa: cielo poco fiable — prioriza dormir |
+| mié 4 | Sesriem | ~23 %, colgada al alba | La foto es al amanecer | La menguante sobre las dunas en el amanecer de Deadvlei |
+| jue 5 | Walvis Bay | ~15 % | Si la niebla respeta | Costa: cielo poco fiable — prioriza dormir |
 | vie 6 | Walvis Bay | ~11 % | Si la niebla respeta | La niebla del Benguela es frecuente: plan B bajo techo |
 | sáb 7 | Terrace Bay | ~5 % | Si la niebla respeta | Ídem, y al día siguiente hay paliza de grava |
 | dom 8 | Hoada | ~2 % | ~20:30 → 04:55, casi entera | Granito + cielo sin luna: el ensayo general de Etosha |
