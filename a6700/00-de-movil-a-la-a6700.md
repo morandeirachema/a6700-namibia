@@ -83,10 +83,10 @@ pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
   minutos sin voz, con sonido ambiente y música— tiene
   [su guía](../tecnica/video-del-viaje.md).
 - **Tres ruedas**: la delantera (junto al disparador), la trasera superior y
-  la rueda de control del respaldo. En M, dos llevan obturación y apertura y
-  la tercera queda libre; haz una foto de prueba para ver el reparto y, si no
-  te convence, se cambia en `MENU → Ajustes → [Personal. operac.]`
-  ([capítulo 0.5](00b-menus-y-primer-dia.md)).
+  la rueda de control del respaldo. En M, de fábrica, la **delantera mueve
+  la apertura** y la **trasera la obturación**; este repo las intercambia
+  (obturación en la delantera, que es la que tocas en el safari) en dos
+  minutos: [diales y botones](00c-diales-y-botones.md).
 - **El ISO**: flecha derecha de la rueda de control. Con ISO Auto no lo tocas.
 - **La compensación de exposición**: flecha **inferior** de la rueda de
   control (su sitio de serie). La usarás a diario — y funciona en todos los

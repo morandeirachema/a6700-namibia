@@ -159,7 +159,10 @@ sombras. A partir de ahí, cada escenario tiene su forma "buena".
 
 ## Cómo verlo en la a6700
 
-En revisión (▶), botón DISP hasta la vista con histograma. Y la ventaja de
+En revisión (▶), botón DISP hasta la vista con histograma. Ahí, además,
+**las zonas quemadas o empastadas parpadean** sobre la foto (la advertencia
+de sobrexposición/subexposición de Sony): si parpadea algo que debía tener
+detalle, la siguiente con −0,3. Y la ventaja de
 esta cámara: el **histograma en vivo** — pulsa DISP mientras encuadras y la
 gráfica aparece en el visor o la pantalla **antes** de disparar, con la
 exposición real que va a salir (salvo de noche con exposiciones largas: ahí

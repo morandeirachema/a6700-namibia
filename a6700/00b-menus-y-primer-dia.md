@@ -3,7 +3,8 @@
 > 🟢 **Iniciación** · Da por sabido: nada (mejor con el capítulo 0 leído) · Te desbloquea: moverte por la cámara sin buscar a ciegas.
 
 El capítulo 0 te explica **qué** poner y el capítulo 1 **qué dejar
-guardado**; los dos dan por sabido algo que nadie te ha contado: **cómo se
+guardado** (y [diales y botones](00c-diales-y-botones.md), cómo manejarlo
+sin mirar); los dos dan por sabido algo que nadie te ha contado: **cómo se
 mueve uno por esta cámara**. Cuando una guía dice "en el menú de
 personalización" o "mételo en Mi Menú", eso es un muro si vienes del móvil,
 donde todo eran tres pantallas de ajustes. Aquí está el mapa: la cámara
@@ -32,7 +33,7 @@ nada más hoy**: eso es el capítulo 1.
 4. **Enciende y responde a la configuración inicial**: idioma, y si te
    ofrece emparejar el móvil, puedes saltarlo (lo harás luego con
    Creators' App, [apps](../referencia/apps-del-viaje.md)).
-5. **Idioma, si quedó en inglés**: `MENU → Ajustes → [Idioma]`.
+5. **Idioma, si quedó en inglés**: `MENU → Ajustes → [Área/fecha] → [Idioma]`.
 6. **Fecha, hora y zona**:
    `MENU → Ajustes → [Área/fecha] → [Aj. área/fecha/hora]`. Ahora en hora
    de casa; **el día que aterrices, cámbialo a hora de Namibia** — ordenar
@@ -57,15 +58,16 @@ nada más hoy**: eso es el capítulo 1.
 |---|---|---|
 | **Dial de modos** | Arriba a la derecha | A, S, M y las memorias 1/2/3 |
 | **Selector Foto / Vídeo / S&Q** | Anillo bajo el dial de modos | Cambia entre foto, vídeo y cámara lenta. El vídeo lleva **sus propios ajustes** si marcas las casillas de `Ajust dif imgs fij/víd` ([capítulo 1](01-configuracion-basica.md)) |
-| **Dial delantero** | Junto al disparador | En M, uno de los dos números (obturación o apertura) |
-| **Dial trasero** | Arriba, bajo el pulgar | El otro número |
-| **Rueda de control** | La rueda grande del respaldo | Navega por los menús; sus cuatro flechas son atajos (**derecha: ISO**, **abajo: compensación de exposición**) y el centro es "aceptar" |
+| **Dial delantero** | Delante, bajo el disparador | En M, de fábrica, la **apertura**; el repo lo cambia a **obturación** ([diales y botones](00c-diales-y-botones.md)) |
+| **Dial trasero** | Arriba a la derecha, bajo el pulgar | El otro número |
+| **Rueda de control** | La rueda grande del respaldo | Navega por los menús; sus cuatro flechas son atajos (**arriba: DISP**, **derecha: ISO**, **abajo: compensación de exposición**, **izquierda: modo de manejo** — ráfaga y temporizador) y el centro es "aceptar" |
 | **MENU** | Arriba a la izquierda del respaldo | Abre el menú. Y **es también el "atrás"** y el "salir" |
 | **Fn** | Respaldo, a la derecha | La pantalla rápida de **12 ajustes** del día a día |
 | **AF-ON** | Respaldo, bajo el pulgar | Enfocar con el pulgar (el gran ajuste del [capítulo 1](01-configuracion-basica.md)) |
-| **C1, C2, C3** | C1 y C2 arriba; **C3** abajo a la derecha | Botones personalizables. **C3 hace de papelera en reproducción** |
+| **C1, C2, C3** | **C1** en la esquina trasera derecha, junto al enganche de la correa; **C2** arriba, delante del dial de modos; **C3** abajo a la derecha | Botones personalizables. C2 trae `Área de enfoque`. **C3 hace de papelera en reproducción y de Guía en la cámara en el menú** |
 | **▶ (reproducción)** | Respaldo, abajo | Ver lo que has hecho |
 | **DISP** | Flecha superior de la rueda | Cambia qué información se ve encima de la imagen (aquí vive **el histograma**) |
+| **MOVIE** | Arriba, junto a C2 | Graba vídeo, incluso con el selector en Foto |
 | **Ruedecita de dioptrías** | Pegada al visor | Enfocar **tu ojo**, no la foto |
 | **Pantalla táctil** | — | Toca al animal para engancharle el foco; y el menú también se maneja tocando |
 
@@ -101,9 +103,9 @@ Y cuatro cosas que ahorran mucha desesperación:
   el selector en Vídeo (o al revés). Comprueba primero **en qué modo
   estás**.
 - **La Guía en la cámara**: la a6700 puede **explicarte en pantalla el
-  ajuste que tienes seleccionado**. Está en la lista de funciones
-  asignables a un botón (abajo) — si te vas a llevar un botón libre a
-  cualquier sitio, que sea este durante el aprendizaje.
+  ajuste que tienes seleccionado**. Selecciona la línea del menú (o la
+  casilla del Fn) y pulsa **C3**, el botón de la papelera. No hay que
+  configurar nada: viene así.
 
 ### Cómo leer las rutas de este repo
 
@@ -120,14 +122,14 @@ ajuste y con los valores de fauna y de noche, está en
 | Lo que quieres | Ruta |
 |---|---|
 | Obturador silencioso (charca) | `MENU → Toma → [Obturad./silenc.] → [Tipo de obturador] → Obturad. electr.` |
-| Intervalómetro (star trails, timelapse) | `MENU → Toma → [Func. capt. interv.]` |
+| Intervalómetro (star trails, timelapse) | `MENU → Toma → [Modo de manejo] → [Func. capt. interv.]` |
 | Formatear la tarjeta | `MENU → Toma → [Soporte] → [Formatear]` |
 | Quitar el AF del disparador | `MENU → Enfoque → [AF/MF] → [AF c/obturador] → Desactivar` |
 | Reconocimiento de sujeto (Animal/Ave) | `MENU → Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` |
 | Guardar una memoria MR | `MENU → Toma → [Modo de toma] → [Mem. ajustes cám] → 1, 2 o 3` |
 | Cambiar los 12 iconos del Fn | `MENU → Ajustes → [Personal. operac.] → [Ajustes del menú Fn]` |
 | Reasignar un botón | `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` |
-| Idioma · fecha y hora | `MENU → Ajustes → [Idioma]` · `MENU → Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` |
+| Idioma · fecha y hora | `MENU → Ajustes → [Área/fecha] → [Idioma]` · `MENU → Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` |
 | Volver a empezar | `MENU → Ajustes → [Rest/guard ajust] → [Restablecer ajuste]` |
 
 ## El botón Fn: tu pantalla de todos los días
@@ -172,13 +174,16 @@ lista de botones (C1, C2, C3, AF-ON, los del objetivo…), eliges uno y le
 asignas una función. Se guarda **por separado** para foto, vídeo y
 reproducción.
 
-Los dos que cambian el viaje:
+Los tres cambios del viaje (el porqué y el paso a paso, en
+[diales y botones](00c-diales-y-botones.md)):
 
-- **`Verificac. luminosa`** (*Bright Monitoring*) a C1 — amplifica la pantalla en plena
-  oscuridad para **componer la Vía Láctea viéndola**
-  ([capítulo 2](02-astrofotografia-namibia.md)).
-- **Guía en la cámara** a C2 mientras aprendes: te explica en pantalla el
-  ajuste que tengas delante, y la quitas cuando ya no la necesites.
+- **Los dos diales intercambiados**: de fábrica el delantero mueve la
+  apertura en M; el repo lo quiere en la **obturación**.
+- **`Verificac. luminosa`** (*Bright Monitoring*) a **C1** — amplifica la
+  pantalla en plena oscuridad para **componer la Vía Láctea viéndola**
+  ([capítulo 2](02-astrofotografia-namibia.md)). Solo funciona en MF.
+- **`Amplific. enfoque`** (la lupa) a **C3**: enfocar una estrella sin
+  entrar al menú. C2 se queda con `Área de enfoque`, como viene.
 
 Los botones de retención de foco del 11 mm y del 70-350 también son
 reasignables desde aquí — a un novato le renta dejarlos como vienen.
@@ -314,6 +319,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 
 | Problema | Es… | Haces… |
 |---|---|---|
+| Giro el dial delantero y se mueve la apertura | Es el reparto de fábrica | Intercámbialos: [diales y botones](00c-diales-y-botones.md), paso 1 |
 | "Ese ajuste no existe en mi cámara" | El selector **Foto / Vídeo / S&Q** está en otro modo: el menú cambia con él | Pon el selector en Foto y vuelve a buscar |
 | No encuentro un ajuste corriente | Está en el **Fn** casi seguro | Pulsa Fn antes de bucear en el menú |
 | Me pierdo cada vez que entro al menú | No has hecho tu **Mi Menú** | Diez minutos hoy, y `[Mostrar de Mi Menú] → Activar` |
@@ -321,7 +327,7 @@ capítulo 1 desde cero y la guardas sabiendo exactamente qué hay dentro.
 | No enfoca nada de repente | El interruptor **AF/MF** del objetivo se movió en la mochila | Ponlo en AF (lo llevan los dos objetivos) |
 | El visor se ve borroso pero las fotos salen nítidas | **Dioptrías** | La ruedecita del visor, hasta ver nítidos los números |
 | El visor no se enciende al acercar el ojo | La pantalla desplegada desactiva el sensor de ojo | Pliégala contra el cuerpo |
-| El menú está en inglés | — | `MENU → Ajustes → [Idioma]`, y la tabla ES/EN del [capítulo 1](01-configuracion-basica.md) |
+| El menú está en inglés | — | `MENU → Ajustes → [Área/fecha] → [Idioma]`, y la tabla ES/EN del [capítulo 1](01-configuracion-basica.md) |
 | Toqué cuarenta cosas y ya no sé qué tengo puesto | — | **Reponer ajustes de cámara** (arriba). No borra fotos |
 | Un mensaje de error raro en pantalla | Sony los tiene documentados uno a uno | La página de mensajes de aviso, en Referencias |
 

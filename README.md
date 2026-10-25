@@ -41,7 +41,9 @@ Cada guía lleva su nivel en la primera línea, con **qué da por sabido** y
 |---|---|
 | [**0 · Del móvil a la a6700**](a6700/00-de-movil-a-la-a6700.md) | Los 3 números, las ruedas, el visor, RAW, los errores típicos y **7 tardes de deberes** |
 | [**0.5 · Los menús, los botones y el primer día**](a6700/00b-menus-y-primer-dia.md) | De la caja a la primera foto, el mapa del menú, el Fn, Mi Menú, revisar al 100 % y cómo deshacerlo todo |
+| 🎛️ [**0.7 · Los diales y los botones**](a6700/00c-diales-y-botones.md) | Qué hace cada mando en cada situación, **la botonera del viaje** (y por qué hay que intercambiar los diales), el Fn, el táctil, el bloqueo y la noche sin luz |
 | ⚙️ [**Todos los ajustes, con su ruta de menú**](referencia/ajustes-a6700.md) | La referencia única: cada ajuste del viaje con su ruta exacta, el valor para fauna y el valor para noche, y el mapa del menú dibujado |
+| 📖 [**El menú completo**](referencia/menu-completo.md) | Las ocho pestañas línea a línea, también lo que no toca este viaje: qué hace cada ajuste, tu valor, y las 15 líneas que hay que cambiar sí o sí |
 | [Glosario](referencia/glosario.md) | Todas las palabras raras del repo, en una línea cada una |
 | [El histograma por escenario](referencia/histograma.md) | Juzgar la exposición sin fiarte de la pantalla, dibujado |
 | [Las apps del viaje](referencia/apps-del-viaje.md) | PhotoPills, Stellarium, Creators' App y mapas offline, paso a paso |
@@ -138,7 +140,7 @@ método completo —la criba de tres, las causas de una palabra— está en
 - [Entrenamiento de safari](mejora/safari-a-fondo.md) · [de paisaje](mejora/paisaje-a-fondo.md) · [de vídeo](tecnica/video-del-viaje.md) — una tarde por tema
 - [El AF a fondo](mejora/af-y-exposicion-a-fondo.md) (una tarde con un perro tras una valla) · [las cuatro noches en una](tecnica/fotografia-nocturna.md) (una noche en tu ciudad) · [la duna de tu ciudad](tecnica/paisaje-namibia.md) (un día, tres horas)
 - [Las dos tardes del atlas de encuadres](tecnica/atlas-de-encuadres.md) — el repertorio, con lo que haya en tu ciudad
-- [Configurar la cámara](a6700/01-configuracion-basica.md) (una tarde) · [las apps en modo avión](referencia/apps-del-viaje.md) (una tarde con wifi) · [la limpieza cronometrada](campo/limpieza-en-campo.md) (20 min)
+- [La botonera a ciegas](a6700/00c-diales-y-botones.md) (una tarde) · [el repaso del menú](referencia/menu-completo.md) (una tarde) · [Configurar la cámara](a6700/01-configuracion-basica.md) (una tarde) · [las apps en modo avión](referencia/apps-del-viaje.md) (una tarde con wifi) · [la limpieza cronometrada](campo/limpieza-en-campo.md) (20 min)
 - [Las tres noches de estrellas](mejora/estrellas-con-tierra.md) — la escalera astro completa
 - **[Los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)** — lo que se puede practicar ya, sin el tele
 - **[Los 20 ejercicios de composición](plan/cuaderno-de-composicion.md)**, en escalera y con criterio de aprobado
@@ -169,7 +171,8 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 - 🎒 *Ya tengo la cámara y el 11 mm, ¿qué hago hoy?* → **[los 29 ejercicios del 11 mm](plan/ejercicios-11mm.md)**: lo que se puede entrenar sin el teleobjetivo, que es casi todo.
 - 📵 *El tele falla o no está a mano* → [el Pixel de día](tecnica/pixel-10-pro-de-dia.md): hasta dónde llega el móvil como tele y qué fotos persigues con él.
 - 🐣 *Nunca he manejado una cámara en serio* → [capítulo 0](a6700/00-de-movil-a-la-a6700.md), 10 minutos.
-- 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md).
+- 📦 *La cámara acaba de llegar y no sé ni cómo van los menús* → [capítulo 0.5](a6700/00b-menus-y-primer-dia.md), y luego [los diales y los botones](a6700/00c-diales-y-botones.md).
+- 🔎 *¿Qué es esta línea del menú?* → [el menú completo](referencia/menu-completo.md), o selecciónala y pulsa **C3**.
 - 🤔 *Me he perdido con una palabra* → [el glosario](referencia/glosario.md).
 - 📅 *Tengo semanas por delante* → [el plan de entrenamiento](plan/plan-de-entrenamiento.md).
 - ✈️ *Salgo pronto* → imprime [las seis hojas de campo](#para-imprimir).
@@ -179,11 +182,11 @@ regenera su PDF**: `./pdf/generar.sh chuleta`.
 ## 🗂️ Cómo está organizado
 
 ```
-a6700/       la cámara: capítulos 0 a 5 + las dos hojas de campo
+a6700/       la cámara: capítulos 0, 0.5, 0.7 y 1 a 5 + las dos hojas de campo
 tecnica/     cómo se fotografía cada cosa: fauna, noche, paisaje, vídeo, el móvil
 plan/        qué, dónde y cuándo: horas, cielo, icónicas, lista de tomas, entrenamiento
 campo/       el viaje y la vuelta: logística, limpieza, edición, archivo
-referencia/  consulta rápida: glosario, histograma, balance de blancos, apps
+referencia/  consulta rápida: ajustes, menú completo, glosario, histograma, balance de blancos, apps
 mejora/      nivel avanzado: el porqué, la mirada y las cuatro guías "a fondo"
 pdf/         las hojas de campo maquetadas para A4
 ```

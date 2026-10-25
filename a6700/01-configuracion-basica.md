@@ -34,6 +34,8 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 | `RR exposic. larga` | Desactivar | Duplica el tiempo entre fotos de astro |
 | `RR ISO Alta` | Desactivar/Baja | Solo afecta al JPEG; en RAW lo harás mejor en el ordenador |
 | Señales de audio | OFF | Silencio en charcas y miradores |
+| `Liberar sin tarj. mem.` | **Inhabilitar** | De fábrica la cámara dispara sin tarjeta y no guarda nada |
+| `Iluminador AF` | **Desactivar** | Su luz naranja espanta a los animales de la charca |
 | DRO (optimizador de rango dinámico) | OFF | No toca el RAW, pero maquilla el JPEG y el histograma — engaña justo a lo que usas para exponer |
 | `SteadyShot` | **Activar** | Los dos objetivos son Sony con contactos: la cámara sabe la focal sola (`Ajuste SteadyShot` en Auto). En trípode, **Desactivar** |
 | Efecto de ajustes en visor/pantalla | ON | Ver la exposición real antes de disparar |
@@ -50,6 +52,17 @@ Resultado: enfocas con el pulgar (AF-ON) y disparas con el índice, por
 separado. Para reencuadrar o esperar el momento sin que la cámara reenfoque
 al arbusto, es oro. Practícalo en casa hasta que sea automático.
 
+## Los diales: intercámbialos antes que nada
+
+De fábrica, en M, el **dial delantero mueve la apertura** y el trasero la
+velocidad. Todo este repo dice "obturación = rueda delantera", porque es lo
+que tocas en el safari y el índice es el dedo rápido. Así que:
+`MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` →
+**`Dial frontal` = `Velocidad obturador`** y **`Dial trasero` = `Abertura`**.
+Compruébalo: en M, el delantero mueve la velocidad. La botonera completa
+(C1, C3, el Fn, el bloqueo y el táctil) está en
+[diales y botones](00c-diales-y-botones.md).
+
 ## Otros botones útiles
 
 - **La compensación de exposición, a mano**: de serie vive en la flecha
@@ -60,7 +73,8 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
   ([capítulo 0.5](00b-menus-y-primer-dia.md)).
 - **`Verificac. luminosa` en un botón custom** (*Bright Monitoring* en
   inglés): en `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`,
-  asígnala a C1. No está en ningún menú: solo existe como función de botón.
+  asígnala a C1. No está en ningún menú: solo existe como función de botón,
+  y solo funciona con el enfoque en MF.
   Amplifica la pantalla en plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
   nocturna de esta cámara ([capítulo 2](02-astrofotografia-namibia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
@@ -154,17 +168,19 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 
 1. **Firmware** del cuerpo y de los dos objetivos al día, con todo cargado
-   (el del 70-350, solo si su dueño te ha dicho que sí).
-2. **La tabla de ajustes generales**, uno a uno, con la
+   (el del 70-350 también: su dueño ya dio permiso).
+2. **Los diales intercambiados** (delantero = velocidad) y la botonera de
+   [diales y botones](00c-diales-y-botones.md).
+3. **La tabla de ajustes generales**, uno a uno, con la
    [referencia de ajustes](../referencia/ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
-3. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
+4. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.
-4. **MR1 y MR2 guardadas** y comprobadas: gira el dial a 1 y dicta en voz
+5. **MR1 y MR2 guardadas** y comprobadas: gira el dial a 1 y dicta en voz
    alta los valores del visor; a 2, lo mismo. Deben ser los de la tabla.
-5. **Los cinco de vídeo** puestos (PAL ya está: formatea ahora, en casa) y
+6. **Los cinco de vídeo** puestos (PAL ya está: formatea ahora, en casa) y
    el selector de vuelta a Foto — comprueba que el modo foto no cambió.
-6. Apaga, enciende, y **MR1 → MR2 → MR1 sin mirar** la cámara.
+7. Apaga, enciende, y **MR1 → MR2 → MR1 sin mirar** la cámara.
 
 **Aprobado cuando**: cada valor que dicta el visor coincide con la tabla,
 el cambio de memoria te sale en menos de cinco segundos a ciegas, y no

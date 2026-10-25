@@ -3,7 +3,8 @@
 > 🟢 **Iniciación** · Da por sabido: el [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md) (cómo se navega el menú) · Te desbloquea: dejar de buscar ajustes y saber exactamente dónde está cada uno y qué valor lleva.
 
 El resto del repo te da los valores repartidos por escenario. Esto es la
-**referencia única**: cada ajuste que toca este viaje, con su **ruta exacta
+**referencia única** (y si quieres **el menú entero**, también lo que no
+toca este viaje, está en [el menú completo](menu-completo.md)): cada ajuste que toca este viaje, con su **ruta exacta
 de menú**, el valor para **fauna** y el valor para **noche**, y por qué. Para
 consultar, no para leer de seguido.
 
@@ -37,17 +38,17 @@ Las ocho pestañas, y los grupos que vas a usar de verdad en este viaje:
 ├──────────────────┼──────────────────────────────────────────────┤
 │ ▸ Principal      │  (lista rápida de ajustes de toma)           │
 │ ▸ Toma           │  Calid. img/grab. · Modo de toma             │
-│                  │  Modo de manejo · Obturad./silenc.           │
-│                  │  Func. capt. interv. · Estabiliz. de img     │
-│                  │  Soporte                                     │
+│                  │  Modo de manejo (con Func. capt. interv.)    │
+│                  │  Obturad./silenc. · Estabiliz. de img        │
+│                  │  Soporte · Visualizac. toma                  │
 │ ▸ Exposición/    │  Exposición · Visualizac. cebra              │
-│    color         │  Balance blanco · Medición                   │
+│    color         │  Balance blancos · Medición · Color/tono     │
 │ ▸ Enfoque        │  AF/MF · Área de enfoque · Reconoc. motivo   │
-│                  │  Visualiz. resalte                           │
+│                  │  Asistencia enfoq. · Visualiz. resalte       │
 │ ▸ Reproducc.     │  Aumento · Selección/nota                    │
 │ ▸ Red            │  (emparejar con Creators' App)               │
-│ ▸ Ajustes        │  Personal. operac. · Área/fecha              │
-│                  │  Idioma · Rest/guard ajust                   │
+│ ▸ Ajustes        │  Personal. operac. · Personalizar dial       │
+│                  │  Área/fecha (con Idioma) · Rest/guard ajust  │
 │ ▸ Mi Menú        │  el tuyo, vacío hasta que lo llenes          │
 └──────────────────┴──────────────────────────────────────────────┘
 ```
@@ -67,12 +68,15 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Formato archivo** | `Toma → [Calid. img/grab.] → [Formato archivo]` | **RAW** | Todo el revelado del repo asume RAW |
 | **Tipo archivo RAW** | `Toma → [Calid. img/grab.] → [Tipo archivo RAW]` | **Comprimido sin pérdida** | Máxima calidad… y ojo: es el que deja el búfer en **23 fotos** (ver [equipo](../a6700/05-equipo-accesorios.md)) |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** | Si no, tras cada foto de 20 s la cámara se pasa otros 20 s en negro: adiós star trails |
-| **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Baja / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
+| **RR ISO Alta** | `Toma → [Calid. img/grab.] → [RR ISO Alta]` | **Bajo / Desactivar** | Solo afecta al JPEG; el ruido del RAW lo arreglas mucho mejor en casa |
 | **Visualizac. cebra** | `Exposición/color → [Visualizac. cebra] → [Visualizac. cebra]` | **Activar** | Tu única alarma de quemados **en vivo** |
 | **Nivel de cebra** | `Exposición/color → [Visualizac. cebra] → [Nivel de cebra]` | **100 IRE o +** | Raya solo lo que ya está perdido, no lo que está claro |
-| **Idioma** | `Ajustes → [Idioma]` | Español | — |
+| **Idioma** | `Ajustes → [Área/fecha] → [Idioma]` | Español | — |
 | **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
+| **Liberar sin tarj. mem.** | `Toma → [Obturad./silenc.] → [Liberar sin tarj. mem.]` | **Inhabilitar** | De fábrica dispara sin tarjeta y **no guarda nada** |
+| **Diales en M** | `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]` | **Dial frontal = `Velocidad obturador`**, **dial trasero = `Abertura`** | De fábrica es al revés; todo el repo cuenta con la velocidad en el delantero ([diales y botones](../a6700/00c-diales-y-botones.md)) |
+| **Iluminador AF** | `Enfoque → [AF/MF] → [Iluminador AF]` | **Desactivar** | Su luz espanta a los animales de la charca |
 | **AF c/obturador** | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
 | **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
 | **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **Regla de tres** | Es la que se corresponde con los encuadres del atlas |
@@ -105,7 +109,7 @@ solo tocas la rueda delantera.
 |---|---|---|---|
 | **Modo de toma** | `Toma → [Modo de toma] → [Modo de toma]` | **M** | Con ISO Auto, y la compensación sigue funcionando (rareza buena de esta cámara) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **ISO AUTO**, y dentro: **ISO AUTO mínimo 100 · máximo 12800** | El techo de trabajo real del sensor |
-| Obturación | Rueda delantera | **1/1000** de partida | Y la mueves por escena: [capítulo 3](../a6700/03-safari-diurno.md) |
+| Obturación | Rueda delantera (tras intercambiar los diales) | **1/1000** de partida | Y la mueves por escena: [capítulo 3](../a6700/03-safari-diurno.md) |
 | Apertura | Rueda trasera | **La mínima** del zoom | Cambia sola al zoomear; por debajo de 200 mm ganas luz |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-C** | Todo lo que se mueve |
 | **Área de enfoque** | `Enfoque → [Área de enfoque] → [Área de enfoque]` | **Zona** (o *Ancho* si la escena está limpia) | Deja trabajar al reconocimiento sin perder el control |
@@ -115,7 +119,7 @@ solo tocas la rueda delantera.
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Captura contin.`** en **Hi+** | 11 fps (~10 en RAW sin pérdida). En Hi+ el visor no va en vivo durante la ráfaga: si te cuesta seguir, baja a Hi |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Activar** (+ interruptor **OSS** del objetivo en ON) | A pulso y desde la ventanilla |
 | **Modo medición** | `Exposición/color → [Medición] → [Modo medición]` | **Multi** de partida · **Puntual** vinculada al AF para el nivel avanzado (`[Medición] → [Punto med. punt.] → Vínc. punto enf.`) | El detalle, en [AF y exposición a fondo](../mejora/af-y-exposicion-a-fondo.md) |
-| **Balance blanco** | `Exposición/color → [Balance blanco]` | **Luz día** o K fijo | Es RAW: se cambia después sin coste |
+| **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **Luz diurna** o K fijo | Es RAW: se cambia después sin coste |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **1**.
 
@@ -141,7 +145,7 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 | Modo | `Toma → [Modo de toma]` | **M** (ISO manual) |
 | Obturación / apertura | Ruedas | **1/60** · la mínima (recoge bajo 200 mm y ganas un tercio de paso) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **6400**, techo 12800 (25600 solo rescate) |
-| **Balance blanco** | `Exposición/color → [Balance blanco]` | **K ≈ 3500**, ajustando con la revisión |
+| **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **K ≈ 3500**, ajustando con la revisión |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **AF-S** |
 | **Área de enfoque** | `Enfoque → [Área de enfoque]` | **Punto: S o M** sobre lo iluminado |
 | **Tipo de obturador** | `Toma → [Obturad./silenc.] → [Tipo de obturador]` | **Obturad. electr.** — silencio absoluto |
@@ -157,7 +161,7 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 │    Aj. temporiz. BULB ............. (star trails)  │
 └─ Enfoque ──────────────────────────────────────────┐
 │  AF/MF → Modo de enfoque .......... MF       ◀     │
-│  Visualiz. resalte → Activar (peaking)             │
+│  Visualiz. resalte → Visualizac. resalte → Activar │
 └────────────────────────────────────────────────────┘
 ```
 
@@ -165,14 +169,14 @@ Las tres son distintas de verdad: no intentes cubrirlas con una sola memoria.
 |---|---|---|
 | Modo · obturación · apertura | Dial y ruedas | **M · 20 s · f/1.8** (el 11 mm) |
 | **ISO** | `Exposición/color → [Exposición] → [ISO]` | **1600**, subiendo a 3200 |
-| **Balance blanco** | `Exposición/color → [Balance blanco]` | **K 3900** |
+| **Balance blanco** | `Exposición/color → [Balance blancos] → [Balance blanco]` | **K 3900** |
 | **Modo de enfoque** | `Enfoque → [AF/MF] → [Modo de enfoque]` | **MF** — el AF no ve estrellas |
-| **Visualiz. resalte** | `Enfoque → [Visualiz. resalte]` | **Activar** — el peaking, para enfocar a mano |
+| **Visualizac. resalte** | `Enfoque → [Visualiz. resalte] → [Visualizac. resalte]` | **Activar** — el peaking, para enfocar a mano |
 | **RR exposic. larga** | `Toma → [Calid. img/grab.] → [RR exposic. larga]` | **Desactivar** (crítico en series) |
 | **SteadyShot** | `Toma → [Estabiliz. de img] → [SteadyShot]` | **Desactivar** |
 | **Modo manejo** | `Toma → [Modo de manejo] → [Modo manejo]` | **`Autodisp.(senc)`** de **2 s** |
-| **Star trails** | `Toma → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md)) |
-| **Timelapse del cielo** | `Toma → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) |
+| **Star trails** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 30 s de exposición · intervalo **31 s** · 90–180 tomas ([estrellas con la tierra dentro](../mejora/estrellas-con-tierra.md)) |
+| **Timelapse del cielo** | `Toma → [Modo de manejo] → [Func. capt. interv.]` | 15 s de exposición · intervalo **17 s** · 300 tomas ([capítulo 2](../a6700/02-astrofotografia-namibia.md)) |
 
 **Guardarlo**: `Toma → [Modo de toma] → [Mem. ajustes cám]` → **2**.
 
@@ -199,8 +203,12 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
 - Añadir a Mi Menú: `Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y luego
   `[Mostrar de Mi Menú] → Activar` para que **MENU abra directamente ahí**.
 - Asignar un botón (C1, C2, C3): `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`.
-  Los dos que valen la pena: **`Verificac. luminosa`** (*Bright Monitoring*: componer la Vía Láctea
-  viéndola) y, mientras aprendes, **Guía en la cámara**.
+  La botonera del viaje: **C1 = `Verificac. luminosa`** (*Bright Monitoring*:
+  componer la Vía Láctea viéndola; solo en MF), **C2 = `Área de enfoque`**
+  (de fábrica) y **C3 = `Amplific. enfoque`**. La **Guía en la cámara** no
+  necesita botón: selecciona una línea del menú y pulsa C3.
+- Todos los botones y diales, uno a uno: [diales y botones](../a6700/00c-diales-y-botones.md).
+- Todo el menú, no solo lo del viaje: [el menú completo](menu-completo.md).
 
 ---
 
@@ -247,7 +255,7 @@ formatearla.
 |---|---|---|
 | "Este ajuste no existe" | El selector **Foto / Vídeo / S&Q** está en otro modo | Ponlo en Foto y vuelve a buscar |
 | Aparece en gris, no se puede tocar | Lo bloquea otro ajuste (p. ej. RR exposic. larga con obturador electrónico) | Mira la nota de la propia pantalla |
-| No sé qué hace lo que estoy mirando | — | **Guía en la cámara**, asignada a un botón: te lo explica ahí mismo |
+| No sé qué hace lo que estoy mirando | — | **Guía en la cámara**: selecciona la línea y pulsa **C3** |
 | No encuentro nada nunca | No has hecho tu **Mi Menú** | Diez minutos, bloque D |
 | Lo he desajustado todo | — | `Ajustes → [Rest/guard ajust] → [Restablecer ajuste] → Reponer ajustes de cámara`. No borra fotos |
 
