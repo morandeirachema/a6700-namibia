@@ -8,8 +8,10 @@ Todos los precios del repo están repartidos por el
 convertida en **lista con casillas**: qué hay ya en casa, qué falta, qué es
 urgente y qué puede esperar.
 
-**Estado a 18 de octubre de 2026** · quedan **12 días** para el vuelo
-(30 de octubre).
+**Estado a 25 de octubre de 2026** · quedan **5 días** para el vuelo
+(30 de octubre), y el plazo real es el **29**, el día del
+[simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar):
+lo que no esté en casa ese día no entra en la maleta.
 
 ## Ya está en casa ✅
 
@@ -26,35 +28,46 @@ urgente y qué puede esperar.
 | ☑ | **Toallas de microfibra** |
 | ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
 | ☑ | **2 tarjetas SD UHS-II V60 de 128 GB** — faltan una o dos más (abajo) |
+| ☑ | **Kit de limpieza completo**: pincel o LensPen, líquido y pañuelos ópticos |
+| ☑ | **2 adaptadores tipo M + regleta europea** |
+| ☑ | **Cinta de carrocero o gaffer** (la del anillo de enfoque en astro) |
 
-## Prestado 🤝 — el 70-350, ya en casa y probado ✅
+## Prestado 🤝 — el 70-350, ya en casa, probado y con todo hablado ✅
 
-El teleobjetivo del safari **te lo prestan**. Eso cambia tres cosas, y
-conviene tenerlas resueltas antes de que salga por la puerta de su dueño:
+El teleobjetivo del safari **te lo prestan**. Eso cambia tres cosas, y ya
+están resueltas:
 
 - **La prueba de aceptación: hecha ✅.** No era para devolverlo, sino para
   **conocer sus defectos con tiempo** ([verificación, §2](../a6700/verificacion-in-situ.md));
   lo que te enseñó, apúntalo en la chuleta: si está blando a 350 mm,
   encuadras a 300 y recortas.
 - **Es de otro, y va a un sitio con polvo.** El **filtro protector** deja de
-  ser opcional y pasa a ser obligatorio, y la [limpieza en
-  campo](../campo/limpieza-en-campo.md) también. Devuélvelo como te lo
-  dieron.
-- **Tres cosas que hay que hablar con su dueño**, no dar por hechas:
-  1. Que **el préstamo cubre las fechas del viaje enteras** (30 oct–15 nov),
-     no solo "unos días".
-  2. Que tu **seguro cubre material prestado** — muchos seguros de viaje
-     solo cubren equipo propio, y este objetivo vale 700–900 €
-     ([logística](../campo/logistica-viaje.md)).
-  3. Si te deja **actualizarle el firmware**. Es buena idea y es reversible
-     en la práctica, pero se pregunta antes de tocar el aparato de nadie.
+  ser opcional y pasa a ser obligatorio (sigue en la lista, abajo), y la
+  [limpieza en campo](../campo/limpieza-en-campo.md) también. Devuélvelo
+  como te lo dieron.
+- **Lo hablado con su dueño ✅**:
+  1. ☑ **El préstamo cubre el viaje entero** (30 oct–15 nov).
+  2. ☑ **Tu seguro cubre material prestado** — comprobado, que muchos solo
+     cubren lo propio y este objetivo vale 700–900 €
+     ([logística](../campo/logistica-viaje.md)). Lleva a mano la póliza y el
+     número de serie del objetivo (fotografíalo).
+  3. ☑ **Te deja actualizarle el firmware.** Hazlo **antes del 29**, en
+     casa y con la batería llena: con él montado en la cámara, desde
+     <https://www.sony.es/electronics/support> (busca "SEL70350G"); el paso a
+     paso, en el [capítulo 1](../a6700/01-configuracion-basica.md).
 - **Y el plan B, por si falla en el viaje**: el Pixel a 5x es un tele de
   bolsillo —hasta dónde llega y qué fotos sobreviven sin el 70-350, en
   [el Pixel de día](../tecnica/pixel-10-pro-de-dia.md).
 
 ---
 
-## 🔴 Urgente — esta semana
+## 🔴 Urgente — antes del 29 de octubre
+
+Quedan **tres cosas**, y las tres bloquean algo: sin tarjetas no hay
+segunda copia, sin hub no hay volcado nocturno y sin filtro el tele
+prestado va desnudo a Etosha. Con cinco días, **si un envío no garantiza
+entrega el 28, cómpralo en tienda física**: las tres son material estándar
+que tiene cualquier tienda de fotografía o de electrónica grande.
 
 ### Tus tarjetas: dos V60 de 128 GB ✅ … pero te faltan una o dos
 
@@ -89,6 +102,14 @@ Etosha a las once de la noche.
 
 Y si aparecen baratas de **256 GB**, una sola te resuelve el margen entero.
 
+**Y si el 29 sigues sin ellas**: no vueles con una tarjeta de cualquier
+cosa comprada a la carrera en el aeropuerto. Con las dos que tienes, la
+regla de la [logística](../campo/logistica-viaje.md) (las llenas no se
+formatean) aguanta hasta que se llena la segunda; a partir de ahí, la única
+que se puede reutilizar es la **más antigua ya volcada y verificada** en el
+SSD, formateada en la cámara — sabiendo que esos días pasan a tener una
+sola copia. Es el último recurso, no el plan.
+
 ### La batería y el cargador: resueltos ✅
 
 Con el kit de dos más la que trae la caja tienes **tres NP-FZ100**, que es
@@ -115,7 +136,7 @@ Comprueba también que el cargador **carga por USB**: en Namibia irás de
 regleta y adaptador tipo M, y un cargador de enchufe grande estorba más de
 lo que parece.
 
-## 🟠 El resto del kit de copias — esta semana
+## 🔴 El resto del kit de copias — antes del 29
 
 Ya tienes el SSD y el lector; faltan las dos piezas que los conectan al
 móvil, porque **el volcado nocturno lo hace el Pixel**
@@ -129,20 +150,21 @@ probarla antes del [simulacro](../campo/logistica-viaje.md#el-simulacro-del-día
 | ☐ | **Cable USB-C de datos** | 8–12 € | Muchos cables de carga **no llevan datos**: compruébalo en casa |
 
 **Subtotal: ~28–47 €** · Y en cuanto lleguen, monta la cadena entera y
-cronométrala en tu salón, no en Okaukuejo.
+cronométrala en tu salón, no en Okaukuejo. Si llegan el mismo 29, la
+prueba es parte del simulacro: un volcado de una tarjeta llena, de
+principio a fin, con el power bank alimentando el hub.
 
-## 🟡 Menudencias — antes de la semana 11 (26 oct), que es de maleta
+## 🔴 El filtro del tele — antes del 29
 
 | ☐ | Qué | Precio | Para qué |
 |---|---|---|---|
 | ☐ | **Filtro protector 67 mm** para el 70-350 | 25–40 € | Es prestado y va a Etosha. **Para astro, quítalo** |
 | ☐ | **Anillo step-up 55→67** | ~8 € | Un solo juego de filtros para los dos objetivos |
-| ☐ | **2 adaptadores tipo M + regleta europea** | 15–20 € | El enchufe oficial de Namibia es el M (el europeo entra en algunos, no en todos); con regleta, un adaptador da para todos los cargadores |
-| ☐ | **Cinta de carrocero o gaffer** | 3–5 € | Para fijar el anillo de enfoque en astro. Suena a broma y es el truco más útil de la noche |
 
-**Subtotal: ~50–75 €**
+**Subtotal: ~33–48 €** · Ya en casa de este bloque: los **adaptadores tipo
+M con su regleta** y la **cinta** ✅.
 
-> **Sobre las microfibras que ya tienes**: para el cuerpo, la pantalla y secar, una toalla de microfibra normal va perfecta. Para el **cristal frontal**, en cambio, conviene un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Si las tuyas son de las grandes de secar, reserva una esquina limpia solo para lentes, o añade dos paños de óptica por 5–8 €. Del [kit de limpieza](../campo/limpieza-en-campo.md) te faltan además el **pincel óptico o LensPen** y el **líquido con pañuelos ópticos** (el kit entero ronda 25–35 €). El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
+> **El kit de limpieza, completo ✅** — pera, pincel, líquido, pañuelos y microfibras. Un detalle para la maleta: para el **cristal frontal**, usa un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Las toallas grandes, para el cuerpo, la pantalla y secar. El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
 
 ## 🟢 Opcional
 
@@ -177,16 +199,16 @@ cronométrala en tu salón, no en Okaukuejo.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Ya |
-| 🟠 Hub y cable | **28–47 €** | Esta semana |
-| 🟡 Filtro, anillo, enchufes, cinta | **50–75 €** | Antes del 26 de octubre |
+| 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Antes del 29 |
+| 🔴 Hub y cable | **28–47 €** | Antes del 29 |
+| 🔴 Filtro 67 mm y anillo | **33–48 €** | Antes del 29 |
 | 🟢 Opcional | 425–700 € | Si sobra |
-| | **Total sin opcionales: ~128–302 €** — una o dos tarjetas, un hub, un cable y las menudencias, y se acabó | |
+| | **Total sin opcionales: ~111–275 €** — una o dos tarjetas, un hub, un cable y el filtro con su anillo, y se acabó | |
 
 Con el tele prestado y casi todo lo demás en casa, el viaje se queda en
 **menos de la quinta parte** de lo que costaría partiendo de cero. Lo que
-queda son una o dos tarjetas, un hub, un cable y las menudencias: **nada que tarde en llegar y nada
-que haya que pensar mucho**.
+queda son una o dos tarjetas, un hub, un cable y el filtro: **nada que no
+tenga una tienda física, y nada que haya que pensar mucho**.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
 o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el

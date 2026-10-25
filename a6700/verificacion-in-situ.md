@@ -29,7 +29,7 @@ Cada sección acaba en segundos; el orden importa. Imprímela junto a la
   vivo**, antes de disparar — la alarma de exposición más rápida que tiene
   esta cámara.
 - [ ] **Firmware al día**: el de la cámara y el de los dos objetivos (el del
-  70-350, solo con permiso de su dueño; se
+  70-350 también: su dueño dio permiso; se
   actualizan con el objetivo montado, conectando la cámara al ordenador
   desde <https://www.sony.es/electronics/support>). *Por qué:* en Namibia no
   hay wifi para esto, y un firmware viejo de objetivo puede dar AF errático.
@@ -67,8 +67,8 @@ en lugar de descubrirlos en Etosha:
 - [ ] **Bloqueo de zoom**: recoge a 70 mm, échalo, y comprueba que el zoom
   no se desliza al colgar la cámara boca abajo.
 - [ ] Actualiza su **firmware** con él montado en la cámara
-  (<https://www.sony.es/electronics/support>, busca "SEL70350G"). *Pregúntaselo
-  antes a su dueño.*
+  (<https://www.sony.es/electronics/support>, busca "SEL70350G"). *Su dueño ya
+  dio permiso.*
 - [ ] **Antes de usarlo**: fotografía el objetivo por todos lados (marcas, rozaduras, el estado del cristal). Cinco minutos que
   evitan una conversación incómoda a la vuelta. Y ponle **filtro
   protector**: va a Etosha.

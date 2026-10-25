@@ -16,11 +16,13 @@ un 20–40 %.
 (~400–550 €) + 70-350 G OSS (~570–650 €) ≈ **2.000–2.400 € nuevo**, o unos
 1.800–2.100 € comprando las dos ópticas de segunda mano en mpb.
 
-> **Estado a 18 de octubre de 2026**: el cuerpo, el **11 mm**, el **70-350**
-> (prestado, ya probado), el trípode, el bean bag, el frontal, el power bank,
-> el SSD (de 500 GB) y el lector UHS-II ya están en casa. Las tres baterías
-> y el cargador también; lo que queda por comprar —una o dos tarjetas V60,
-> hub, cable, filtro y las menudencias— está en
+> **Estado a 25 de octubre de 2026**: el cuerpo, el **11 mm**, el **70-350**
+> (prestado, ya probado, con fechas, seguro y firmware hablados con su
+> dueño), el trípode, el bean bag, el frontal, el power bank, el SSD (de
+> 500 GB), el lector UHS-II, las tres baterías con su cargador, el kit de
+> limpieza, los adaptadores tipo M y la cinta ya están en casa. Lo que queda
+> por comprar antes del 29 —una o dos tarjetas V60, hub, cable y el filtro
+> de 67 mm con su anillo— está en
 > [la lista de la compra](../plan/lista-de-la-compra.md), con precios y
 > urgencias. Las secciones de abajo explican **por qué** se eligió cada
 > cosa; siguen valiendo como referencia aunque ya no haya que comprarla.

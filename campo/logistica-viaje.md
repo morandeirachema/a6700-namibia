@@ -178,7 +178,7 @@ Rutina diaria de 5 minutos que salva el equipo:
    equipo por su valor real — el kit lo vale. Ten a mano facturas y números
    de serie por si hay que reclamar. **Y si llevas material prestado**
    (el 70-350 lo es), comprueba expresamente que la póliza cubre equipo que
-   no está a tu nombre: muchas solo cubren lo propio, y ahí te juegas
+   no está a tu nombre (con el 70-350, ya comprobado ✅): muchas solo cubren lo propio, y ahí te juegas
    700–900 € que además son de otra persona.
 
 ## Si la cámara falla en mitad del viaje

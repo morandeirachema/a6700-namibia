@@ -22,7 +22,7 @@ Actualiza al firmware más reciente desde la página de soporte de Sony:
 dos objetivos también tienen firmware, y al ser Sony se actualizan **con el
 objetivo montado en la cámara**, conectándola al ordenador por USB con el
 actualizador de la misma web de soporte (busca "SEL11F18" y "SEL70350G").
-El 70-350 es **prestado**: actualiza el suyo solo con permiso de su dueño.
+El 70-350 es **prestado**: su dueño ya dio permiso para actualizar el suyo.
 Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 ## Ajustes generales recomendados
