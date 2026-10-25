@@ -4,98 +4,93 @@
 
 Lo que no es hacer fotos pero decide si vuelves con ellas.
 
-## Copias de seguridad: el SSD, el MacBook y las tarjetas
+## Copias de seguridad: el MacBook, las tarjetas y (si va) el SSD
 
 **Decisión del viaje (25 de octubre de 2026): el volcado se hace con el
 MacBook Neo** y el lector UHS-II. El Pixel sigue viajando como segunda
-cámara, pero ya no copia nada. Y una cuenta manda sobre todo lo demás:
+cámara, pero ya no copia nada. El **SSD es opcional** — y abajo está la
+cuenta para decidir si lo llevas.
 
-> **El Mac tiene 250 GB y el viaje son ~260–360 GB solo de la Sony.** No
-> cabe. Por eso **el destino de las fotos es el SSD de 500 GB**, y el Mac
-> es la pantalla de revisión y la segunda copia **mientras le quede hueco**.
+### La cuenta, en fotos
 
-Tres consecuencias:
+Una foto RAW de la a6700 son **~27 MB**: **1 GB ≈ 37 fotos**. El vídeo del
+viaje (60–90 clips de 10 s) son **~10 GB**.
 
-1. **Dos copias siempre**: el SSD y, como segunda, el Mac o la propia
-   tarjeta. Una tarjeta solo se formatea cuando sus días están en **dos
-   sitios** que no sean ella.
-2. **El Mac es para copiar y revisar, no para revelar.** Revisas al 100 % en
-   pantalla grande y marcas las tres del día con estrellas; **no se borra ni
-   se revela nada hasta casa** ([edición](edicion-basica.md),
-   [archivo](archivo-y-seleccion.md)).
-3. **Con dos tarjetas de 128 GB llegará el día de reutilizar una**, hacia la
-   segunda semana. Abajo, la regla.
+| Dónde | Capacidad | En fotos RAW |
+|---|---|---|
+| **Las 2 tarjetas** (2 × 128 GB) | 256 GB | ~9.000 |
+| **El Mac** (250 GB de disco; lo que cuenta es lo **libre**) | 120–150 GB libres, si los haces | ~4.400–5.500 |
+| **El SSD** (opcional) | 500 GB | ~18.000 |
+
+Cada foto nace en una tarjeta, así que **la segunda copia es el Mac**: hay
+dos copias de todo **mientras lo que dispares quepa en el hueco libre del
+Mac**. Con ~150 GB libres son unas **5.000 fotos en la quincena, ~350 al
+día de media**. Un día fuerte de safari son 1.000–2.000 fotos; uno de
+carretera, 100. La previsión del repo para el viaje entero (~260–360 GB,
+9.000–13.000 fotos) **no cabe dos veces** sin el SSD.
+
+| Llevas | Dos copias de todo hasta… | Y luego |
+|---|---|---|
+| **Mac + 2 tarjetas** | ~5.000 fotos (el hueco del Mac) | Los días nuevos quedan **solo en su tarjeta**; y si las tarjetas se llenan (~9.000), hay que reutilizar una y sus días quedan **solo en el Mac** |
+| **Mac + 2 tarjetas + SSD de 500 GB** | Todo el viaje | Nada: el SSD tiene sitio para todo, y cualquier tarjeta copiada en SSD y Mac se puede reutilizar |
+
+**La recomendación**: el SSD de 500 GB que ya tienes pesa 100 gramos y
+convierte "dos copias hasta el día 6 u 8" en "dos copias de todo". Si no lo
+llevas, dispara sabiendo esa cuenta: **mira cada noche el espacio libre del
+Mac**, y lo que vaya a quedar en una sola copia, que sea lo menos valioso.
 
 ### El kit de copias
 
 | Qué | Para qué | Estado |
 |---|---|---|
-| **SSD USB-C de 500 GB** | **El destino de todo**: la copia que vuelve a casa | **Imprescindible** · en casa ✅ |
-| **MacBook Neo** (250 GB) con su cargador USB-C | Hace las copias, revisa en grande y guarda una segunda copia mientras tenga hueco | Va |
+| **MacBook Neo** (250 GB) con su cargador USB-C | Hace las copias, revisa en grande y es la segunda copia mientras tenga hueco | Va |
 | **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real (los UHS-I baratos son 3–4 veces más lentos) | En casa ✅ |
-| **2 tarjetas SD UHS-II V60 de 128 GB** | Lo que dispara la cámara, y segunda copia de sus días hasta que se reutilicen | En casa ✅ |
-| Un **segundo SSD de 1 TB** | **Recomendado**: la segunda copia completa, sin depender del hueco del Mac | 90–150 € ([lista](../plan/lista-de-la-compra.md)) |
+| **2 tarjetas SD UHS-II V60 de 128 GB** | Lo que dispara la cámara, y la otra copia de sus días | En casa ✅ |
+| **SSD USB-C de 500 GB** | **Opcional, recomendado**: dos copias de todo el viaje | En casa ✅ |
 
-Si el Mac y el SSD tienen un solo puerto libre entre los dos, copia en dos
-tandas (tarjeta → SSD, luego tarjeta → Mac): no hace falta hub.
+### El volcado de cada noche, paso a paso (10–15 minutos)
 
-### El volcado de cada noche, paso a paso (15 minutos)
-
-1. **Lector con la tarjeta al Mac**, y el SSD también. En el Finder aparecen
-   los dos.
-2. En el SSD, la carpeta del día con la estructura que te ahorrará meses de
-   líos en casa: `2026-11-namibia/2026-11-09_etosha-okaukuejo/` (la misma
-   que en [archivo y selección](archivo-y-seleccion.md)).
+1. **Lector con la tarjeta al Mac** (y el SSD, si lo llevas). En el Finder
+   aparecen como discos.
+2. La carpeta del día, con la estructura que te ahorrará meses de líos en
+   casa: `2026-11-namibia/2026-11-09_etosha-okaukuejo/` (la misma que en
+   [archivo y selección](archivo-y-seleccion.md)), dentro de `Imágenes` en
+   el Mac.
 3. Entra en `DCIM` de la tarjeta y **arrastra las carpetas del día** a esa
-   carpeta del SSD. Arrastrar de un disco a otro **copia**; nunca uses
-   "mover" ni borres nada en la tarjeta.
-4. **Segunda copia**: lo mismo a `Imágenes/2026-11-namibia/` del Mac,
-   **mientras le queden más de 20 GB libres** (míralo con Cmd+I sobre el
-   disco). Cuando se llene, deja de copiar al Mac: desde ahí, la segunda
-   copia de los días nuevos es la tarjeta.
-5. **Comprueba antes de dormir**: el **número de archivos coincide**
-   (Cmd+I sobre cada carpeta) y abre al 100 % **dos o tres fotos del final
-   del día** desde el SSD. Una copia sin verificar no es una copia.
-6. **Expulsa** la tarjeta y el SSD (⏏ en el Finder) antes de desenchufar.
+   carpeta. Arrastrar de un disco a otro **copia**; nunca uses "mover" ni
+   borres nada en la tarjeta. **Con SSD**: la misma carpeta, también al SSD.
+4. **Comprueba antes de dormir**: el **número de archivos coincide** (Cmd+I
+   sobre cada carpeta) y abre al 100 % **dos o tres fotos del final del
+   día**. Una copia sin verificar no es una copia.
+5. **Mira el espacio libre del Mac** (Cmd+I sobre el disco). Es tu
+   presupuesto de mañana: cada GB libre son ~37 fotos con dos copias.
+6. **Expulsa** la tarjeta (y el SSD) con ⏏ antes de desenchufar.
 7. **Revisa y marca**: las tres del día con tres estrellas (en la cámara,
-   con el botón de `Valoración`, o en el programa que uses en casa). Nada de
-   borrar ni revelar.
+   con el botón de `Valoración`, o en el programa que uses en casa). **No se
+   borra ni se revela nada hasta casa** ([edición](edicion-basica.md),
+   [archivo](archivo-y-seleccion.md)).
 
-**Antes de volar**: libera en el Mac todo el espacio que puedas (**120 GB
-libres o más** es el objetivo, abajo el porqué) y comprueba que **abre los
-RAW de la a6700** (`.ARW`) con el programa que vayas a usar para revisar.
+**Antes de volar**: libera en el Mac **todo el espacio que puedas** (cada
+10 GB son ~370 fotos más con dos copias) y comprueba que **abre los RAW de
+la a6700** (`.ARW`) con el programa que vayas a usar para revisar.
 
-### La cuenta: por qué funciona y cuándo reutilizar una tarjeta
+### Reutilizar una tarjeta (solo si las dos se llenan)
 
-- **Primera copia**: el SSD de 500 GB se queda con todo (~260–360 GB de la
-  Sony; los vídeos del Pixel, mejor en el propio móvil).
-- **Segunda copia**: los primeros días van al Mac hasta llenarlo; los
-  siguientes se quedan en su tarjeta. Mac libre + 2 × 128 GB de tarjetas
-  tienen que sumar lo que dispares: con **120 GB libres en el Mac** son
-  ~376 GB, justo por encima de un viaje fuerte. Con menos hueco en el Mac,
-  no llega — y entonces hace falta el segundo SSD.
-
-**Reutilizar una tarjeta**, cuando las dos estén llenas:
-
-1. Solo la **más antigua**, cuyos días ya están en el **SSD y en el Mac**,
-   verificados (número de archivos y fotos abiertas al 100 %).
+1. Solo la **más antigua**, y solo si sus días están copiados y
+   **verificados** en el Mac (y en el SSD, si lo llevas).
 2. Se formatea **en la cámara** (`Toma → [Soporte] → [Formatear]`), nunca en
    el Mac.
-3. Si sus días **no** caben ya en el Mac, **no la formatees**: sin segunda
-   copia, esos días quedarían en un solo sitio.
-
-**La solución limpia, y la recomendada**: un **segundo SSD de 1 TB**
-(90–150 €). Cada noche copias la tarjeta a los dos SSD, el Mac solo revisa,
-y cualquier tarjeta copiada y verificada en los dos se puede reutilizar sin
-cuentas. Los dos SSD viajan **separados**: uno contigo, otro en la mochila.
+3. **Sin SSD**, sus días quedan desde ese momento **en una sola copia** (el
+   Mac): el Mac viaja en la mochila de cabina, nunca en el coche al sol ni
+   en la maleta.
 
 Lo que **no** vale como copia: la nube. El wifi de los campamentos de Etosha
 es lento o inexistente y subir 300 GB no va a ocurrir.
 
 ### Y las reglas que no cambian
 
-- **Reparte las copias físicamente**: el SSD en un bolsillo o bolsita que va
-  contigo; el Mac y las tarjetas llenas, en la mochila. En el vuelo de vuelta, todo
+- **Reparte las copias físicamente**: las tarjetas llenas en un bolsillo o
+  bolsita que va contigo; el Mac (y el SSD, separado de él) en la mochila. En el vuelo de vuelta, todo
   en cabina y repartido ([el equipo en el avión](#el-equipo-en-el-avión)),
   nunca facturado.
 - **No se borra nada en cámara**, con una sola excepción: los **clips de
@@ -110,14 +105,15 @@ es lento o inexistente y subir 300 GB no va a ocurrir.
 
 | Cámara | Lo que ocupa | El día/sesión tipo | Dónde acaba |
 |---|---|---|---|
-| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | Tarjeta → SSD (y Mac) cada noche |
+| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | Tarjeta → Mac (y SSD) cada noche |
 | **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ídem |
 | **a6700 (vídeo)** | 4K 25p a 100 Mbps ≈ **45 GB/hora** (unos 750 MB por minuto) | 60–90 clips de 10 s ≈ 8–12 GB en todo el viaje | Ídem, con las fotos |
 | **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | En el móvil |
 | **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas | Despreciable frente al vídeo | En el móvil |
 
-**El SSD**: sumando la tabla, el viaje se mueve en torno a **260–360 GB**
-solo con la Sony: el de 500 GB cabe con margen. El vídeo del Pixel (60–80
+**El total**: sumando la tabla, el viaje se mueve en torno a **260–360 GB**
+solo con la Sony si disparas como prevé el repo — más que el hueco del Mac,
+menos que el SSD de 500 GB. El vídeo del Pixel (60–80
 GB más) se queda en el móvil, que tiene memoria para ello si lo vacías antes
 de volar.
 
@@ -326,7 +322,7 @@ no en Etosha:
 - [ ] **Copia de seguridad hecha de todo lo que haya en la tarjeta — y
   entonces** formatearla EN la cámara (nunca en el ordenador).
 - [ ] MR1/MR2 revisados: safari y astro tal como los guardaste.
-- [ ] Ensaya el volcado tarjeta → SSD → Mac una vez, con cronómetro; comprueba que el Mac abre los `.ARW` y que tiene **120 GB libres o más** (si no, segundo SSD).
+- [ ] Ensaya el volcado tarjeta → Mac una vez, con cronómetro; comprueba que el Mac abre los `.ARW` y **apunta su espacio libre**: es tu presupuesto de fotos con dos copias (decide aquí si va el SSD).
 - [ ] Lentes limpias; pera, microfibra, frontal rojo y bean bag (vacío) en
   la bolsa.
 - [ ] Mochila hecha con el reparto de
