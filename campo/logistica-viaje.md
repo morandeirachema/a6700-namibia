@@ -4,122 +4,107 @@
 
 Lo que no es hacer fotos pero decide si vuelves con ellas.
 
-## Copias de seguridad SIN PORTÁTIL (la regla sigue siendo "dos copias siempre")
+## Copias de seguridad: el MacBook y las tarjetas
 
-**Decisión del viaje: no va portátil.** Ni para editar ni para almacenar. Eso
-no quita ninguna copia de seguridad — cambia quién las hace. Tres
-consecuencias que hay que tener claras antes de comprar nada:
+**Decisión del viaje (25 de octubre de 2026): el volcado lo hace el MacBook
+Neo**, con el lector UHS-II. El Pixel sigue viajando como segunda cámara,
+pero ya no copia nada. Tres consecuencias:
 
-1. **Las tarjetas dejan de ser un buffer y pasan a ser el archivo.** Una
-   tarjeta llena **no se formatea en todo el viaje**. Es, literalmente, una
-   de tus dos copias.
-2. **El "ordenador" del viaje es el Pixel.** Copia de la tarjeta al SSD por
-   USB-C, y de paso te deja ver las fotos en una pantalla decente.
-3. **No se cribe ni se edita nada hasta casa.** Sin portátil no hay
-   Lightroom ni Denoise: el repaso nocturno se hace en la pantalla de la
-   cámara y con la [lista de tomas](../plan/lista-de-tomas.md), y todo el
-   revelado espera ([edición](edicion-basica.md), [archivo](archivo-y-seleccion.md)).
+1. **Dos copias, mientras quepan.** La tarjeta del día se copia al Mac cada
+   noche, y la tarjeta llena **no se formatea** mientras haya otra con
+   hueco: el Mac es una copia y la tarjeta, la otra.
+2. **El Mac es para copiar y revisar, no para revelar.** Revisas al 100 % en
+   pantalla grande y marcas las tres del día con estrellas; **no se borra ni
+   se revela nada hasta casa** ([edición](edicion-basica.md),
+   [archivo](archivo-y-seleccion.md)).
+3. **Con dos tarjetas de 128 GB llegará el día de reutilizar una.** Abajo, la
+   cuenta y la regla para hacerlo sin perder nada.
 
-### El kit de copias (lo que hay que tener)
+### El kit de copias
 
-Qué falta todavía, en la [lista de la compra](../plan/lista-de-la-compra.md).
-
-| Qué | Para qué | Precio orientativo |
+| Qué | Para qué | Estado |
 |---|---|---|
-| **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real. Los lectores UHS-I baratos son **3–4 veces más lentos** | **Ya en casa** ✅ |
-| **SSD portátil USB-C** (el tuyo, de 500 GB) | El destino de todo | **Ya en casa** ✅ |
-| **Hub USB-C con entrada de carga (PD)** | La pieza clave: el móvil necesita **lector y SSD a la vez**, y alimentarlos | 20–35 € |
-| **Cable USB-C corto de datos** | Muchos cables de carga **no llevan datos**. Comprueba el tuyo en casa | 8–12 € |
-| Tarjetas SD UHS-II V60 de sobra | Son la segunda copia (abajo, la cuenta) | 50–90 € las de 128 GB |
+| **MacBook Neo** con su cargador USB-C | El destino de las copias y la pantalla de revisión | Va |
+| **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real (los UHS-I baratos son 3–4 veces más lentos) | **Ya en casa** ✅ |
+| **2 tarjetas SD UHS-II V60 de 128 GB** | Lo que dispara la cámara y, mientras quepan, la segunda copia | **Ya en casa** ✅ |
 
-Todo eso cabe en una bolsita de la mochila y pesa menos que el cargador de
-un portátil.
+Antes de volar, **mira el espacio libre del Mac**: el viaje entero son
+~320–450 GB (la cuenta, abajo). Si no los tiene libres, haz sitio en casa,
+no en Okaukuejo.
 
-### El volcado de cada noche, paso a paso (15 minutos)
+### El volcado de cada noche, paso a paso (10 minutos)
 
-1. **Enchufa el hub al Pixel**, y al hub: el lector con la tarjeta, el SSD y
-   el power bank a la entrada de carga. Ese último cable no es un lujo:
-   mover 20 GB con dos aparatos colgando se come la batería del móvil.
-2. Abre **Archivos** (la app de Google). Verás dos unidades nuevas: la
-   tarjeta y el SSD.
-3. En la tarjeta, entra en `DCIM` y **selecciona la carpeta del día entera**
-   (mantén pulsado). Menú `⋮` → **Copiar a** → el SSD → la carpeta que toque.
-   La estructura que te ahorrará meses de líos en casa:
+1. **Lector con la tarjeta al Mac.** Aparece en el Finder como `Untitled` o
+   `NO NAME`.
+2. Crea la carpeta del día dentro de `Imágenes`, con la estructura que te
+   ahorrará meses de líos en casa:
    `2026-11-namibia/2026-11-09_etosha-okaukuejo/` (la misma que en
    [archivo y selección](archivo-y-seleccion.md)).
-4. **Copiar, nunca mover.** "Mover" borra el origen, y el origen es tu otra
-   copia.
-5. **Comprueba antes de dormir**: entra en la carpeta del SSD, mira que el
-   **número de archivos coincide** con el de la tarjeta, y **abre dos o tres
-   fotos del final del día** en el propio móvil. Una copia sin verificar no
-   es una copia.
-6. **Etiqueta la tarjeta llena** (una pegatina y un rotulador) y guárdala en
-   un sitio distinto del SSD.
+3. Entra en `DCIM` de la tarjeta y **arrastra las carpetas del día** a esa
+   carpeta. Arrastrar de un disco a otro **copia**; nunca uses "mover" ni
+   borres nada en la tarjeta: es tu otra copia.
+4. **Comprueba antes de dormir**: el **número de archivos coincide** en las
+   dos ventanas (Cmd+I sobre cada carpeta) y abre al 100 % **dos o tres
+   fotos del final del día**. Una copia sin verificar no es una copia.
+5. **Expulsa la tarjeta** (el botón ⏏ del Finder) antes de sacarla.
+6. **Revisa y marca**: las tres del día con tres estrellas (en la cámara,
+   con el botón de `Valoración`, o en el programa que uses en casa). Nada de
+   borrar ni revelar.
 
-**Cuánto tarda**: el Pixel 10 Pro tiene USB 3.2 Gen 2 y el cuello de botella
-es la tarjeta, no el móvil. Con un lector UHS-II, unos **20 GB en 3–5
-minutos**. Con un lector barato UHS-I, los mismos 20 GB pueden irse a 20
-minutos: por eso el lector bueno es la compra más rentable de la lista.
+**Antes de volar**, comprueba que tu Mac **abre los RAW de la a6700**
+(`.ARW`) con el programa que vayas a usar para revisar: si no los abre, se
+descubre en casa con tiempo, no en Etosha.
 
-### La cuenta de las tarjetas (aquí está el dinero)
+### La cuenta de las tarjetas: cuándo y cómo reutilizar una
 
-Si ninguna tarjeta se reutiliza, necesitas **tarjetas para el viaje entero**:
-con días fuertes de 30–55 GB y días flojos de 10–15 GB, el viaje ronda los
-**250–350 GB solo de la Sony**. Traducción: **3 tarjetas de 128 GB, y mejor
-4**.
+El viaje ronda los **250–350 GB solo de la Sony** (días fuertes de 30–55 GB,
+flojos de 10–15). Con **2 × 128 GB = 256 GB**, las dos tarjetas se llenarán
+hacia la segunda semana, más o menos al llegar a Etosha. A partir de ahí hay
+que reutilizar una, y la regla es estricta:
 
-Si eso se te va de precio, la alternativa igual de segura:
+1. Solo la tarjeta **más antigua**, la que lleva más noches copiada.
+2. Solo si esa copia está **verificada** en el Mac (número de archivos y
+   fotos abiertas al 100 %).
+3. Se formatea **en la cámara** (`Toma → [Soporte] → [Formatear]`), nunca en
+   el Mac.
 
-> **Dos SSD en vez de tantas tarjetas.** Copias cada noche a **los dos** SSD
-> (o a un SSD y un pendrive USB-C grande), los guardas separados, y entonces
-> **sí** puedes reutilizar una tarjeta ya volcada y verificada. Dos copias
-> siguen existiendo siempre. Sale por unos 200 € en SSD en lugar de ~180 €
-> en tarjetas, y da menos que pensar.
+**Lo que eso significa**: desde ese momento, esos primeros días existen en
+**una sola copia**, la del Mac, hasta que llegues a casa. Trata el Mac como
+lo que es entonces: va en la mochila de cabina, nunca en el coche al sol ni
+en la maleta. El arreglo, si cambias de idea, no cuesta nada: **el SSD de
+500 GB que ya tienes en casa** va en la mochila y cada noche copias también
+Mac → SSD; así vuelve a haber dos copias de todo aunque reutilices tarjetas.
 
-Lo que **no** vale como segunda copia: la nube. Los RAW de la Sony no pasan
-por el móvil, el wifi de los campamentos de Etosha es lento o inexistente y
-subir 300 GB no va a ocurrir. La copia del Pixel a Google Fotos está bien
-para sus propias fotos, y ya.
-
-### El plan B sin móvil: el aparato de un botón
-
-Si prefieres no depender del Pixel (o quieres poder volcar mientras el móvil
-hace otra cosa), existe la categoría de los **FileHub**: una cajita con
-batería, ranura SD y puerto USB que copia la tarjeta al SSD **pulsando un
-botón**, sin teléfono ni ordenador (RAVPower RP-WD009, NewQ FileHub y
-similares, 60–80 €). Es más lento —del orden de **12–18 MB/s**, o sea
-unos 20–30 minutos por cada 20 GB— pero funciona solo mientras cenas, y de
-paso hace de router wifi para ver los archivos desde el móvil.
+Lo que **no** vale como copia: la nube. El wifi de los campamentos de Etosha
+es lento o inexistente y subir 300 GB no va a ocurrir.
 
 ### Y las reglas que no cambian
 
-- **Reparte las copias físicamente**: durante el viaje, tarjetas llenas en la
-  mochila que va contigo y SSD en la maleta o el coche — nunca todo en el
-  mismo sitio. En el vuelo de vuelta, las dos en cabina y repartidas
-  ([el equipo en el avión](#el-equipo-en-el-avión)), nunca facturadas.
+- **Reparte las copias físicamente**: tarjetas llenas en un bolsillo o
+  bolsita que va contigo; el Mac en la mochila. En el vuelo de vuelta, todo
+  en cabina y repartido ([el equipo en el avión](#el-equipo-en-el-avión)),
+  nunca facturado.
 - **No se borra nada en cámara**, con una sola excepción: los **clips de
-  vídeo fallidos** del Pixel, que son gigas muertos. Las fotos, ninguna.
-- El **vídeo y las fotos del Pixel** entran en el mismo volcado: conecta el
-  móvil… bueno, el móvil *es* el que copia, así que sus carpetas (`DCIM`,
-  `Movies`) van al SSD directamente, sin lector.
-- **Cada 2–3 noches**, no cada noche: el material del móvil no crece tan
-  rápido y así el volcado diario es corto.
+  vídeo fallidos**, que son gigas muertos.
+- **El Pixel guarda sus fotos y vídeos en el propio móvil**, que es su
+  primera copia; déjale memoria libre antes de volar. Para tener una segunda
+  en el Mac, el Mac no lee el Android por cable sin una app: instálala en
+  casa si la quieres (OpenMTP, gratuita: <https://openmtp.ganeshrvel.com/>),
+  o copia lo del Pixel al volver.
 
 ### La cuenta del espacio (haz tus números con esta tabla)
 
-| Cámara | Lo que ocupa | El día/sesión tipo | Qué llevar |
+| Cámara | Lo que ocupa | El día/sesión tipo | Dónde acaba |
 |---|---|---|---|
-| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | SD UHS-II (V60) de 128 GB, **3 o 4** — sin portátil no se reutilizan ni se formatean: son tu segunda copia |
-| **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ya cubierto por las SD de arriba |
-| **a6700 (vídeo)** | 4K 25p a 100 Mbps ≈ **45 GB/hora** (unos 750 MB por minuto) | El vídeo entero son minutos, no horas: 60–90 clips de 10 s ≈ 8–12 GB en todo el viaje | Cabe de sobra en las SD de arriba; vuélcalo con las fotos |
-| **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | Memoria libre en el móvil antes de volar + copia al SSD cada 2–3 noches |
-| **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas; cada astro guarda foto + mini-vídeo | Despreciable frente al vídeo | — |
+| **a6700 (fotos)** | RAW ≈ 25–30 MB | Día intenso de safari: 1.000–2.000 fotos ≈ 30–55 GB → planifica **~64 GB/día** con margen | Tarjeta → Mac cada noche |
+| **a6700 (noche)** | Igual, ~27 MB/toma | Apilado de 10 tomas ≈ 0,3 GB · star trails de 90–180 tomas ≈ 2,5–5 GB · timelapse de 300 tomas ≈ 8 GB | Ídem |
+| **a6700 (vídeo)** | 4K 25p a 100 Mbps ≈ **45 GB/hora** (unos 750 MB por minuto) | 60–90 clips de 10 s ≈ 8–12 GB en todo el viaje | Ídem, con las fotos |
+| **Pixel (vídeo)** | 4K30 ≈ **15 GB/hora** | Un viaje de clips cortos rara vez pasa de 60–80 GB | En el móvil (y al Mac si instalas la app) |
+| **Pixel (fotos y astro)** | JPEG de 12 Mpx, unos MB; los DNG de 50 Mpx, decenas | Despreciable frente al vídeo | En el móvil |
 
-**El SSD**: sumando la tabla (Sony 250–350 GB, su vídeo 8–12, el vídeo del
-Pixel 60–80), el viaje completo se mueve en torno a **320–450 GB**. Uno de
-1 TB va sobrado; **el tuyo es de 500 GB**: cabe, pero sin margen. Mira el
-espacio libre en cada volcado, y si quieres margen, el de 1 TB está en la
-[lista de la compra](../plan/lista-de-la-compra.md).
+**El Mac**: sumando la tabla, el viaje se mueve en torno a **260–360 GB**
+solo con la Sony, y **320–450 GB** si además pasas lo del Pixel. Ese es el
+espacio libre que necesita antes de salir.
 
 ### La cuenta de la energía
 
@@ -271,9 +256,9 @@ solo lo que aguanta golpes y se puede reemplazar.** El reparto:
 |---|---|
 | La a6700 (con el 70-350 montado, boca abajo en el centro de la mochila) | Trípode, centrado entre la ropa |
 | El 11 mm en su compartimento | Bean bag **vacío** |
-| **Todas** las baterías (NP-FZ100) y el power bank | Cargadores, regleta y adaptadores tipo M |
+| **Todas** las baterías (NP-FZ100) y el power bank | Cargadores (salvo el del Mac), regleta y adaptadores tipo M |
 | El micro (si lo llevas) y el filtro ND, en su funda | Peluche antiviento y mini trípode |
-| Tarjetas SD y el SSD | Kit de limpieza, bolsas zip, cinta |
+| Tarjetas SD y el **MacBook** con su cargador | Kit de limpieza, bolsas zip, cinta |
 | El móvil y el mini trípode o pinza | Ropa alrededor de todo, haciendo de acolchado |
 | Lector de tarjetas, pera y una microfibra | Frontal rojo |
 
@@ -299,9 +284,9 @@ puerta de un vuelo lleno obligan a facturar la mochila (*gate check*), no
 discutas la mochila: **saca cuerpos, objetivos, baterías y tarjetas** y
 súbelos encima — la tela puede viajar en bodega, el equipo no.
 
-**A la vuelta, las fotos mandan.** Las tarjetas llenas y el SSD son lo único
+**A la vuelta, las fotos mandan.** Las tarjetas llenas y el Mac son lo único
 irreemplazable del viaje: en cabina y **repartidos** (tarjetas en un bolsillo
-tuyo, SSD en la mochila), nunca juntos ni facturados.
+tuyo, Mac en la mochila), nunca juntos ni facturados.
 
 **La mochila en sí**, si aún no la tienes: una fotográfica de 25–30 L con
 interior acolchado configurable y medidas de equipaje de mano (Lowepro,
@@ -326,7 +311,7 @@ no en Etosha:
 - [ ] **Copia de seguridad hecha de todo lo que haya en la tarjeta — y
   entonces** formatearla EN la cámara (nunca en el ordenador).
 - [ ] MR1/MR2 revisados: safari y astro tal como los guardaste.
-- [ ] Ensaya el volcado tarjeta → SSD una vez, con cronómetro.
+- [ ] Ensaya el volcado tarjeta → Mac una vez, con cronómetro, y comprueba que el Mac abre los `.ARW` y tiene ~400 GB libres.
 - [ ] Lentes limpias; pera, microfibra, frontal rojo y bean bag (vacío) en
   la bolsa.
 - [ ] Mochila hecha con el reparto de
@@ -337,8 +322,8 @@ no en Etosha:
 - [ ] PhotoPills con los pins de los campamentos creados y mapas offline
   descargados ([cómo, paso a paso](../referencia/apps-del-viaje.md)).
 - [ ] **El Pixel**: ajustes del [nivel básico](../tecnica/pixel-10-pro.md) puestos, una
-  foto en modo astro hecha ya alguna noche en casa, memoria libre y el cable
-  USB-C para copiar al SSD probado.
+  foto en modo astro hecha ya alguna noche en casa y memoria libre (sus
+  fotos se quedan en el móvil).
 - [ ] Imprime la [chuleta](../a6700/chuleta.md), la
   [lista de tomas](../plan/lista-de-tomas.md) y la
   [chuleta de vídeo](../tecnica/chuleta-video.md).
