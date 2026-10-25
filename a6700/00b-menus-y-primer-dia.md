@@ -109,6 +109,18 @@ Y cuatro cosas que ahorran mucha desesperación:
 
 ### Cómo leer las rutas de este repo
 
+```mermaid
+flowchart LR
+    A([Pulsa MENU]) --> B["Pestaña<br/>(iconos de la izquierda)"]
+    B -->|"rueda: arriba/abajo"| C["Grupo<br/>[Obturad./silenc.]"]
+    C -->|"centro de la rueda"| D["Ajuste<br/>[Tipo de obturador]"]
+    D -->|"centro"| E["Valor<br/>Obturad. electr."]
+    E -->|MENU| D
+    D -->|MENU| C
+    C -->|"MENU otra vez"| F([De vuelta a hacer fotos])
+    D -.->|"C3 = ¿qué es esto?"| G[Guía en la cámara]
+```
+
 Cuando una guía escribe `MENU → Toma → [Obturad./silenc.] → [Tipo de
 obturador]`, se lee: pulsa MENU, ve a la pestaña **Toma**, busca el grupo
 **Obturad./silenc.** y dentro, el ajuste **Tipo de obturador**. Los nombres

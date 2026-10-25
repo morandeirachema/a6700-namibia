@@ -93,6 +93,18 @@ tienes que bajar la velocidad o abrir. Y la compensación de exposición
 
 ## Configúralo: la botonera en 15 minutos
 
+```mermaid
+flowchart TD
+    S([Selector en Foto · dial en M]) --> D1["1 · Diales<br/>frontal = velocidad · trasero = abertura"]
+    D1 --> D2["2 · C1 = Verificac. luminosa"]
+    D2 --> D3["3 · C3 = Amplific. enfoque"]
+    D3 --> D4["4 · Reproducción: C1 = Valoración (solo ★★★)"]
+    D4 --> D5["5 · Las 12 casillas del Fn"]
+    D5 --> D6["6 · Bloqueo dial/rueda = Bloquear"]
+    D6 --> D7["7 · Táctil: Seguimient. táct. · Ambos válidos · relativa"]
+    D7 --> D8["8 · Ahora sí: MR1 y MR2 (capítulo 1)"]
+    D8 --> D9(["9 · Guard./carg. ajustes → Guardar<br/>y copia el archivo al móvil"])
+
 Con el selector en **Foto** y el dial en **M**:
 
 1. **Los diales.** `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`
@@ -194,6 +206,20 @@ reasignable desde `Ajuste t. pers./dial`, pero la asignación es de la
 cámara, no del objetivo: vale para los dos a la vez. Déjalo como viene.
 
 ## La noche: lo que tienes que encontrar sin luz
+
+```mermaid
+flowchart LR
+    A([Dial a 2]) --> B["Objetivo en MF"]
+    B --> C["C1: Verificac. luminosa<br/>ves el cielo y encuadras"]
+    C --> D["C3: lupa sobre la estrella<br/>(la pantalla brillante se apaga: normal)"]
+    D --> E["Anillo hasta el punto mínimo<br/>y cinta en el anillo"]
+    E --> F["Mantén Fn: diales bloqueados"]
+    F --> G["Disparo con 2 s<br/>(rueda izquierda)"]
+    G --> H{"▶ + histograma<br/>¿montaña en el primer tercio?"}
+    H -->|no| I["Rueda derecha: ISO<br/>dial trasero, pasos enteros"]
+    I --> G
+    H -->|sí| J([Serie o siguiente encuadre])
+```
 
 En Etosha a las once de la noche, con la frontal en rojo o apagada, estos son
 los gestos que deben salir solos. Toca cada mando en casa con los ojos

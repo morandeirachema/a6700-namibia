@@ -54,6 +54,64 @@ en "Ajustes").
 - El menú **cambia con el selector Foto / Vídeo / S&Q**: si una línea no
   aparece, mira el selector antes de buscar más. Lo de vídeo va al final.
 
+## El mapa: ocho pestañas y sus grupos
+
+En **amarillo**, los grupos donde vas a tocar algo para este viaje; los
+demás existen, pero puedes pasar de largo.
+
+```mermaid
+flowchart LR
+    M([MENU]) --> P["Principal"]
+    M --> T["Toma"]
+    M --> E["Exposición/color"]
+    M --> F["Enfoque"]
+    M --> R["Reproducc."]
+    M --> N["Red"]
+    M --> A["Ajustes"]
+    M --> MM["Mi Menú"]
+
+    T --> T1["Calid. img/grab."]:::uso
+    T --> T2["Soporte"]:::uso
+    T --> T3["Archivo"]:::uso
+    T --> T4["Modo de toma"]:::uso
+    T --> T5["Modo de manejo"]:::uso
+    T --> T6["Obturad./silenc."]:::uso
+    T --> T7["Estabiliz. de img"]:::uso
+    T --> T8["Zoom"]
+    T --> T9["Visualizac. toma"]:::uso
+
+    E --> E1["Exposición"]:::uso
+    E --> E2["Compens. expos."]:::uso
+    E --> E3["Medición"]:::uso
+    E --> E4["Flash"]
+    E --> E5["Balance blancos"]:::uso
+    E --> E6["Color/tono"]:::uso
+    E --> E7["Visualizac. cebra"]:::uso
+
+    F --> F1["AF/MF"]:::uso
+    F --> F2["Área de enfoque"]:::uso
+    F --> F3["Reconoc. motivo"]:::uso
+    F --> F4["Asistencia enfoq."]:::uso
+    F --> F5["Visualiz. resalte"]:::uso
+
+    R --> R1["Aumento · Selección/nota · Opción reprod."]:::uso
+    R --> R2["Objet. de reprod. · Borrar · Editar · Visualización"]
+
+    N --> N1["Opción de red (Modo avión)"]:::uso
+    N --> N2["Conex./PC rem. · Wi-Fi · Bluetooth · el resto"]
+
+    A --> A1["Área/fecha · Rest/guard ajust"]:::uso
+    A --> A2["Personal. operac. · Personalizar dial"]:::uso
+    A --> A3["Operación táctil · Visor/monitor"]:::uso
+    A --> A4["Opción de visual. · Opc. ajuste enrg."]:::uso
+    A --> A5["Opción sonido · USB · Opción ajustes"]:::uso
+    A --> A6["Salida externa"]
+
+    MM --> MM1["Ajuste Mi Menú"]:::uso
+
+    classDef uso fill:#ffe9a8,stroke:#b8860b,color:#000
+```
+
 ---
 
 ## Pestaña Principal

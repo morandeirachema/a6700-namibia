@@ -111,6 +111,20 @@ El resto —encuadre, audio, cómo se sujeta y qué grabar— está en
 
 ## Memorias del dial: MR1 y MR2
 
+El orden importa: lo que guardas en una memoria es **lo que hay puesto en ese
+momento**, así que primero lo común y después cada receta.
+
+```mermaid
+flowchart TD
+    A(["Restablecer ajuste →<br/>Reponer ajustes de cámara"]) --> B["Ajustes generales<br/>(la tabla de arriba)"]
+    B --> C["Diales intercambiados y botonera<br/>(diales y botones)"]
+    C --> D["Ajust dif imgs fij/víd:<br/>las 8 casillas"]
+    D --> E["Receta de safari"] --> E2[["Mem. ajustes cám → 1"]]
+    E2 --> F["Receta de astro"] --> F2[["Mem. ajustes cám → 2"]]
+    F2 --> G["Selector a Vídeo:<br/>los cinco de vídeo"]
+    G --> H(["Guard./carg. ajustes → Guardar"])
+```
+
 Configura la cámara como quieras que quede y guárdala con
 `MENU → Toma → [Modo de toma] → [Mem. ajustes cám]` (*Camera Set. Memory*) → 1 o 2:
 
