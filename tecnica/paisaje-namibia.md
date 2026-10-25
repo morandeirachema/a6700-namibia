@@ -22,11 +22,9 @@ Con la poca luz del amanecer, f/8 a ISO 100 da obturaciones lentas: trípode,
 o sube el ISO hasta que la obturación pase de ~1/focal a pulso.
 
 ¿Filtros? Ninguno imprescindible en este viaje: el polarizador oscurece el
-cielo de forma desigual en un angular de 16,5 mm eq. Si acaso, un filtro
-protector contra el polvo — ojo, las roscas **no** coinciden: 55 mm el
-angular y 67 mm el tele (el anillo step-up del
-[equipo](../a6700/05-equipo-accesorios.md) los iguala por 8 €;
-[limpieza](../campo/limpieza-en-campo.md)).
+cielo de forma desigual en un angular de 16,5 mm eq. En este viaje no va
+ningún filtro: el polvo se gestiona con tapa, parasol y pera
+([limpieza](../campo/limpieza-en-campo.md)).
 
 Composición mínima que funciona: algo interesante **delante** (una acacia,
 una cresta de duna, huellas), horizonte fuera del centro (arriba o abajo,

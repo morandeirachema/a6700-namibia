@@ -235,20 +235,21 @@ El repaso que separa "creo que la tengo" de "la tengo":
 
 ## 11 · Cada noche antes de dormir (15 min)
 
-- [ ] **Volcado tarjeta → SSD** hecho y comprobado: hub al Pixel, lector +
-  SSD + power bank colgando, `Archivos` → carpeta del día → **Copiar a**
-  (nunca *Mover*). Comprueba que **coincide el número de archivos** y abre
-  2–3 fotos del final del día en el destino. *Por qué es sagrado:* con una
-  sola ranura, este volcado ES la primera copia de seguridad del viaje, y
-  sin portátil no hay red debajo. **Nada se formatea** hasta casa, y la
-  tarjeta llena se etiqueta y se guarda **lejos del SSD**.
+- [ ] **Volcado tarjeta → Mac** (y SSD, si va) hecho y comprobado: lector
+  al Mac, carpeta del día **arrastrada** (copiar, nunca *mover*). Comprueba
+  que **coincide el número de archivos** y abre 2–3 fotos del final del día
+  en el destino; apunta el **espacio libre del Mac**. *Por qué es sagrado:*
+  con una sola ranura, este volcado ES la segunda copia del viaje. Una
+  tarjeta solo se formatea si está llena, es la más antigua y sus días están
+  verificados en el Mac ([logística](../campo/logistica-viaje.md)); la llena
+  se etiqueta y se guarda **lejos del Mac**.
 - [ ] Baterías gastadas al **cargador doble USB** en la regleta (adaptador
   tipo M); la cámara también puede cargar por USB-C si hace falta.
 - [ ] **Repaso de 10 minutos**: tus 3 mejores del día → el error que se
   repite → **una** corrección concreta para mañana (una, no cinco).
 - [ ] [Lista de tomas](../plan/lista-de-tomas.md): marca conseguidas, elige
   el objetivo de mañana.
-- [ ] Pixel al cargador; copia sus fotos y clips al SSD cada 2–3 noches
+- [ ] Pixel al cargador; sus fotos y clips se quedan en el móvil
   ([su guía](../tecnica/pixel-10-pro.md)).
 - [ ] **Los clips de vídeo del día, a su carpeta — y borra los fallidos**
   (la única excepción a "no se borra nada": un clip de 4K fallido son gigas

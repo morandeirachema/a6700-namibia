@@ -155,7 +155,7 @@ pero tienen tarea:
   ([el cielo del viaje](cielo-del-viaje.md)) y, si te queda cuerpo, la ciudad
   a la hora azul desde alguna terraza.
 - **La tarea de esa tarde importa más que la foto**: comprueba que las **dos
-  copias existen** antes de meter nada en la maleta, reparte tarjetas y SSD
+  copias existen** antes de meter nada en la maleta, reparte tarjetas y Mac
   en equipajes distintos ([logística](../campo/logistica-viaje.md)) y da un
   repaso de limpieza al equipo, que lleva dos semanas de polvo
   ([limpieza](../campo/limpieza-en-campo.md)).

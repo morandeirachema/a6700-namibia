@@ -184,24 +184,19 @@ del movimiento, **un movimiento por plano** y **nunca zoomes** durante la
 toma. Y graba **parejas** (un plano ancho y un detalle de cada escena). El montaje de
 todo junto, en la [guía de edición](../campo/edicion-basica.md).
 
-## El Pixel es el ordenador del viaje
+## El Pixel, fuera del flujo de copias
 
-En este viaje **no va portátil**, así que el móvil hace de estación de
-trabajo, y es un papel más importante que cualquiera de sus modos de cámara:
+Hasta el 25 de octubre el móvil iba a hacer de ordenador del viaje. Ya no:
+**el volcado de la Sony lo hace el MacBook** ([logística](../campo/logistica-viaje.md)),
+y el Pixel vuelve a ser lo que mejor hace:
 
-- **Copia la tarjeta de la Sony al SSD** cada noche, con un hub USB-C
-  (lector + SSD + power bank a la vez). Su puerto es USB 3.2 Gen 2, así que
-  el cuello de botella es la tarjeta: ~20 GB en 3–5 minutos con un lector
-  UHS-II. El paso a paso está en [logística](../campo/logistica-viaje.md).
-- **Es la pantalla de revisión decente**: 6,3" contra 3" de la cámara. Para
-  el repaso de 10 minutos de cada noche vale mucho más.
-- **Es el mapa, el planificador y el reloj**: PhotoPills, Stellarium y los
+- **La segunda cámara**: vídeo, timelapses, macro y su modo astro en
+  paralelo.
+- **El mapa, el planificador y el reloj**: PhotoPills, Stellarium y los
   mapas offline ([apps](../referencia/apps-del-viaje.md)).
 - **Lo que NO va a hacer**: revelar RAW en serio, aplicar reducción de ruido
   por IA ni montar el vídeo. Eso espera a casa
   ([edición](../campo/edicion-basica.md)).
-- **Por eso su batería es crítica**: si el móvil se queda a cero, esa noche
-  no hay copia de seguridad. Power bank cargado, siempre.
 
 ## Los archivos: energía y copias
 
@@ -210,26 +205,24 @@ trabajo, y es un papel más importante que cualquiera de sus modos de cámara:
   regleta del alojamiento ([logística](../campo/logistica-viaje.md)). El modo astro y
   el timelapse comen mucho: móvil cargado antes de la noche.
 - **Copias**: en Namibia no cuentes con subir nada a Google Fotos (wifi
-  escaso y lento). Cada 2–3 noches, copia la carpeta DCIM al **SSD** con el
-  cable USB-C (la app Archivos del Pixel ve el SSD directamente), en el mismo
-  volcado que las tarjetas de la Sony. Al volver a casa, Google Fotos lo
-  subirá solo.
+  escaso y lento). Las fotos y clips del Pixel **se quedan en el móvil**
+  hasta casa, donde Google Fotos los subirá solos. Si quieres una segunda
+  copia en el Mac durante el viaje, el Mac no lee el Android por cable sin
+  una app: instálala en casa (OpenMTP, gratuita:
+  <https://openmtp.ganeshrvel.com/>) y pruébala antes de volar.
 - **Espacio**: el 4K ocupa del orden de 15 GB por hora; los DNG de 50 Mpx,
   decenas de MB cada uno; el modo astro guarda foto + vídeo. Como los
   timelapses y el recurso del vídeo son suyos, sal de casa con **al menos
-  100 GB libres**
-  y vacía al SSD cada 2–3 noches.
+  100 GB libres**: todo el viaje del Pixel se queda en él.
 - **Polvo y calor**: IP68 aguanta el polvo, no el sol directo en el
   salpicadero — si se calienta, la cámara se apaga sola. A la sombra o en el
   bolsillo entre paradas.
 
 ## Ejercicio (una tarde y una noche, antes de volar)
 
-1. **La cadena de copia, entera** (lo más importante de esta lista): hub +
-   lector + SSD + power bank conectados al móvil, y copia una carpeta de
-   verdad desde una SD de la Sony. Cronométralo. Si algo no encaja —un cable
-   sin datos, un hub que no alimenta— quieres descubrirlo en tu salón, no en
-   Okaukuejo.
+1. **El espacio**: deja **100 GB libres** en el móvil y comprueba que el
+   modo astro guarda la foto y su mini-vídeo. Todo lo que grabe en el viaje
+   se queda en él hasta casa.
 2. **Los tres gestos, sin mirar**: 0.5x, 2x y modo Visión Nocturna, cambiados
    en menos de tres segundos con el móvil en una mano.
 3. **Una noche de astro**: el móvil apoyado en una piedra, modo astro
@@ -250,7 +243,7 @@ trabajo, y es un papel más importante que cualquiera de sus modos de cámara:
 | El atardecer sale "correcto" y sin naranja | AWB: slider de balance de blancos hacia cálido en el Pro, y baja el brillo |
 | Panorámica con saltos de brillo | Hazla en un solo barrido, despacio, sin el sol dentro; o tomas sueltas a 0.5x con la lente fijada en el Pro y cóselas en casa ([panorámica](../mejora/paisaje-a-fondo.md)) |
 | Se calienta y se apaga la cámara | Sol en el salpicadero: a la sombra 5 minutos y funda clara |
-| Google Fotos no sube nada | Normal sin wifi: copia al SSD; se subirá en casa |
+| Google Fotos no sube nada | Normal sin wifi: se subirá en casa; mientras, mira que quede memoria libre |
 | Camera Coach no responde | Necesita más de lo que hay (conexión/procesado): úsalo en casa para aprender, no lo esperes en el parque |
 | El macro no salta | Estás a más de 5 cm o tapas la luz con el móvil: acércate y ladea para que entre luz lateral |
 

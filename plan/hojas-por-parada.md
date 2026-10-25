@@ -286,8 +286,8 @@ falte — decídelo esta tarde, no a las once.
 350 mm. Y la ciudad a la hora azul si te queda cuerpo.
 
 **La tarea del día** — importa más que la foto:
-- Comprobar que **las dos copias existen**: SSD verificado y tarjetas
-  etiquetadas.
+- Comprobar que **las dos copias existen**: volcado del Mac verificado y
+  tarjetas etiquetadas.
 - Repartirlas en **equipajes distintos** para el vuelo.
 - Limpieza a fondo del equipo, que lleva dos semanas de polvo.
 
@@ -302,7 +302,7 @@ edificios oficiales ni militares — es la clase de fricción que no compensa el
 1. **MR1 puesto** al arrancar, y la rutina de 10 segundos en cada escena.
 2. **Batería, tarjeta con hueco, objetivo con AF y OSS en ON.**
 3. **A la altura del ojo del animal**, siempre que se pueda.
-4. **Volcado nocturno al SSD**, verificado, antes de dormir.
+4. **Volcado nocturno al Mac**, verificado, antes de dormir.
 5. **Tres fotos del día** elegidas y una corrección para mañana.
 
 ## Para ampliar

@@ -194,6 +194,6 @@ ojo aguanta el 100 % y sabes, sin pensar, cuándo usas ráfaga y cuándo clip.
 - Ayuda de la Cámara Pixel — Top Shot y ráfagas: <https://support.google.com/pixelcamera/answer/9937175>
 - Ficha técnica oficial del Pixel 10 Pro: <https://store.google.com/product/pixel_10_pro_specs>
 - Segunda mano con garantía, por si el tele no llega: <https://www.mpb.com/>
-- La guía general del móvil (vídeo, macro, astro, el ordenador del viaje): [el Pixel 10 Pro](pixel-10-pro.md)
+- La guía general del móvil (vídeo, macro, astro, energía y copias): [el Pixel 10 Pro](pixel-10-pro.md)
 - Lo que hace cada animal y qué le pide al tele: [la fauna, animal por animal](fauna-de-namibia.md)
 - Lo que sí se entrena sin el tele: [los 29 ejercicios del 11 mm](../plan/ejercicios-11mm.md)

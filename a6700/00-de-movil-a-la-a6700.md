@@ -188,7 +188,7 @@ edición está explicada en la [guía de edición](../campo/edicion-basica.md).
 |---|---|
 | Una sola foto del momento bueno | Haz siempre 3; en fauna, ráfaga corta |
 | Salir por la mañana con el ISO 6400 de anoche | Las memorias 1/2 del dial lo resuelven solas: al volver a ellas recuperan lo guardado |
-| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en el ordenador. La a6700 tiene una sola ranura — lleva tarjetas de sobra ([logística](../campo/logistica-viaje.md)) |
+| Borrar fotos en la cámara "para hacer sitio" | Nunca: se criba en casa. La a6700 tiene una sola ranura — vuelca cada noche al Mac ([logística](../campo/logistica-viaje.md)) |
 | Fiarse del brillo de la pantalla a pleno sol | Histograma (arriba) |
 | Horizontes torcidos | Activa el **nivel electrónico** (botón DISP hasta verlo) |
 | Limpiar la lente con la camiseta | Pera + microfibra, siempre en la mochila |

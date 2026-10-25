@@ -3,7 +3,7 @@
 > 🔵 **Básico** · Da por sabido: [la edición básica](edicion-basica.md) · Te desbloquea: encontrar cualquier foto dentro de diez años, y convertir 4.000 disparos en veinte fotos que enseñas sin disculparte.
 
 De Namibia vuelves con unas **4.000 fotos y 200 clips**, repartidos entre dos
-cámaras y un SSD, con nombres tipo `DSC01847.ARW`. Si no haces nada, en tres
+cámaras, el Mac y las tarjetas (y el SSD, si fue), con nombres tipo `DSC01847.ARW`. Si no haces nada, en tres
 meses no encuentras nada y en tres años tienes un disco duro que da pereza
 abrir. Esta guía es el otro extremo del viaje: **el archivo que dura** y **la
 selección que convierte un montón de fotos en un trabajo**.
@@ -12,7 +12,7 @@ selección que convierte un montón de fotos en un trabajo**.
 
 | Cuándo | Qué haces |
 |---|---|
-| **Cada noche del viaje** | Volcado al SSD con el móvil (no va portátil), por carpetas de día y sin borrar nada ([logística](logistica-viaje.md)) |
+| **Cada noche del viaje** | Volcado al MacBook (y al SSD, si va), por carpetas de día y sin borrar nada ([logística](logistica-viaje.md)) |
 | **El día que llegas a casa** | Copia maestra + segunda copia + nube. Tres copias antes de dormir |
 | **Semana 1** | Importar, renombrar, palabras clave y la primera criba |
 | **Semana 2–3** | Revelar solo lo marcado, en tandas por escena |
@@ -23,9 +23,10 @@ selección que convierte un montón de fotos en un trabajo**.
 La regla es **3-2-1**: tres copias, en dos soportes distintos, una de ellas
 fuera de casa. Suena a paranoia hasta el día que un disco no monta.
 
-1. **La maestra**: el SSD del viaje, tal cual vino, sin tocar. No trabajes
-   sobre él. (Y sus gemelas: las **tarjetas SD llenas** que traes sin
-   formatear. No las vacíes hasta que las tres copias de abajo existan.)
+1. **La maestra**: la carpeta del viaje tal cual vino (en el SSD, si fue;
+   si no, la del Mac), sin tocar. No trabajes sobre ella. (Y sus gemelas:
+   las **tarjetas SD llenas** que traes sin formatear. No las vacíes hasta
+   que las tres copias de abajo existan.)
 2. **La copia de trabajo**: en el disco del ordenador o en un disco externo.
    Aquí importas, revelas y exportas.
 3. **La copia de fuera**: nube (Backblaze, Google One, iCloud, lo que ya
@@ -124,7 +125,7 @@ aficionado con buenas fotos de alguien con un **trabajo**.
 
 ## 7 · Y luego, que salgan del disco duro
 
-Una foto que solo vive en un SSD no existe del todo:
+Una foto que solo vive en un disco no existe del todo:
 
 - **Imprime seis.** En papel, a tamaño A3 en un laboratorio online (20–40 €
   las seis). Verás defectos que la pantalla esconde, y es lo que de verdad

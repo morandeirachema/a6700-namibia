@@ -18,11 +18,12 @@ un 20–40 %.
 
 > **Estado a 25 de octubre de 2026**: el cuerpo, el **11 mm**, el **70-350**
 > (prestado, ya probado, con fechas, seguro y firmware hablados con su
-> dueño), el trípode, el bean bag, el frontal, el power bank, el SSD (de
-> 500 GB), el lector UHS-II, las tres baterías con su cargador, el kit de
-> limpieza, los adaptadores tipo M y la cinta ya están en casa. Lo que queda
-> por comprar antes del 29 —una o dos tarjetas V60, hub, cable y el filtro
-> de 67 mm con su anillo— está en
+> dueño; viaja **sin filtro**), el trípode, el bean bag, el frontal, el
+> power bank, las **dos tarjetas V60 de 128 GB**, el lector UHS-II, el
+> **MacBook Neo** que hace las copias, el SSD de 500 GB (opcional), las tres
+> baterías con su cargador, el kit de limpieza, los adaptadores tipo M y la
+> cinta ya están en casa. **No queda nada imprescindible por comprar**: el
+> estado al día está en
 > [la lista de la compra](../plan/lista-de-la-compra.md), con precios y
 > urgencias. Las secciones de abajo explican **por qué** se eligió cada
 > cosa; siguen valiendo como referencia aunque ya no haya que comprarla.
@@ -47,8 +48,8 @@ esta y no otra:
 Dos peculiaridades que se asumen (y que esta guía ya tiene en cuenta):
 
 - **Una sola ranura de tarjeta** (SD UHS-II): no hay copia automática en
-  segunda tarjeta. La primera copia del viaje es el **volcado nocturno al
-  SSD** ([logística](../campo/logistica-viaje.md)) — con esta cámara no es
+  segunda tarjeta. La segunda copia del viaje es el **volcado nocturno al
+  Mac** ([logística](../campo/logistica-viaje.md)) — con esta cámara no es
   opcional.
 - **La caja no trae cargador**: la batería se carga por USB-C en la propia
   cámara. Funciona (y un power bank la revive en el campo), y el cargador doble
@@ -125,12 +126,11 @@ de este viaje lo hace el móvil, que enfoca a 3 cm
 
 ## Accesorios
 
-- **3 o 4 tarjetas SD UHS-II** (V60 de 128 GB, ~50–90 € cada una; V90 solo
-  si sobra presupuesto): la a6700 tiene una sola ranura y es UHS-II — una SD
-  lenta atasca las ráfagas. Y como **en este viaje no va portátil**, las
-  tarjetas llenas son una de tus dos copias de seguridad y **no se
-  reutilizan ni se formatean** en todo el viaje: por eso son tres o cuatro y
-  no dos ([logística](../campo/logistica-viaje.md)).
+- **Tarjetas SD UHS-II** (V60 de 128 GB, ~50–90 € cada una; V90 solo si
+  sobra presupuesto): la a6700 tiene una sola ranura y es UHS-II — una SD
+  lenta atasca las ráfagas. **Viajan dos**: las llenas son la otra copia de
+  sus días mientras no haya que reutilizarlas, y cuándo y cómo se reutiliza
+  una está en [logística](../campo/logistica-viaje.md).
 ### V30, V60 o V90: qué cambia de verdad
 
 La etiqueta **V** es la velocidad de **escritura sostenida** garantizada
@@ -186,15 +186,13 @@ decides meter cámara lenta en el vídeo. Las V30 baratas que ya tengas,
 guárdalas como respaldo de emergencia para foto — funcionan, simplemente te
 frenan (y para 4K, Sony no las da por buenas).
 
-- **El kit de copias sin portátil** (~170–230 € en total, y pesa menos que
-  el cargador de un portátil): **SSD portátil de 1 TB USB-C** (Samsung T7 o
-  SanDisk Extreme, 110–150 € — los precios de memoria suben en 2026),
-  **lector de tarjetas UHS-II USB-C** (25–40 €: un lector UHS-I barato es
-  3–4 veces más lento y alarga el volcado de cada noche), **hub USB-C con
-  entrada de carga** (20–35 €, para tener lector y SSD conectados al Pixel a
-  la vez) y un **cable USB-C de datos** (8–12 €; muchos cables de carga no
-  llevan datos: compruébalo en casa). El paso a paso, en
-  [logística](../campo/logistica-viaje.md).
+- **El kit de copias**: el **MacBook Neo** (250 GB de disco: no cabe el
+  viaje entero dos veces), un **lector de tarjetas UHS-II USB-C** (25–40 €:
+  uno UHS-I barato es 3–4 veces más lento y alarga el volcado de cada noche)
+  y, **opcional y recomendado**, un **SSD portátil USB-C** — el de 500 GB que
+  ya tienes da dos copias de todo el viaje (si comprases uno: Samsung T7 o
+  SanDisk Extreme de 1 TB, 90–150 €). La cuenta en fotos y el paso a paso,
+  en [logística](../campo/logistica-viaje.md).
 - **2 baterías NP-FZ100 extra** (originales de segunda mano o compatibles de
   marca conocida) + **cargador doble por USB (~30–40 €)**: la caja no trae
   cargador. La cámara carga por USB-C — un power bank la revive en el campo
@@ -220,8 +218,10 @@ frenan (y para 4K, Sony no las da por buenas).
   15–25 € vacío (busca "camera bean bag"), o hazlo tú: una funda pequeña de
   cojín con cremallera. Viaja **vacío** (pesa 1,5–2 kg lleno) y se rellena
   allí con arroz o alubias del primer supermercado; se vacía antes de volver.
-- **Filtros (el protector, obligatorio: el tele es prestado) y el anillo
-  que ahorra dinero**: los dos objetivos
+- **Filtros: en este viaje no va ninguno** (decisión del 25 de octubre). El
+  70-350 prestado se protege con el parasol siempre puesto, la tapa entre
+  escenas y la pera antes de tocar el cristal. Por si algún día los compras,
+  el **anillo que ahorra dinero**: los dos objetivos
   **no** comparten rosca — el 11 mm es de **55 mm** y el 70-350 de **67 mm**.
   La solución barata es un **anillo step-up 55→67** (~8 €): compras todos los
   filtros en 67 mm y sirven para los dos. Con eso: un **filtro protector**

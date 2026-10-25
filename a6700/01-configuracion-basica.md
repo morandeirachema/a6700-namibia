@@ -145,10 +145,10 @@ guardar. Caben 3 memorias en la cámara y 4 más (M1–M4) en la tarjeta.
 ## Una sola tarjeta: el plan de copias
 
 La a6700 tiene **una sola ranura SD** — no existe la segunda tarjeta espejo,
-así que la primera copia de seguridad es el **volcado de cada noche** al SSD
-—que en este viaje se hace **con el Pixel, sin portátil**: hub, lector y SSD—,
-y las tarjetas llenas **no se reutilizan en todo el viaje**: volcadas y
-comprobadas, son la segunda copia. Compra la tarjeta rápida (**UHS-II**, V60 va sobrada) para que
+así que la segunda copia es el **volcado de cada noche** al MacBook (con el
+lector UHS-II, y al SSD si lo llevas), y las tarjetas llenas **no se
+reutilizan** mientras haya otra con hueco: volcadas y comprobadas, son la
+otra copia. Compra la tarjeta rápida (**UHS-II**, V60 va sobrada) para que
 las ráfagas en RAW no se atasquen. El sistema completo de copias del viaje
 está en la [guía de logística](../campo/logistica-viaje.md).
 

@@ -14,22 +14,24 @@ teoría de color: un flujo que funciona, en orden.
 
 Los pasos de abajo valen para ambos; los nombres exactos cambian un poco.
 
-> **En el viaje no hay ordenador** (decisión tomada: no va portátil). Durante
-> las dos semanas solo pasan dos cosas: el **volcado nocturno** al SSD con el
-> móvil ([logística](logistica-viaje.md)) y el **repaso de 10 minutos** de
-> aquí abajo. Nada de cribar ni revelar sobre la marcha: se empieza al
-> volver, y el orden está en [el archivo y la selección](archivo-y-seleccion.md).
+> **En el viaje el Mac copia y revisa, no revela** (decisión del 25 de
+> octubre de 2026). Durante las dos semanas solo pasan dos cosas: el
+> **volcado nocturno** al MacBook ([logística](logistica-viaje.md)) y el
+> **repaso de 10 minutos** de aquí abajo. Nada de borrar ni revelar sobre la
+> marcha: se empieza al volver, y el orden está en
+> [el archivo y la selección](archivo-y-seleccion.md).
 
 ## El repaso de cada noche (10 minutos, sin editar)
 
 El hábito que hace que mejores *durante* el viaje, no al volver. Tras el
 volcado de seguridad ([logística](logistica-viaje.md)), con las fotos del día.
 
-**Y en este viaje se hace sin ordenador**: no va portátil, así que el repaso
-es en la **pantalla de la cámara** (con ▶ y la rueda para ampliar sobre el
-punto de enfoque, [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)) o en el
-Pixel, que ya tienes conectado al SSD haciendo el volcado. Todo lo demás de
-esta guía —revelar, ruido, apilar, montar— **espera a casa**.
+**Y en este viaje se hace en el Mac**, recién hecho el volcado: las fotos
+del día al 100 % en pantalla grande, que es donde de verdad se ve si el ojo
+está nítido (o en la **pantalla de la cámara**, con ▶ y AF-ON para ampliar
+sobre el punto de enfoque, [capítulo 0.5](../a6700/00b-menus-y-primer-dia.md)).
+Las tres del día se marcan con estrellas. Todo lo demás de esta guía
+—revelar, ruido, apilar, montar— **espera a casa**.
 
 1. Elige tus **3 mejores** del día. Solo eso — cría el ojo y la moral.
 2. Busca el **error que se repite**: ¿movidas? → obturación corta la próxima
@@ -248,7 +250,7 @@ desierto → costa → safari → noche → cierre). El montaje, paso a paso en
 <https://www.blackmagicdesign.com/products/davinciresolve>):
 
 1. Proyecto nuevo → importa la carpeta de clips del viaje (ya volcados por
-   días al SSD). Los de la Sony y los del móvil van juntos: distinta cámara,
+   días en el viaje). Los de la Sony y los del móvil van juntos: distinta cámara,
    misma línea de tiempo (si el color no casa, iguala el del móvil al de la
    Sony con la rueda de temperatura, no al revés). La frecuencia de la línea
    de tiempo, a **25 fps** —la de la Sony—, fijada en los ajustes del

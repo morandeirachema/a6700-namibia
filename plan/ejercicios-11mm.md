@@ -101,8 +101,8 @@ Y lo que se hacía mientras tanto, que sigue sirviendo de calentamiento:
 | La compresión y el fondo desenfocado | El bloque 2 te deja el concepto entendido; con el tele solo cambia la escala |
 | La prueba de aceptación del objetivo | Hecha ✅ ([verificación, §2](../a6700/verificacion-in-situ.md)): era para conocer sus defectos con tiempo, no para devolverlo |
 
-Y dos que no dependen de ningún objetivo: la **cadena de copias** (hub +
-lector + SSD, cronometrada) en cuanto tengas el kit, y los ejercicios de
+Y dos que no dependen de ningún objetivo: la **cadena de copias** (lector +
+Mac, cronometrada, apuntando el espacio libre del Mac), y los ejercicios de
 **ver** del [cuaderno de composición](cuaderno-de-composicion.md), que se
 hacen sin cámara.
 

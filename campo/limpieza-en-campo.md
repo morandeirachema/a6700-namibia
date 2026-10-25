@@ -49,19 +49,18 @@ desgasta los tratamientos.
 ## Las peculiaridades de tu equipo
 
 - **El 11 mm**: frontal abombado pero **con rosca de 55 mm** y parasol
-  desmontable — un filtro protector barato (~20 €, o el de 67 mm con el
-  anillo step-up del [equipo](../a6700/05-equipo-accesorios.md)) es una
-  opción razonable contra el polvo, y la tapa va puesta **siempre** que no
-  estés disparando, también entre tomas de astro si sopla viento. Con la
+  desmontable. En este viaje va **sin filtro** (decisión del 25 de
+  octubre), así que la tapa va puesta **siempre** que no estés disparando, también entre tomas de astro si sopla viento. Con la
   pera y el pincel, sigue la curvatura del cristal.
 - **El 70-350**: el zoom se extiende y al moverlo **bombea aire** (y con él,
   polvo) hacia dentro. En días de polvo o viento del este: zoom con
   moderación, guárdalo retraído a 70 mm con el bloqueo echado, y pasa el
   pincel por el **anillo de goma del zoom** cada noche — la arena ahí dentro
-  es lo que acaba rayando el barrilete y endureciendo el giro. Rosca de
-  **67 mm** para el filtro protector (~20–30 €); y disciplina de **parasol
-  siempre montado** (protege de golpes, roces y parte del polvo) y tapa entre
-  escenas.
+  es lo que acaba rayando el barrilete y endureciendo el giro. Va **sin
+  filtro** —y es prestado—, así que la protección es pura disciplina:
+  **parasol siempre montado** (protege de golpes, roces, dedos y parte del
+  polvo), tapa entre escenas y en cada trayecto de grava, y pera **antes** de
+  tocar el cristal.
 - **Lente trasera y montura**: mismo método (pera → pincel → húmeda si hace
   falta) con el objetivo desmontado **dentro del coche o la habitación**,
   nunca al aire libre. Los **contactos dorados** de los dos objetivos y del
@@ -105,8 +104,8 @@ desgasta los tratamientos.
 
 ## Ejercicio (20 minutos, en casa, antes de volar)
 
-1. Mancha **a propósito** el filtro protector (no la lente) con una huella
-   y un poco de polvo de la estantería.
+1. Mancha **a propósito** unas gafas viejas o un cristal de reloj (no la
+   lente) con una huella y un poco de polvo de la estantería.
 2. Cronómetro: la secuencia completa — pera boca abajo, pincel del centro
    hacia fuera, húmeda en el pañuelo, seca, revisión a contraluz.
 3. Contactos de los dos objetivos y del cuerpo con microfibra seca, y
