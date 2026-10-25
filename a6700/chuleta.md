@@ -28,7 +28,7 @@ día **5200** · nublado/tormenta **6000** · sombra **7000** · amanecer/atarde
 
 ## Plan de la noche (1–14 nov)
 
-**Pixel apoyado y disparando su astro** (4 min por foto, otra dirección, con silueta) · **20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 10**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes)
+**Pixel apoyado y disparando su astro** (4 min por foto, otra dirección, con silueta) · **20:25** oscuridad total → núcleo bajo al OSO 45–75 min (**solo del 1 al 10**) → **21:30** Nubes de Magallanes al sur (apila 15–20 tomas) → **23:00** banda de Orión por el este · Saturno culmina ~22:30 · star trails toda la noche (polo: plano sur a 19°, triángulo de las dos Nubes) · **03:30–04:30 (6–13 nov, sin luna)**: Carina y la Cruz del Sur al SSE — despertador a las 03:45 en Etosha
 
 ## Histograma — en vivo con DISP; míralo tras CADA cambio de luz
 
@@ -53,7 +53,7 @@ safari: montaña centrada, nada toca el borde derecho · paisaje: todo el ancho 
 
 ## Antes de arrancar cada día
 
-Volver a MR1 (restaura todo) · batería + repuesto · SD con hueco · 70-350: **AF · OSS ON · bloqueo de zoom** · cargador USB-C/power bank a mano (la caja no trae cargador) · pera y microfibra · bean bag · Pixel cargado y con hueco
+Volver a MR1 (restaura todo) · batería + repuesto · SD con hueco · 70-350: **AF · OSS ON · bloqueo de zoom** · cargador USB-C/power bank a mano (la caja no trae cargador) · pera y microfibra · bean bag · Pixel cargado y con hueco · **diales**: delantero = velocidad, trasero = abertura (si no, intercámbialos en `Ajuste t. pers./dial`) · **C1** pantalla brillante (solo en MF) · **C3** lupa
 
 ## Enfocar una estrella (resumen)
 
