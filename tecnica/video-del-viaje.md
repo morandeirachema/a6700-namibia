@@ -24,16 +24,22 @@ solo en los planos de fauna.
 
 ## La receta rápida
 
-Buena noticia: **el selector Foto / Vídeo / S&Q guarda ajustes propios para
-cada modo**, así que esto se queda puesto y no te pisa el modo safari. No
-hace falta gastar una memoria del dial ([capítulo 1](../a6700/01-configuracion-basica.md)).
+Buena noticia: **el selector Foto / Vídeo / S&Q puede llevar el vídeo
+aparte de la foto**, así que esto se queda puesto y no te pisa el modo
+safari — **con una condición**: antes de tocar nada de vídeo, abre
+`Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]` y marca **las ocho casillas** (abertura, velocidad, ISO,
+compensación, medición, balance de blancos, perfil y modo de enfoque).
+Sin eso, esos ocho ajustes son **comunes** a foto y vídeo, y tu 1/50 de
+vídeo aparecería en la foto. El formato, el SteadyShot, los botones y el
+menú Fn ya van separados de serie. No hace falta gastar una memoria del
+dial ([capítulo 1](../a6700/01-configuracion-basica.md)).
 
 | Ajuste | Valor | Por qué |
 |---|---|---|
-| Selector | **Vídeo** | Ajustes independientes de los de foto |
+| Selector | **Vídeo** | Independiente de la foto, con las ocho casillas de `Ajust dif imgs fij/víd` marcadas |
 | Modo de exposición | **M** con **ISO Auto** (100–6400) | Fijas movimiento y profundidad; el ISO absorbe los cambios de luz |
 | Formato | XAVC S 4K · **25p · 100 Mbps** | 4K de sobra y archivos manejables (~45 GB/hora) |
-| Sistema de vídeo | **PAL** (`Selector NTSC/PAL`), comprobado **en casa** | Cambiarlo **obliga a formatear la tarjeta**: en el viaje sería perder fotos |
+| Sistema de vídeo | **PAL** (`Selector NTSC/PAL`), comprobado **en casa** | Con una tarjeta formateada en el otro sistema, la cámara puede pedirte **reformatearla** para grabar: en el viaje sería perder fotos |
 | Obturación | **1/50 s** | La "regla del 180°": el movimiento sale natural, ni a saltos ni pastoso |
 | Apertura | **f/4 – f/5.6** de día · **f/1.8 – f/2.8** al anochecer o dentro | A f/1.8 con sol te sobran pasos de luz aunque tengas ND |
 | ISO | Auto, tope 6400 | De noche sube solo; el 11 mm es luminoso |
@@ -53,9 +59,10 @@ solución de verdad.
 ## La tarjeta: para esto no hace falta la buena
 
 Dato que ahorra dinero: la receta de este vídeo (**XAVC S 4K 25p a 100
-Mbps**) son **12,5 MB/s**, así que a Sony le vale con una **U3/V30**. Las
-tarjetas rápidas del viaje son para las **ráfagas de fauna**, no para el
-vídeo.
+Mbps**) son solo **12,5 MB/s**, pero Sony no hace la cuenta por tasa sino
+por formato: para **XAVC S 4K pide V60 o superior**. Tus V60 cumplen de
+sobra, así que no hay nada que comprar: la velocidad que de verdad exprimen
+es la de las **ráfagas de fauna**, no la del vídeo.
 
 La excepción, si alguna vez quieres **cámara lenta**: el modo **S&Q** en 4K
 grava entre 445 y 560 Mbps y Sony exige **V90** — sin ella, la cámara ni

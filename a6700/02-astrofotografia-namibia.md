@@ -49,7 +49,7 @@ visible gran parte de la noche.
   Stellarium (<https://stellarium.org/>).
 - [ ] ¿Timelapse o star trails? Nada que comprar: el **intervalómetro va
   integrado** en la cámara (ver abajo).
-- [ ] **Bright Monitoring** asignado a un botón ([capítulo 1](01-configuracion-basica.md)):
+- [ ] **`Verificac. luminosa`** (*Bright Monitoring*) asignada a un botón ([capítulo 1](01-configuracion-basica.md)):
   es tu linterna para componer a oscuras.
 
 ## En el sitio, paso a paso
@@ -57,7 +57,8 @@ visible gran parte de la noche.
 1. **Monta el trípode** bien asentado; cuelga la mochila del gancho central si
    hay viento.
 2. Dial a **MR2** (o pon la receta de arriba a mano).
-3. **Componer a oscuras**: pulsa el botón de **Bright Monitoring** — la
+3. **Componer a oscuras**: pulsa el botón de **`Verificac. luminosa`** (con el enfoque ya en MF: con AF
+   no funciona) — la
    pantalla amplifica el live view y la Vía Láctea aparece dibujada; encuadras
    mirando el cielo real, no a ciegas. (El truco alternativo de siempre, por
    si algún día no lo tienes configurado: una foto de reconocimiento "sucia"
@@ -239,7 +240,7 @@ enfoque y el manejo a tientas.
    punto. Cinta en el anillo. Repítelo **cinco veces** desenfocando entre
    medias, con el cronómetro: el objetivo es bajar de dos minutos.
 2. **La noche a oscuras.** Sin mirar la cámara: enciende, gira a MR2, activa
-   Bright Monitoring, dispara con temporizador y revisa el histograma. Todo
+   `Verificac. luminosa`, dispara con temporizador y revisa el histograma. Todo
    con frontal roja. En Namibia lo harás medio dormido y con frío.
 3. **Y una serie de verdad**: 60 tomas de 30 s con el intervalómetro
    apuntando a cualquier sitio, y apílalas en StarStaX. Aunque salgan cuatro

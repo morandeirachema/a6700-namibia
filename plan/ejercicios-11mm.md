@@ -33,7 +33,7 @@ dice **qué haces**, **cuándo está aprobado** y de qué guía sale.
 | ☐ | Ejercicio | Aprobado cuando… |
 |---|---|---|
 | ☐ 5 | **Los tres números**: mismo objeto, cuatro exposiciones equivalentes de 1/60·f/8·ISO400 a 1/500·f/2.8 ([por qué funciona](../mejora/por-que-funciona.md)) | Las cuatro tienen la misma luz y sabes qué pagaste en cada una |
-| ☐ 6 | **Enfoque al pulgar**: `AF con disparador` en Desactivar, y dispara 50 fotos así | Ya no buscas el enfoque con el índice, ni una vez |
+| ☐ 6 | **Enfoque al pulgar**: `AF c/obturador` en Desactivar, y dispara 50 fotos así | Ya no buscas el enfoque con el índice, ni una vez |
 | ☐ 7 | **El histograma**: pared blanca a −2, −1, 0, +1, +2, y luego algo negro ([histograma](../referencia/histograma.md)) | Miras el histograma antes que la foto, y sabes qué rueda tocar |
 | ☐ 8 | **Zebra 100+** activado: encuentra algo que raye y corrígelo con compensación | Distingues el brillo puntual (ignorable) de la superficie quemada |
 | ☐ 9 | **Reproducción**: gira la rueda para ampliar sobre el punto de enfoque, y el dial para saltar de foto sin perder el zoom | Revisas 30 fotos comprobando el foco en menos de un minuto |
@@ -65,7 +65,7 @@ llegas a la **luna nueva del ~11 de septiembre** con la técnica hecha.
 |---|---|---|
 | ☐ 18 | **Enfocar una estrella**, cronometrado: lupa + peaking sobre la más brillante, hasta el punto mínimo, y cinta en el anillo | Bajas de **dos minutos**, cinco veces seguidas, desenfocando entre medias |
 | ☐ 19 | **MR2 completa**: M, 20 s, f/1.8, ISO 1600, WB 3900 K, MF, temporizador 2 s, SteadyShot OFF — guardada y probada | Giras el dial a 2 y la noche entera queda puesta |
-| ☐ 20 | **Bright Monitoring** en un botón, y encuadra a oscuras con él | Compones sin linterna, viendo lo que hay |
+| ☐ 20 | **`Verificac. luminosa`** (*Bright Monitoring*) en un botón, y encuadra a oscuras con él | Compones sin linterna, viendo lo que hay |
 | ☐ 21 | **Tu primera foto de estrellas**, aunque tu cielo sea malo ([estrellas con la tierra](../mejora/estrellas-con-tierra.md), noche 1) | Estrellas puntuales al 100 % y el histograma en el primer tercio |
 | ☐ 22 | **La postal**: cielo + una silueta elegida **de día** (un árbol, una torre, un tejado) | El objeto se lee solo, y no tapa nada del cielo |
 | ☐ 23 | **Star trails con el intervalómetro**: `Func. capt. interv.`, 30 s de exposición, intervalo 31 s, 90 tomas, **RR exposic. larga en Desactivar** | 45 minutos de serie y los arcos salen continuos, sin cortes |
@@ -81,7 +81,7 @@ entrena ya.
 
 | ☐ | Ejercicio | Aprobado cuando… |
 |---|---|---|
-| ☐ 25 | Deja el `Selector NTSC/PAL` en **PAL** (formatea la tarjeta: hazlo ahora, no en el viaje) y los cinco ajustes de vídeo del [capítulo 1](../a6700/01-configuracion-basica.md) | El selector de Vídeo tiene su receta y no te pisa el modo foto |
+| ☐ 25 | Deja el `Selector NTSC/PAL` en **PAL** (puede pedir formatear la tarjeta: hazlo ahora, no en el viaje) y marca las ocho casillas de `Ajust dif imgs fij/víd` y los cinco ajustes de vídeo del [capítulo 1](../a6700/01-configuracion-basica.md) | El selector de Vídeo tiene su receta y no te pisa el modo foto |
 | ☐ 26 | **Veinte clips de 5 s** en parejas (ancho + detalle), con SteadyShot **Activo**, y 30 s de sonido ambiente | Los ves en pantalla grande y no tiemblan |
 | ☐ 27 | **Un clip de 40 s** montado con música esa misma noche | Existe. Aunque sea malo |
 

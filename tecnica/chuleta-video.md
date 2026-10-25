@@ -2,13 +2,13 @@
 
 Detalle: la guía del vídeo · montaje: la guía de edición — **3 minutos, sin voz: imágenes, ambiente y música**
 
-## Ajustes (selector en **Vídeo** — guarda ajustes propios: no te pisa el modo safari)
+## Ajustes (selector en **Vídeo**, con las 8 casillas de `Ajust dif imgs fij/víd` marcadas: no te pisa el safari)
 
 | | Valor | Si… |
 |---|---|---|
 | Modo | **M + ISO Auto** (100–6400) | — |
 | Formato | XAVC S **4K · 25p · 100 Mbps** | ~45 GB/hora |
-| Sistema | **PAL** (comprobado en casa) | Cambiar NTSC⇄PAL **formatea la tarjeta**: nunca en el viaje |
+| Sistema | **PAL** (comprobado en casa) | Cambiar NTSC⇄PAL puede **pedir formatear**: nunca en el viaje |
 | Obturación | **1/50** | Sol y sin ND: sube a 1/200 antes que quemar |
 | Apertura | **f/4–5.6** día · **f/1.8–2.8** anochecer e interior | Fauna: la mínima del tele |
 | ISO | Auto, tope 6400 | Noche: manual 6400 |

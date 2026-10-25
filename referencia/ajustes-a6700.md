@@ -73,7 +73,7 @@ Esto se hace en casa, antes de volar, y no se vuelve a mirar en todo el viaje.
 | **Idioma** | `Ajustes → [Idioma]` | Español | — |
 | **Área / fecha / hora** | `Ajustes → [Área/fecha] → [Aj. área/fecha/hora]` | Hora de **Namibia** al aterrizar | Ordenar 4.000 fotos por hora depende de esto |
 | **Formatear** | `Toma → [Soporte] → [Formatear]` | Cada tarjeta nueva, **en la cámara** | Y **nunca más** durante el viaje: las tarjetas son tu segunda copia |
-| **AF con disparador** | `Enfoque → [AF/MF] → [AF con disparador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
+| **AF c/obturador** | `Enfoque → [AF/MF] → [AF c/obturador]` | **Desactivar** | Es lo que separa enfoque (pulgar) y disparo (índice) |
 | **Vis. lín. cuadrícul.** | `Toma → [Visualizac. toma] → [Vis. lín. cuadrícul.]` | **Activar** | La herramienta de encuadre: aire de la mirada y horizontes rectos |
 | **Tipo lín. cuadríc.** | `Toma → [Visualizac. toma] → [Tipo lín. cuadríc.]` | **Regla de tres** | Es la que se corresponde con los encuadres del atlas |
 | **Rev.automática** | `Ajustes → [Opción de visual.] → [Rev.automática]` | **Desactivar** | Te tapa el visor justo cuando la escena sigue pasando |
@@ -92,7 +92,7 @@ solo tocas la rueda delantera.
 │  AF/MF                                             │
 │    Modo de enfoque .................. AF-C   ◀     │
 │    Sens. Seguim. AF ................. 3            │
-│    AF con disparador ................ Desactivar   │
+│    AF c/obturador ................... Desactivar   │
 │  Área de enfoque                                   │
 │    Área de enfoque .................. Zona   ◀     │
 │  Reconoc. motivo                                   │
@@ -199,21 +199,24 @@ Estos tres son los que vas a querer a mano. Mételos en el **menú Fn** y en
 - Añadir a Mi Menú: `Mi Menú → [Ajuste Mi Menú] → [Añadir elemento]`, y luego
   `[Mostrar de Mi Menú] → Activar` para que **MENU abra directamente ahí**.
 - Asignar un botón (C1, C2, C3): `Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`.
-  Los dos que valen la pena: **Bright Monitoring** (componer la Vía Láctea
+  Los dos que valen la pena: **`Verificac. luminosa`** (*Bright Monitoring*: componer la Vía Láctea
   viéndola) y, mientras aprendes, **Guía en la cámara**.
 
 ---
 
 ## Bloque E, vídeo: con el selector en Vídeo
 
-El selector **Foto / Vídeo / S&Q** guarda ajustes propios por modo: esto se
-pone una vez, en casa, y no toca a MR1 ni a MR2. El porqué de cada valor, en
+El selector **Foto / Vídeo / S&Q** separa el vídeo de la foto **si se lo
+pides**: primero `Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]`
+con las ocho casillas marcadas (fila de abajo). Luego esto se pone una vez,
+en casa, y no toca a MR1 ni a MR2. El porqué de cada valor, en
 el [capítulo 1](../a6700/01-configuracion-basica.md) y en
 [el vídeo del viaje](../tecnica/video-del-viaje.md).
 
 | Ajuste | Ruta | Valor |
 |---|---|---|
-| **Selector NTSC/PAL** | `Ajustes → [Área/fecha] → [Selector NTSC/PAL]` | **PAL** — cambiarlo **formatea la tarjeta**: en casa, nunca en el viaje |
+| **Ajust dif imgs fij/víd** | `Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]` | **Las ocho casillas marcadas**, antes de tocar nada de vídeo. Sin eso, abertura, velocidad, ISO, compensación, medición, balance, perfil y modo de enfoque son comunes a foto y vídeo |
+| **Selector NTSC/PAL** | `Ajustes → [Área/fecha] → [Selector NTSC/PAL]` | **PAL** — con una tarjeta formateada en el otro sistema puede pedir **reformatearla**: en casa, nunca en el viaje |
 | **Formato archivo** (película) | `Toma → [Calid. img/grab.] → [Formato archivo]` | **XAVC S 4K**, a **25p · 100 Mbps** |
 | Modo · obturación | Dial y ruedas | **M con ISO AUTO**, **1/50** |
 | **Perfil de imagen** | `Exposición/color → [Color/tono] → [Perfil de imagen]` | **OFF** (sin perfil: nada de S-Log3) |

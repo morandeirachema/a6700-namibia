@@ -76,8 +76,10 @@ pidiendo en el viaje (0.5x, macro, modo astro, panorámicas) está en
   - **1 y 2**: memorias con todo preconfigurado ([capítulo 1](01-configuracion-basica.md)).
 - **El selector Foto / Vídeo / S&Q** (el anillo de debajo del dial de modos):
   cambia entre hacer fotos, grabar vídeo y cámara lenta/timelapse. Lo bueno
-  para un novato: **cada modo recuerda sus propios ajustes**, así que poner
-  la cámara en vídeo no te descoloca el modo safari. El vídeo del viaje —tres
+  para un novato: **el vídeo puede llevar sus propios ajustes**, así que
+  poner la cámara en vídeo no te descoloca el modo safari (hay que pedírselo
+  una vez, marcando las casillas de `Ajust dif imgs fij/víd`: lo explica el
+  [capítulo 1](01-configuracion-basica.md)). El vídeo del viaje —tres
   minutos sin voz, con sonido ambiente y música— tiene
   [su guía](../tecnica/video-del-viaje.md).
 - **Tres ruedas**: la delantera (junto al disparador), la trasera superior y

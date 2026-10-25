@@ -172,18 +172,19 @@ Sony lo publica formato a formato:
 
 | Lo que grabes | Tarjeta mínima que exige Sony |
 |---|---|
-| **XAVC S 4K 100 Mbps** (la receta de este viaje: 4K 25p) | **U3 / V30 va sobrada** — son 12,5 MB/s |
-| XAVC S / HS 4K a 280 Mbps | **V60** |
+| **XAVC S y XAVC HS 4K**, a cualquier tasa (también la receta de este viaje: 4K 25p 100 Mbps) | **V60** — Sony lo pide por formato, aunque 100 Mbps sean solo 12,5 MB/s |
+| XAVC S HD (1080) | U3 |
 | **S&Q (cámara lenta, 4K120)** | **V90 obligatoria** (445–560 Mbps) |
 | XAVC S-I (All-Intra, 600 Mbps) | **V90 obligatoria** |
 
-Traducido a tu viaje: **para el vídeo de tres minutos, una V30 bastaría**;
-para las ráfagas de fauna, no. Si en algún momento quieres **cámara lenta de
+Traducido a tu viaje: **tus V60 cubren el vídeo de tres minutos y las
+ráfagas de fauna**; una V30 se quedaría corta para las dos cosas. Si en algún momento quieres **cámara lenta de
 un animal corriendo**, esa toma exige una V90 y no hay atajo.
 
 **Conclusión de compra**: **V60 UHS-II** para todo, y una **V90** solo si
 decides meter cámara lenta en el vídeo. Las V30 baratas que ya tengas,
-guárdalas como respaldo de emergencia — funcionan, simplemente te frenan.
+guárdalas como respaldo de emergencia para foto — funcionan, simplemente te
+frenan (y para 4K, Sony no las da por buenas).
 
 - **El kit de copias sin portátil** (~170–230 € en total, y pesa menos que
   el cargador de un portátil): **SSD portátil de 1 TB USB-C** (Samsung T7 o

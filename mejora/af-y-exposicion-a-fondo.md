@@ -72,8 +72,8 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 - **AF-ON al pulgar**: enfoque separado del disparador
   ([capítulo 1](../a6700/01-configuracion-basica.md)) — para esperar el
   momento sin que la cámara reenfoque al arbusto.
-- **Un botón custom = Bright Monitoring**: asignado desde la personalización
-  de botones, amplifica el visor en plena oscuridad — tu botón de "ver la
+- **Un botón custom = `Verificac. luminosa`** (*Bright Monitoring* en
+  inglés): asignado desde la personalización de botones, amplifica el visor en plena oscuridad — tu botón de "ver la
   noche" para componer el astro sin fotos de prueba.
 - **El ISO sin sacar el ojo del visor**: de serie ya vive en la flecha
   derecha de la rueda de control — déjalo ahí: en las noches de ISO manual
@@ -129,7 +129,7 @@ El metaconsejo: no memorices combinaciones — mete estos tres ajustes en
 | DMF no responde al anillo | El interruptor **AF/MF** del objetivo está en MF (o el modo de enfoque no es DMF) |
 | El AF recorre todo el rango a 350 mm y no fija | No hay limitador: apunta a un borde con contraste antes de soltar AF-ON, o llévale el foco cerca con DMF |
 | MR3 no recupera el reconocimiento en Ave | Guardaste la memoria con otro `Dest. reconocim.`: ponlo en Ave y vuelve a guardar con `Mem. ajustes cám` |
-| Bright Monitoring no aparece en el botón | Solo funciona en modo foto (no en vídeo) y con la exposición manual: comprueba el selector y el modo M |
+| `Verificac. luminosa` no hace nada, o se apaga sola | Solo funciona en foto, en P/A/S/M y con el enfoque en **MF**: con AF, al abrir la lupa (`Amplific. enfoque`) o al apagar la cámara se cancela. Encuadra primero, enfoca después |
 | A f/8 el ISO se dispara y la foto sale ruidosa | Compraste nitidez de borde pagándola con ruido: vuelve a f/6.3 — la regla es nunca cerrar a costa del ISO o de la obturación |
 
 ## Ejercicio (una tarde, antes de volar)
@@ -157,7 +157,7 @@ sabes decir en una frase cuándo bajas la sensibilidad a 1 y cuándo la subes.
 
 - Sensibilidad de seguimiento del AF (Help Guide oficial a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0405D_af_tracking_sensitivity.html>
 - Compensación de exposición, también en M+ISO Auto (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0406B_exposure_compensation.html>
-- Bright Monitoring (Help Guide a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0414H_bright_monitoring.html>
+- Verificac. luminosa / Bright Monitoring (Guía de ayuda a6700): <https://helpguide.sony.net/ilc/2320/v1/en/contents/0414H_bright_monitoring.html>
 - Review de referencia del Sony E 70-350mm G OSS (Dustin Abbott): <https://dustinabbott.net/2022/05/sony-e-70-350mm-f4-5-6-3-g-oss-review/>
 - Apilar las Nubes de Magallanes sin seguimiento (Ian Morison): <https://www.ianmorison.com/imaging-the-magellanic-clouds-without-a-tracking-mount/>
 - Entrevista a Marsel van Oosten (previsualización y composición): <https://www.photocascadia.com/an-interview-with-marsel-van-oosten-from-adrian-klein/>

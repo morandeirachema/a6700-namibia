@@ -32,7 +32,7 @@ Tierra gira. Si la foto dura pocos segundos, salen como **puntos** (noches
 `RR exposic. larga` **Desactivar** (importantísimo: si está ON,
 cada foto va seguida de la misma pausa a oscuras) · disparo con
 **temporizador de 2 s** (para no mover la cámara al pulsar) ·
-**Bright Monitoring** asignado a un botón (amplifica la pantalla en plena oscuridad: tu linterna para
+**`Verificac. luminosa`** (*Bright Monitoring*) asignada a un botón (amplifica la pantalla en plena oscuridad: tu linterna para
 componer). Todo está en el
 [capítulo 1](../a6700/01-configuracion-basica.md), o directamente en el
 modo **MR2**, que ya lo guarda.
@@ -57,7 +57,7 @@ Nada más.
 
 1. **Monta el trípode** firme, patas bien abiertas. Cuelga la mochila del
    gancho central si hay viento. SteadyShot **OFF** (en trípode, siempre).
-2. **Apunta al cielo** y encuadra con **Bright Monitoring**: pulsas su botón
+2. **Apunta al cielo** y encuadra con **`Verificac. luminosa`**: pulsas su botón
    y la pantalla amplifica la escena — ves las estrellas y el horizonte de
    verdad, no una pantalla negra. (¿No lo configuraste? El truco clásico:
    una **"foto sucia"** de 5 s a ISO 25600 — sale horrible, pero te enseña

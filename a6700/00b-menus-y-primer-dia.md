@@ -56,7 +56,7 @@ nada más hoy**: eso es el capítulo 1.
 | Mando | Dónde | Para qué |
 |---|---|---|
 | **Dial de modos** | Arriba a la derecha | A, S, M y las memorias 1/2/3 |
-| **Selector Foto / Vídeo / S&Q** | Anillo bajo el dial de modos | Cambia entre foto, vídeo y cámara lenta. **Cada modo guarda sus propios ajustes** |
+| **Selector Foto / Vídeo / S&Q** | Anillo bajo el dial de modos | Cambia entre foto, vídeo y cámara lenta. El vídeo lleva **sus propios ajustes** si marcas las casillas de `Ajust dif imgs fij/víd` ([capítulo 1](01-configuracion-basica.md)) |
 | **Dial delantero** | Junto al disparador | En M, uno de los dos números (obturación o apertura) |
 | **Dial trasero** | Arriba, bajo el pulgar | El otro número |
 | **Rueda de control** | La rueda grande del respaldo | Navega por los menús; sus cuatro flechas son atajos (**derecha: ISO**, **abajo: compensación de exposición**) y el centro es "aceptar" |
@@ -84,11 +84,11 @@ qué vive en cada una ya no se busca a ciegas:
 | **Principal** | Una lista con **los ajustes de toma de un vistazo**, editables ahí mismo | El repaso rápido antes de disparar |
 | **Toma** | Todo lo que afecta a la foto en sí | Calidad (RAW), ráfaga, temporizador, `Obturad./silenc.`, `Func. capt. interv.` (el intervalómetro), `Soporte → Formatear` |
 | **Exposición/color** | Luz y color | Medición, ISO, balance de blancos, Zebra, perfil de imagen |
-| **Enfoque** | Todo el AF | AF-S/AF-C, área de enfoque, reconocimiento de sujeto, sensibilidad de seguimiento, `AF con disparador` |
+| **Enfoque** | Todo el AF | AF-S/AF-C, área de enfoque, reconocimiento de sujeto, sensibilidad de seguimiento, `AF c/obturador` |
 | **Reproducción** | Revisar y borrar | Ampliación, proteger, borrar, valorar |
 | **Red** | Wifi, Bluetooth, transferencia | Emparejar con Creators' App |
 | **Ajustes** | La cámara como aparato | Idioma, `Área/fecha`, `Personal. operac.` (botones y menú Fn), `Rest/guard ajust`, brillo de pantalla, formateo de firmware |
-| **Mi Menú** | **La tuya**: los ajustes que tú metas | Los tres mandos del AF, Bright Monitoring, lo que uses a diario |
+| **Mi Menú** | **La tuya**: los ajustes que tú metas | Los tres mandos del AF, `Func. capt. interv.`, lo que uses a diario |
 
 Y cuatro cosas que ahorran mucha desesperación:
 
@@ -122,7 +122,7 @@ ajuste y con los valores de fauna y de noche, está en
 | Obturador silencioso (charca) | `MENU → Toma → [Obturad./silenc.] → [Tipo de obturador] → Obturad. electr.` |
 | Intervalómetro (star trails, timelapse) | `MENU → Toma → [Func. capt. interv.]` |
 | Formatear la tarjeta | `MENU → Toma → [Soporte] → [Formatear]` |
-| Quitar el AF del disparador | `MENU → Enfoque → [AF/MF] → [AF con disparador] → Desactivar` |
+| Quitar el AF del disparador | `MENU → Enfoque → [AF/MF] → [AF c/obturador] → Desactivar` |
 | Reconocimiento de sujeto (Animal/Ave) | `MENU → Enfoque → [Reconoc. motivo] → [Dest. reconocim.]` |
 | Guardar una memoria MR | `MENU → Toma → [Modo de toma] → [Mem. ajustes cám] → 1, 2 o 3` |
 | Cambiar los 12 iconos del Fn | `MENU → Ajustes → [Personal. operac.] → [Ajustes del menú Fn]` |
@@ -174,7 +174,7 @@ reproducción.
 
 Los dos que cambian el viaje:
 
-- **Bright Monitoring** a C1 — amplifica la pantalla en plena
+- **`Verificac. luminosa`** (*Bright Monitoring*) a C1 — amplifica la pantalla en plena
   oscuridad para **componer la Vía Láctea viéndola**
   ([capítulo 2](02-astrofotografia-namibia.md)).
 - **Guía en la cámara** a C2 mientras aprendes: te explica en pantalla el

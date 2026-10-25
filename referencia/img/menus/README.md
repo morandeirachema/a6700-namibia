@@ -34,7 +34,7 @@ Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz es
 | ☐ ★ | Mem. ajustes cám | `Toma → [Modo de toma]` | `mem-ajustes-cam.jpg` |
 | ☐ ★ | Modo manejo = Continuo Hi+ | `Toma → [Modo de manejo]` | `modo-manejo.jpg` |
 | ☐ ★ | Tipo de obturador | `Toma → [Obturad./silenc.]` | `tipo-de-obturador.jpg` |
-| ☐ ★ | Func. capt. interv. | `Toma` | `func-capt-interv.jpg` |
+| ☐ ★ | Func. capt. interv. | `Toma → [Modo de manejo]` | `func-capt-interv.jpg` |
 | ☐ | SteadyShot | `Toma → [Estabiliz. de img]` | `steadyshot.jpg` |
 | ☐ | Formatear | `Toma → [Soporte]` | `formatear.jpg` |
 
@@ -46,19 +46,19 @@ Las **★** son las catorce imprescindibles. Si solo vas a hacer catorce, haz es
 | ☐ ★ | Nivel de cebra = 100 IRE o + | `Exposición/color → [Visualizac. cebra]` | `nivel-de-cebra.jpg` |
 | ☐ | Visualizac. cebra = Activar | `Exposición/color → [Visualizac. cebra]` | `visualizac-cebra.jpg` |
 | ☐ | Modo medición | `Exposición/color → [Medición]` | `modo-medicion.jpg` |
-| ☐ | Balance blanco en K | `Exposición/color` | `balance-blanco.jpg` |
+| ☐ | Balance blanco en K | `Exposición/color → [Balance blancos]` | `balance-blanco.jpg` |
 
 ### Pestaña Enfoque
 
 | ☐ | Pantalla | Ruta | Nombre del archivo |
 |---|---|---|---|
 | ☐ ★ | Modo de enfoque = AF-C | `Enfoque → [AF/MF]` | `modo-de-enfoque.jpg` |
-| ☐ ★ | AF con disparador = Desactivar | `Enfoque → [AF/MF]` | `af-con-disparador.jpg` |
+| ☐ ★ | AF c/obturador = Desactivar | `Enfoque → [AF/MF]` | `af-con-disparador.jpg` |
 | ☐ ★ | Sens. Seguim. AF | `Enfoque → [AF/MF]` | `sens-seguim-af.jpg` |
 | ☐ ★ | Área de enfoque | `Enfoque → [Área de enfoque]` | `area-de-enfoque.jpg` |
 | ☐ ★ | Dest. reconocim. = Animal | `Enfoque → [Reconoc. motivo]` | `dest-reconocim.jpg` |
 | ☐ | Rec. motivo en AF = Activar | `Enfoque → [Reconoc. motivo]` | `rec-motivo-af.jpg` |
-| ☐ | Visualiz. resalte (peaking) | `Enfoque` | `visualiz-resalte.jpg` |
+| ☐ | Visualizac. resalte (peaking) | `Enfoque → [Visualiz. resalte]` | `visualiz-resalte.jpg` |
 
 ### Ajustes, Mi Menú y Reproducción
 

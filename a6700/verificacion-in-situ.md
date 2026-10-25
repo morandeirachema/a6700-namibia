@@ -175,7 +175,7 @@ El repaso que separa "creo que la tengo" de "la tengo":
 - [ ] Apertura en **f/1.8** (rueda de la cámara; si las esquinas te
   molestan, f/2.8) e interruptor del objetivo en **MF**.
 - [ ] WB modo **K**: 3900.
-- [ ] **Bright Monitoring** (el botón que configuraste en el
+- [ ] **`Verificac. luminosa`** (el botón que configuraste en el
   [capítulo 1](01-configuracion-basica.md)): la pantalla se amplifica y ves
   la Vía Láctea para componer, sin fotos de prueba a ciegas.
 - [ ] **Enfoque a estrella**: lupa (`Amplific. enfoque`) sobre la estrella más

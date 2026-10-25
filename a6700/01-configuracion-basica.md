@@ -42,7 +42,7 @@ Hazlo en casa, con todo cargado, y no vuelvas a pensar en ello.
 
 El cambio de configuración más útil de la cámara para safari:
 
-1. `MENU → Enfoque → [AF/MF] → [AF con disparador] → Desactivar` (quita el AF del
+1. `MENU → Enfoque → [AF/MF] → [AF c/obturador] → Desactivar` (quita el AF del
    disparador).
 2. El botón **AF-ON** ya inicia el enfoque de serie: no hay que tocarlo.
 
@@ -58,10 +58,10 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
   soltar el agarre, asígnala a la que quede libre en M desde
   `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`
   ([capítulo 0.5](00b-menus-y-primer-dia.md)).
-- **Bright Monitoring en un botón custom**: en
-  `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`,
-  asigna "Bright Monitoring" a C1 o C2. Amplifica la pantalla en
-  plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
+- **`Verificac. luminosa` en un botón custom** (*Bright Monitoring* en
+  inglés): en `MENU → Ajustes → [Personal. operac.] → [Ajuste t. pers./dial]`,
+  asígnala a C1. No está en ningún menú: solo existe como función de botón.
+  Amplifica la pantalla en plena oscuridad para poder **componer la Vía Láctea viéndola** — la joya
   nocturna de esta cámara ([capítulo 2](02-astrofotografia-namibia.md)).
 - **Botón Fn**: la pantalla rápida con los ajustes del día a día, editables.
 - **Pantalla táctil**: toca al animal y el seguimiento se engancha a él;
@@ -74,13 +74,18 @@ al arbusto, es oro. Practícalo en casa hasta que sea automático.
 
 ## Vídeo: los cinco ajustes que se ponen una vez
 
-El selector **Foto / Vídeo / S&Q** guarda ajustes propios para cada modo, así
-que esto se pone una vez y se queda — sin gastar ninguna memoria del dial y
-sin tocar el modo safari:
+El selector **Foto / Vídeo / S&Q** puede llevar el vídeo aparte de la foto,
+así que esto se pone una vez y se queda — sin gastar ninguna memoria del dial
+y sin tocar el modo safari. **Paso cero, antes que nada**:
+`Ajustes → [Personal. operac.] → [Ajust dif imgs fij/víd]`, marca **las ocho casillas** (Abertura, Velocidad obturador, ISO,
+Compensar exp., Modo medición, Balance blanco, Perfil de imagen y Modo de
+enfoque) y acepta. Sin eso, esos ocho son **comunes** a foto y vídeo y el
+1/50 del vídeo te aparecería en la foto. (Hazlo antes de configurar: si
+algún día las desmarcas, vuelven a los valores iniciales.)
 
 | Ajuste | Valor | Motivo |
 |---|---|---|
-| `Selector NTSC/PAL` | **PAL** | Es lo que habilita los 25p europeos. **Cambiarlo formatea la tarjeta**: hazlo en casa, nunca en el viaje |
+| `Selector NTSC/PAL` | **PAL** | Es lo que habilita los 25p europeos. Con una tarjeta formateada en el otro sistema, la cámara puede pedir **reformatearla**: hazlo en casa, nunca en el viaje |
 | Formato de archivo / ajustes de grabación | XAVC S 4K · **25p · 100 Mbps** | Calidad de sobra y archivos manejables (~45 GB/hora) |
 | Modo de exposición (en Vídeo) | **M con ISO Auto**, obturación **1/50** | La "regla del 180°": movimiento natural |
 | Perfil de imagen | **OFF** | S-Log3 obliga a etalonar en casa; no es para este viaje |
@@ -140,7 +145,9 @@ está en la [guía de logística](../campo/logistica-viaje.md).
 | Retención de enfoque | Focus Hold |
 | Ajuste SteadyShot | SteadyShot Adjust |
 | Nivel | Level |
-| Zebra / Bright Monitoring | (igual en ambos idiomas) |
+| Verificac. luminosa | Bright Monitoring |
+| AF c/obturador | AF w/ shutter |
+| Zebra | (igual en ambos idiomas) |
 
 ## Ejercicio (una tarde, en casa)
 
@@ -151,7 +158,7 @@ Este capítulo se aprueba con la cámara en la mano, no leyéndolo:
 2. **La tabla de ajustes generales**, uno a uno, con la
    [referencia de ajustes](../referencia/ajustes-a6700.md) al lado para la
    ruta exacta. Tacha cada fila.
-3. **El pulgar**: `AF con disparador` en Desactivar y cincuenta fotos por
+3. **El pulgar**: `AF c/obturador` en Desactivar y cincuenta fotos por
    casa enfocando solo con AF-ON.
 4. **MR1 y MR2 guardadas** y comprobadas: gira el dial a 1 y dicta en voz
    alta los valores del visor; a 2, lo mismo. Deben ser los de la tabla.
@@ -171,7 +178,7 @@ larga de esto.)
 |---|---|
 | No encuentro un ajuste en los menús | Botón **Fn**: casi todo lo del día a día está en esa pantalla, editable |
 | Cambié algo en MR1/MR2 y al volver ha desaparecido | Es su diseño: las memorias recuperan lo GUARDADO. Para hacer fijo un cambio, vuelve a guardar (`Mem. ajustes cám`) |
-| AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos: AF con disparador = OFF y la asignación de AF-ON sin tocar |
+| AF-ON no enfoca tras configurar el pulgar | Revisa los dos pasos: `AF c/obturador` = Desactivar y la asignación de AF-ON sin tocar |
 | El estabilizador "flota" o emborrona | SteadyShot ON sobre trípode: apágalo (en el cuerpo y, con el tele, también su interruptor OSS) |
 | Un objetivo "no enfoca" de repente | Su interruptor **AF/MF** se movió en la mochila: los dos lo llevan en el barrilete |
 | El visor no se enciende al acercar el ojo | La pantalla está desplegada hacia ti o el selector visor/pantalla está en manual: pliégala o ponlo en Auto |

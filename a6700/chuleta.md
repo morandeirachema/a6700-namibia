@@ -57,4 +57,4 @@ Volver a MR1 (restaura todo) · batería + repuesto · SD con hueco · 70-350: *
 
 ## Enfocar una estrella (resumen)
 
-MR2 → Bright Monitoring para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio.
+MR2 → Verificac. luminosa para encuadrar → lupa sobre la estrella más brillante → anillo hasta el punto mínimo → cinta en el anillo → prueba 20 s → histograma primer tercio.
