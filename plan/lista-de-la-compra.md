@@ -9,8 +9,8 @@ convertida en **lista con casillas**: qué hay ya en casa, qué falta, qué es
 urgente y qué puede esperar.
 
 **Estado a 25 de octubre de 2026** · quedan **5 días** para el vuelo
-(30 de octubre). **La compra está cerrada**: no queda nada imprescindible
-por comprar. Lo que queda es comprobar, en el
+(30 de octubre). **Imprescindible por comprar: nada.** Recomendado: un
+segundo SSD (abajo). Lo que queda es comprobar, en el
 [simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar)
 del 29, que todo funciona junto.
 
@@ -23,9 +23,9 @@ del 29, que todo funciona junto.
 | ☑ | **Pixel 10 Pro** (segunda cámara) |
 | ☑ | **Trípode** · **bean bag** · **frontal** · **power bank** |
 | ☑ | **Pera sopladora** para limpieza |
-| ☑ | **MacBook Neo** — hace el volcado de cada noche ([logística](../campo/logistica-viaje.md)) |
+| ☑ | **MacBook Neo** (250 GB) — hace el volcado y revisa; **no cabe el viaje entero** ([logística](../campo/logistica-viaje.md)) |
 | ☑ | **Lector de tarjetas UHS-II USB-C** — de la tarjeta al Mac |
-| ☑ | **SSD de 500 GB** — **recomendado llevarlo** como segunda copia del Mac (abajo, por qué) |
+| ☑ | **SSD de 500 GB** — **imprescindible**: es el destino de las fotos (abajo, por qué) |
 | ☑ | **PhotoPills** instalada |
 | ☑ | **Toallas de microfibra** |
 | ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
@@ -72,31 +72,29 @@ están resueltas:
 |---|---|---|
 | 1 o 2 tarjetas V60 más | **No se compran**: viajan las dos de 128 GB | Hacia la segunda semana habrá que reutilizar la más antigua, ya copiada y verificada en el Mac ([la regla](../campo/logistica-viaje.md)) |
 | Hub USB-C con PD y cable de datos | **No hacen falta**: el volcado lo hace el MacBook | El Pixel ya no copia nada; sigue de segunda cámara |
+| SSD | **El de 500 GB, imprescindible**: el Mac (250 GB) no da | Abajo, la cuenta |
 | Filtro protector de 67 mm y anillo 55→67 | **No van** | Parasol siempre, tapa entre escenas y pera antes de tocar el cristal (arriba) |
 
-### La única cuenta que conviene mirar: el espacio
+### La cuenta que manda: el Mac no da para el viaje
 
 ```
-   Lo que vas a generar        Tarjetas          Copias
-   ~250–350 GB (solo Sony)     2 × 128 = 256 GB  el Mac, cada noche
-   ├──────────────────────┤    ├─────────────┤
-                                             ↑ aquí se reutiliza la más antigua
+   Lo que vas a generar        SSD (destino)     Segunda copia
+   ~260–360 GB (solo Sony)     500 GB ✅          Mac (250 GB, ~120 libres)
+                                                  + 2 tarjetas × 128 GB
 ```
 
-Mientras quede una tarjeta con hueco, cada foto está en **dos sitios**: la
-tarjeta y el Mac. Cuando haya que formatear la primera (hacia Etosha), sus
-días pasan a estar **solo en el Mac** — y un Mac se cae, se moja, se roba o
-se estropea. **Recomendación: lleva un SSD** y cada noche copia también
-Mac → SSD. Son cinco minutos más y 100 gramos, y vuelves a tener dos copias
-de todo hasta casa, reutilices las tarjetas que reutilices.
+El Mac tiene **250 GB** y el viaje son **260–360 GB** solo de la Sony: no
+cabe. Así que **el SSD de 500 GB que ya tienes pasa a ser imprescindible** —
+es donde acaban todas las fotos. La segunda copia la hacen el Mac (los
+primeros días, hasta llenarse) y las propias tarjetas (los últimos). Eso
+cuadra **solo si el Mac tiene unos 120 GB libres**; con menos, no llega.
 
-| SSD | Precio | Cuándo |
+| SSD | Precio | Para qué |
 |---|---|---|
-| **El de 500 GB que ya tienes** | **0 €** | **La opción por defecto**: el viaje son ~260–360 GB de la Sony (~320–450 con el Pixel); cabe |
-| Uno de **1 TB** USB-C (Samsung T7, SanDisk Extreme, Crucial X9) | 90–150 € | Si quieres margen para el vídeo del Pixel y no mirar el espacio cada noche. En [mpb.com](https://www.mpb.com/) no compensa: es un producto que conviene nuevo |
+| **El de 500 GB que ya tienes** | **0 €** | **Imprescindible**: la copia principal |
+| ⭐ Un **segundo SSD de 1 TB** USB-C (Samsung T7, SanDisk Extreme, Crucial X9) | 90–150 € | **Recomendado**: la segunda copia completa. Copias a los dos cada noche, el Mac solo revisa y cualquier tarjeta copiada en los dos se puede reutilizar sin cuentas. Conviene nuevo, no de segunda mano |
 
-Viaja **separado del Mac**: SSD en un bolsillo o bolsita tuya, Mac en la
-mochila.
+Los dos SSD viajan **separados**: uno contigo, otro en la mochila.
 
 ### La batería y el cargador: resueltos ✅
 
@@ -155,12 +153,14 @@ para el día, donde cambiarlas cuesta diez segundos.
 | Bloque | Coste | Cuándo |
 |---|---|---|
 | Imprescindible | **0 €** — está todo en casa | — |
-| ⭐ Recomendado: un SSD para la segunda copia | **0 €** con el tuyo de 500 GB · 90–150 € uno de 1 TB | Antes del 29 |
+| ⭐ Recomendado: un segundo SSD de 1 TB | **90–150 €** | Antes del 29 (en tienda física si el envío no llega) |
 | 🟢 Opcional | 300–600 € | Si sobra |
 
-Con el tele prestado, el Mac y el resto en casa, **el viaje no necesita
-comprar nada más**. Lo que queda es el simulacro del 29: el volcado tarjeta
-→ Mac cronometrado y los RAW abriéndose en el Mac.
+Con el tele prestado, el Mac, el SSD y el resto en casa, **el viaje no
+necesita comprar nada imprescindible**; el segundo SSD es la única compra
+que de verdad recomiendo. Lo que queda es el simulacro del 29: el volcado
+tarjeta → SSD → Mac cronometrado, los RAW abriéndose en el Mac y el espacio
+libre del Mac comprobado.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
 o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
