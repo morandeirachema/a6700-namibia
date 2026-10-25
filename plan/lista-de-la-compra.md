@@ -9,9 +9,10 @@ convertida en **lista con casillas**: qué hay ya en casa, qué falta, qué es
 urgente y qué puede esperar.
 
 **Estado a 25 de octubre de 2026** · quedan **5 días** para el vuelo
-(30 de octubre), y el plazo real es el **29**, el día del
-[simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar):
-lo que no esté en casa ese día no entra en la maleta.
+(30 de octubre). **La compra está cerrada**: no queda nada imprescindible
+por comprar. Lo que queda es comprobar, en el
+[simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar)
+del 29, que todo funciona junto.
 
 ## Ya está en casa ✅
 
@@ -22,12 +23,13 @@ lo que no esté en casa ese día no entra en la maleta.
 | ☑ | **Pixel 10 Pro** (segunda cámara) |
 | ☑ | **Trípode** · **bean bag** · **frontal** · **power bank** |
 | ☑ | **Pera sopladora** para limpieza |
-| ☑ | **SSD de 500 GB** para las copias — cabe, pero justo (abajo) |
-| ☑ | **Lector de tarjetas UHS-II USB-C** |
+| ☑ | **MacBook Neo** — hace el volcado de cada noche ([logística](../campo/logistica-viaje.md)) |
+| ☑ | **Lector de tarjetas UHS-II USB-C** — de la tarjeta al Mac |
+| ☑ | **SSD de 500 GB** — **recomendado llevarlo** como segunda copia del Mac (abajo, por qué) |
 | ☑ | **PhotoPills** instalada |
 | ☑ | **Toallas de microfibra** |
 | ☑ | **Kit de 2 baterías + cargador** — con la de la caja, ya son **tres** ✅ |
-| ☑ | **2 tarjetas SD UHS-II V60 de 128 GB** — faltan una o dos más (abajo) |
+| ☑ | **2 tarjetas SD UHS-II V60 de 128 GB** — las del viaje; no se compran más |
 | ☑ | **Kit de limpieza completo**: pincel o LensPen, líquido y pañuelos ópticos |
 | ☑ | **2 adaptadores tipo M + regleta europea** |
 | ☑ | **Cinta de carrocero o gaffer** (la del anillo de enfoque en astro) |
@@ -41,10 +43,13 @@ están resueltas:
   **conocer sus defectos con tiempo** ([verificación, §2](../a6700/verificacion-in-situ.md));
   lo que te enseñó, apúntalo en la chuleta: si está blando a 350 mm,
   encuadras a 300 y recortas.
-- **Es de otro, y va a un sitio con polvo.** El **filtro protector** deja de
-  ser opcional y pasa a ser obligatorio (sigue en la lista, abajo), y la
-  [limpieza en campo](../campo/limpieza-en-campo.md) también. Devuélvelo
-  como te lo dieron.
+- **Es de otro, y va a un sitio con polvo — y va sin filtro** (decisión del
+  25 de octubre: ni filtro protector ni anillo). Eso traslada la protección
+  a tres costumbres: **parasol siempre puesto** (el ALC-SH160 que trae: para
+  golpes y dedos hace más que un filtro), **tapa puesta** entre escena y
+  escena y en cada trayecto de grava, y la
+  [limpieza en campo](../campo/limpieza-en-campo.md) con pera **siempre**
+  antes de tocar el cristal. Devuélvelo como te lo dieron.
 - **Lo hablado con su dueño ✅**:
   1. ☑ **El préstamo cubre el viaje entero** (30 oct–15 nov).
   2. ☑ **Tu seguro cubre material prestado** — comprobado, que muchos solo
@@ -61,54 +66,37 @@ están resueltas:
 
 ---
 
-## 🔴 Urgente — antes del 29 de octubre
+## Cerrado ✅ — lo que estaba pendiente y cómo ha quedado
 
-Quedan **tres cosas**, y las tres bloquean algo: sin tarjetas no hay
-segunda copia, sin hub no hay volcado nocturno y sin filtro el tele
-prestado va desnudo a Etosha. Con cinco días, **si un envío no garantiza
-entrega el 28, cómpralo en tienda física**: las tres son material estándar
-que tiene cualquier tienda de fotografía o de electrónica grande.
-
-### Tus tarjetas: dos V60 de 128 GB ✅ … pero te faltan una o dos
-
-Buena noticia: **V60 significa UHS-II** en la práctica (compruébalo de un
-vistazo: dale la vuelta y mira que hay **dos filas** de contactos dorados).
-Son exactamente las tarjetas que quiere esta cámara — con ellas el búfer se
-vacía en 8–9 segundos en vez de los 18–22 de una UHS-I.
-
-El problema no es la velocidad: es **el espacio**, y sale de que no llevas
-portátil.
-
-```
-   Lo que vas a generar        Lo que tienes
-   ~250–350 GB (solo Sony)     2 × 128 = 256 GB
-   ├──────────────────────┤    ├─────────────┤
-                                             ↑ justo aquí se acaba
-```
-
-Y como **las tarjetas llenas son tu segunda copia y no se formatean en todo
-el viaje**, quedarte justo significa exactamente una cosa: llegar al día 11 y
-tener que borrar una tarjeta ya volcada para seguir disparando. Que es lo
-único que el sistema de copias no permite.
-
-| Compras | Total | Qué te deja |
+| Era | Ha quedado | Lo que implica |
 |---|---|---|
-| **+1 tarjeta V60 128 GB** | 384 GB · 50–90 € | El mínimo con el que se duerme tranquilo |
-| **+2 tarjetas V60 128 GB** | 512 GB · 100–180 € | Margen real, incluido vídeo de sobra y la torpeza de un día |
+| 1 o 2 tarjetas V60 más | **No se compran**: viajan las dos de 128 GB | Hacia la segunda semana habrá que reutilizar la más antigua, ya copiada y verificada en el Mac ([la regla](../campo/logistica-viaje.md)) |
+| Hub USB-C con PD y cable de datos | **No hacen falta**: el volcado lo hace el MacBook | El Pixel ya no copia nada; sigue de segunda cámara |
+| Filtro protector de 67 mm y anillo 55→67 | **No van** | Parasol siempre, tapa entre escenas y pera antes de tocar el cristal (arriba) |
 
-**Mi recomendación: dos.** La diferencia son 50–90 € en un viaje de dos
-semanas, y la alternativa es tomar decisiones de borrado en un campamento de
-Etosha a las once de la noche.
+### La única cuenta que conviene mirar: el espacio
 
-Y si aparecen baratas de **256 GB**, una sola te resuelve el margen entero.
+```
+   Lo que vas a generar        Tarjetas          Copias
+   ~250–350 GB (solo Sony)     2 × 128 = 256 GB  el Mac, cada noche
+   ├──────────────────────┤    ├─────────────┤
+                                             ↑ aquí se reutiliza la más antigua
+```
 
-**Y si el 29 sigues sin ellas**: no vueles con una tarjeta de cualquier
-cosa comprada a la carrera en el aeropuerto. Con las dos que tienes, la
-regla de la [logística](../campo/logistica-viaje.md) (las llenas no se
-formatean) aguanta hasta que se llena la segunda; a partir de ahí, la única
-que se puede reutilizar es la **más antigua ya volcada y verificada** en el
-SSD, formateada en la cámara — sabiendo que esos días pasan a tener una
-sola copia. Es el último recurso, no el plan.
+Mientras quede una tarjeta con hueco, cada foto está en **dos sitios**: la
+tarjeta y el Mac. Cuando haya que formatear la primera (hacia Etosha), sus
+días pasan a estar **solo en el Mac** — y un Mac se cae, se moja, se roba o
+se estropea. **Recomendación: lleva un SSD** y cada noche copia también
+Mac → SSD. Son cinco minutos más y 100 gramos, y vuelves a tener dos copias
+de todo hasta casa, reutilices las tarjetas que reutilices.
+
+| SSD | Precio | Cuándo |
+|---|---|---|
+| **El de 500 GB que ya tienes** | **0 €** | **La opción por defecto**: el viaje son ~260–360 GB de la Sony (~320–450 con el Pixel); cabe |
+| Uno de **1 TB** USB-C (Samsung T7, SanDisk Extreme, Crucial X9) | 90–150 € | Si quieres margen para el vídeo del Pixel y no mirar el espacio cada noche. En [mpb.com](https://www.mpb.com/) no compensa: es un producto que conviene nuevo |
+
+Viaja **separado del Mac**: SSD en un bolsillo o bolsita tuya, Mac en la
+mochila.
 
 ### La batería y el cargador: resueltos ✅
 
@@ -132,52 +120,19 @@ serie de star trails son 45–90 minutos de exposición continua, y una batería
 que se apaga a mitad se lleva por delante la serie entera. Las compatibles,
 para el día, donde cambiarlas cuesta diez segundos.
 
-Comprueba también que el cargador **carga por USB**: en Namibia irás de
-regleta y adaptador tipo M, y un cargador de enchufe grande estorba más de
-lo que parece.
-
-## 🔴 El resto del kit de copias — antes del 29
-
-Ya tienes el SSD y el lector; faltan las dos piezas que los conectan al
-móvil, porque **el volcado nocturno lo hace el Pixel**
-([logística](../campo/logistica-viaje.md)). Y la cadena entera hay que
-probarla antes del [simulacro](../campo/logistica-viaje.md#el-simulacro-del-día-antes-de-volar).
-
-| ☐ | Qué | Precio | Nota |
-|---|---|---|---|
-| ☑ | **Lector de tarjetas UHS-II USB-C** | ya en casa | Un lector UHS-I barato es 3–4 veces más lento y alarga cada volcado |
-| ☐ | **Hub USB-C con entrada de carga (PD)** | 20–35 € | Lector + SSD + power bank colgando del móvil **a la vez** |
-| ☐ | **Cable USB-C de datos** | 8–12 € | Muchos cables de carga **no llevan datos**: compruébalo en casa |
-
-**Subtotal: ~28–47 €** · Y en cuanto lleguen, monta la cadena entera y
-cronométrala en tu salón, no en Okaukuejo. Si llegan el mismo 29, la
-prueba es parte del simulacro: un volcado de una tarjeta llena, de
-principio a fin, con el power bank alimentando el hub.
-
-## 🔴 El filtro del tele — antes del 29
-
-| ☐ | Qué | Precio | Para qué |
-|---|---|---|---|
-| ☐ | **Filtro protector 67 mm** para el 70-350 | 25–40 € | Es prestado y va a Etosha. **Para astro, quítalo** |
-| ☐ | **Anillo step-up 55→67** | ~8 € | Un solo juego de filtros para los dos objetivos |
-
-**Subtotal: ~33–48 €** · Ya en casa de este bloque: los **adaptadores tipo
-M con su regleta** y la **cinta** ✅.
-
-> **El kit de limpieza, completo ✅** — pera, pincel, líquido, pañuelos y microfibras. Un detalle para la maleta: para el **cristal frontal**, usa un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Las toallas grandes, para el cuerpo, la pantalla y secar. El orden de limpieza (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
+> **El kit de limpieza, completo ✅** — pera, pincel, líquido, pañuelos y microfibras. Sin filtro en el tele, el cristal frontal es lo primero que vas a limpiar: usa un paño de óptica pequeño y **guardado en bolsa zip** — una microfibra que ha andado suelta lleva polvo dentro, y en Etosha eso es arena. Las toallas grandes, para el cuerpo, la pantalla y secar. El orden (pera **siempre** antes de tocar nada) está en [limpieza en campo](../campo/limpieza-en-campo.md).
 
 ## 🟢 Opcional
 
 | ☐ | Qué | Precio | Merece la pena si… |
 |---|---|---|---|
-| ☐ | **SSD de 1 TB** USB-C (Samsung T7 o SanDisk Extreme) | 110–150 € | Quieres margen: el viaje genera ~320–450 GB ([la cuenta](../campo/logistica-viaje.md)) y el tuyo es de 500 GB |
 | ☐ | Una tarjeta **V90** | 120–180 € | Vas a grabar **cámara lenta** (S&Q 4K120): sin V90 la cámara ni te deja |
 | ☐ | **Prismáticos** | 80–200 € | Encontrar antes al animal rinde más de lo que parece |
 | ☐ | **Filtro ND1000** | 25–40 € | Larga exposición diurna en la costa |
 | ☐ | **Peluche antiviento** para el micro | 10–15 € | El viento del Namib se come el audio y no hay arreglo en edición |
 | ☐ | **Filtro ND variable 55 mm** de rango corto (ND2-32 o ND4-64) | 30–45 € | Vas a grabar vídeo a 1/50 con sol ([el vídeo del viaje](../tecnica/video-del-viaje.md)) |
 | ☐ | **Mini trípode** | 20–30 € | Planos fijos largos y timelapses del vídeo |
-| ☐ | **Polarizador circular 67 mm** | 20–30 € | Te pica el paisaje con el tele (en el 11 mm oscurece el cielo a trozos) |
+| ☐ | **Polarizador circular 67 mm** | 20–30 € | Te pica el paisaje con el tele (solo enrosca en el 70-350: sin anillo no hay filtros para el 11 mm) |
 | ☐ | **Funda impermeable** de cámara | ~10 € | Te pilla una tormenta de noviembre ([logística](../campo/logistica-viaje.md)) |
 
 ---
@@ -199,16 +154,13 @@ M con su regleta** y la **cinta** ✅.
 
 | Bloque | Coste | Cuándo |
 |---|---|---|
-| 🔴 1 o 2 tarjetas V60 de 128 GB | **50–180 €** | Antes del 29 |
-| 🔴 Hub y cable | **28–47 €** | Antes del 29 |
-| 🔴 Filtro 67 mm y anillo | **33–48 €** | Antes del 29 |
-| 🟢 Opcional | 425–700 € | Si sobra |
-| | **Total sin opcionales: ~111–275 €** — una o dos tarjetas, un hub, un cable y el filtro con su anillo, y se acabó | |
+| Imprescindible | **0 €** — está todo en casa | — |
+| ⭐ Recomendado: un SSD para la segunda copia | **0 €** con el tuyo de 500 GB · 90–150 € uno de 1 TB | Antes del 29 |
+| 🟢 Opcional | 300–600 € | Si sobra |
 
-Con el tele prestado y casi todo lo demás en casa, el viaje se queda en
-**menos de la quinta parte** de lo que costaría partiendo de cero. Lo que
-queda son una o dos tarjetas, un hub, un cable y el filtro: **nada que no
-tenga una tienda física, y nada que haya que pensar mucho**.
+Con el tele prestado, el Mac y el resto en casa, **el viaje no necesita
+comprar nada más**. Lo que queda es el simulacro del 29: el volcado tarjeta
+→ Mac cronometrado y los RAW abriéndose en el Mac.
 
 **Segunda mano**: para las baterías originales, [mpb.com](https://www.mpb.com/)
 o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
@@ -217,7 +169,7 @@ o tiendas con garantía. Las tarjetas, nuevas y de marca conocida — es el
 ## Referencias
 
 - El porqué de cada elección, con alternativas: [equipo y accesorios](../a6700/05-equipo-accesorios.md)
-- El sistema de copias sin portátil: [logística](../campo/logistica-viaje.md)
+- El sistema de copias con el MacBook: [logística](../campo/logistica-viaje.md)
 - Qué diferencia hay entre V30, V60 y V90: [equipo](../a6700/05-equipo-accesorios.md)
 - El calendario que condiciona las urgencias: [plan de entrenamiento](plan-de-entrenamiento.md)
 - MPB (segunda mano con garantía): <https://www.mpb.com/>

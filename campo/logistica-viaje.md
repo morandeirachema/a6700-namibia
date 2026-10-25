@@ -27,6 +27,7 @@ pero ya no copia nada. Tres consecuencias:
 | **MacBook Neo** con su cargador USB-C | El destino de las copias y la pantalla de revisión | Va |
 | **Lector de tarjetas UHS-II USB-C** | Leer la SD a su velocidad real (los UHS-I baratos son 3–4 veces más lentos) | **Ya en casa** ✅ |
 | **2 tarjetas SD UHS-II V60 de 128 GB** | Lo que dispara la cámara y, mientras quepan, la segunda copia | **Ya en casa** ✅ |
+| **SSD USB-C** (el tuyo de 500 GB, o uno de 1 TB) | **Recomendado**: la segunda copia del Mac cuando haya que reutilizar tarjetas | En casa ✅ — llévalo |
 
 Antes de volar, **mira el espacio libre del Mac**: el viaje entero son
 ~320–450 GB (la cuenta, abajo). Si no los tiene libres, haz sitio en casa,
@@ -69,11 +70,15 @@ que reutilizar una, y la regla es estricta:
    el Mac.
 
 **Lo que eso significa**: desde ese momento, esos primeros días existen en
-**una sola copia**, la del Mac, hasta que llegues a casa. Trata el Mac como
-lo que es entonces: va en la mochila de cabina, nunca en el coche al sol ni
-en la maleta. El arreglo, si cambias de idea, no cuesta nada: **el SSD de
-500 GB que ya tienes en casa** va en la mochila y cada noche copias también
-Mac → SSD; así vuelve a haber dos copias de todo aunque reutilices tarjetas.
+**una sola copia**, la del Mac, hasta que llegues a casa. Por eso la
+recomendación es clara: **lleva un SSD** — el de 500 GB que ya tienes vale
+(el viaje son ~260–360 GB de la Sony), o uno de 1 TB si quieres margen
+([lista de la compra](../plan/lista-de-la-compra.md)). Cada noche, después
+del volcado, **copia la carpeta del día del Mac al SSD** y comprueba el
+número de archivos: así hay dos copias de todo hasta casa, reutilices las
+tarjetas que reutilices. El SSD viaja separado del Mac (en un bolsillo
+tuyo); el Mac, en la mochila de cabina, nunca en el coche al sol ni en la
+maleta.
 
 Lo que **no** vale como copia: la nube. El wifi de los campamentos de Etosha
 es lento o inexistente y subir 300 GB no va a ocurrir.
